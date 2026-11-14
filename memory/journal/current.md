@@ -89,3 +89,11 @@
 - 22:20 act: {"actions":[{"do":"note","text":"Dusk day 242 at the white bed (-298,68,294). Sleep said worked again, still awake, days_since_sleep 1. Health 19, hunger 15, no food."}]}
 - 22:20 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"intent":{"goal":"rest_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"
 - 22:23 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 22:31 act: {"say":"Trini here at the white bed. No food on me. I'll search the north field for sheep and cows, and call out if I find any.","intent":{"goal":"search_north_field_for_animals","program":"travel","a
+- 22:31 act: {"intent":{"goal":"search_further_north_for_animals","program":"travel","arguments":{"target":{"x":-297,"y":66,"z":245}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondit
+- 22:32 act: {"say":"A salmon is in the water to the north-west. I'll go for it and bring any fish to Trini first.","intent":{"goal":"catch_salmon_for_food","program":"travel","arguments":{"target":{"x":-304,"y":6
+- 22:32 act: {"actions":[{"do":"attack","target":"salmon"}]}
+- 22:32 act: {"say":"The salmon keep swimming off and I'm in deep water. Heading back to the shore to the south-east.","actions":[{"do":"goto","target":{"x":-297,"y":65,"z":245}}]}
+- 22:33 act: {"say":"No fish: the salmon are in deep water and I have no rod. I'm going back to the white beds to be with the group. Anything found goes to Trini first.","intent":{"goal":"return_to_white_beds","pr
+- 22:37 act: {"say":"Trini, no food yet. I'm at the white bed; I'll try to sleep at dusk.","actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}]}
+- 22:41 act: {"say":"Troi at the white bed for the night. No food; Trini first when food turns up.","actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
