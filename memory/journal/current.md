@@ -97,3 +97,4 @@
 - 22:33 act: {"say":"No fish: the salmon are in deep water and I have no rod. I'm going back to the white beds to be with the group. Anything found goes to Trini first.","intent":{"goal":"return_to_white_beds","pr
 - 22:37 act: {"say":"Trini, no food yet. I'm at the white bed; I'll try to sleep at dusk.","actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}]}
 - 22:41 act: {"say":"Troi at the white bed for the night. No food; Trini first when food turns up.","actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 22:51 act: {"intent":{"goal":"join_group_search_food","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":325}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_worl
