@@ -51,3 +51,19 @@
 - 21:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":306}}],"say":"Troi: sleep refused again for monsters. Golems closing from the south. I'm moving north, away from them, with the group. Trini firs
 - 21:11 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":1}],"say":"Trini, I have one rotten flesh. It's yours, you're at health 3.","reasoning":"Trini is in reach at health 3. Rotten
 - 21:12 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":285}}],"say":"Troi: the rotten flesh went to Trini. I'm heading north toward the sheep field in daylight. Anyone who finds mutton, call me.","rea
+- 21:20 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-274,"y":69,"z":291}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 21:20 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}]}
+- 21:20 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Troi at the white bed by the crafting table, trying to sleep. No food; hunger 16. Food goes to Trini first at light.
+- 21:24 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Troi at the white bed by the crafting table, night. Trying to sleep now. No food, hunger 16; Trini first for anythin
+- 21:24 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Troi: phantoms closing in, no weapon. Crafting a wooden sword at the table."}
+- 21:24 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 21:29 act: {"intent":{"goal":"join_group_at_yellow_beds","program":"travel","arguments":{"target":{"x":-273,"y":69,"z":293}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 21:29 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I'm coming to you with my sword. Riker, the chicken is still needed for Zack first."}
+- 21:30 act: {"intent":{"goal":"join_group_at_white_beds","program":"travel","arguments":{"target":{"x":-296,"y":68,"z":292}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 21:30 act: {"actions":[{"do":"goto","target":{"x":-296,"y":68,"z":293}}],"say":"Troi at the white beds, sword in hand, with Zack and Billy. Trini gets the chicken first."}
+- 21:31 act: {"intent":{"goal":"break_grass_for_seeds","program":"gather","arguments":{"block":"short_grass","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"
+- 21:32 act: {"intent":{"goal":"gather_grass_seeds","program":"gather","arguments":{"block":"short_grass","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
+- 21:32 act: {"actions":[{"do":"goto","target":{"x":-292,"y":68,"z":296}}],"say":"Trini, I have one wheat seed for you. Come to me, I'm by the logs south of the water."}
+- 21:36 act: {"actions":[{"do":"goto","target":{"x":-296,"y":68,"z":293}}],"say":"Troi here. I have no food, only one wheat seed and logs. Trini, Riker and the others: I'm joining the group at the beds."}
+- 21:41 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Troi going to the white bed for the night. No food; Trini first when I wake."}
+- 21:41 act: {"actions":[{"do":"sleep"}]}
