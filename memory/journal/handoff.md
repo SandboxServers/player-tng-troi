@@ -1,3 +1,10 @@
+# Handoff, day 244 (night), latest
+
+- Position: (-271,67,319), beside the white bed (-271,67,318), on oak planks. Not enclosed. Health 19, hunger 15, no food. days_since_sleep 3.
+- Sleep refused twice tonight: a phantom about 4 blocks off, not in the entity list. Session superseded during a wait.
+- Pack: 4 oak_log, 1 oak_sapling, 2 stick, 5 wheat_seeds, wooden_sword, 3 oak_planks.
+- Next: retry the bed at dawn. Wheat seeds are for Wesley's field. Any food goes to Trini first, then Riker.
+
 # Handoff, day 241 (night)
 
 - Position: (-298,68,294), on the white bed, thunder. Open sky, not enclosed. Health 19, hunger 16, days_since_sleep 3.

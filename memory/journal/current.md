@@ -103,3 +103,6 @@
 - 22:59 act: {"actions":[{"do":"mine","block":"short_grass","count":6}],"intent":{"goal":"break_grass_for_seeds_near_beds","program":"gather","arguments":{"block":"short_grass","count":6},"wake_on":["directly_addr
 - 23:01 day 244 dusk: joined the group at the white beds, no food, hunger 15, health 19. Broke grass for 4 more seeds (now 5). Heading to bed at -282,67,320 with the group.
 - 23:00 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Troi, dusk day 244. No food; I have 5 wheat seeds, which go to Wesley's field. Going to the white bed to sleep. Trin
+- 23:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to try the bed for the night. No food yet; Trini first for anything that turns up."}
+- 23:02 act: {"actions":[],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_opera
+- 23:02 act: {"actions":[{"do":"sleep"}]}
