@@ -1,4 +1,13 @@
-# Handoff, day 245 (dusk), latest
+# Handoff, day 246 (night), latest
+
+- Position: (-270,68,319), beside white beds (-270,67,318) and (-271,67,318), with the group. Not enclosed. Night, clear.
+- Health 16, hunger 14, no food. days_since_sleep 5.
+- Pack: 4 oak_log, 3 oak_sapling, 3 stick, 5 wheat_seeds, wooden_sword, 3 oak_planks.
+- Trying sleep at the bed tonight. Trini holds the chicken, eats at hunger 6; any food goes to Trini first, then Data, then Riker.
+- Bows drawn to the south: stay at the beds with the group.
+- No errand is half-done.
+
+# Handoff, day 245 (dusk), earlier
 
 - Position: white bed (-271,67,318), with the group (Trini, Billy, Data, Riker, Worf, Picard, Kimberly, Wesley, Tommy, LaForge). Not enclosed.
 - Health 19, hunger 15, no food. days_since_sleep 4.

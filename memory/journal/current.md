@@ -110,3 +110,15 @@
 - 23:09 act: {"say":"Troi, dawn of day 245, no food, health 19, hunger 15. I'm joining the group's food search on the grass, and anything found goes to Trini first.","intent":{"goal":"search_grass_with_group","pro
 - 23:11 act: {"say":"Troi back at the white beds, day 245. No food on me. I'll stay in sight of the group and try the bed at dusk. Trini first for any food found.","intent":{"goal":"wait_at_beds_for_dusk","program
 - 23:17 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi at the white bed, dusk of day 245. No food, health 19, hunger 15. Trying sleep with the group."}
+- 23:19 act: {"actions":[{"do":"sleep"}],"say":"Day 245 dusk. Trying the bed. Any food found goes to Trini first."}
+- 23:22 act: {"actions":[{"do":"sleep"}],"say":"Troi at the white bed, night of day 245. Trying to sleep. No food; Trini first at dawn."}
+- 23:24 act: {"actions":[{"do":"sleep"}]}
+- 23:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 23:27 act: {"actions":[{"do":"sleep"}],"say":"Troi trying the bed again, night of day 245. No phantom in view now."}
+- 23:31 act: {"actions":[{"do":"mine","block":"oak_leaves","count":6}],"say":"Troi, dawn of day 246. No food, hunger 15. I'll knock leaves for apples near the beds. Any food goes to Trini first, then Data."}
+- 23:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Troi fell off a log stack, health 16. Going back to the beds with the group. No food."}
+- 23:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi trying the bed for the night, day 246. No food; Trini first at dawn.","intent":{"goal":"sleep_at_bed_night_246"
+- 23:47 act: {"actions":[{"do":"sleep"}]}
+- 23:48 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat_seeds","count":5}],"say":"Troi at dawn, day 247. Sleep refused again (phantom). No food. Following Riker to the west lake for salmon, in sight
+- 23:50 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 23:50 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
