@@ -1,44 +1,5 @@
 # Journal
-: no food. Yellow bed and white beds all occupied (sleep failed twice). Walked to the white beds by Trini; waiting for a bed or first light. Health and hunger full.
-- Dawn day 230: joined Data at (-289,68,314). Zack, Tommy and Billy are searching west and north-west for animals. No food seen yet. Waiting for a sighting.
-- Midday day 230: tried gathering oak leaves for apples near (-280,73,320); ran out of time, no apple. Several others doing the same. Worf is weakest (health 6.8), so any food goes to him or Kimberly first. Still no food for me; health and hunger 20.
-- Late day 230: at the white bed (-282,67,320). Sleep refused: not night yet. Waiting for night, then sleep here. No food found.
-- Night day 230: sleep failed at the white bed and the yellow bed by it (beds crowded, search ran out, then interrupted). Standing in the open at (-279,70,311), health and hunger 20. Waiting for dawn to search for food again; will try a bed then.
-- Dawn day 231: woke in the open at (-279,70,311), health and hunger 20, no food. Group is scouting for animals; Billy weakest. Breaking oak leaves here for apples; any apple goes to Billy.
-- Midday day 231: leaf gathering gave no apple. Moved to (-275,65,314). Group still scouting east and north-west with no animals or apples seen. Holding for news; hunger 20.
-- Dusk day 231 (arrived): group reports no food anywhere (Tommy sealed a plank shelter by the beds). Walking to the white bed (-282,67,321) to sleep with the group. Still no food; hunger 20.
-- 18:04 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":321}},{"do":"sleep"}],"say":"Night, Trini and Kimberly. I have no food, so I will try the white bed near you and sleep.","reasoning":"Night, no f
-- 18:08 act: {"actions":[{"do":"goto","target":{"x":-290,"y":68,"z":314}}],"say":"Troi here, dawn. I have no food either. I'll join the search for animals with you; I'll call out anything I see.","intent":{"goal":
-- 18:12 act: {"actions":[],"say":"Troi, no food yet. I'll try the oak leaves for apples here, like Wesley is doing, and call out any I get.","intent":{"goal":"gather_apples_from_leaves","program":"gather","argumen
-- 18:18 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":321}},{"do":"sleep"}],"say":"Dusk, Data. I have no food, but I'm at full health and hunger. I'll try the white bed here for the night.","reasonin
-- 18:25 act: {"actions":[{"do":"sleep"}],"say":"Troi going to sleep at the white bed. No food on me, but health and hunger are full.","reasoning":"Night now. Bed is by me. Sleep here with the group."}
-- 18:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Beds near the group are crowded. The yellow bed is one block away, unclaimed. Try it."}
-- 18:31 act: {"actions":[{"do":"mine","block":"oak_leaves","count":8}],"say":"Troi at dawn, day 231. No food yet. I'm trying the oak leaves here for apples, and any apple goes to Billy first.","reasoning":"Dawn, n
-- 18:39 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":321}}],"say":"Troi heading to the white bed with the group for the night. Still no food; I'll call out any animal or apple at dawn.","reasoning":
-- 18:43 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":321}},{"do":"sleep"}],"say":"Troi going to sleep at the white bed. No food today, and I'll look for food first thing at dawn.","reasoning":"Night
-- 18:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Troi trying the yellow bed again, with Riker and Billy beside me. No food, but I'm sound.","reasoning":"Iron golem i
-- 18:49 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":322}}],"say":"Troi at dawn, day 232. No food yet. I'm going east, a direction nobody has searched yet. Any cow, sheep, pig or apple, call out and
-- 18:54 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":340}}],"say":"Troi here, day 232, no food. Trader, do you sell any food? I can offer 4 oak planks and 2 logs.","reasoning":"A trader is south, an
-- 18:54 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":324}}],"say":"Troi backing off north, away from the golems. No trader seen here.","reasoning":"Several iron golems are closing in. No trader in s
-- 18:54 act: {"actions":[{"do":"goto","target":{"x":-276,"y":67,"z":316}}],"say":"Troi here, midday day 232. No food yet. Jason is heading north, so I'll search the grass west of the beds and call out any animal o
-- 18:58 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":321}}],"say":"Troi back to the beds with the group, afternoon day 232. Still no food. I'll rest here and watch for dusk."}
-- 19:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Troi going to the yellow bed for the night. No food today; I'll look for animals or apples first thing at dawn."}
-- 19:10 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":300}}],"say":"Troi, dawn day 233, no food. Searching north-east, a little away from the golems. Any animal or apple, Billy and Jason first."}
-- 19:10 act: {"actions":[{"do":"goto","target":{"x":-244,"y":67,"z":292}}],"say":"Troi at (-258,68,300), no food here. Pushing further north-east to look for animals. Call out any cow, pig, sheep or apple."}
-- 19:10 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Troi found no food north-east. Heading back to the beds to rest with the group. Call out any food you find."}
-- Day 233 late morning: at the white beds (-270,67,318). Tommy has 3 porkchop for Billy, then Jason, then Worf. Zack has a pig lead to the west. I have no food; holding at the beds and waiting for dusk to try a bed.
-- 19:15 act: {"say":"Troi at the white beds. I have no food. Tommy, Jason is next to me for the porkchop, Billy first. I'll stay here and not block the way.","intent":{"goal":"hold_at_beds_for_food","program":"res
-- 19:15 act: {"say":"Troi: no food on me. Tommy, Billy first, then Jason, then Worf. I'm staying at the beds, hunger 20.","intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments":{},"wake_on":["direct
-- 19:19 act: {"say":"Worf, I can see you at 3 blocks. Stand still and Jason can hand you the porkchop. I have no food myself."}
-- 19:23 act: {"say":"Troi going to sleep at the white bed here. No food; health and hunger 20.","actions":[{"do":"sleep"}]}
-- 19:23 act: {"say":"Sleep refused for monsters, golems 20 blocks south-west. Trying the north white bed, away from them.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
-- 19:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night of day 233. Going to bed at the white bed. No food on me; first light, I search for food."}
-- 19:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Troi trying the white bed here. No food, health and hunger 20.","intent":{"goal":"sleep_at_white_bed","program":"res
-- 19:30 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":290}}],"say":"Troi, dawn of day 234, hunger 20, no food. Searching north-west, past the grass the others covered. Any cow, pig, sheep or apple: c
-- 19:30 act: {"actions":[{"do":"goto","target":{"x":-320,"y":67,"z":275}}],"say":"Troi at (-300,68,290), no food or animals in sight. Going further north-west. Call out any cow, pig, sheep or apple.","intent":{"go
-- 19:31 act: {"actions":[{"do":"goto","target":{"x":-326,"y":62,"z":266}}],"say":"Troi found salmon in the water north-west at about (-329,62,263). Going there to try for one. Billy and Jason first if I get any.",
-- 19:31 act: {"actions":[{"do":"goto","target":{"x":-320,"y":67,"z":276}}],"say":"Troi in the water, getting back to the shore. Salmon are close; I will try to get one from the edge."}
-- 19:31 act: {"actions":[],"say":"Troi: salmon are in the deep water north-west, about 20 blocks out, and they keep moving away from the shore. I have no rod or net, so I could not reach them. Telling the group so
+- Day 237 entry moved to memory/journal/day-237.md. Earlier journal lines were folded into day notes.
 - 19:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}},{"do":"sleep"}],"say":"Troi going to the white beds by the pond for the night, away from the phantom. No food; health and hunger 20.","inte
 - 19:41 act: {"actions":[{"do":"sleep"}],"say":"Troi at the white bed by the pond, trying to sleep now that it is night. No food; health and hunger 20."}
 - 19:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}],"say":"Troi going to the white bed at -271,67,318 to sleep with the group. No food; I'll bring anything I find to Riker and
@@ -52,3 +13,11 @@
 - 20:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night has come. Bed is 2 blocks away. Try sleep once; if taken, pick another."}
 - 20:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 20:10 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Three nights without sleep. West bed at -282,67,320 may be free. One try, then reassess."}
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-263,"y":66,"z":321}}],"say":"Troi: dawn, day 236. No food on me. Searching the grass near the wheat for seeds or animals. Anything found goes to Riker and Trini
+- 20:10 act: {"actions":[],"say":"Troi at the wheat field, morning day 236. No food found yet. LaForge says the west water is empty too. Anyone who finds food, Riker and Trini first."}
+- 20:14 act: {"actions":[{"do":"goto","target":{"x":-289,"y":66,"z":329}}],"say":"Troi joining the group at the west grass. No food on me; calling out any animal I see. Riker and Trini first."}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Night, days since sleep 3. West bed close to me. One try; then report the reason."}
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"intent":{"goal":"hold_with_group_until_dawn","program":"follow","arguments":{"target":"ag_riker_01"},"wake_on":["directly_addressed","pre
+- 20:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"No golems in view now; group is here. Try the free bed once."}
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":330}}],"intent":{"goal":"search_west_grass_for_food","program":"travel","arguments":{"target":{"x":-290,"y":66,"z":330}},"wake_on":["directly_add
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Dusk with a golem closing; a bed is the safest move now."}
