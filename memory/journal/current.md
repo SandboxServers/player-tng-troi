@@ -25,3 +25,10 @@
 - 20:32 act: {"say":"Wesley, Picard: I have no food either. Hunger is 20 for now, so I'll search the grass to the west for seeds or animals, and I'll give any food to Trini first.","intent":{"goal":"search_grass_f
 - 20:32 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
 - 20:32 act: {"say":"Troi back at the white beds. Golems have gone from view. Still no food; I'll keep watch here and give anything I find to Trini first."}
+- 20:39 act: {"say":"Troi here, health 20, hunger 20, no food. I'll go with Data to the salmon lake at -330,62,270. I'll stay on the shore, and anything I catch goes to Trini first.","intent":{"goal":"reach_salmon
+- 20:40 act: {"actions":[{"do":"unstick"}],"say":"I'm out in the deep water at the salmon lake, and dusk is coming. I'm getting back to the shore before dark."}
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-324,"y":64,"z":271}}]}
+- 20:40 act: {"say":"Troi at the salmon lake shore, on the grass by (-325,64,271). I'm out of the water, health 20, hunger 20. Salmon are in the lake, but I have no rod. Night is falling, so I'll stay on this shor
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":300}}],"say":"A drowned is hitting me from the north. I'm walking away south-east toward the white beds."}
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}]}
+- 20:49 act: {"say":"Troi back at the white beds. I slept, so days since sleep is 0. Still no food; Riker and Trini first for any found."}
