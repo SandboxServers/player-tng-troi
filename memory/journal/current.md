@@ -67,3 +67,12 @@
 - 21:36 act: {"actions":[{"do":"goto","target":{"x":-296,"y":68,"z":293}}],"say":"Troi here. I have no food, only one wheat seed and logs. Trini, Riker and the others: I'm joining the group at the beds."}
 - 21:41 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Troi going to the white bed for the night. No food; Trini first when I wake."}
 - 21:41 act: {"actions":[{"do":"sleep"}]}
+- 21:49 act: {"say":"Troi at dawn day 241. No food. My sleep did not count. I'm going to look for animals and grass to the east and will report back.","intent":{"goal":"search_grass_east","program":"travel","argum
+- 21:49 act: {"intent":{"goal":"search_plains_east","program":"travel","arguments":{"target":{"x":-250,"y":68,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"
+- 21:50 act: {"intent":{"goal":"search_food_east","program":"travel","arguments":{"target":{"x":-240,"y":68,"z":300}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 21:50 act: {"intent":{"goal":"search_food_further_east","program":"travel","arguments":{"target":{"x":-220,"y":68,"z":302}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 21:51 act: {"actions":[{"do":"mine","block":"oak_leaves","count":5}],"say":"No animals here. I'll knock leaves from the oak trees in case they drop apples."}
+- 21:51 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-296,"y":68,"z":293}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 21:51 act: {"say":"Back at the beds. No food in my pack, and I found no animals east. LaForge, do you have any food?","intent":{"goal":"wait_for_food_news_at_beds","program":"rest","arguments":{},"wake_on":["dir
+- 21:57 act: {"say":"Picard, I found no food east of here, only birch and oak trees, and no animals. Nobody has food in my pack."}
+- 22:01 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Night, and thunder. I'm going to the white bed to sleep."}

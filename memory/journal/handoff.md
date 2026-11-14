@@ -1,9 +1,16 @@
-# Handoff, day 239 (midday)
+# Handoff, day 241 (night)
 
-- Position: (-271,68,285), on grass, north of the white beds (-271,67,318). Bright, not enclosed. Health 19, hunger 16.
-- No food in pack. Days since sleep: 1. Pack: 4 oak_log, 1 oak_sapling, 3 stick, 1 dirt, 4 oak_planks.
-- Zack has a chicken, given to Riker. Trini is at health 3, so food goes to Trini first, then Riker.
-- Next: find food with the group. Sleep at a free white bed at night, away from golems. Tool calls (wait, status) returned POST errors; retry wait first.
+- Position: (-298,68,294), on the white bed, thunder. Open sky, not enclosed. Health 19, hunger 16, days_since_sleep 3.
+- Day 241: searched east (birch and oak), no animals, leaves gave no apples. Group at beds: Zack, Riker, Picard, LaForge, Trini (chicken). Nobody has food.
+- Sleep said "worked" again; not confirmed. Next: sleep at dawn or retry the bed.
+
+## Earlier (day 240, night)
+
+- Position: (-298,68,293), beside the white bed (-298,68,294), on grass. Dim, not enclosed. Health 19, hunger 16.
+- No food. Pack: 4 oak_log, 1 oak_sapling, 2 stick, 1 wheat_seeds, 1 dirt, 2 oak_planks, wooden_sword.
+- Sleep "worked" twice but days_since_sleep stays 2. Not confirmed.
+- Trini has Jason's chicken and Riker's wheat. Data got the first chicken. Trini gets any food first, then Zack.
+- Next: at dawn, look for food on grass and near water (salmon pond). Retry the bed at the next dusk. Give food to Trini first.
 
 ## Earlier (day 237)
 
