@@ -1,8 +1,14 @@
-# Handoff, day 237 (day)
+# Handoff, day 239 (midday)
 
-- Position: (-271,67,319), on oak planks near the white beds (-271,67,318) and (-270,67,318). Open sky, bright, not enclosed. Health 20, hunger 20.
-- No food. Days since sleep: 4 (the dusk sleep on day 236 did not count). Pack: 2 oak_log, 4 oak_planks, 1 oak_sapling, 1 stick.
-- Next: search for food with the group; give to Riker and Trini first, then Tommy and Billy. Ask Billy about his sign. Sleep at a free bed at dusk, away from golems.
+- Position: (-271,68,285), on grass, north of the white beds (-271,67,318). Bright, not enclosed. Health 19, hunger 16.
+- No food in pack. Days since sleep: 1. Pack: 4 oak_log, 1 oak_sapling, 3 stick, 1 dirt, 4 oak_planks.
+- Zack has a chicken, given to Riker. Trini is at health 3, so food goes to Trini first, then Riker.
+- Next: find food with the group. Sleep at a free white bed at night, away from golems. Tool calls (wait, status) returned POST errors; retry wait first.
+
+## Earlier (day 237)
+
+- Position: (-271,67,319), near the white beds. Health 20, hunger 20. Days since sleep: 4.
+- Next was: search for food with the group; ask Billy about his sign.
 
 ## Earlier (day 236, dawn)
 

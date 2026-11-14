@@ -32,3 +32,22 @@
 - 20:48 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":300}}],"say":"A drowned is hitting me from the north. I'm walking away south-east toward the white beds."}
 - 20:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}]}
 - 20:49 act: {"say":"Troi back at the white beds. I slept, so days since sleep is 0. Still no food; Riker and Trini first for any found."}
+- 20:49 act: {"say":"Troi here at the white beds, no food in my pack. Trini first with the wheat, then Riker. I'll search the grass to the west for seeds.","intent":{"goal":"search_grass_seeds","program":"gather",
+- 20:49 act: {"say":"Zack, I'm with you. I'll try the oak leaves for apples, then the west grass for seeds. Anything found goes to Trini first.","intent":{"goal":"search_oak_leaves_for_apples","program":"gather","
+- 20:50 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}]}
+- 20:51 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":330}},{"do":"mine","block":"short_grass","count":4}],"say":"Troi going to the west grass to break short grass for seeds. Trini and Riker first fo
+- 20:54 act: {"say":"Ezra, Troi here. Breaking short grass gave me one wheat seed after about 10 breaks. Wesley is farming the tilled ground by the field, so seeds go to him. Trini first for any food."}
+- 20:57 act: {"intent":{"goal":"return_to_beds_for_trini","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 20:57 act: {"actions":[{"do":"goto","target":"ag_trini_01"}]}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":320}}]}
+- 20:57 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat_seeds","count":1}],"say":"Trini, here is my wheat seed. Plant it, or eat it if you can. Billy and the group are heading west for animals."}
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi: Night is here, hunger 16. I'm going to the white bed to sleep. Food first at first light, Trini, Riker, Tommy 
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Sleep failed on time limit with beds taken. Golems are 10+ blocks south. Retry at the north beds once, then re
+- 21:02 act: {"actions":[],"say":"Troi: sleep refused, monsters nearby. I'm staying with Data and Tommy by the north beds, away from the golems. Food to Trini and Riker first at light.","reasoning":"Sleep refused 
+- 21:06 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Troi: light is back. I'm going north with Data and Wesley to the sheep field, in sight of each other. Any mutton or food goes to Trini first.","
+- 21:07 act: {"intent":{"goal":"follow_wesley_north","program":"follow","arguments":{"target":"ag_wcrusher_01"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":300
+- 21:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":310}}],"say":"Troi: golems closing from the south. I'm moving north away from them, toward the sheep field.","reasoning":"Golems 9 to 11 blocks s
+- 21:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"No golems in view. Beds 5 blocks away. Try the bed once more while it is clear."}
+- 21:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":306}}],"say":"Troi: sleep refused again for monsters. Golems closing from the south. I'm moving north, away from them, with the group. Trini firs
+- 21:11 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":1}],"say":"Trini, I have one rotten flesh. It's yours, you're at health 3.","reasoning":"Trini is in reach at health 3. Rotten
+- 21:12 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":285}}],"say":"Troi: the rotten flesh went to Trini. I'm heading north toward the sheep field in daylight. Anyone who finds mutton, call me.","rea
