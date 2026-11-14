@@ -21,3 +21,4 @@
 - 20:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"No golems in view now; group is here. Try the free bed once."}
 - 20:28 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":330}}],"intent":{"goal":"search_west_grass_for_food","program":"travel","arguments":{"target":{"x":-290,"y":66,"z":330}},"wake_on":["directly_add
 - 20:28 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Dusk with a golem closing; a bed is the safest move now."}
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Billy, I have seen your sign at the white beds, Day 220, shot. What happened? And have you found any food since dawn?","intent":{"g

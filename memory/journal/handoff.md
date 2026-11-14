@@ -1,4 +1,10 @@
-# Handoff, day 236 (dawn)
+# Handoff, day 237 (day)
+
+- Position: (-271,67,319), on oak planks near the white beds (-271,67,318) and (-270,67,318). Open sky, bright, not enclosed. Health 20, hunger 20.
+- No food. Days since sleep: 4 (the dusk sleep on day 236 did not count). Pack: 2 oak_log, 4 oak_planks, 1 oak_sapling, 1 stick.
+- Next: search for food with the group; give to Riker and Trini first, then Tommy and Billy. Ask Billy about his sign. Sleep at a free bed at dusk, away from golems.
+
+## Earlier (day 236, dawn)
 
 - Position: (-282,67,319), on dirt near the west white beds (-281,67,320) and (-282,67,320). Open sky, not enclosed.
 - Health 20, hunger 20, no food. Days since sleep: 3. Pack: 2 oak_log, 4 oak_planks, 1 oak_sapling, 1 stick.
