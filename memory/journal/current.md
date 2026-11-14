@@ -98,3 +98,8 @@
 - 22:37 act: {"say":"Trini, no food yet. I'm at the white bed; I'll try to sleep at dusk.","actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}]}
 - 22:41 act: {"say":"Troi at the white bed for the night. No food; Trini first when food turns up.","actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
 - 22:51 act: {"intent":{"goal":"join_group_search_food","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":325}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_worl
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}],"say":"I'm coming to the white beds to stay with the group. I have no food either. I'll search the grass nearby for animals.","intent":{"g
+- 22:56 act: {"actions":[],"say":"Kimberly, Billy, Wesley: I'm at the white beds now with no food. I'll walk the west grass in sight of the beds and call out any animal."}
+- 22:59 act: {"actions":[{"do":"mine","block":"short_grass","count":6}],"intent":{"goal":"break_grass_for_seeds_near_beds","program":"gather","arguments":{"block":"short_grass","count":6},"wake_on":["directly_addr
+- 23:01 day 244 dusk: joined the group at the white beds, no food, hunger 15, health 19. Broke grass for 4 more seeds (now 5). Heading to bed at -282,67,320 with the group.
+- 23:00 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Troi, dusk day 244. No food; I have 5 wheat seeds, which go to Wesley's field. Going to the white bed to sleep. Trin
