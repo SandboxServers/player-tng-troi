@@ -22,3 +22,6 @@
 - 20:28 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":330}}],"intent":{"goal":"search_west_grass_for_food","program":"travel","arguments":{"target":{"x":-290,"y":66,"z":330}},"wake_on":["directly_add
 - 20:28 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Dusk with a golem closing; a bed is the safest move now."}
 - 20:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Billy, I have seen your sign at the white beds, Day 220, shot. What happened? And have you found any food since dawn?","intent":{"g
+- 20:32 act: {"say":"Wesley, Picard: I have no food either. Hunger is 20 for now, so I'll search the grass to the west for seeds or animals, and I'll give any food to Trini first.","intent":{"goal":"search_grass_f
+- 20:32 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 20:32 act: {"say":"Troi back at the white beds. Golems have gone from view. Still no food; I'll keep watch here and give anything I find to Trini first."}
