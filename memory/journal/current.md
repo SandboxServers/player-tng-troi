@@ -33,3 +33,22 @@
 - 19:23 act: {"say":"Troi going to sleep at the white bed here. No food; health and hunger 20.","actions":[{"do":"sleep"}]}
 - 19:23 act: {"say":"Sleep refused for monsters, golems 20 blocks south-west. Trying the north white bed, away from them.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 19:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night of day 233. Going to bed at the white bed. No food on me; first light, I search for food."}
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Troi trying the white bed here. No food, health and hunger 20.","intent":{"goal":"sleep_at_white_bed","program":"res
+- 19:30 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":290}}],"say":"Troi, dawn of day 234, hunger 20, no food. Searching north-west, past the grass the others covered. Any cow, pig, sheep or apple: c
+- 19:30 act: {"actions":[{"do":"goto","target":{"x":-320,"y":67,"z":275}}],"say":"Troi at (-300,68,290), no food or animals in sight. Going further north-west. Call out any cow, pig, sheep or apple.","intent":{"go
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-326,"y":62,"z":266}}],"say":"Troi found salmon in the water north-west at about (-329,62,263). Going there to try for one. Billy and Jason first if I get any.",
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-320,"y":67,"z":276}}],"say":"Troi in the water, getting back to the shore. Salmon are close; I will try to get one from the edge."}
+- 19:31 act: {"actions":[],"say":"Troi: salmon are in the deep water north-west, about 20 blocks out, and they keep moving away from the shore. I have no rod or net, so I could not reach them. Telling the group so
+- 19:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}},{"do":"sleep"}],"say":"Troi going to the white beds by the pond for the night, away from the phantom. No food; health and hunger 20.","inte
+- 19:41 act: {"actions":[{"do":"sleep"}],"say":"Troi at the white bed by the pond, trying to sleep now that it is night. No food; health and hunger 20."}
+- 19:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}],"say":"Troi going to the white bed at -271,67,318 to sleep with the group. No food; I'll bring anything I find to Riker and
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Troi, dawn of day 235, no food, health 20. Tommy died on the pig route at -324,64,237, so I'm avoiding it. I'll search the grass ne
+- 19:50 act: {"actions":[{"do":"mine","block":"short_grass","count":4}]}
+- 19:50 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wheat_seeds","count":1},{"do":"mine","block":"short_grass","count":6}],"say":"Wesley, here is my wheat seed for your farm. I'll keep breaking gra
+- 19:51 act: {"actions":[{"do":"goto","target":{"x":-285,"y":68,"z":305}}],"say":"Troi scouting north-west from the beds for animals or apples, away from the pig route. Anything found goes to Riker first."}
+- 19:51 act: {"actions":[],"say":"Riker, I have no food. Wesley's wheat is planted at -263,66,321 for later. I'm scouting the north-west for animals."}
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":-283,"y":70,"z":307}},{"do":"mine","block":"oak_leaves","count":8}]}
+- 19:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}],"say":"Troi going to the white bed at -271,67,318 for the night. No food; Riker and Trini first for anything found."}
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night has come. Bed is 2 blocks away. Try sleep once; if taken, pick another."}
+- 20:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Three nights without sleep. West bed at -282,67,320 may be free. One try, then reassess."}

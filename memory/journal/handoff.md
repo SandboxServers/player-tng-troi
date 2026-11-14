@@ -1,4 +1,12 @@
-# Handoff, day 233 (night)
+# Handoff, day 236 (dawn)
+
+- Position: (-282,67,319), on dirt near the west white beds (-281,67,320) and (-282,67,320). Open sky, not enclosed.
+- Health 20, hunger 20, no food. Days since sleep: 3. Pack: 2 oak_log, 4 oak_planks, 1 oak_sapling, 1 stick.
+- Night 235: every bed tried was taken (tried 4 of 8), and sleep was refused twice for monsters or dusk. Golems stayed about 14 to 19 blocks south.
+- Next: find food on the grass (seeds, animals). Give any food to Riker, Trini, Worf, LaForge, Billy first. Sleep at a free bed at the next night. Then finish reflect: goals, beliefs, people files for Billy, Jason, Worf, Picard, then commit_memory.
+- Billy's sign "Here lies ag_billy_01 / Day 220 / shot" is at the white beds. Ask Billy about it.
+
+## Earlier (day 233)
 
 - Position: (-270,67,318), at the white bed, with Jason and the group. Open sky, not enclosed.
 - Food: Data has 2 mutton for Billy and Kimberly. Worf got a porkchop and a salmon. Troi has no food.
