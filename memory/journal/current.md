@@ -76,3 +76,15 @@
 - 21:51 act: {"say":"Back at the beds. No food in my pack, and I found no animals east. LaForge, do you have any food?","intent":{"goal":"wait_for_food_news_at_beds","program":"rest","arguments":{},"wake_on":["dir
 - 21:57 act: {"say":"Picard, I found no food east of here, only birch and oak trees, and no animals. Nobody has food in my pack."}
 - 22:01 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Night, and thunder. I'm going to the white bed to sleep."}
+- 22:02 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Troi going to the bed for the night. No food on me; Trini first when food turns up."}
+- 22:02 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}]}
+- 22:10 act: {"actions":[{"do":"goto","target":{"x":-285,"y":68,"z":300}}],"say":"Troi awake at dawn of day 242, no food. Scouting the grass to the south-east for animals. Any food goes to Trini first.","intent":{
+- 22:10 act: {"actions":[{"do":"goto","target":{"x":-310,"y":68,"z":300}}],"intent":{"goal":"scout_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-310,"y":68,"z":300}},"wake_on":["goal_compl
+- 22:10 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":296}}],"say":"Troi: searched south-east and west grass at dawn, no animals, no fish. There is a drop to the west. Back at the beds now. Anyone wi
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":240}}],"say":"Troi: going north to the sheep field after Billy, in short steps. Trini first for any food.","intent":{"goal":"reach_sheep_field_no
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":216}}],"intent":{"goal":"reach_sheep_field","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":216}},"wake_on":["goal_completed","dire
+- 22:16 say: {"text":"Troi here at the north grass with Billy. I see no sheep yet. Billy, where exactly is the field? Any food goes to Trini first."}
+- 22:19 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":293}}],"say":"Troi: no sheep at the north field. Heading back south to the white beds before night, no food.","intent":{"goal":"return_to_white_b
+- 22:20 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 22:20 act: {"actions":[{"do":"note","text":"Dusk day 242 at the white bed (-298,68,294). Sleep said worked again, still awake, days_since_sleep 1. Health 19, hunger 15, no food."}]}
+- 22:20 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"intent":{"goal":"rest_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"
