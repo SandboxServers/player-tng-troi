@@ -88,3 +88,4 @@
 - 22:20 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
 - 22:20 act: {"actions":[{"do":"note","text":"Dusk day 242 at the white bed (-298,68,294). Sleep said worked again, still awake, days_since_sleep 1. Health 19, hunger 15, no food."}]}
 - 22:20 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"intent":{"goal":"rest_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"
+- 22:23 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
