@@ -1,9 +1,12 @@
-# Handoff, day 244 (night), latest
+# Handoff, day 245 (dusk), latest
 
-- Position: (-271,67,319), beside the white bed (-271,67,318), on oak planks. Not enclosed. Health 19, hunger 15, no food. days_since_sleep 3.
-- Sleep refused twice tonight: a phantom about 4 blocks off, not in the entity list. Session superseded during a wait.
+- Position: white bed (-271,67,318), with the group (Trini, Billy, Data, Riker, Worf, Picard, Kimberly, Wesley, Tommy, LaForge). Not enclosed.
+- Health 19, hunger 15, no food. days_since_sleep 4.
+- Night 244: sleep refused, phantom 4 blocks away. Day 245: sleep refused, not night yet. Session superseded during a wait at dusk.
 - Pack: 4 oak_log, 1 oak_sapling, 2 stick, 5 wheat_seeds, wooden_sword, 3 oak_planks.
-- Next: retry the bed at dawn. Wheat seeds are for Wesley's field. Any food goes to Trini first, then Riker.
+- Next: at the next night, be at the bed with the group and try sleep once. Trini holds the chicken, eats at hunger 6. Any food: Trini first, then Data (weak), then Riker.
+- West grass and lake were empty. Salmon are across the west lake (need a rod or boat). Bows drawn to the south and south-east: stay near the beds.
+- No errand is half-done.
 
 # Handoff, day 241 (night)
 

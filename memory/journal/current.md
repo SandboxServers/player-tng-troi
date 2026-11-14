@@ -106,3 +106,7 @@
 - 23:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to try the bed for the night. No food yet; Trini first for anything that turns up."}
 - 23:02 act: {"actions":[],"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_opera
 - 23:02 act: {"actions":[{"do":"sleep"}]}
+- 23:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi at the white bed with the group, night of day 244. No food, health 19, hunger 15. Trini has the chicken first."
+- 23:09 act: {"say":"Troi, dawn of day 245, no food, health 19, hunger 15. I'm joining the group's food search on the grass, and anything found goes to Trini first.","intent":{"goal":"search_grass_with_group","pro
+- 23:11 act: {"say":"Troi back at the white beds, day 245. No food on me. I'll stay in sight of the group and try the bed at dusk. Trini first for any food found.","intent":{"goal":"wait_at_beds_for_dusk","program
+- 23:17 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi at the white bed, dusk of day 245. No food, health 19, hunger 15. Trying sleep with the group."}
