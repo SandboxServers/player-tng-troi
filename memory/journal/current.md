@@ -32,3 +32,4 @@
 - 19:19 act: {"say":"Worf, I can see you at 3 blocks. Stand still and Jason can hand you the porkchop. I have no food myself."}
 - 19:23 act: {"say":"Troi going to sleep at the white bed here. No food; health and hunger 20.","actions":[{"do":"sleep"}]}
 - 19:23 act: {"say":"Sleep refused for monsters, golems 20 blocks south-west. Trying the north white bed, away from them.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night of day 233. Going to bed at the white bed. No food on me; first light, I search for food."}
