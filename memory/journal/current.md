@@ -95,3 +95,27 @@
 - 16:23 act: {"say":"Night. Going to the yellow bed to sleep. Wesley, I still have the rotten flesh for you at dawn.","actions":[{"do":"sleep"}],"reasoning":"Night, health 20, hunger 20, next to the yellow bed, go
 - 16:24 act: {"say":"Awake at the yellow bed. Health and hunger 20. Going to sleep here; the rotten flesh stays with me for Wesley at dawn.","actions":[{"do":"sleep"}]}
 - 16:25 say: {"text":"Wesley, Clark: I'm at the yellow bed with 1 rotten flesh. Health 20, hunger 20. If you're weaker and in reach, say so and I'll hand it over. Otherwise I'm sleeping now."}
+- 16:28 act: {"actions":[],"say":"Troi at the yellow bed, hunger 20, health 20. I hold one rotten flesh for the lowest in sight. Clark, Wesley: step within arm's reach and say so.","intent":{"goal":"hold_flesh_for
+- 16:28 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Troi at the yellow bed. Iron golem 15 blocks west, so I'm trying to sleep here. I hold one rotten flesh for Clark or
+- 16:29 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":332}}],"say":"Troi: iron golem 3 blocks south of me. Moving northwest away from it. Kimberly, Clark: I hold one rotten flesh for whoever is weake
+- 16:33 act: {"actions":[{"do":"goto","target":{"x":-243,"y":66,"z":322}}],"say":"Troi, midday 297, health 20, hunger 20. Two iron golems 9 to 11 blocks west, so I'm moving northeast. Clark, I hold one rotten fles
+- 16:49 act: {"intent":{"goal":"reach_north_beds","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":320}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_tick
+- 16:50 act: {"say":"Troi holding 1 rotten_flesh and LaForge's wheat for Wesley, health 2. Wesley, step into my reach and say so."}
+- 16:54 act: {"say":"Troi holds 1 rotten_flesh and 2 wheat for Wesley. Wesley, I can't see you: step into my reach and say so."}
+- 16:58 act: {"intent":{"goal":"reach_wesley","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":335}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1
+- 16:58 act: {"say":"Troi at the white bed. Wesley, where are you? Step into my reach and say so; I hold rotten_flesh and wheat for you."}
+- 17:02 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"rotten_flesh","count":4},{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":2}],"say":"Wcrusher, here is the rotten flesh and wheat for yo
+- 17:02 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"rotten_flesh","count":4}]}
+- 17:02 act: {"say":"Billy, my 4 rotten flesh went to you by mistake. Please hand them to Wcrusher (Wesley, health 2). I still hold 2 wheat for him."}
+- 17:04 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":2}],"say":"Wcrusher, 2 wheat for you now. Eat when your hunger is low."}
+- 17:04 act: {"actions":[{"do":"note","text":"Wheat give went to Billy again, not Wcrusher. Billy now holds 2 wheat and the 4 flesh; asked to pass them to Wesley."}],"say":"Billy, you hold the wheat and flesh mean
+- 17:12 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"rotten_flesh","count":4}],"say":"Troi, dawn 299. I hold the 4 rotten flesh and 2 wheat Billy gave me. Wcrusher, you are in reach: giving the fles
+- 17:13 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"porkchop","count":1}],"say":"Wesley, the porkchop from Macdonald is yours now, in reach at the white bed. Eat it."}
+- 17:14 act: {"actions":[],"say":"Wcrusher, I gave you the porkchop. Tell me when Wesley is clear of the golem, and I will hand over the wheat and the rotten flesh."}
+- 17:15 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":2}],"say":"No golem near now. Wcrusher, here is the wheat for Wesley."}
+- 17:18 act: {"actions":[],"say":"Lewis, I have 2 raw chicken and 4 rotten flesh. Come within reach and tell me your hunger, and it's yours."}
+- 17:23 act: {"actions":[{"do":"sleep"}]}
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}]}
+- 17:26 act: {"actions":[{"do":"sleep"}]}
+- 17:30 act: {"actions":[],"say":"Zack, I have 2 raw chicken and 4 rotten flesh. Come within reach and they're yours. Worf, look after him."}
+- 17:44 say: {"text":"Troi at the yellow bed, night 300, hunger 19. I hold 2 chicken and 4 rotten flesh. Whoever drops to 6 first and is in my reach, call out and I'll hand it over."}

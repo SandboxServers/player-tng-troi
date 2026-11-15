@@ -1,4 +1,30 @@
-# Handoff, night 296, latest
+# Handoff, night 300, latest
+
+- At the yellow bed (-262,67,353), night, dim, not enclosed. Health 20, hunger 19. Bcrusher in reach (hunger 9, holds 1 rotten_flesh for hunger 6). Golem about 11 blocks west.
+- Still carry 2 chicken and 4 rotten_flesh, for whoever calls low first (LaForge, Clark, Macdonald at 15-17 were fed by others).
+- Trying sleep at the yellow bed now. No errand half-done. Next dawn: food hunt with the group.
+
+# Handoff, night 299
+
+- Asleep at the yellow bed (-263,67,353). Sleep worked (3 of 10 asleep). Lewis and Trini beside me; golems were 3 to 5 blocks north-east.
+- Still carry 4 rotten_flesh and 2 chicken, for whoever drops low (Chapman, Clark at hunger 16 first).
+- No errand half-done.
+
+# Handoff, day 299
+
+- At (-270,67,334), grass, day, not enclosed. Health 20, hunger 20.
+- Gave porkchop and 2 wheat to Wcrusher (both worked) for Wesley (health 2).
+- Still carry 4 rotten_flesh and 2 raw chicken for anyone at hunger 6 (Wesley first).
+- Golems to the south (about 14 blocks) and west. No errand half-done.
+
+# Handoff, night 298
+
+- At (-270,67,334), grass, night, dim, not enclosed. Health 20, hunger 20. Golems 10 to 12 blocks north, phantoms north.
+- Pack holds no food. The 2 wheat and the 4 rotten_flesh went to Billy (ag_billy_01), who said he will pass them to Wesley.
+- Gives to Wcrusher/Wesley failed again (items landed on Billy). Give only when the name is in reach and no golem is adjacent.
+- No errand half-done. Next: confirm the food reached Wesley, then look for pigs and cows at dawn.
+
+# Handoff, night 296
 
 - Asleep at the yellow bed (-263,67,353), night 296, dim, not enclosed. Jason near. Sleep worked.
 - Health 20, hunger 20. Holding 1 rotten_flesh for Wesley (health 2) or whoever drops to hunger 6 first.
