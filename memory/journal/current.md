@@ -323,3 +323,9 @@
 - 06:09 act: {"actions":[{"do":"sleep"}]}
 - 06:16 act: {"reasoning":"Daytime, sleep refused. No food; MacDonald is heading to cows near -288,67,257. I'll go look for cows with the group and keep close to the beds.","say":"Chapman here. I have no food. I'l
 - 06:16 act: {"reasoning":"At the cow lake area with Billy, Lewis, Wesley nearby. No cows in sight yet. Ask around and wait.","say":"Troi at the cow lake (-289,67,257). No cows in sight yet. Billy, Lewis, have you
+- 06:17 act: {"say":"Troi here, hunger 15, no food. Billy, Clark, Tommy: I'll head west with you to look for cows. Whoever sees one, call its place.","actions":[]}
+- 06:22 act: {"say":"Troi: it's night, hunger 15, no food. Heading to the white beds at -298,68,294 to sleep. Anyone who finds food, Trini and Riker first.","intent":{"goal":"reach_white_beds_for_night","program":
+- 06:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Troi at the white bed, trying to sleep. Phantoms to the north-east. No food, hunger 15."}
+- 06:22 act: {"actions":[{"do":"sleep"}],"say":"Troi: phantoms hit me at the bed (health 16). No weapon. Trying the bed again."}
+- 06:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Troi: phantoms still hitting me, health 12. Getting into the bed again."}
+- 06:26 act: {"actions":[{"do":"sleep"}]}
