@@ -405,3 +405,19 @@
 - 09:44 act: {"actions":[{"do":"eat"}],"say":"Thank you, Riker. I will eat now."}
 - 09:44 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Thank you, Lewis. I have the mutton and I am eating it."}
 - 09:44 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"I am full enough now. Trying the bed, no creeper in view."}
+- 09:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. Golems are closing from the south, so I'm heading to the north white bed to sleep.","reasoning":"Night, sleep
+- 09:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Troi: sleep refused here again. Trying the yellow bed to the north.","reasoning":"Sleep blocked twice at this bed. T
+- 09:49 act: {"actions":[],"say":"Troi, dawn of day 277. Sleep refused again by the way being blocked. Trini: my 3 beef are still yours when you turn up; I'll hunt for her with Wesley along the north beds.","reaso
+- 09:49 act: {"actions":[],"say":"Troi going with Clark, Leonardo and Lewis to the cow near -228,68,209. Hunger 17, 3 beef held for Trini, who is still not found.","reasoning":"Last intent failed on a blocked path
+- 09:50 act: {"actions":[{"do":"goto","target":{"x":-214,"y":68,"z":205}}],"say":"Troi: I see dropped items to the north-east near -214,68,205. Checking them; no cow in sight yet.","reasoning":"Cow not in sight. I
+- 09:50 act: {"actions":[{"do":"mine","block":"short_grass","count":4}],"say":"Troi: the items here are string and wool, no food. No cow in sight. I'm breaking grass for seeds and watching for the group.","reasoni
+- 09:54 act: {"actions":[],"say":"Troi: I hold 3 beef. Trini is still not found, so I'll give it to whoever is weakest in reach. Bcrusher at hunger 14, come to me and I'll hand you one now.","reasoning":"Trini mis
+- 09:57 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"beef","count":1},{"do":"give","to":"ag_bcrusher_01","item":"beef","count":1}],"say":"One beef each for Lewis and Bcrusher, both hungry. I keep the l
+- 09:57 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"beef","count":1}],"say":"Lewis, one beef for you now. Bcrusher already has his.","reasoning":"First give to Lewis failed; retry once with him in rea
+- 10:01 act: {"intent":{"goal":"reach_north_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_w
+- 10:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to bed at the north white bed. Trini, the last beef is yours when you turn up.","reasoning":"At the bed with p
+- 10:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Sleep failed at the south bed with a golem 23 blocks away. Try the other north bed tile, one new attempt."}
+- 10:03 act: {"actions":[],"say":"Sleep blocked again; golem about 15 blocks south. I'll stay with the group through the night and try the bed again at first light.","reasoning":"Two sleep refusals and a golem clo
+- 10:11 act: {"intent":{"goal":"join_meat_hunt_southeast","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":226}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 10:11 act: {"intent":{"goal":"join_meat_hunt_southeast","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":226}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 10:12 act: {"say":"I'm at the southeast cow and sheep area now. I can't see any animals or Trini yet. Trini, if you're near, say so and I'll bring you the beef."}

@@ -1,8 +1,19 @@
-# Handoff, day 276 (after sleep), latest
+# Handoff, day 278 (morning), latest
 
-- Slept on night 276 at the north white bed (-271,67,318). Standing at (-271,67,319). days_since_sleep 0.
-- Health about 10, hunger 20. Holding 3 beef, reserved for Trini first, then the hungriest in sight.
-- Near: Macdonald, Lewis, Clark, LaForge, Worf. Trini not found yet.
+- Position: about (-222,68,226), the southeast cow and sheep area, bright but dark-lit, not enclosed. Health 11.8, hunger 16.
+- Holding 1 beef (for Trini), 1 spare wooden sword (for Leonardo), 1 extra wooden sword. Lewis about 17 blocks away at last look.
+- No animals or Trini in sight here yet. Said aloud that I'm holding beef for Trini.
+- Next: look for Trini and animals with the group. Give beef to Trini if found, else to the weakest in reach. Give a sword to Leonardo when in reach. Try a free bed away from golems at dusk, then reflect.
+- Session superseded during a wait. No errand is half-done.
+
+# Handoff, day 277 (night), earlier
+
+- Position: about (-272,67,336), the south white bed, with Worf nearby. Not enclosed. Night.
+- Health 11.8, hunger 16. Holding 1 beef, reserved for Trini.
+- Beef already given: one each to Lewis and Bcrusher. Leonardo lost his gear and asked for a spare sword.
+- Sleep refused at the south white bed ("the way was blocked"). Iron golems 6 and 10 blocks north. Leonardo says he is trying a bed now.
+- Next at dawn: find Trini and give her the last beef. Try a free white bed away from golems, then reflect.
+- No errand is half-done.
 - Next at dawn: look for Trini and give her the beef. Search for cow near -228,68,209 and sheep near -227,69,224 with the group.
 - No errand is half-done.
 - Next: at dawn, find food with the group, Trini first. Try a free north bed (-270,67,318) when no creeper or golem is near, then run reflect.
