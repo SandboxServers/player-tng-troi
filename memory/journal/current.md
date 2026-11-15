@@ -1,4 +1,5 @@
 # Journal
+- Day 281 midday: at the north white bed (-270,67,318) with Kimberly, LaForge, Billy. No creeper or golem near. Sleep refused: not night. Health 11.8, hunger 15, no food. Waiting for dusk to sleep here.
 - Day 259 morning: scouted east to -229,68,305. No animals found. Breaking grass there for seeds. Health 20, hunger 20, no food, days since sleep 2.
 - Day 258 morning: scouted north-east to -250,67,321. No animals. Give of seed to Trini failed (items on ground near her); still holding the seed. Health 20, hunger 20.
 - Day 258 dawn: sleep at beds failed (creeper 7 blocks away); slept nothing, days since sleep 1. Health 20, hunger 20, no food. Gave my last wheat seed to Trini; going north-east with Lewis for animals.
@@ -445,3 +446,5 @@
 - 11:07 act: {"actions":[{"do":"note","text":"Sleep blocked at the south bed, golems 9 blocks south. Going north to the bed at -270,67,318."}],"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"ta
 - 11:07 act: {"actions":[{"do":"sleep"}]}
 - 11:09 act: {"say":"Troi, dawn day 281. No food on me either. I'll scout the grass near the beds with the group.","actions":[{"do":"goto","target":{"x":-278,"y":67,"z":326}}],"intent":{"goal":"scout_grass_for_ani
+- 11:12 act: {"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
+- 11:13 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi at the north white bed. No creeper or golem near. Trying to sleep. No food; I'll give anything I find to LaForg

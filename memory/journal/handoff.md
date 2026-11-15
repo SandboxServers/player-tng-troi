@@ -1,12 +1,12 @@
-# Handoff, day 278 (night), latest
+# Handoff, day 281 (midday), latest
 
-- Position: white beds at (-271,67,319), with Bcrusher, Clark, Kimberly, Lewis and Riker nearby. Not enclosed. Iron golem about 15 blocks south-east. Night, thunder.
-- Health 11.8, hunger 16, no food. Days since sleep 2. Sleep said "worked" but the counter did not reset.
-- Beef went to Bcrusher (a give to Lewis failed because the items went to Bcrusher). Trini was never found today; Macdonald was taking mutton to her.
-- Leonardo got a sword from Data, so my spare wooden sword is unassigned.
-- Kimberly has hunger 7 and no food.
-- Next: retry sleep in the bed; at first light search with the group, Trini first if seen.
-- Session superseded during a wait. No errand is half-done.
+- Position: (-270,67,318), at the north white bed, on planks. Bright, not enclosed. Kimberly, LaForge and Bcrusher beside me. Iron golem about 22 blocks south-west at last look.
+- Health 11.8 steady, hunger 15, no food in pack. Days since sleep 3.
+- Sleep at the north bed was refused at midday: "not night". Not yet slept.
+- Day 281 dawn: group checked the grass near the beds and the north-west; no animals. Zack and Billy scouting in sight or to the east.
+- Food rule: any meat goes to LaForge, then Trini, then Picard.
+- Next: at dusk, be at the north bed with the group and try sleep once, away from creepers and golems. Update this note, then run reflect.
+- Session superseded during a wait at midday. No errand is half-done.
 
 # Handoff, day 277 (night), earlier
 
