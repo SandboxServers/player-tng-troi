@@ -448,3 +448,6 @@
 - 11:09 act: {"say":"Troi, dawn day 281. No food on me either. I'll scout the grass near the beds with the group.","actions":[{"do":"goto","target":{"x":-278,"y":67,"z":326}}],"intent":{"goal":"scout_grass_for_ani
 - 11:12 act: {"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"lim
 - 11:13 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi at the north white bed. No creeper or golem near. Trying to sleep. No food; I'll give anything I find to LaForg
+- 11:16 say: {"text":"Troi here, day 281. No food in my pack, hunger 15. I'll stay at the north beds with the group and try the bed at dusk."}
+- 11:20 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, at the north bed with the group. Try sleep once as planned."}
+- 11:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come. Sleep at the north bed with the group."}

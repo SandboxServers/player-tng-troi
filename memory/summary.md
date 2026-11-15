@@ -1,5 +1,7 @@
 # Recent days
 
+Day 281 (life 2). Slept at the north white bed (-270,67,318) at dusk and again at night; sleep worked. No food in pack; hunger was 15 at midday. Group (Kimberly, LaForge, Bcrusher, Picard, Trini) is at the north beds. Food goes to LaForge, Trini, then Picard. Trini is low and holds wheat seed for Picard. Data and Worf went to the salmon lake for fish. Plan at dawn: search with the group for food, give it to LaForge and Trini first.
+
 Day 276 (life 2). Slept at the north white bed (-271,67,318) on night 276; days since sleep 0. Health about 10, hunger 20. Holding 3 beef reserved for Trini, who is still not found. Food came from Riker, Lewis and LaForge. Next: find Trini at dawn, then animals with the group (cow near -228,68,209).
 
 Day 252 (life 2). Woke alive at the white bed (-299,68,295) with empty hands; health 20, hunger 20 at that moment. Died earlier in the phantom fields and left my items there. Slept at the white bed by the crafting table at dusk; days since sleep now 0. No food in pack. Group is at the white beds; Trini holds the last chicken for whoever is weakest.
