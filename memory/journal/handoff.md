@@ -1,4 +1,12 @@
-# Handoff, day 246 (night), latest
+# Handoff, day 247 (night), latest
+
+- Position: (-272,67,336) at the south beds, moving to the north white beds (-270,67,318). Iron golem 5 blocks north. Not enclosed.
+- Health 14, hunger 14, no food. days_since_sleep 6. Sleep failed at south beds: beds occupied.
+- Pack: 4 oak_log, 3 oak_sapling, 3 stick, 5 wheat_seeds, wooden_sword, 3 oak_planks.
+- Any food goes to Trini first, then Data, then Riker. Group is near the beds.
+- No errand is half-done.
+
+# Handoff, day 246 (night)
 
 - Position: (-270,68,319), beside white beds (-270,67,318) and (-271,67,318), with the group. Not enclosed. Night, clear.
 - Health 16, hunger 14, no food. days_since_sleep 5.

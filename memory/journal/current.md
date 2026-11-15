@@ -122,3 +122,8 @@
 - 23:48 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat_seeds","count":5}],"say":"Troi at dawn, day 247. Sleep refused again (phantom). No food. Following Riker to the west lake for salmon, in sight
 - 23:50 act: {"actions":[{"do":"attack","target":"phantom"}]}
 - 23:50 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 23:54 say: {"text":"Troi: Riker, I'll walk with you to the lake shore in sight, but I won't board the boat. I know no safe shore spot. Any fish goes to Trini first, then Data."}
+- 00:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi trying the bed at dusk, day 247. No food; Trini first at light."}
+- 00:03 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 00:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi: heading to the north white beds away from the golem. No food; Trini first at light."}
+- 00:12 act: {"actions":[{"do":"goto","target":{"x":-288,"y":66,"z":320}}],"say":"Troi, dawn of day 248: searching the west grass in short steps near the group for animals or apples. Any food goes to Trini first, 
