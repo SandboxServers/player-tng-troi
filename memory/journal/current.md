@@ -92,3 +92,4 @@
 - 16:18 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":334}}],"say":"Wesley, I'm at the white beds with my last rotten flesh. Say when you're in reach.","reasoning":"Golem 1.6 away. Step clear, then w
 - 16:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}],"say":"Troi going to the white bed for the night with my last rotten flesh, held for Wesley or whoever drops to hunger 6.",
 - 16:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Try the bed again once night falls."}
+- 16:23 act: {"say":"Night. Going to the yellow bed to sleep. Wesley, I still have the rotten flesh for you at dawn.","actions":[{"do":"sleep"}],"reasoning":"Night, health 20, hunger 20, next to the yellow bed, go
