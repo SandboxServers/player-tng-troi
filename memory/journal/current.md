@@ -313,3 +313,8 @@
 - 05:50 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Troi with Data, dawn day 265. No food on me, hunger 15. I'll walk the grass to the north-east with you and call out any animal. Meat goes to Jas
 - 05:53 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":300}}],"say":"Troi going to the sheep field at -276,66,300 with Billy. No food; I'll call out any animal. Jason first for meat.","intent":{"goal"
 - 05:54 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-272,"y":67,"z":318}}],"say":"No sheep at the field; Data and Macdonald report the same. I'm heading back to the white beds with the group. Stil
+- 05:55 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":292}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damage"]
+- 06:03 act: {"intent":{"goal":"sleep_at_white_bed_by_table","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":294}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 06:03 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 06:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 06:06 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":295}},{"do":"sleep"}],"say":"Going to the white bed at -298,68,295 to sleep. No food yet; meat goes to Jason first."}
