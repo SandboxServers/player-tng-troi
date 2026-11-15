@@ -179,3 +179,8 @@
 - 01:19 act: {"actions":[{"do":"sleep"}]}
 - 01:24 act: {"actions":[{"do":"sleep"}]}
 - 01:26 act: {"actions":[{"do":"sleep"}]}
+- 01:28 act: {"intent":{"goal":"reach_pig_south","program":"travel","arguments":{"target":{"x":-255,"y":67,"z":239}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"lim
+- 01:29 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}],"say":"Hurt, health 8, and nothing to eat. Heading back north to the group at the beds."}
+- Day 252 dawn: pig route south was cut short by a phantom (health 14 to 8). Fled north to the group at the white beds. Hunger 14, no food. Staying with the group to hunt pigs together.
+- 01:29 act: {"say":"Troi back at the north white beds with the group, health 8, hunger 14, no food. A phantom chased me off the pig route. I'll stay with the group and go for the pigs together when we can.","inte
+- 01:30 act: {"say":"Kimberly, yes, let's go together for the pigs at -255,239. I have a worn wooden sword and health 8. Data, Jason, come too. Trini and Worf get any meat first."}
