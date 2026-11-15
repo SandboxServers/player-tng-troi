@@ -50,3 +50,32 @@
 - 14:36 act: {"actions":[{"do":"goto","target":{"x":-216,"y":69,"z":351}}],"intent":{"goal":"join_pig_hunt","program":"travel","arguments":{"target":{"x":-216,"y":69,"z":351}},"wake_on":["directly_addressed","goal
 - 14:41 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":3000,"ma
 - 14:42 act: {"reasoning":"Night, bed under me, safe enough. Sleep here, then reflect.","say":"Troi at the white bed for the night. Food at dawn with the group.","actions":[]}
+- 14:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Troi at the south white bed, health 20, hunger 20. No food on me. Golems to the south, so I stay by the beds until dawn, then food 
+- 14:43 act: {"actions":[{"do":"sleep"}],"say":"Troi at the south white bed, health 20, hunger 20. Sleeping through the night. Food at dawn with the group."}
+- 14:51 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":347}}],"say":"Troi awake at dawn 292, health 20, hunger 20. I hold no food, so the lowest get first call. Going east with the group to look for p
+- 14:51 act: {"actions":[{"do":"goto","target":{"x":-214,"y":69,"z":351}}],"say":"Troi stuck on a ledge at -262,65,347; trying the pig area by another way, following Picard.","intent":{"goal":"reach_pig_area","pro
+- 14:51 act: {"actions":[],"say":"Troi at the pig area -215,69,351 with Picard, Leonardo and Riker. No pigs in sight. Call out any pig or cow, and I will walk to it."}
+- 15:00 act: {"intent":{"goal":"step_aside_for_shelter","program":"travel","arguments":{"target":{"x":-211,"y":69,"z":351}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":600,"max_bl
+- 15:00 act: {"intent":{"goal":"reach_south_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 15:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Back at the south white bed with Kimberly, Lewis and Jason. I am trying to sleep."}
+- 15:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 15:01 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":337}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 15:02 act: {"actions":[{"do":"sleep"}]}
+- 15:02 act: {"actions":[{"do":"sleep"}]}
+- 15:03 act: {"actions":[{"do":"sleep"}],"say":"Troi at the white beds with Kimberly. No food, hunger 20. Trying sleep again."}
+- 15:08 act: {"actions":[{"do":"sleep"}]}
+- 15:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep failed: way blocked. Golem 3.9 north. Move onto the bed tile and try once more; if blocked, wait."}
+- 15:09 act: {"intent":{"goal":"join_food_hunt","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 15:10 act: {"intent":{"goal":"return_to_north_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 15:14 act: {"say":"Troi: I'm at hunger 20, not in need. Chicken goes to LaForge and Riker first, then Zack and Leonardo.","intent":{"goal":"hold_at_north_beds","program":"rest","arguments":{},"wake_on":["directl
+- 15:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, at the north white bed, golem 20 blocks away. Try sleep here with the group."}
+- 15:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep blocked at the south bed with golems 12 to the south. Move north to the north bed away from golems and t
+- 15:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Failed again at the south bed. Go to the other north bed tile and try once. Golems are south."}
+- 15:31 act: {"actions":[{"do":"give","to":"laforge_01","item":"chicken","count":1}],"say":"Dawn 294. I'm giving my raw chicken to LaForge, who is in reach. Bcrusher and Wcrusher are at health 2, so meat goes to t
+- 15:31 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Golems closing from the south, 10 blocks. I'm moving north to the north beds. My chicken goes to whoever is weakest in reach there.
+- 15:31 act: {"actions":[],"say":"Wcrusher is the weakest at health 2 and is at the south farm. I'm holding my raw chicken for him. Whoever brings him to reach, tell me and I'll hand it over.","intent":{"goal":"ho
+- 15:35 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":327}}],"say":"Wesley, I'm bringing my raw chicken to you at the south farm. Stay where you are."}
+- 15:36 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":331}}]}
+- 15:36 act: {"actions":[{"do":"give","to":"wcrusher_01","item":"chicken","count":1}],"say":"Wcrusher, here is my raw chicken. Eat it now."}
+- 15:36 act: {"actions":[],"say":"The chicken went to Zack, not Wesley; the hand-over landed on him. Zack, he's at hunger 9, so eat it if you need it, or pass it to Wesley, who is at health 2."}
+- 15:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Dusk. The chicken is with Data for Wesley now. I'm going to the north beds to try sleep, away from the golems."}

@@ -1,4 +1,13 @@
-# Handoff, night 291, latest
+# Handoff, day 293, latest
+
+- At the north white beds (-270,67,318), daylight, not enclosed. Health 20, hunger 20, no food in pack.
+- Sleep failed twice at the south bed on night 292 ("way was blocked"). days_since_sleep 2.
+- Pig area (-213,69,349) visited at dawn: no pigs. Picard and Macdonald marked slain on signs.
+- Food rule: LaForge and Riker first, then Zack and Leonardo. I am full, so I give rather than take.
+- Connection errors (POST) after the last wait. Retry wait and status first.
+- No errand half-done. Next: at dusk, try sleep at the north bed (-270,67,318) when no golem is adjacent.
+
+# Older: handoff, night 291
 
 - Slept at the south white bed (-270,67,336) on night 291; sleep worked, days_since_sleep 0.
 - Health 20, hunger 20 at sleep. No food in pack. Holding a wooden spear.
