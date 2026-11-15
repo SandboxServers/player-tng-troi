@@ -1,4 +1,12 @@
-# Handoff, day 262 (dawn), latest
+# Handoff, day 263 (night), latest
+
+- Position: about (-272,67,336), by the south white beds, with Zack and Riker. Not enclosed. Night, clear.
+- Sleep refused at -281,67,320: "the way was blocked" (golems about 9 blocks south). Not yet slept; days_since_sleep 6.
+- Health 20, hunger 16, no food, pack empty. Worf holds rotten flesh.
+- Next: at dawn, stay in sight of the group and look for animals. Any meat goes to Worf, then Trini. Try a free bed at next dusk, away from golems, then run reflect.
+- No errand is half-done.
+
+# Handoff, day 262 (dawn), earlier
 
 - Position: about (-284,66,319), on grass, bright, with LaForge and Beverly, in sight of the west search (Billy, Zack, Riker, Data, Trini).
 - Health 20, hunger 20, no food, pack empty. days_since_sleep 5.

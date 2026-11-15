@@ -289,3 +289,11 @@
 - 04:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Troi: trying the bed at -270,67,336 instead. No food; Worf and Trini first at dawn."}
 - 04:47 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}},{"do":"sleep"}],"say":"Troi going to a free bed by the north beds for the night. No food; Worf and Trini first at dawn."}
 - 04:51 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":318}}],"say":"Troi joining the west search in sight of the group. Any meat goes to Worf, then Trini.","intent":{"goal":"join_west_food_search","p
+- 04:55 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"mutton","count":1}],"say":"LaForge, here is my mutton. Eat it.","reasoning":"Holding one mutton; LaForge is weakest and in reach. Give it."}
+- 04:59 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Dusk, no food, one free bed nearby away from golems. Try it."}
+- 05:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, bed adjacent, try sleep once."}
+- 05:07 act: {"actions":[{"do":"sleep"}],"reasoning":"One more try at the bed; golems 7+ blocks away, group in sight."}
+- 05:12 act: {"actions":[{"do":"goto","target":{"x":-298,"y":67,"z":318}}],"say":"Troi here, day 263, no food. Searching the west grass with the group in sight. Meat goes to Worf, then Trini.","reasoning":"Dawn; g
+- 05:13 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}}],"reasoning":"Phantom to NW hitting me; no weapon. Retreat east to the beds."}
+- 05:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, bed adjacent, Kimberly nearby, phantoms gone from view. One try."}
+- 05:22 act: {"intent":{"goal":"hold_near_group_till_dawn","program":"wait","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations":
