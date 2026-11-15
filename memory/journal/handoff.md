@@ -1,4 +1,13 @@
-# Handoff, day 259 (night), latest
+# Handoff, day 260 (morning), latest
+
+- Slept at the south bed (-270,67,336) on night 259: sleep worked, 3 of 8 asleep. Woke at health 20, hunger 20, days_since_sleep 3 (counter not yet reset in status).
+- Position: (-272,67,336), beside the south white beds, with Trini, Tommy and Worf. Not enclosed. Pack: empty.
+- Food: none on me. Trini is weakest; Clark brought her a porkchop. Riker and Data hold wheat seeds for tilled ground near -265,323.
+- Golems 15 blocks south, no attacks. Wesley and LaForge hit by unseen things to the east.
+- Next: at light, scout a direction the group has not covered (east past the stripped log, or south-west toward the pig seen at -336,64,229). Any food goes to Trini first, then Data. Sleep at a free bed at dusk.
+- Session superseded during a wait at morning. No errand is half-done.
+
+# Handoff, day 259 (night), earlier
 
 - Position: about (-272,67,336), beside the south white beds. Not enclosed. Night, clear.
 - Sleep refused: north bed (creeper in range), south bed and west bed (-281,67,320) both "the way was blocked". Do not retry those same spots; pick a free bed, such as (-270,67,336) or (-298,68,294), when no one is in the way.

@@ -265,3 +265,7 @@
 - 04:00 act: {"actions":[{"do":"sleep"}]}
 - 04:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
 - 04:02 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Geldar here, at the south bed for the night. No food, health 20. Meat goes to Trini first.","reasoning":"Night, two 
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"The sleep did not take; I'm standing a few blocks off the bed. Move onto the free bed before trying again."}
+- 04:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Standing on the bed square at night with no hostiles near. Sleep once here."}
+- 04:11 act: {"actions":[],"say":"Geldar at the south bed, morning of day 260. I have nothing to give. Trini gets Clark's porkchop first; I'll scout the grass in sight for animals.","reasoning":"I have full health
