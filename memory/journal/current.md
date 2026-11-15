@@ -479,3 +479,10 @@
 - 12:09 say: {"text":"Troi, dawn of day 284. No food. I'll scout the grass north of the beds with Zack and Kimberly. Call out any animal."}
 - 12:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_north_bed_at_dusk","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addres
 - 12:21 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}]}
+- 12:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the north bed to sleep. Hunger is 14 and I have no food.","intent":{"goal":"reach_bed_and_sleep","program":
+- 12:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Trying the bed beside Jason. No food on me; I will eat first at dawn."}
+- 12:23 act: {"actions":[],"intent":{"goal":"wait_for_dawn_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block
+- 12:26 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":331}}],"say":"Troi going to the wheat patch at dawn. Picard and Trini get the first wheat; I will take what is left."}
+- 12:26 act: {"actions":[],"intent":{"goal":"hold_near_beds_for_food_news","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
+- 12:32 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":240}}],"say":"Troi, day 285, hunger 12, no food. Scouting north toward the sheep field for animals. Anything found goes to Picard, then Trini.","
+- 12:32 act: {"actions":[],"say":"Troi at the north sheep field, midday. No sheep or animals here. Heading back toward the group at the beds; Picard and Trini first for any food.","intent":{"goal":"return_to_group
