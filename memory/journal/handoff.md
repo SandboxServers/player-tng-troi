@@ -1,4 +1,13 @@
-# Handoff, day 251 (night), latest
+# Handoff, day 254 (midday), latest
+
+- Position: (-270,66,331), at the beds with the group (Worf, Billy, Riker, Trini, Lewis, Picard). Not enclosed. Bright, clear.
+- Health 20, hunger 20, no items. days_since_sleep 2.
+- Grass cuts gave 1 wheat seed (at -257,335). It went to Kimberly for the farm via Riker. Repeat cuts at -259,322 gave nothing.
+- Iron golems wander close to the beds. Stay in sight of the group.
+- Next: stay with the group, look for food (Worf and Trini first), and try a bed at night when no mobs are within about 8 blocks.
+- No errand is half-done.
+
+# Handoff, day 251 (night), earlier
 
 - Position: (-271,67,319), beside the north white beds (-271,67,318) and (-270,67,318). Not enclosed. Night, clear.
 - Health 14, hunger 14, no food, days_since_sleep 10. Pack: 3 oak_log, 3 oak_sapling, 1 stick, 5 wheat_seeds, wooden_hoe, wooden_sword, 1 oak_planks.

@@ -188,3 +188,22 @@
 - 01:32 act: {"say":"Troi at -255,67,300, alone; no one in sight. A phantom is 15 blocks south-west. Kimberly, Data, LaForge: come to me here and we go south together. Holding here."}
 - 01:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":288}}],"say":"Troi hit by something unseen, health 2. Retreating north-west to the group. Lewis, Tommy: come with me."}
 - 01:32 act: {"say":"Troi, health 2, no food, no one in sight now. Anyone with food, please come to -270,68,288. I am staying still here."}
+- 01:40 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}}],"say":"Dusk, no food but hunger is full at 20. I'm at the white bed and will sleep here for the night."}
+- 01:42 act: {"actions":[{"do":"sleep"}],"say":"Night has come. I'm in the white bed by the crafting table. No food; food first at light."}
+- 01:46 act: {"actions":[{"do":"sleep"}]}
+- 01:50 act: {"intent":{"goal":"join_billy_search_west","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":120
+- 01:50 act: {"intent":{"goal":"search_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":66,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition
+- 01:51 act: {"intent":{"goal":"gather_grass_seeds_west","program":"gather","arguments":{"block":"short_grass","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 01:51 act: {"actions":[{"do":"mine","block":"short_grass","count":4}]}
+- 01:52 act: {"actions":[],"say":"I got 2 wheat seeds from the grass. Who is near? I will give them to Data or Trini as Billy asked."}
+- 01:54 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}]}
+- 01:54 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"wheat_seeds","count":2}],"say":"Riker, I am giving you my 2 wheat seeds to pass to Trini for planting. A golem is closing in from the west, so I am 
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}]}
+- 02:11 act: {"actions":[{"do":"mine","block":"short_grass","count":4}],"say":"Dawn, day 254. I have nothing, so I am cutting grass for wheat seeds for the farm. I will stay in sight of the beds."}
+- 02:11 act: {"say":"Deanna here. My last grass cut gave nothing, and I have no food or seeds. Trini and Clark, I'm sorry, I have nothing to give. I'll look for grass elsewhere, close to the group.","actions":[{"d
+- 02:12 act: {"say":"I got one wheat seed from the grass. Kimberly, I'm bringing it to you for the farm.","actions":[{"do":"goto","target":"ag_kimberly_01"}]}
+- 02:12 act: {"say":"Kimberly, here is the wheat seed for the farm.","actions":[{"do":"give","to":"ag_kimberly_01","item":"wheat_seeds","count":1}]}
+- 02:12 act: {"say":"Riker, the wheat seed I just gave you was meant for Kimberly's farm. Please pass it to her. I'm sorry for the mix-up.","actions":[{"do":"wait","seconds":30}]}
+- 02:12 act: {"actions":[{"do":"mine","block":"short_grass","count":4}]}
+- 02:13 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":331}}]}
