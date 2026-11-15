@@ -1,4 +1,5 @@
 # Journal
+- Day 281 night: slept at north white bed (-270,67,318) with the group; sleep worked, days since sleep 0. No food, hunger 15, health 11.8. Trini and Picard still need food first.
 - Day 281 midday: at the north white bed (-270,67,318) with Kimberly, LaForge, Billy. No creeper or golem near. Sleep refused: not night. Health 11.8, hunger 15, no food. Waiting for dusk to sleep here.
 - Day 259 morning: scouted east to -229,68,305. No animals found. Breaking grass there for seeds. Health 20, hunger 20, no food, days since sleep 2.
 - Day 258 morning: scouted north-east to -250,67,321. No animals. Give of seed to Trini failed (items on ground near her); still holding the seed. Health 20, hunger 20.
@@ -451,3 +452,4 @@
 - 11:16 say: {"text":"Troi here, day 281. No food in my pack, hunger 15. I'll stay at the north beds with the group and try the bed at dusk."}
 - 11:20 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, at the north bed with the group. Try sleep once as planned."}
 - 11:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come. Sleep at the north bed with the group."}
+- 11:23 act: {"say":"Troi here at the north white bed, night of day 281. No food on me, hunger 15. Going to sleep with the group.","actions":[{"do":"sleep"}]}
