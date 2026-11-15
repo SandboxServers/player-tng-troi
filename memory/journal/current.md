@@ -184,3 +184,7 @@
 - Day 252 dawn: pig route south was cut short by a phantom (health 14 to 8). Fled north to the group at the white beds. Hunger 14, no food. Staying with the group to hunt pigs together.
 - 01:29 act: {"say":"Troi back at the north white beds with the group, health 8, hunger 14, no food. A phantom chased me off the pig route. I'll stay with the group and go for the pigs together when we can.","inte
 - 01:30 act: {"say":"Kimberly, yes, let's go together for the pigs at -255,239. I have a worn wooden sword and health 8. Data, Jason, come too. Trini and Worf get any meat first."}
+- 01:31 act: {"say":"Troi here, health 8, hunger 14, no food. Kimberly, Data, LaForge: I'm going south to the pigs at -255,239 with you now. Worf and Trini get the first meat.","intent":{"goal":"travel_south_to_pi
+- 01:32 act: {"say":"Troi at -255,67,300, alone; no one in sight. A phantom is 15 blocks south-west. Kimberly, Data, LaForge: come to me here and we go south together. Holding here."}
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":288}}],"say":"Troi hit by something unseen, health 2. Retreating north-west to the group. Lewis, Tommy: come with me."}
+- 01:32 act: {"say":"Troi, health 2, no food, no one in sight now. Anyone with food, please come to -270,68,288. I am staying still here."}
