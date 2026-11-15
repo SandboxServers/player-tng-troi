@@ -79,3 +79,4 @@
 - 15:36 act: {"actions":[{"do":"give","to":"wcrusher_01","item":"chicken","count":1}],"say":"Wcrusher, here is my raw chicken. Eat it now."}
 - 15:36 act: {"actions":[],"say":"The chicken went to Zack, not Wesley; the hand-over landed on him. Zack, he's at hunger 9, so eat it if you need it, or pass it to Wesley, who is at health 2."}
 - 15:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Dusk. The chicken is with Data for Wesley now. I'm going to the north beds to try sleep, away from the golems."}
+- 15:44 act: {"actions":[{"do":"sleep"}],"say":"Night. Troi at the north white bed with the group. No food, health 20. Wesley, if you are close, I have nothing to give tonight."}

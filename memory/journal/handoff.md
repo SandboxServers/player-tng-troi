@@ -1,4 +1,12 @@
-# Handoff, day 293, latest
+# Handoff, night 294, latest
+
+- Slept at the north white bed (-270,67,318) on night 294; sleep worked, days_since_sleep 0. Sheltered, not enclosed.
+- Health about 20 at sleep, hunger low-ish. No food in pack.
+- Raw chicken was passed toward Wesley (health 2) via Zack and Data. Trini holds 1 wheat for Wesley, to give when he is within arm's reach at the north beds (-272,67,319).
+- Food rule: Wesley first (weakest), then LaForge and Riker, then Zack and Leonardo.
+- No errand half-done. Next: at dawn, food hunt with the group; give any food to Wesley first.
+
+# Handoff, day 293, earlier
 
 - At the north white beds (-270,67,318), daylight, not enclosed. Health 20, hunger 20, no food in pack.
 - Sleep failed twice at the south bed on night 292 ("way was blocked"). days_since_sleep 2.
