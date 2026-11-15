@@ -453,3 +453,29 @@
 - 11:20 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, at the north bed with the group. Try sleep once as planned."}
 - 11:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come. Sleep at the north bed with the group."}
 - 11:23 act: {"say":"Troi here at the north white bed, night of day 281. No food on me, hunger 15. Going to sleep with the group.","actions":[{"do":"sleep"}]}
+- 11:24 say: {"text":"Troi awake at the north beds, night 281. No food on me, hunger 15. I'll search with the group at first light; any food goes to LaForge, Trini, then Picard."}
+- 11:30 act: {"intent":{"goal":"search_sheep_field_for_mutton","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":240}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition
+- 11:31 act: {"intent":{"goal":"break_grass_for_seeds_north","program":"gather","arguments":{"block":"short_grass","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 11:32 act: {"intent":{"goal":"return_to_north_beds_with_seeds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditi
+- 11:32 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wheat_seeds","count":2}],"say":"Billy, here are my 2 wheat seeds from the north grass. Plant them where Clark or Wesley is farming, or give them on.
+- 11:32 act: {"intent":{"goal":"search_sheep_field","program":"travel","arguments":{"target":{"x":-227,"y":69,"z":224}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damage"],"
+- 11:37 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-200,"y":69,"z":224}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damage
+- 11:37 act: {"actions":[{"do":"unstick"}]}
+- 11:37 act: {"intent":{"goal":"return_to_north_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damage"]
+- 11:42 act: {"actions":[{"do":"sleep"}]}
+- 11:43 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 11:43 act: {"intent":{"goal":"reach_north_bed_away_from_golems","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpec
+- 11:46 act: {"actions":[{"do":"sleep"}],"say":"Troi at the north white bed, trying to sleep once more. No food; food goes to LaForge, then Trini, then Picard."}
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Troi: a creeper is 6 blocks away, so sleep was refused. Moving back to the north beds with Riker."}
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi: no creeper in sight now, trying the north bed at -270,67,318 once. No food; LaForge, Trini, Picard first at da
+- 11:49 act: {"intent":{"goal":"search_pig_lead_with_group","program":"follow","arguments":{"target":"ag_riker_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 11:51 act: {"intent":{"goal":"stay_with_group_for_pig_hunt","program":"follow","arguments":{"target":"ag_riker_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
+- 11:55 act: {"say":"Troi here. No food on me. I'm following Riker on the pig hunt. Meat goes to LaForge, then Trini, then Picard.","intent":{"goal":"follow_riker_pig_hunt","program":"follow","arguments":{"target"
+- 11:55 say: {"text":"Troi at the north beds, no food. Riker is out of my sight, so I'll hold here. Call out any animal you see."}
+- 11:59 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":325}}]}
+- 12:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 12:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 12:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 12:09 say: {"text":"Troi, dawn of day 284. No food. I'll scout the grass north of the beds with Zack and Kimberly. Call out any animal."}
+- 12:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_north_bed_at_dusk","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addres
+- 12:21 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}]}

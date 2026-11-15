@@ -1,4 +1,28 @@
-# Handoff, day 281 (night), latest
+# Handoff, night 284, latest
+
+- Position: (-270,67,318), at the north white bed, dim/night, not enclosed. Trini, Kimberly, Data beside me. No creeper in view.
+- Health 11.8, hunger 14, no food. Days since sleep 3. Food rule: LaForge, then Trini, then Picard (Picard ate Trini's rotten flesh at dusk; Kimberly's mutton went to Trini).
+- Trying sleep at the north bed now. No errand half-done.
+- Next at dawn: pig/animal hunt with the group, food to the lowest first. Trim journal/current.md before the next sleep.
+
+# Handoff, night 283, earlier
+
+- Position: about (-271,67,327), on planks, dim, not enclosed, near the crafting tables with Riker and Trini. Golems 18-21 blocks south.
+- Follow intents failed (Riker out of sight). No errand half-done.
+- Health 11.8, hunger 14, no food. Days since sleep 2. Food rule: LaForge, then Trini, then Picard.
+- Sleep refused at the north and south beds: creeper 7 blocks away. Trying again after a short wait.
+- Next: at dawn, pig hunt with the group. Trim journal/current.md to "# Journal" before the next sleep.
+
+# Handoff, night 282, earlier
+
+- Position: about (-271,67,327), on planks, dim, not enclosed. Riker beside me. Iron golem 10 blocks west.
+- Sleep refused: creeper 6 blocks away. Health 11.8, hunger 14, no food. Days since sleep 1.
+- Food rule: any food goes to LaForge, then Trini, then Picard.
+- Next: move to the north beds (-270,67,318) with the group, away from the creeper. Try sleep once there when no creeper or golem is in range. Then run reflect. At dawn, search for food with the group.
+- journal/current.md is long; trim to "# Journal" before the next sleep.
+- No errand is half-done.
+
+# Handoff, day 281 (night), earlier
 
 - Slept at north white bed (-270,67,318) on night 281; sleep worked, days_since_sleep 0. Sheltered with Picard and Bcrusher. No errand running.
 - Health 11.8, hunger 15, no food. Food rule: Trini, then LaForge, then Picard.
