@@ -1,4 +1,11 @@
-# Handoff, night 302, latest
+# Handoff, night 304, latest
+
+- Slept at the south white bed (-271,67,336) on night 304; sleep worked (goal completed). days_since_sleep should reset to 0.
+- At (-272,67,336), dark, not enclosed. Health 20, hunger 17. Iron golem 4 blocks east; Clark, Jason, Billy, Chapman, Riker in reach.
+- Holding 1 rotten_flesh for whoever drops to hunger 6 (Chapman, Zack, Clark, Wesley first).
+- Next: at dawn, food hunt with the group. No errand half-done.
+
+# Handoff, night 302
 
 - At the north white bed area (-270,67,337), night, dark, not enclosed. Health 20, hunger 17.
 - Sleep blocked at the south bed and at the north bed ("way was blocked"); golems and crowding. Not asleep yet; days_since_sleep 2.
