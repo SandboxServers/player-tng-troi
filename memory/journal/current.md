@@ -15,3 +15,16 @@
 - 13:49 act: {"actions":[{"do":"goto","target":{"x":-280,"y":66,"z":333}}],"say":"It's bright now. I'm going to my dropped things at -280,66,333 and will pick up the rotten flesh and the sword.","intent":{"goal":"
 - 13:49 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":330}}],"say":"I'm picking up what's on the ground by the sign at -281,66,330, hoping for the rotten flesh."}
 - 13:49 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"I have the rotten flesh. Golems are closing from the south, so I'm going back north to the beds.","intent":{"goal":"retreat_to_beds
+- 13:55 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"beef","count":1}],"say":"Troi here, hunger 20. Trini, you are weakest in reach, so I'm giving you my beef now. Eat it.","reasoning":"Trini is weakes
+- 13:59 act: {"actions":[],"say":"Troi, hunger 20. I hold LaForge's chicken. Leonardo is lowest (11) but not in reach. Leonardo or Picard, come within arm's reach and say so; I'll hand it over.","reasoning":"Full;
+- 14:03 act: {"actions":[{"do":"sleep"}],"say":"Troi, night 289, hunger 20. Leonardo, I can't see you from here. I'm holding LaForge's chicken for you; come within arm's reach and I'll give it at first light.","re
+- 14:04 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"chicken","count":1}],"say":"Leonardo, here is LaForge's chicken. You are the hungriest in reach. Eat it when your hunger is 6 or below.","reasoni
+- 14:04 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":338}}],"say":"Troi moving east, away from the golems. Leonardo, I still hold the chicken for you; call out when you are in sight.","reasoning":"G
+- 14:07 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":330}}],"reasoning":"Golems closing from west/southwest at night. Move northeast away from them, unsheltered but clear."}
+- 14:11 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"say":"Troi coming to you, Leonardo, with the chicken. Hold still and say when I'm in sight.","reasoning":"Leonardo is hungriest asking for the chi
+- 14:11 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":321}}],"say":"Troi here, going to the north beds. I hold LaForge's chicken for whoever is lowest in sight: Zack and Leonardo, say where you are."
+- 14:16 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":335}},{"do":"give","to":"Leonardo","item":"chicken","count":1}],"say":"Troi: walking to Leonardo at the south bed with LaForge's chicken. Leonard
+- 14:16 act: {"actions":[],"say":"Troi at the south bed (-272,67,336) with LaForge's chicken. Leonardo, Zack: I can't see you. Walk into sight and I'll hand it over. Billy, Trini, if you see them first, tell them 
+- 14:18 act: {"actions":[{"do":"give","to":"Leonardo","item":"chicken","count":1}],"say":"Leonardo, here is the chicken.","reasoning":"Leonardo says he is one block away at -273,67,337. Try the hand-over now."}
+- 14:18 act: {"actions":[{"do":"give","to":"Zack","item":"chicken","count":1}],"say":"Zack, Leonardo is out of my sight, and you are in reach at hunger 10 like him. Giving you the chicken. Leonardo, you get the ne
+- 14:18 act: {"actions":[],"say":"Troi: the chicken is still in my hands. Leonardo or Zack, step into my sight and say so; I'll hand it over.","reasoning":"Two give attempts failed with no one in sight, despite li
