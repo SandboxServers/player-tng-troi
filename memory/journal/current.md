@@ -216,3 +216,4 @@
 - 02:32 act: {"say":"Troi here, day 255, hunger 20, no food in my pack. I'll search the grass to the west in sight of camp for seeds or meat. Kimberly, could you spare seeds for the wheat?","intent":{"goal":"searc
 - 02:32 act: {"say":"Troi at the west grass, midday day 255. No food yet. I'm breaking short grass for seeds; any seed goes to Wesley's farm, and food goes to Trini first.","intent":{"goal":"gather_grass_seeds","p
 - 02:32 act: {"say":"Troi here, midday day 255. Kimberly, your seed did not reach my pack; could you give it to Wesley for the tilled ground? I'll stay near the beds and watch for golems.","intent":{"goal":"stay_w
+- 02:35 act: {"intent":{"goal":"reach_white_bed_north","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"

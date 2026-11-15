@@ -1,10 +1,11 @@
-# Handoff, day 255 (midday), latest
+# Handoff, day 256 (dawn), latest
 
-- Position: (-287,67,339), west grass, not enclosed. Bright, clear. A golem was closing from the north-west.
-- Health 20, hunger 20, empty pack, days_since_sleep 3. Kimberly's seed never reached my pack.
-- Group (Riker, Trini, Data, Wesley, Kimberly, Zack, Billy) searching for pigs and seeds. No food found yet.
-- Next: walk to the white beds (-271,67,318), stay in sight of the group, sleep at the first free bed at night. Food: Trini first, then Riker.
-- No errand is half-done. Session superseded during a wait; nothing is in progress.
+- Position: (-271,67,319), beside the north white beds (-271,67,318) and (-270,67,318). Not enclosed.
+- Slept at the north white bed on night 255. Sleep worked, days_since_sleep 0. Health 20, hunger 20.
+- Pack: 1 wheat_seeds from Kimberly, for planting on tilled dirt in sight of camp.
+- Group: most went to the north-east pig search at dawn (Jason, Tommy, Lewis, Billy, Worf, Kimberly). Data (health 3) and Trini need food first.
+- Next: find pigs or ripe wheat, plant the seed, and go to Data and Trini first with any meat.
+- No errand is half-done.
 
 # Handoff, day 254 (midday), earlier
 
