@@ -487,3 +487,7 @@
 - 12:32 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":240}}],"say":"Troi, day 285, hunger 12, no food. Scouting north toward the sheep field for animals. Anything found goes to Picard, then Trini.","
 - 12:32 act: {"actions":[],"say":"Troi at the north sheep field, midday. No sheep or animals here. Heading back toward the group at the beds; Picard and Trini first for any food.","intent":{"goal":"return_to_group
 - 12:33 act: {"say":"Troi back at the beds, midday. No food in my pack. I'll watch the wheat at (-273,66,332) and join any animal hunt.","intent":{"goal":"wait_at_beds_for_food","program":"rest","arguments":{},"wa
+- 12:38 act: {"say":"Troi here, no food, hunger 12. Picard and Trini, make the bread; I'll scout for animals with Billy at dawn."}
+- 12:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 12:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
+- 12:44 act: {"actions":[{"do":"sleep"}]}

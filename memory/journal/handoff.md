@@ -1,4 +1,12 @@
-# Handoff, night 284, latest
+# Handoff, night 285, latest
+
+- Position: about (-271,67,318), at the north white bed, dim/night, not enclosed. Billy, Bcrusher, Data, Trini within 5 blocks. No creeper or golem seen.
+- Health 11.8, hunger 12, no food in pack. Days since sleep 1.
+- Picard is making bread from ripe wheat; Trini has 2 wheat. Food rule: LaForge, then Trini, then Picard.
+- Trying sleep at the north white bed now. No errand half-done.
+- Next at dawn: scout for animals with Billy. Trim journal/current.md before the next sleep.
+
+# Handoff, night 284
 
 - Position: (-270,67,318), at the north white bed, dim/night, not enclosed. Trini, Kimberly, Data beside me. No creeper in view.
 - Health 11.8, hunger 14, no food. Days since sleep 3. Food rule: LaForge, then Trini, then Picard (Picard ate Trini's rotten flesh at dusk; Kimberly's mutton went to Trini).
