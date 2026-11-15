@@ -1,9 +1,11 @@
-# Handoff, day 278 (morning), latest
+# Handoff, day 278 (night), latest
 
-- Position: about (-222,68,226), the southeast cow and sheep area, bright but dark-lit, not enclosed. Health 11.8, hunger 16.
-- Holding 1 beef (for Trini), 1 spare wooden sword (for Leonardo), 1 extra wooden sword. Lewis about 17 blocks away at last look.
-- No animals or Trini in sight here yet. Said aloud that I'm holding beef for Trini.
-- Next: look for Trini and animals with the group. Give beef to Trini if found, else to the weakest in reach. Give a sword to Leonardo when in reach. Try a free bed away from golems at dusk, then reflect.
+- Position: white beds at (-271,67,319), with Bcrusher, Clark, Kimberly, Lewis and Riker nearby. Not enclosed. Iron golem about 15 blocks south-east. Night, thunder.
+- Health 11.8, hunger 16, no food. Days since sleep 2. Sleep said "worked" but the counter did not reset.
+- Beef went to Bcrusher (a give to Lewis failed because the items went to Bcrusher). Trini was never found today; Macdonald was taking mutton to her.
+- Leonardo got a sword from Data, so my spare wooden sword is unassigned.
+- Kimberly has hunger 7 and no food.
+- Next: retry sleep in the bed; at first light search with the group, Trini first if seen.
 - Session superseded during a wait. No errand is half-done.
 
 # Handoff, day 277 (night), earlier
