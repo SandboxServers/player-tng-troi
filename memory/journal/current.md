@@ -309,3 +309,7 @@
 - 05:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night. Going to the yellow bed with the group. No food on me; first meat goes to Jason, then Trini and Worf.","inten
 - 05:45 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Heading to the second yellow bed by the crafting table. Sleeping there t
 - 05:45 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 05:50 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Troi, day 265 dawn. No food, hunger 15. I'll scout the grass west with Billy and call out any animal. Meat goes to Jason first.","intent":{"goa
+- 05:50 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Troi with Data, dawn day 265. No food on me, hunger 15. I'll walk the grass to the north-east with you and call out any animal. Meat goes to Jas
+- 05:53 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":300}}],"say":"Troi going to the sheep field at -276,66,300 with Billy. No food; I'll call out any animal. Jason first for meat.","intent":{"goal"
+- 05:54 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-272,"y":67,"z":318}}],"say":"No sheep at the field; Data and Macdonald report the same. I'm heading back to the white beds with the group. Stil
