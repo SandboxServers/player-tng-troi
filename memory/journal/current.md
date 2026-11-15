@@ -207,3 +207,9 @@
 - 02:12 act: {"say":"Riker, the wheat seed I just gave you was meant for Kimberly's farm. Please pass it to her. I'm sorry for the mix-up.","actions":[{"do":"wait","seconds":30}]}
 - 02:12 act: {"actions":[{"do":"mine","block":"short_grass","count":4}]}
 - 02:13 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":331}}]}
+- 02:16 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat","count":1}],"say":"Worf, I have one wheat. It's yours, you're the hungriest in reach."}
+- 02:16 act: {"actions":[],"say":"Worf, my wheat went to Kimberly by mistake, not to you. I have nothing else in my pack. I'm sorry, Worf; I'll keep looking for food with the group."}
+- 02:20 act: {"intent":{"goal":"reach_north_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 02:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 02:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 02:25 act: {"actions":[{"do":"sleep"}]}
