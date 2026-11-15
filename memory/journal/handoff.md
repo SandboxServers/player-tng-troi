@@ -1,7 +1,5 @@
-Handoff, day 316 night.
-- Position: at the white bed x430 z-1092, beds at x429 z-1092/-1093, chest x433 z-1093.
-- Out of the pit near x399 z-1060 (it caught me twice). Unstick failed, place-dirt failed. Avoid that area.
-- Inventory: 29 dirt, 14 oak saplings, oak boat, bone, 4 stripped oak logs, 5 cobblestone. No food, no sword. Health 20, hunger 20.
-- Phantom seen near the beds at night. Not fully enclosed; dirt wall has a gap on the west.
-- Lewis holds one raw chicken for the weakest. Chapman (health 6) and Worf (health 6) need food. Jason, Wesley, Johnny, MacDonald headed for melons at x310 z-875 in daylight; I asked to join.
-- Next: at first light, join the melon trip or find chickens; hand food to the weakest when in sight.
+Handoff, day 319 night (slept at the white bed x430 z-1093).
+- Health 20, hunger 20. Holding 2 melon slices, 29 dirt, 14 saplings, boat, bone, 4 stripped logs, 5 cobblestone. No sword.
+- Melon from Clark is for the weakest: Lewis (health 8), Chapman, Worf. Data is out of the doors and has no food; I offered him one slice at first light if he is in my sight.
+- Open ground is east of the chest at x433. The doors at x417 z-1088 box people in.
+- Next at dawn: hand the melon to Data or Lewis when in sight; then join any daylight melon or cow trip (Beverly and Macdonald plan one to x370 z-1124).
