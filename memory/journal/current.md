@@ -421,3 +421,10 @@
 - 10:11 act: {"intent":{"goal":"join_meat_hunt_southeast","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":226}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
 - 10:11 act: {"intent":{"goal":"join_meat_hunt_southeast","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":226}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
 - 10:12 act: {"say":"I'm at the southeast cow and sheep area now. I can't see any animals or Trini yet. Trini, if you're near, say so and I'll bring you the beef."}
+- 10:13 act: {"intent":{"goal":"search_cow_area_for_trini_and_animals","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":209}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","prec
+- 10:16 act: {"say":"Macdonald, good on the mutton. Trini first, as agreed. My beef is held for her too, and I'll give it the moment she's in reach. Leonardo, I'm holding a spare wooden sword for you; say where yo
+- 10:20 act: {"intent":{"goal":"reach_white_beds_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 10:21 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"beef","count":1}],"say":"Trini never came to the beds, so the beef goes to Lewis, the weakest in reach (hunger 13 earlier). Leonardo, Data has your 
+- 10:21 act: {"actions":[{"do":"sleep"}],"say":"Troi: the beef reached Bcrusher, not Lewis, so it's settled. I'm trying the bed now for the night.","reasoning":"Beef is gone (Bcrusher took it). Only the sword is l
+- 10:21 act: {"actions":[{"do":"sleep"}],"say":"Troi in the bed for the night. Kimberly, I have no food, sorry; I'll help look at first light."}
+- 10:21 act: {"actions":[{"do":"sleep"}]}
