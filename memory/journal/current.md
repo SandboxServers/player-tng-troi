@@ -344,3 +344,21 @@
 - 06:50 act: {"actions":[],"say":"Troi going west with the group. No food yet; any meat goes to Trini and Kimberly first.","intent":{"goal":"join_west_search","program":"travel","arguments":{"target":{"x":-300,"y"
 - 06:50 act: {"actions":[],"say":"Troi at the west edge, no animals yet. I'll scout further west and call out any cow, sheep or pig.","intent":{"goal":"scout_far_west","program":"travel","arguments":{"target":{"x"
 - 06:51 act: {"actions":[],"intent":{"goal":"rejoin_group_at_west_beds","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"
+- 07:00 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":320}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"lim
+- 07:00 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}}]}
+- 07:00 act: {"actions":[{"do":"sleep"}]}
+- 07:01 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 07:01 act: {"actions":[{"do":"sleep"}]}
+- 07:03 act: {"actions":[{"do":"sleep"}]}
+- 07:11 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":318}}],"say":"Troi here, day 269. I have no food, hunger 14. Joining the search west for cows or pigs. Any meat goes to Chapman and Trini first."
+- 07:11 act: {"actions":[{"do":"goto","target":{"x":-325,"y":66,"z":318}}]}
+- 07:11 act: {"actions":[{"do":"unstick"}]}
+- 07:11 act: {"actions":[{"do":"goto","target":{"x":-310,"y":68,"z":300}}],"say":"Trader, I have 4 oak logs and 2 leather. Do you sell any food?"}
+- 07:11 act: {"actions":[{"do":"goto","target":{"x":-299,"y":69,"z":303}}]}
+- 07:12 act: {"actions":[{"do":"use","entity":"wandering_trader"}],"say":"Trader, I can trade 4 oak logs and 2 leather for food. What do you have?"}
+- 07:12 act: {"actions":[],"say":"Trader, I have 4 oak logs and 2 leather. I want bread or any meat. Will you trade?"}
+- 07:13 act: {"actions":[{"do":"goto","target":{"x":-320,"y":60,"z":258}}],"say":"Laforge, I have no rod. I'm going to the salmon water at -320,58,256 to look. If you're there, tell me."}
+- 07:13 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":292}}],"say":"A drowned is on me in the water. I'm heading back to land by the white beds.","intent":{"goal":"reach_land_by_beds","program":"trav
+- 07:13 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":291}}],"say":"Trader, I'm Troi. I'll give 4 oak logs and 2 leather for any bread or meat. Please answer."}
+- 07:15 act: {"actions":[{"do":"goto","target":{"x":-296,"y":68,"z":298}}],"say":"Does anyone have bread, seeds or meat? I have 4 oak logs and 2 leather to trade. Health 6."}
+- 07:15 act: {"actions":[{"do":"goto","target":{"x":-298,"y":69,"z":300}}],"say":"Trader, I'm right here. 4 oak logs and 2 leather for bread or any food. Yes or no?"}
