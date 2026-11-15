@@ -1,1 +1,17 @@
 # Journal
+- 13:43 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":335}}],"say":"Troi here, near the crafting table at the white beds. Hunger 8, no food. LaForge, I am in sight, I can take the flesh if you are gi
+- 13:43 act: {"actions":[{"do":"sleep"}],"say":"Troi at the white bed with the group. Trying to sleep."}
+- 13:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"say":"Something hit me near -276,67,322. Moving back to the beds with the group."}
+- 13:44 act: {"actions":[{"do":"sleep"}],"say":"Troi, health 3.8, hunger 8. Trini and Data, I am next to you. LaForge, I need the rotten flesh now if you can give it."}
+- 13:44 act: {"actions":[],"say":"Lewis, I am right beside you. Health 3.8 and falling. Please give me my raw chicken now, I will eat it."}
+- 13:46 act: {"actions":[],"say":"LaForge, I can see you below at the edge. Come within arm's reach of the bed at -272,336 and give me the flesh. Lewis, my chicken too please."}
+- 13:48 act: {"actions":[{"do":"goto","target":{"x":-275,"y":65,"z":331}}],"say":"LaForge, sorry. I am going to pick up what you dropped at -275,65,331 and see if the flesh is there."}
+- 13:48 act: {"actions":[{"do":"goto","target":{"x":-276,"y":65,"z":328}},{"do":"goto","target":{"x":-275,"y":65,"z":326}}],"say":"Thank you Lewis. The chicken is not in my pack yet. I am collecting LaForge's drop
+- 13:48 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":328}}],"say":"Got bone, wool and leather from LaForge's things. No flesh yet. Picking up the rest to the west."}
+- 13:48 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":330}},{"do":"goto","target":{"x":-278,"y":66,"z":332}},{"do":"goto","target":{"x":-280,"y":66,"z":333}}]}
+- 13:48 act: {"actions":[{"do":"eat"}]}
+- 13:48 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me, health 1.8. Swinging back."}
+- 13:49 act: {"actions":[{"do":"note","text":"Died at -280,66,333 (dawn day 289). Dropped cobblestone, stone sword, logs, dirt, leather, rotten_flesh near there. Respawned at -272,67,319 with nothing."}],"say":"I 
+- 13:49 act: {"actions":[{"do":"goto","target":{"x":-280,"y":66,"z":333}}],"say":"It's bright now. I'm going to my dropped things at -280,66,333 and will pick up the rotten flesh and the sword.","intent":{"goal":"
+- 13:49 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":330}}],"say":"I'm picking up what's on the ground by the sign at -281,66,330, hoping for the rotten flesh."}
+- 13:49 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"I have the rotten flesh. Golems are closing from the south, so I'm going back north to the beds.","intent":{"goal":"retreat_to_beds
