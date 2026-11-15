@@ -155,3 +155,21 @@
 - 18:49 act: {"intent":{"goal":"hold_flesh_at_beds_until_someone_hits_6","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_
 - 19:01 act: {"actions":[{"do":"sleep"}],"say":"Troi at the south white bed for the night. Holding one rotten flesh for whoever drops to 6 or below in my sight."}
 - 19:05 act: {"actions":[{"do":"sleep"}]}
+- 19:06 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the bed for the night. Hunger 17, health 20, no food in hand except one rotten flesh, held for whoever drop
+- 19:07 act: {"actions":[{"do":"sleep"}]}
+- 19:10 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":331}}],"say":"Dawn. Health 20, hunger 17. I'm checking the dropped items to the north, then I'll join the meat hunt east with Worf. Meat goes to 
+- 19:10 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Got an egg, string, a hoe and planks from the north. Phantom closing, moving to Chapman's group."}
+- 19:13 act: {"actions":[{"do":"goto","target":{"x":-213,"y":68,"z":340}}],"say":"Troi leading the meat hunt east, toward -213,68,340 then the cow near -152,327. Stay in my sight. Meat goes to Clark and Chapman fi
+- 19:13 act: {"actions":[{"do":"goto","target":{"x":-180,"y":68,"z":330}}],"say":"Still no meat here. Moving on toward -180,330 to look for the cow. Call out if you see any."}
+- 19:13 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"My path east was blocked and I'm alone. Going back to Data and the group."}
+- 19:13 act: {"actions":[{"do":"unstick"}],"say":"I'm stuck at -181,78,330, out of sight of the group. Trying to get free."}
+- 19:13 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":340}}],"say":"Walking back to -213,69,340 where the group was. No meat found yet."}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-152,"y":68,"z":327}}],"say":"Lewis and I are heading to the cow sighting near -152,327. Meat goes to Clark and Chapman first."}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-190,"y":72,"z":332}}],"reasoning":"Skeleton NE shooting; retreat west out of range, then regroup with Lewis."}
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-243,"y":67,"z":330}}],"say":"Shot by a skeleton near -153,82. Health 8. Going to Macdonald and Data at -243,67,330."}
+- 19:17 act: {"actions":[],"say":"Troi here, health 8 after a skeleton shot me near -153,82. I hold 1 rotten_flesh. Who is lowest? Jason, the chicken should go to the lowest too."}
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Going to the white beds with the group for the night."}
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 19:27 act: {"actions":[{"do":"sleep"}]}
+- 19:31 act: {"actions":[{"do":"note","text":"Day 306 morning at south beds. Health 8, hunger 15. Holding 1 rotten_flesh for hunger 6. Sleep blocked earlier by crowding; waiting for group to scatter."}],"say":"Tro
