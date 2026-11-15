@@ -1,4 +1,12 @@
-# Handoff, day 264 (night), latest
+# Handoff, day 267 (night), latest
+
+- Position: (-271,67,319), beside the white beds at -271,67,318 and -270,67,318. Not enclosed. Asleep (sleep worked, 3 of 9 asleep).
+- Health 12, hunger 14, no food. Pack: oak_sapling, 3 dirt, 4 oak_log, 2 leather.
+- Jason and LaForge are near me. Jason holds wheat seeds and has shared rotten flesh before.
+- Next at dawn: look for food with the group. Any meat goes to the weakest first (Kimberly, Trini). Sleep at dusk in a free bed.
+- No errand is half-done.
+
+# Handoff, day 264 (night), earlier
 
 - Position: about (-240,69,344), not enclosed, dim. Golems about 13 blocks west near the yellow beds.
 - Sleep refused at both yellow beds (-263,67,353 and -263,67,354): "the way was blocked". Do not retry those spots tonight.

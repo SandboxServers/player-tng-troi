@@ -329,3 +329,18 @@
 - 06:22 act: {"actions":[{"do":"sleep"}],"say":"Troi: phantoms hit me at the bed (health 16). No weapon. Trying the bed again."}
 - 06:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Troi: phantoms still hitting me, health 12. Getting into the bed again."}
 - 06:26 act: {"actions":[{"do":"sleep"}]}
+- 06:29 act: {"say":"Troi at the white beds, morning. No food on me, only dirt and an oak sapling. I'm breaking grass for seeds and calling out any animal I see. Billy, anything found goes to you first.","intent":
+- 06:30 act: {"say":"Troi: short grass near the beds gave nothing. I'll knock leaves from the oak trees to the north-west for apples, then report back. No food on me yet.","intent":{"goal":"knock_oak_leaves_for_ap
+- 06:30 act: {"say":"Troi: no grass or leaves nearby gave anything. I'm staying with the group at the white beds. If anyone finds food, call me and I'll bring what I have.","intent":{"goal":"hold_at_white_beds","p
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Troi going to the white bed for the night. No food; Billy first when anything turns up."}
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Troi: night, going into the white bed now. Billy, I'm sorry about your death; I have no food, only 2 leather and 4 o
+- 06:44 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}]}
+- 06:44 act: {"intent":{"goal":"return_to_white_bed","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}]}
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 06:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi here, no food yet. Trying the white bed by you for the night."}
+- 06:46 act: {"actions":[{"do":"sleep"}]}
+- 06:48 act: {"actions":[],"say":"Dawn. I have no food; hunger 14. Who is heading out to look for animals? I will go with the group."}
+- 06:50 act: {"actions":[],"say":"Troi going west with the group. No food yet; any meat goes to Trini and Kimberly first.","intent":{"goal":"join_west_search","program":"travel","arguments":{"target":{"x":-300,"y"
+- 06:50 act: {"actions":[],"say":"Troi at the west edge, no animals yet. I'll scout further west and call out any cow, sheep or pig.","intent":{"goal":"scout_far_west","program":"travel","arguments":{"target":{"x"
+- 06:51 act: {"actions":[],"intent":{"goal":"rejoin_group_at_west_beds","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"
