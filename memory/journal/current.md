@@ -383,3 +383,25 @@
 - 08:10 act: {"actions":[{"do":"goto","target":{"x":-228,"y":67,"z":326}}],"reasoning":"No food nearby. Keep searching east, away from the golems and phantom."}
 - 08:10 act: {"actions":[{"do":"goto","target":{"x":-220,"y":68,"z":316}}],"reasoning":"Previous goto was blocked. Try north-east, a new direction, to look for animals."}
 - 08:10 act: {"actions":[{"do":"goto","target":{"x":-214,"y":68,"z":298}}],"reasoning":"Nothing edible yet. Keep scouting north, a new area."}
+- 08:14 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"say":"Troi here, health 6, hunger 12, no food. Heading back to the white beds with the group. Meat or bread goes to Trini first, then me.
+- 08:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at the white beds with the group. Handoff saved. Try the bed once; if refused, wait for the golems to move away."}
+- 08:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Creeper gone from the list. Golems are 6 to 13 blocks south. Retry the sleep once here."}
+- 08:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Troi, dawn day 273. Health 6, hunger 12, no food. Going to the bed at -271,67,318 that Trini said worked. Meat or wheat goes to Tri
+- 08:39 act: {"intent":{"goal":"hold_near_group_for_food","program":"wait","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}},"say":"Troi h
+- 08:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night on day 273, no food. Trying the bed at -270,67,318. Any food at dawn goes to Trini first."}
+- 08:44 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":319}}],"say":"Sleep was blocked, golem 6 blocks off. I'm staying with the group until dawn."}
+- 08:48 act: {"actions":[{"do":"goto","target":{"x":-288,"y":66,"z":328}},{"do":"mine","block":"short_grass","count":4}],"say":"Troi, dawn of day 273. Scouting the west grass for seeds or animals with LaForge. Any
+- 08:48 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":319}}],"say":"Worf, I have no food either, only logs and a few leather. If anyone finds meat, Trini first, then you."}
+- 09:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"intent":{"goal":"rest_night_274","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","un
+- 09:10 act: {"actions":[{"do":"goto","target":{"x":-276,"y":67,"z":312}}],"intent":{"goal":"search_food_nw_275","program":"travel","arguments":{"target":{"x":-276,"y":67,"z":312}},"wake_on":["directly_addressed",
+- 09:18 act: {"say":"Going north-east to the sheep area near -242,68,259 with Riker and Data. Any mutton goes to Trini first.","intent":{"goal":"find_sheep_ne_275","program":"travel","arguments":{"target":{"x":-24
+- 09:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"intent":{"goal":"return_to_beds_275","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":320}},"wake_on":["directly_addressed",
+- 09:23 act: {"actions":[{"do":"sleep"}],"say":"Night 275. Trying to sleep at the north white bed. No food on me; food goes to Trini first."}
+- 09:31 act: {"actions":[{"do":"eat"}],"say":"Thank you Lewis. I am Troi, hunger 11. Trini, where are you? If you are near, the mutton goes to you first.","intent":{"goal":"hold_at_beds","program":"rest","argument
+- 09:37 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":321}}],"say":"Lewis, I am at the north beds, (-271,67,321). Hand me the mutton here if Trini is not in sight. Chapman's hunger is 15, mine 11; I 
+- 09:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"say":"Troi at (-271,67,320), hunger 11. LaForge, Lewis, Riker: I am here; please bring the beef and mutton to me now. Trini gets what is 
+- 09:42 act: {"actions":[],"say":"LaForge, Lewis, Riker, I am in reach now at (-271,67,319). Please give me one beef each, I will eat at once."}
+- 09:43 act: {"actions":[{"do":"note","text":"Night 276. Riker holds beef in reach. Asking him for it; Trini not in reach."}],"say":"Riker, I am starving at hunger 11. Could you hand me that beef? Thank you."}
+- 09:44 act: {"actions":[{"do":"eat"}],"say":"Thank you, Riker. I will eat now."}
+- 09:44 act: {"actions":[{"do":"eat"},{"do":"eat"}],"say":"Thank you, Lewis. I have the mutton and I am eating it."}
+- 09:44 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"I am full enough now. Trying the bed, no creeper in view."}

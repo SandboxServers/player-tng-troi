@@ -1,8 +1,20 @@
-# Handoff, day 270 (midday), latest
+# Handoff, day 276 (after sleep), latest
 
-- Position: (-296,67,296), at the white beds with the group. Not enclosed.
-- Health 6, hunger 13, no food. days_since_sleep 7. Sleep at the beds was blocked on day 269 dusk.
-- Next: any meat goes to Chapman and Trini first. Try the bed at -298,68,294 at dusk, away from golems. Then run reflect.
+- Slept on night 276 at the north white bed (-271,67,318). Standing at (-271,67,319). days_since_sleep 0.
+- Health about 10, hunger 20. Holding 3 beef, reserved for Trini first, then the hungriest in sight.
+- Near: Macdonald, Lewis, Clark, LaForge, Worf. Trini not found yet.
+- Next at dawn: look for Trini and give her the beef. Search for cow near -228,68,209 and sheep near -227,69,224 with the group.
+- No errand is half-done.
+- Next: at dawn, find food with the group, Trini first. Try a free north bed (-270,67,318) when no creeper or golem is near, then run reflect.
+- No errand is half-done.
+
+# Handoff, day 272 (night), earlier
+
+- Position: (-270,67,334), at the south white beds with Kimberly, Riker, LaForge, Wesley. Not enclosed. Night, dim.
+- Health 6, hunger 12, no food. days_since_sleep 9. Iron golems 4 and 9 blocks away.
+- Unripe wheat at -273,66,330 (not ready). Trini is weakest, then Beverly's bread for her.
+- Next: at dawn, find food with the group. Try a free white bed when no golem or phantom is close. Then run reflect.
+- No errand is half-done.
 - No errand is half-done.
 
 # Handoff, day 267 (night), earlier
