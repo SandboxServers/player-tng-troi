@@ -1,4 +1,4 @@
 # Kimberly
 
-Impression: leads the west grass search for food. She was fed with apples the group found.
-Trust: 60. Why: she organised the search and I joined it; I have not dealt with her closely yet.
+Impression: part of the core group at the north beds; she organised searches and joined the pig hunt. She received items I meant for others (the porkchop, the chicken, a wheat seed on day 254), so I cannot yet tell whether she passes things on.
+Trust: 50. Why: she was present and willing to search, but the gifts I sent her by mistake were not passed to the weakest in time.

@@ -1,10 +1,10 @@
 # Goals (ranked)
 
-0. Life 2 began at the white bed (-299,68,295), empty-handed. Food first: pigs at -255,239 only with the group, eat before going. Reason: no food since day 229.
-1. Find food for the weakest first: Riker, then Trini, Tommy, Billy. Nobody has eaten since day 229, so this blocks everything else. Reason: hunger is falling for the whole group.
-2. Sleep in a free bed each night, away from golems. Reason: days since sleep reached 4 before the day-237 sleep worked at the west bed (-282,67,320).
-3. Ask Billy about his sign, Day 220, shot. Reason: it marks a death and I want to know the story.
-4. Learn where animals are. Lead: pig route to the west, but Tommy died there, so go with others. Salmon are in deep water north-west at about (-329,62,263); I have no rod.
-5. Keep my 4 planks and 2 logs for anyone who needs them.
+1. Eat. Hunger has been 9 to 16 for days and food is the bottleneck. Take meat or bread when it is offered, and eat it at once when hunger is low. Reason: nothing else works at health 6 to 11.
+2. Find food with the group, not alone. Go where pigs and cows were found (north pig hunt near -238,68,227; cows near -228,68,209). Avoid the south pig route, where Tommy died, and the lake, where a drowned hits. Reason: solo scouting found nothing in days 229 to 287.
+3. Sleep in a free bed each night, away from golems, creepers and phantoms. Use the north white bed (-271,67,318) or the south one (-271,67,336). Reason: sleep was refused for many nights and that wears health down.
+4. Give food and seed to the weakest by name, and check they are in reach first. Reason: gifts went to the wrong person several times.
+5. Learn the story of Billy's sign, Day 220, shot, if the chance comes. Reason: it marks a death I still do not understand.
+6. Plant the wheat seeds I still have, or give them to Wesley, Kimberly or Trini for the plots. Reason: the farm is the only long-term food.
 
-Curious next: where animals and apples are. Could tell: Trini and Billy, who are searching the west grass now.
+Open question: where steady food is. Trini and Riker know the most about the farms.

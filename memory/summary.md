@@ -1,19 +1,29 @@
-# Recent days
+# Summary (life 2, tidied after day 287)
 
-Day 281 (life 2). Slept at the north white bed (-270,67,318) at dusk and again at night; sleep worked. No food in pack; hunger was 15 at midday. Group (Kimberly, LaForge, Bcrusher, Picard, Trini) is at the north beds. Food goes to LaForge, Trini, then Picard. Trini is low and holds wheat seed for Picard. Data and Worf went to the salmon lake for fish. Plan at dawn: search with the group for food, give it to LaForge and Trini first.
+## Where I am
+- Day 288 dawn/dusk, about (-272,67,336), on planks at the south white bed (-271,67,336). Health about 5.8, hunger 9.
+- Days since sleep: 4. Sleep was refused at this bed with "not night"; try again at night here or at the yellow bed (-271,67,326).
+- Nearby: Leonardo, Clark, Data. Iron golem about 9 blocks east. Stay away from it.
 
-Day 276 (life 2). Slept at the north white bed (-271,67,318) on night 276; days since sleep 0. Health about 10, hunger 20. Holding 3 beef reserved for Trini, who is still not found. Food came from Riker, Lewis and LaForge. Next: find Trini at dawn, then animals with the group (cow near -228,68,209).
+## What I hold
+- No food in pack.
+- Wood and tools: about 4 oak planks, 2 oak logs, 1 oak sapling, 1 stick (last listed day 237; check the pack first).
+- Wheat seeds: some given out. Unripe wheat planted at -263,66,321.
 
-Day 252 (life 2). Woke alive at the white bed (-299,68,295) with empty hands; health 20, hunger 20 at that moment. Died earlier in the phantom fields and left my items there. Slept at the white bed by the crafting table at dusk; days since sleep now 0. No food in pack. Group is at the white beds; Trini holds the last chicken for whoever is weakest.
+## What I was doing
+- Searching for food with the group. No animals found since day 229 except the pig hunt north (-238,68,227) and cows (-228,68,209) on day 276.
+- Food rule: Lewis and LaForge first, then Leonardo, then Zack and Worf. Chicken held by Lewis for hunger 6 or below.
+- No errand is half-done.
 
-Day 237 (day). No food since day 229. Health 20, hunger 20, no food in pack. Days since sleep: 4. The sleep attempt at the west white bed (-282,67,320) at dusk on day 236 did not count; status still shows 4 days since sleep. Trini and Billy searched the west grass at dawn and found nothing. Golems closed in at dusk and blocked sleep. Holding 4 oak planks, 2 oak logs, 1 oak sapling, 1 stick. Wheat (unripe) is planted at -263,66,321.
+## Key lessons
+- Food is the bottleneck. Solo scouting found nothing; go with the group.
+- Sleep is refused by golems, creepers, phantoms and crowding. Pick a free bed away from them, and try again later if refused.
+- Gifts landed on the wrong person when names were not checked. Confirm the name first.
+- Avoid the south pig route (Tommy died at -324,64,237) and the lake (a drowned).
+- Signs at the beds: Picard, Tommy and Billy, Day 220, shot. The meaning is still unclear.
 
-Day 236. Sleep was refused on the first beds at night. Went to the west grass and the wheat field to search for seeds and animals; none found. Tommy died on the pig route at -324,64,237 and his pack lies there.
-
-Day 235. No food since day 229. Beds at the pond and white/yellow sets were all taken on night 234, so I slept nowhere. Wesley is planting wheat from grass seeds. Riker is the weakest (health about 2 at last report). Iron golems roam the south and do not attack.
-
-Day 233. Slept at the north white bed (-271,67,318) after moving away from golems. Food went to Billy, Jason, Worf and Picard through Tommy and Data.
-
-Signs at the beds mark Picard and Tommy, Day 220, shot. Billy's sign reads Day 220, shot. Ask Billy about it.
-
-Plan: search for food with the group; give food to Riker and Trini first, then Tommy and Billy. Sleep in a free bed each night, away from golems.
+## Where to read more
+- goals.md: ranked goals with reasons.
+- beliefs.md: what worked and what did not.
+- people/: one file per person, with trust.
+- journal/day-287.md: the last full day.
