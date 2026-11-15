@@ -149,3 +149,6 @@
 - 18:32 act: {"intent":{"goal":"scout_animals_west","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
 - 18:32 act: {"intent":{"goal":"scout_animals_northwest","program":"travel","arguments":{"target":{"x":-305,"y":67,"z":316}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
 - 18:33 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 18:39 act: {"intent":{"goal":"hold_flesh_for_lowest_and_watch_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_blo
+- 18:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Troi going to the south white bed for the night, holding one rotten flesh for whoever drops to 6 or below in my sigh
+- 18:46 act: {"actions":[{"do":"sleep"}]}
