@@ -1,17 +1,16 @@
-# Summary (life 2, tidied after day 288)
+# Summary (life 3, tidied after day 291)
 
 ## Where I am
-- Night of day 288, at the south white bed (-271,67,336) with the group. Health about 5.8, hunger 9.
-- Slept (sleep call made at dusk). Golems roam about 10 blocks south. Stay clear.
+- Night of day 291, slept at the south white bed (-270,67,336). Health 20, hunger 20.
+- Golems roam about 10 blocks south. Stay clear.
 
 ## What I hold
-- No food. Stone sword, wooden sword, spear, cobblestone 17, dirt 40, oak logs 5, planks 2, saplings, string 2, leather 2.
+- No food. Wooden spear, 42 dirt, 17 cobblestone, 4 stripped oak logs, 11 oak saplings, a boat, 1 wool, 1 bone.
 
 ## What I was doing
-- Food hunt with the group; none found on day 288. Animals gone from east and west grass.
-- LaForge has one rotten flesh for the weakest. He could not see me; walk to him and confirm he is in sight before giving.
-- Lewis holds my raw chicken for when hunger is 6 or below.
-- Unripe wheat at -274,66,332.
+- Food hunt with the group. The east pig hunt at -213,69,351 found nothing on day 291.
+- Unripe wheat at -272,66,331 and -274,66,333.
+- Zack and Leonardo are the hungriest in the group: meat goes to them first.
 
 ## Key lessons
 - Food is the bottleneck. Go with the group.

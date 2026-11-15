@@ -49,3 +49,4 @@
 - 14:32 act: {"actions":[],"say":"The rotten flesh went to Jason, not Zack, so it is with the group now. Zack, Jason, please share it. I have no food left."}
 - 14:36 act: {"actions":[{"do":"goto","target":{"x":-216,"y":69,"z":351}}],"intent":{"goal":"join_pig_hunt","program":"travel","arguments":{"target":{"x":-216,"y":69,"z":351}},"wake_on":["directly_addressed","goal
 - 14:41 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":3000,"ma
+- 14:42 act: {"reasoning":"Night, bed under me, safe enough. Sleep here, then reflect.","say":"Troi at the white bed for the night. Food at dawn with the group.","actions":[]}
