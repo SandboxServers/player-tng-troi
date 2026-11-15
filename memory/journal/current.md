@@ -491,3 +491,5 @@
 - 12:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 12:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
 - 12:44 act: {"actions":[{"do":"sleep"}]}
+- 12:49 act: {"say":"Troi, dawn, hunger 12, no food. LaForge first, then Trini and Picard. I'll scout the north-west grass for meat with Worf and Zack.","intent":{"goal":"scout_northwest_grass_for_meat","program":
+- 12:49 act: {"say":"Troi scouting the north-west grass with Zack and Worf. Anything found goes to LaForge, then Trini.","intent":{"goal":"scout_north_grass_for_meat","program":"travel","arguments":{"target":{"x":
