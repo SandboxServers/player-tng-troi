@@ -1,8 +1,8 @@
-Goals, ranked (updated day 317 night)
+Goals, ranked (updated day 318 night)
 
-1. Keep myself fed, sheltered and safe. No food, no sword. Close the west gap of the beds wall before dusk.
-2. Get food to the weakest first: Lewis, Chapman, Worf. Hand over by sight or leave it in the chest at x433 z-1093.
-3. Find food: join the melon walk to x310 z-875 at first light, or hunt the chickens near Trini's chest at x432 z-1079.
+1. Keep myself fed, sheltered and safe. No food, no sword. Close the west gap of the beds wall.
+2. Get food to the weakest first: Lewis (health 8 after melon), Chapman, Worf.
+3. Find food: ask Kimberly for her raw chicken at morning if I am in sight; find Trini's chickens, or join the melon walk to x310 z-875.
 4. Make the beds work: wall them fully and find out why bed use fails.
 5. Share what I learn and keep the daily log.
 
