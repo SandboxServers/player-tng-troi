@@ -428,3 +428,20 @@
 - 10:21 act: {"actions":[{"do":"sleep"}],"say":"Troi: the beef reached Bcrusher, not Lewis, so it's settled. I'm trying the bed now for the night.","reasoning":"Beef is gone (Bcrusher took it). Only the sword is l
 - 10:21 act: {"actions":[{"do":"sleep"}],"say":"Troi in the bed for the night. Kimberly, I have no food, sorry; I'll help look at first light."}
 - 10:21 act: {"actions":[{"do":"sleep"}]}
+- 10:30 act: {"intent":{"goal":"reach_chicken_north","program":"travel","arguments":{"x":-275,"y":67,"z":240},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"
+- 10:42 act: {"say":"Dusk. I have the chicken that was meant for Trini. Trini, come within reach and I'll hand it to you.","intent":{"goal":"give_chicken_trini","program":"trade_wait","arguments":{},"wake_on":["di
+- 10:46 act: {"intent":{"goal":"reach_trini_chicken","program":"travel","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
+- 10:46 act: {"intent":{"goal":"reach_trini_chicken","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":335}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 10:46 act: {"say":"I'm at the south white beds with the chicken. Trini, say where you are and I'll hand it over. Otherwise it goes to the hungriest in reach."}
+- 10:50 act: {"intent":{"goal":"reach_laforge_chicken","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 10:50 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, here's the chicken. You're weakest, so it's yours. Trini next."}
+- 10:50 act: {"say":"The chicken went to Kimberly, not LaForge, so Kimberly, please give it to LaForge or Trini, whichever is weaker."}
+- 10:55 act: {"actions":[{"do":"note","text":"Day 280, day. Chicken reached LaForge via Kimberly. No food, hunger 16. Searching grass south-east for animals."}],"say":"Troi here, no food, hunger 16. I'll look for 
+- 10:55 act: {"actions":[{"do":"note","text":"Day 280 midday. Reached grass at -262,66,338. No animals in sight, golem 8 blocks west. Only unripe wheat known. Will rejoin the group at the beds."}],"say":"Troi here
+- 10:55 act: {"actions":[{"do":"note","text":"Day 280 midday. Golem closing from south-west at 14 blocks. Moving north to the north white beds with the group."}],"intent":{"goal":"return_to_north_beds","program":"
+- 10:55 act: {"actions":[{"do":"note","text":"Day 280. Back at the north white beds with Kimberly, Clark, Data, LaForge, Bcrusher. No food found. Waiting for meat or ripe wheat."}]}
+- 11:03 act: {"actions":[{"do":"note","text":"Dusk day 280. Going to the white bed at -271,67,318 to sleep with the group. No food, hunger 16."}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":
+- 11:06 act: {"actions":[{"do":"note","text":"Night 280. Rest did not sleep; iron golem 4.5 blocks south. Moving north to the white bed at -270,67,318, away from golems."},{"do":"goto","target":{"x":-270,"y":67,"z
+- 11:07 act: {"actions":[{"do":"note","text":"Sleep blocked at the south bed, golems 9 blocks south. Going north to the bed at -270,67,318."}],"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"ta
+- 11:07 act: {"actions":[{"do":"sleep"}]}
+- 11:09 act: {"say":"Troi, dawn day 281. No food on me either. I'll scout the grass near the beds with the group.","actions":[{"do":"goto","target":{"x":-278,"y":67,"z":326}}],"intent":{"goal":"scout_grass_for_ani
