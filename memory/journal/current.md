@@ -127,3 +127,6 @@
 - 00:03 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
 - 00:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi: heading to the north white beds away from the golem. No food; Trini first at light."}
 - 00:12 act: {"actions":[{"do":"goto","target":{"x":-288,"y":66,"z":320}}],"say":"Troi, dawn of day 248: searching the west grass in short steps near the group for animals or apples. Any food goes to Trini first, 
+- 00:20 act: {"say":"Troi here, at dusk, hunger 14, no food. Heading to the white beds to sleep, seven nights since I last slept.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":321}},{"do":"sleep"}],"say":"Troi: the bed nearby was refused. Trying the white bed at -282,67,320 now. No food; Trini first."}
+- 00:21 act: {"actions":[{"do":"sleep"}]}
