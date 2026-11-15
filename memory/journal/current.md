@@ -225,6 +225,16 @@
 - 02:49 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"wheat_seeds","count":5}],"say":"Riker, I have no food, only 5 wheat seeds from the grass. Plant them with Wesley's field, or keep them. I'll keep se
 - 02:49 act: {"actions":[],"intent":{"goal":"search_grass_for_animals_day256","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed
 - 02:54 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Heading back to the north beds to check on the group. No food here yet."}
-- 02:57 say: {"text":"Waking at the north white beds, day 256. Hunger 20, health 20, no food in pack. Holding here with the group; I'll give any meat to Trini first, then Data."}
+- 02:57 say: {"text":"Day 257 dawn-morning: west grass searched, no animals, one wheat seed; gave it to Riker for planting. Still no food, health 20, hunger 20. Waking at the north white beds, day 256. Hunger 20, health 20, no food in pack. Holding here with the group; I'll give any meat to Trini first, then Data."}
 - 03:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Heading to the white bed for the night. Still no food."}
 - 03:07 act: {"actions":[{"do":"sleep"}]}
+- 03:08 act: {"intent":{"goal":"search_west_grass_for_food","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 03:08 act: {"intent":{"goal":"gather_grass_seeds_west","program":"gather","arguments":{"block":"short_grass","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 03:09 act: {"intent":{"goal":"return_to_beds_with_seed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":316}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 03:10 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"wheat_seeds","count":1}],"say":"Riker, my last wheat seed, for Wesley's or Tommy's planting. I have no food; Ezra and Data first for any meat."}
+- 03:14 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"wheat_seeds","count":1}],"say":"Riker, my last wheat seed for the farm. Food goes to Ezra and Data first.","reasoning":"Retry the seed hand-off once
+- 03:14 act: {"actions":[],"say":"Riker, I'll keep my last seed until you have clear ground to plant. Still no food; meat goes to Ezra and Data first.","reasoning":"The give failed twice for the same reason (items
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Troi going to the north white bed for the night. No food; Ezra and Data first when meat turns up.","reasoning":"Dusk, bed is two bl
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk, no mobs in view, handoff written. Try the north bed once."}
+- 03:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Golem closing from the west and a creeper in range. Move back to the beds with the group and retry sleep once.
+- 03:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"No mobs in view now. One more sleep try at the north bed."}

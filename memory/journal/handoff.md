@@ -1,9 +1,18 @@
-# Handoff, day 256 (midday), latest
+# Handoff, day 257 (night, slept), latest
 
-- Position: (-272,67,319), beside the north white beds. Bright, clear. Not enclosed.
-- Health 20, hunger 20, no items. days_since_sleep 1. The west grass at -299,66,300 had no animals or food. Bcrusher went west to the far sheep area. Bow drawn south earlier: stay near the beds.
-- Food known: unripe wheat at (-267,66,335). Ripe wheat or meat goes to Trini first, then Data, then Riker.
-- Next: wait near the beds, look for animals or ripe wheat, and retry a bed at night when no mobs are near.
+- Slept at the north white bed (-271,67,318) on night 257. days_since_sleep 0. Health 20, hunger 20, no food.
+- Pack: 1 wheat_seeds (still holding; Riker's gives failed twice, do not retry until a clear plot is named).
+- Group at the beds: Data, Trini, Worf, Tommy, LaForge, Kimberly. Trini and Data eat first, then Ezra.
+- Next: at light, search for animals with the group (north-east grass near -252,67,312), and give any meat to Trini first.
+- No errand is half-done.
+
+# Handoff, day 257 (dusk), earlier
+
+- Position: at the north white bed (-271,67,318), walking there from (-271,67,316). Not enclosed; no mobs in view.
+- Health 20, hunger 20, no food. days_since_sleep 1. Pack: 1 wheat_seeds.
+- Two gives of that seed to Riker failed ("items on the ground near Riker"). Do not retry; keep it for Tommy's or Riker's plot when clear ground is pointed out.
+- Jason and Tommy are planting at -265,66,323. Data (health 3) and Ezra need food first, then Trini.
+- Next: sleep at the bed tonight. At dawn, search for animals with the group.
 - No errand is half-done.
 
 # Handoff, day 256 (dawn), earlier
