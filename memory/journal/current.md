@@ -94,3 +94,4 @@
 - 16:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Try the bed again once night falls."}
 - 16:23 act: {"say":"Night. Going to the yellow bed to sleep. Wesley, I still have the rotten flesh for you at dawn.","actions":[{"do":"sleep"}],"reasoning":"Night, health 20, hunger 20, next to the yellow bed, go
 - 16:24 act: {"say":"Awake at the yellow bed. Health and hunger 20. Going to sleep here; the rotten flesh stays with me for Wesley at dawn.","actions":[{"do":"sleep"}]}
+- 16:25 say: {"text":"Wesley, Clark: I'm at the yellow bed with 1 rotten flesh. Health 20, hunger 20. If you're weaker and in reach, say so and I'll hand it over. Otherwise I'm sleeping now."}
