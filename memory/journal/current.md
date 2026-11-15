@@ -369,3 +369,17 @@
 - 07:31 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":330}}],"say":"Troi, dawn of day 270, health 6, hunger 13, no food. Joining the west search for cows or pigs. Any meat goes to Chapman and Trini f
 - 07:31 act: {"actions":[],"say":"Troi at the west grass, (-300,67,330). No animals in sight. Picard, I'll follow your north sweep; I'll call any cow, pig or sheep."}
 - 07:35 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":296}}],"say":"Troi: no animals west. Bows are drawn to the north, so I'm heading back to the beds with the group. Still no food; any meat goes to
+- 07:40 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Going to the bed at -298,68,294 to sleep. Phantoms are close.","reasoning":"Dusk, phantoms near, days_since_sleep 7.
+- 07:40 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantom in range blocks sleep; retry once after a short wait with Macdonald close."}
+- 07:41 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":294}},{"do":"sleep"}],"reasoning":"Night, days_since_sleep 7. Walk back to the bed and sleep once more."}
+- 07:42 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":296}},{"do":"sleep"}],"reasoning":"Previous sleep was blocked short of the bed. Use the goto target that worked before, then sleep."}
+- 07:55 act: {"actions":[],"say":"Troi, health 6, no food. Bread goes to Trini first; I'll wait my turn at the beds.","reasoning":"Bread is being made from ripe wheat. I have no wheat, and Trini comes first. Hold 
+- 07:59 act: {"actions":[],"say":"Troi, health 6, no food. After Trini, if there is spare bread, I'll take it. Thank you all.","reasoning":"Bread is coming. Trini first, then me if any is left. Stay put."}
+- 08:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"reasoning":"Night, days_since_sleep 8. The far bed failed three times; try the group bed at -271,67,318 once."}
+- 08:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantom is being handled by Riker, Zack and Jason. Health 6 is too low to fight. Try the bed once; if refused, keep waiting."}
+- 08:07 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantom gone from sight per Riker. Retry the bed once."}
+- 08:10 act: {"say":"Troi: dawn. No food, hunger 12, health 6. I'll search the grass to the east for animals and call out if I find any.","reasoning":"Dawn; food first. Sleep can wait. Search a direction not cover
+- 08:10 act: {"actions":[{"do":"goto","target":{"x":-246,"y":67,"z":332}}],"reasoning":"Golems and a phantom are west of me. Keep moving east, away from them, to look for animals."}
+- 08:10 act: {"actions":[{"do":"goto","target":{"x":-228,"y":67,"z":326}}],"reasoning":"No food nearby. Keep searching east, away from the golems and phantom."}
+- 08:10 act: {"actions":[{"do":"goto","target":{"x":-220,"y":68,"z":316}}],"reasoning":"Previous goto was blocked. Try north-east, a new direction, to look for animals."}
+- 08:10 act: {"actions":[{"do":"goto","target":{"x":-214,"y":68,"z":298}}],"reasoning":"Nothing edible yet. Keep scouting north, a new area."}
