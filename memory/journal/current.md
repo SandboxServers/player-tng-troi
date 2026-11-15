@@ -28,3 +28,24 @@
 - 14:18 act: {"actions":[{"do":"give","to":"Leonardo","item":"chicken","count":1}],"say":"Leonardo, here is the chicken.","reasoning":"Leonardo says he is one block away at -273,67,337. Try the hand-over now."}
 - 14:18 act: {"actions":[{"do":"give","to":"Zack","item":"chicken","count":1}],"say":"Zack, Leonardo is out of my sight, and you are in reach at hunger 10 like him. Giving you the chicken. Leonardo, you get the ne
 - 14:18 act: {"actions":[],"say":"Troi: the chicken is still in my hands. Leonardo or Zack, step into my sight and say so; I'll hand it over.","reasoning":"Two give attempts failed with no one in sight, despite li
+- 14:22 act: {"actions":[{"do":"give","to":"Kimberly","item":"chicken","count":1}],"say":"Kimberly, Jason: I'm holding LaForge's chicken for Leonardo or Zack. I'll give it to whoever of them comes in sight."}
+- 14:22 act: {"actions":[{"do":"sleep"}],"say":"Troi at the south bed, hunger 20. Still holding LaForge's chicken for Leonardo or Zack; I'll hand it over when one of you is in sight."}
+- 14:22 act: {"actions":[{"do":"sleep"}],"say":"Troi at the north beds (-271,67,318), hunger 20. Trying to sleep here with Clark and Kimberly nearby."}
+- 14:25 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, I hold your chicken. I can't see you yet: step within arm's reach of me at the south bed (-272,67,336) and I'll hand it over."}
+- 14:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"say":"Troi moving back to the south beds, away from the phantom. Leonardo, I still hold your chicken."}
+- 14:25 act: {"actions":[{"do":"sleep"}],"say":"Troi at the south beds with Wesley, Chapman and Jason. Leonardo, I still have your chicken; come into sight and I'll hand it over."}
+- 14:25 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"chicken","count":1}],"say":"Leonardo, here is LaForge's chicken. Eat it when your hunger is 6 or below."}
+- 14:27 act: {"actions":[{"do":"sleep"}],"say":"Troi, morning. I hold one rotten flesh; Zack, you are lowest (hunger 10). Step into sight and it's yours."}
+- 14:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}}],"say":"Troi going to the south beds with the group to sleep."}
+- 14:28 act: {"actions":[{"do":"give","to":"Zack","item":"rotten_flesh","count":1},{"do":"sleep"}],"say":"Zack, here is the rotten flesh. Eat it."}
+- 14:28 act: {"actions":[{"do":"sleep"}],"say":"Zack, I still have the rotten flesh. Come into sight and I will hand it over."}
+- 14:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":338}}],"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":338}},"wake_on":["directly_addressed
+- 14:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":344}}],"say":"Zack, coming to you with the rotten flesh."}
+- 14:29 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"rotten_flesh","count":1}],"say":"Here, Zack. Eat it."}
+- 14:29 act: {"actions":[{"do":"wait","seconds":30}],"say":"Zack, I could not hand it over just now. I am still holding the rotten flesh. Tell me if you want it."}
+- 14:30 act: {"actions":[{"do":"wait","seconds":120}]}
+- 14:32 act: {"actions":[{"do":"goto","target":{"x":-242,"y":67,"z":350}}],"say":"Coming to you, Zack, with the rotten flesh."}
+- 14:32 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"rotten_flesh","count":1}],"say":"Zack, the rotten flesh. Eat it."}
+- 14:32 act: {"actions":[],"say":"The rotten flesh went to Jason, not Zack, so it is with the group now. Zack, Jason, please share it. I have no food left."}
+- 14:36 act: {"actions":[{"do":"goto","target":{"x":-216,"y":69,"z":351}}],"intent":{"goal":"join_pig_hunt","program":"travel","arguments":{"target":{"x":-216,"y":69,"z":351}},"wake_on":["directly_addressed","goal
+- 14:41 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":3000,"ma
