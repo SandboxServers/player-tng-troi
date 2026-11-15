@@ -1,4 +1,12 @@
-# Handoff, day 256 (dawn), latest
+# Handoff, day 256 (midday), latest
+
+- Position: (-272,67,319), beside the north white beds. Bright, clear. Not enclosed.
+- Health 20, hunger 20, no items. days_since_sleep 1. The west grass at -299,66,300 had no animals or food. Bcrusher went west to the far sheep area. Bow drawn south earlier: stay near the beds.
+- Food known: unripe wheat at (-267,66,335). Ripe wheat or meat goes to Trini first, then Data, then Riker.
+- Next: wait near the beds, look for animals or ripe wheat, and retry a bed at night when no mobs are near.
+- No errand is half-done.
+
+# Handoff, day 256 (dawn), earlier
 
 - Position: (-271,67,319), beside the north white beds (-271,67,318) and (-270,67,318). Not enclosed.
 - Slept at the north white bed on night 255. Sleep worked, days_since_sleep 0. Health 20, hunger 20.

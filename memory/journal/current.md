@@ -217,3 +217,11 @@
 - 02:32 act: {"say":"Troi at the west grass, midday day 255. No food yet. I'm breaking short grass for seeds; any seed goes to Wesley's farm, and food goes to Trini first.","intent":{"goal":"gather_grass_seeds","p
 - 02:32 act: {"say":"Troi here, midday day 255. Kimberly, your seed did not reach my pack; could you give it to Wesley for the tilled ground? I'll stay near the beds and watch for golems.","intent":{"goal":"stay_w
 - 02:35 act: {"intent":{"goal":"reach_white_bed_north","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 02:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Troi here, night of day 255. I have only wheat seeds, no meat. Going to the white bed to sleep with the group."}
+- 02:44 act: {"actions":[{"do":"wait","seconds":30}]}
+- 02:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"sleep"}]}
+- 02:48 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"say":"Troi at dawn, day 256 coming. Still no food and no sleep last night. I'll break grass for seeds near the beds, and any food goes to
+- 02:49 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"say":"Troi: dawn of day 256. Broke grass and have 5 wheat seeds, no food. Seeds for Wesley's farm; I'm back at the beds to find Trini and
+- 02:49 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"wheat_seeds","count":5}],"say":"Riker, I have no food, only 5 wheat seeds from the grass. Plant them with Wesley's field, or keep them. I'll keep se
+- 02:49 act: {"actions":[],"intent":{"goal":"search_grass_for_animals_day256","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed
+- 02:54 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Heading back to the north beds to check on the group. No food here yet."}
