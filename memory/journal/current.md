@@ -297,3 +297,15 @@
 - 05:13 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}}],"reasoning":"Phantom to NW hitting me; no weapon. Retreat east to the beds."}
 - 05:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, bed adjacent, Kimberly nearby, phantoms gone from view. One try."}
 - 05:22 act: {"intent":{"goal":"hold_near_group_till_dawn","program":"wait","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations":
+- 05:26 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Trini, I have no food. I'm going to the yellow bed to sleep, and I'll look for food at dawn.","intent":{"goal":"reac
+- 05:29 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":338}}],"say":"Troi, dawn day 264, slept and rested. No food. Jason and Trini, I'm coming to the group to search for animals; any food goes to the
+- 05:29 act: {"actions":[],"say":"Jason, I'm with you at the wheat field. I have no food, but I'll search the grass for seeds and animals and bring anything I find to you first.","intent":{"goal":"search_grass_for
+- 05:29 act: {"actions":[{"do":"mine","block":"short_grass","count":4}],"say":"Jason, I'm breaking grass right here for seeds. Anything I get goes to you or Trini first.","reasoning":"The gather intent failed on a
+- 05:30 act: {"actions":[],"say":"Jason, Worf: grass gives me nothing here, and golems crowd the field. I'll scout south-east past the water for animals, somewhere new. Any meat I find goes to Jason first.","inten
+- 05:30 act: {"actions":[{"do":"mine","block":"oak_leaves","count":5}],"say":"Troi, south-east scouted, no animals here. Trying oak leaves for apples.","reasoning":"No animals at this spot. Try oak leaves nearby f
+- 05:30 act: {"actions":[],"say":"Troi back toward the beds. One oak sapling, no food. Jason, Trini: any animal I see, I'll call out.","intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"targe
+- 05:30 act: {"actions":[],"say":"Picard, I'm here with an oak sapling and no food. Did Jason get Trini's wheat? Where is the tilled dirt you planted?","intent":{"goal":"hold_with_group_until_food","program":"rest
+- 05:38 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Troi going to the yellow bed for the night. No food; I'll look for animals at dawn and Jason first.","reasoning":"Du
+- 05:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night. Going to the yellow bed with the group. No food on me; first meat goes to Jason, then Trini and Worf.","inten
+- 05:45 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Heading to the second yellow bed by the crafting table. Sleeping there t
+- 05:45 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}

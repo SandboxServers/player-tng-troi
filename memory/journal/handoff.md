@@ -1,4 +1,12 @@
-# Handoff, day 263 (night), latest
+# Handoff, day 264 (night), latest
+
+- Position: about (-240,69,344), not enclosed, dim. Golems about 13 blocks west near the yellow beds.
+- Sleep refused at both yellow beds (-263,67,353 and -263,67,354): "the way was blocked". Do not retry those spots tonight.
+- Health 20, hunger 15, no food. Pack: one oak_sapling. days_since_sleep 1.
+- Next: at dawn, stay with the group (Trini, Data nearby). Look for animals. Meat goes to Jason, then Trini and Worf. Try a free bed at next dusk, then run reflect.
+- No errand is half-done.
+
+# Handoff, day 263 (night), earlier
 
 - Position: about (-272,67,336), by the south white beds, with Zack and Riker. Not enclosed. Night, clear.
 - Sleep refused at -281,67,320: "the way was blocked" (golems about 9 blocks south). Not yet slept; days_since_sleep 6.
