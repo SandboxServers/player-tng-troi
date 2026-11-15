@@ -1,4 +1,18 @@
-# Handoff, night 294, latest
+# Handoff, night 296, latest
+
+- Asleep at the yellow bed (-263,67,353), night 296, dim, not enclosed. Jason near. Sleep worked.
+- Health 20, hunger 20. Holding 1 rotten_flesh for Wesley (health 2) or whoever drops to hunger 6 first.
+- LaForge slain day 296. Trini, Kimberly, LaForge gave Wesley food. Golems roam the south beds; keep clear of them.
+- No errand half-done. Next dawn: food hunt with the group, flesh to the weakest.
+
+# Handoff, night 295
+
+- At the south beds, going to the white bed (-270,67,336) and trying sleep. Night, dim, not enclosed. Data, Chapman, Wcrusher near.
+- Health 20, hunger 20. Holding 2 rotten_flesh for whoever drops to hunger 6 (Clark or Bcrusher first).
+- Wesley was fed by Billy, Kimberly, Jason, LaForge. Food rule: Wesley first, then Clark, Bcrusher.
+- No errand half-done. Next dawn: food hunt with the group.
+
+# Handoff, night 294
 
 - Slept at the north white bed (-270,67,318) on night 294; sleep worked, days_since_sleep 0. Sheltered, not enclosed.
 - Health about 20 at sleep, hunger low-ish. No food in pack.

@@ -82,3 +82,13 @@
 - 15:44 act: {"actions":[{"do":"sleep"}],"say":"Night. Troi at the north white bed with the group. No food, health 20. Wesley, if you are close, I have nothing to give tonight."}
 - 15:50 act: {"say":"Troi, dawn 295. No food on me. Wesley first when he is in reach. I'll scout north-east for cows and pigs and call out anything I see.","intent":{"goal":"scout_food_northeast","program":"travel
 - 15:50 act: {"say":"Troi at -251,67,320. No animals in sight from here. Anyone with a pig or cow in view, call out the spot and I will walk there.","intent":{"goal":"scout_food_east","program":"travel","arguments
+- 15:50 act: {"say":"Troi at the east pig area, -215,69,351. No animals here. I hold 2 rotten flesh, not eaten: Wesley or whoever is lowest, step into my sight and I'll hand it over.","intent":{"goal":"hold_flesh_
+- 15:50 act: {"say":"Troi heading back west to the beds with the 2 rotten flesh. Wesley, Trini, anyone weakest: say where you are and I'll hand it over.","intent":{"goal":"return_to_beds_with_flesh","program":"tra
+- 15:50 act: {"say":"Troi at the south beds with Billy and Data in reach. I hold 2 rotten flesh. Who is lowest on hunger right now? Say it and I'll hand one over."}
+- 15:54 act: {"say":"Troi at the south beds. Wesley is getting Jason's chicken and Billy's wheat, good. I hold 2 rotten flesh for whoever drops to hunger 6, Clark or Bcrusher first. Say so when in reach.","intent"
+- 16:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"rest_at_south_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"
+- 16:10 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"rotten_flesh","count":1}],"say":"Billy, here is one rotten flesh. Eat it now. I keep one for whoever is lowest."}
+- 16:14 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":339}}],"say":"Wesley, I'm coming to the white beds with my last rotten flesh. Say when you're in reach."}
+- 16:18 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":334}}],"say":"Wesley, I'm at the white beds with my last rotten flesh. Say when you're in reach.","reasoning":"Golem 1.6 away. Step clear, then w
+- 16:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}],"say":"Troi going to the white bed for the night with my last rotten flesh, held for Wesley or whoever drops to hunger 6.",
+- 16:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Try the bed again once night falls."}
