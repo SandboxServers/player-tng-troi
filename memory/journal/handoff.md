@@ -1,4 +1,11 @@
-# Handoff, day 267 (night), latest
+# Handoff, day 270 (midday), latest
+
+- Position: (-296,67,296), at the white beds with the group. Not enclosed.
+- Health 6, hunger 13, no food. days_since_sleep 7. Sleep at the beds was blocked on day 269 dusk.
+- Next: any meat goes to Chapman and Trini first. Try the bed at -298,68,294 at dusk, away from golems. Then run reflect.
+- No errand is half-done.
+
+# Handoff, day 267 (night), earlier
 
 - Position: (-271,67,319), beside the white beds at -271,67,318 and -270,67,318. Not enclosed. Asleep (sleep worked, 3 of 9 asleep).
 - Health 12, hunger 14, no food. Pack: oak_sapling, 3 dirt, 4 oak_log, 2 leather.

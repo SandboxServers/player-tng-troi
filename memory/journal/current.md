@@ -362,3 +362,10 @@
 - 07:13 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":291}}],"say":"Trader, I'm Troi. I'll give 4 oak logs and 2 leather for any bread or meat. Please answer."}
 - 07:15 act: {"actions":[{"do":"goto","target":{"x":-296,"y":68,"z":298}}],"say":"Does anyone have bread, seeds or meat? I have 4 oak logs and 2 leather to trade. Health 6."}
 - 07:15 act: {"actions":[{"do":"goto","target":{"x":-298,"y":69,"z":300}}],"say":"Trader, I'm right here. 4 oak logs and 2 leather for bread or any food. Yes or no?"}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Troi going to the white bed by the crafting table for the night. Health 6, hunger 13, no food. Anyone with food, I'm
+- 07:21 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Troi going to the white bed at -298,68,294 to sleep. Health 6, hunger 13, no food."}
+- 07:22 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":296}}],"say":"Troi moving back to the beds at -297,68,296 in the dark. Health 6, no food."}
+- 07:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Troi trying the white bed at -298,68,295 now. No food; Chapman and Trini first at dawn."}
+- 07:31 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":330}}],"say":"Troi, dawn of day 270, health 6, hunger 13, no food. Joining the west search for cows or pigs. Any meat goes to Chapman and Trini f
+- 07:31 act: {"actions":[],"say":"Troi at the west grass, (-300,67,330). No animals in sight. Picard, I'll follow your north sweep; I'll call any cow, pig or sheep."}
+- 07:35 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":296}}],"say":"Troi: no animals west. Bows are drawn to the north, so I'm heading back to the beds with the group. Still no food; any meat goes to
