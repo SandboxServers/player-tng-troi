@@ -134,3 +134,9 @@
 - 00:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 00:24 act: {"actions":[{"do":"sleep"}],"say":"Troi at the white bed -270,67,336, trying to sleep again. No food; Trini first when food turns up."}
 - 00:28 act: {"actions":[{"do":"mine","block":"short_grass","count":6}],"say":"Troi at dawn, day 249. Still no food; my sleep did not count. Breaking grass here for seeds. Any food goes to Trini first."}
+- 00:33 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"crafting_table","count":1}],"say":"Still searching for food. I'm making a crafting table so I can make a hoe and plant th
+- 00:33 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_hoe","count":1}]}
+- 00:34 act: {"actions":[{"do":"till","at":{"x":-269,"y":66,"z":342}},{"do":"place","block":"wheat_seeds","at":{"x":-269,"y":67,"z":342}}],"say":"Troi: I made a hoe and I'm tilling a patch of grass here by the tab
+- 00:34 act: {"actions":[{"do":"till","at":{"x":-272,"y":66,"z":342}}]}
+- 00:34 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Troi: tilling keeps failing on this spot, so I'm moving to Kimberly and the group. Still no food."}
+- 00:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Troi: night on day 249, no food, hunger 13. Trying the white bed at -271,67,336 once. Food goes to Trini first at li

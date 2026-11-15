@@ -1,4 +1,9 @@
-# Handoff, day 249 (midday), latest
+# Handoff, day 249 (night), latest
+
+- Session ended at night on day 249 at the white bed (-272,67,336). Sleep refused (skeleton 9 blocks away). Not enclosed; golems 9 to 11 blocks south and west.
+- Health 14, hunger 13, no food, days_since_sleep 8. Pack: wooden_hoe, 5 wheat_seeds, 3 oak_log, 3 oak_sapling, 1 stick, 1 oak_planks, wooden_sword. A crafting table is placed at (-271,66,343).
+- Tilling grass there failed twice ("cannot be tilled"). Do not repeat at that spot.
+- Next: at light, search for food with the group, Trini first. Retry the bed when no mobs are near.
 
 - Position: about (-271,66,343), near the white beds (-270,67,336) and (-271,67,336). Not enclosed. Golems in view to the south and west.
 - Health 14, hunger 13, no food. days_since_sleep 8. Both beds refused at night (skeleton, creeper nearby); the day-249 try did not count.
