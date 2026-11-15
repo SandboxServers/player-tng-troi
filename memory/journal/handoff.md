@@ -1,10 +1,19 @@
-# Handoff, night 285, latest
+# Handoff, dawn/dusk day 288, latest
 
-- Position: about (-271,67,318), at the north white bed, dim/night, not enclosed. Billy, Bcrusher, Data, Trini within 5 blocks. No creeper or golem seen.
-- Health 11.8, hunger 12, no food in pack. Days since sleep 1.
-- Picard is making bread from ripe wheat; Trini has 2 wheat. Food rule: LaForge, then Trini, then Picard.
-- Trying sleep at the north white bed now. No errand half-done.
-- Next at dawn: scout for animals with Billy. Trim journal/current.md before the next sleep.
+- Position: about (-272,67,336), on planks at the south white bed (-271,67,336). Out of the dirt pit. Iron golem about 9 blocks east. Leonardo, Clark, Data beside me.
+- Health 5.8, hunger 9, no food in pack. Days since sleep 4.
+- Sleep refused: "not night". Wait for night, then try sleep at this bed or the yellow bed (-271,67,326).
+- Food: none found. Group rule: food to Lewis and LaForge first, then Leonardo, then Zack and Worf.
+- No errand half-done.
+
+# Handoff, night 287, earlier
+
+- Position: near (-271,67,326), the yellow bed, dark, not enclosed. Group close: LaForge, Picard, Bcrusher, Kimberly, Zack, Worf.
+- Health 5.8, hunger 9, no food in pack. Days since sleep 3.
+- Sleep refused twice tonight: crowding at north/yellow beds, creeper and phantom in range. Trying the yellow bed again now.
+- Food rule: Lewis first (hunger 16, health 3), then LaForge, then Zack and Worf. Chicken held by Lewis for hunger 6 or below.
+- Next at dawn: food hunt with the group. Trim journal/current.md before the next sleep.
+- No errand half-done.
 
 # Handoff, night 284
 

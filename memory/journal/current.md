@@ -493,3 +493,38 @@
 - 12:44 act: {"actions":[{"do":"sleep"}]}
 - 12:49 act: {"say":"Troi, dawn, hunger 12, no food. LaForge first, then Trini and Picard. I'll scout the north-west grass for meat with Worf and Zack.","intent":{"goal":"scout_northwest_grass_for_meat","program":
 - 12:49 act: {"say":"Troi scouting the north-west grass with Zack and Worf. Anything found goes to LaForge, then Trini.","intent":{"goal":"scout_north_grass_for_meat","program":"travel","arguments":{"target":{"x":
+- 12:51 act: {"intent":{"goal":"scout_south_for_animals","program":"travel","arguments":{"target":{"x":-280,"y":68,"z":340}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_damag
+- 12:51 act: {"intent":{"goal":"scout_southwest_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":360}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_d
+- 12:53 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_damage"]
+- 12:53 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
+- 12:53 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Troi going to sleep in the white bed at -271,336. No food; hunger 10. Food goes to Trini first."}
+- 12:57 act: {"say":"Troi here, hunger 10, health 11.8, no food. Lewis is at health 5, so he comes first. Macdonald, Trini: give the last porkchop to Lewis. I'm next when there is more."}
+- 13:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Troi going to sleep in the white bed at -271,336 for the night. No food; hunger 10. Lewis first, then me."}
+- 13:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trying the white bed again. No food yet; Lewis has the porkchop.","reasoning":"Sleep was refused for a creeper 7 blo
+- 13:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep at the nearby north bed was blocked at the other bed. I am one block away from this bed now, so try it."
+- 13:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"The north bed (-270,318) blocked sleep. Data is at the one beside it, which is occupied, so I try the other be
+- 13:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Bcrusher, thank you for the bread offer. I'm at hunger 10 and will come to you at the crafting table by -271,319.","reasoning":"Bcr
+- 13:04 act: {"actions":[],"say":"Bcrusher, Troi here, hunger 10. Zack and Clark are at 12, so give the bread to whichever of them is in reach first. I'll wait for the next food.","reasoning":"Zack and Clark are h
+- 13:07 act: {"actions":[{"do":"eat"}],"say":"Thank you, Trini, for the chicken. Eating it now, then sleep.","reasoning":"Trini gave me a chicken at hunger 10. I eat it now, then try the bed again."}
+- 13:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Raw chicken can only be eaten at hunger 6 or below, so I keep it. Try sleep at the free north bed.","say":"Tri
+- 13:07 act: {"actions":[],"say":"Troi, hunger 9, in reach of Chapman and Riker. Bread from Bcrusher, if it reaches me, I'll take; I'll hold the chicken for when I'm at 6.","reasoning":"Clark, Zack and Jason are h
+- 13:11 act: {"actions":[],"say":"Troi, dawn day 287, hunger 9, holding one raw chicken for when I reach 6. Scouting south-east with Chapman for meat or wheat.","reasoning":"It is dawn. The next food goes to me as
+- 13:15 act: {"intent":{"goal":"reach_lewis_with_chicken","program":"travel","arguments":{"target":{"x":-278,"y":67,"z":334}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":600,"max_
+- 13:15 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"chicken","count":1}],"say":"Lewis, here is my raw chicken. You are hungrier than me, so eat it.","reasoning":"Lewis at 17 is hungrier. Give the chic
+- 13:21 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi, night day 287, phantom hitting me. Heading to the north white bed.","reason
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"The north beds are crowded and sleep was blocked. Try the yellow bed 10 blocks north, which is free."}
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Yellow bed was also blocked. Try the south white bed at -271,67,336, which is free for now."}
+- 13:23 act: {"intent":{"goal":"shelter_from_phantoms","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wor
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Health is steady and the phantoms have left my view. Try the south bed once more."}
+- 13:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep at the yellow bed one block north. Refusals so far: crowding or phantoms. Try once, then read why.","say":"Trying the yellow bed now. Phantoms are near, 
+- 13:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Creeper was 10 blocks away and is now not listed. Retry the yellow bed sleep once."}
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"No monsters in view now. Walk to the yellow bed and try sleep."}
+- 13:26 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"I am one block lower than before (y 64), so the path to the yellow bed was blocked. Get free,
+- 13:26 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Hazards are drops to the west and north-west. Try a pillar of dirt under me to rise, then unstick."}
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}},{"do":"sleep"}],"reasoning":"I moved one block and am no longer trapped. Walk up to ground level near the beds and try sleep."}
+- 13:27 act: {"actions":[{"do":"mine","block":"dirt","count":1}],"reasoning":"Goto is blocked and the drop is to the west. I'll dig the dirt in front of me to open a path north toward the yellow bed, then try agai
+- 13:27 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"reasoning":"I am in a dirt well, open only above. Placing stone under me and then unsticking may let my body jump up. Tr
+- 13:29 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"reasoning":"Dawn has come and others are moving about. Try the yellow bed route again now before anything else."}
+- 13:29 act: {"actions":[{"do":"unstick"}],"reasoning":"I dropped further, to y 61, and goto found no path. Unstick uses the body's own ways out; try it."}
+- 13:29 act: {"actions":[{"do":"goto","target":{"x":-261,"y":60,"z":338}}],"reasoning":"I am out of the pit. An item lies three blocks north; it could be food. Walk over and pick it up."}
+- 13:29 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night has come. The south white bed at (-271,67,336) is closer than the pit. Walk there and try to sleep."}
