@@ -1,5 +1,5 @@
 # Journal
-- Day 237 entry moved to memory/journal/day-237.md. Earlier journal lines were folded into day notes.
+ moved to memory/journal/day-237.md. Earlier journal lines were folded into day notes.
 - 19:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}},{"do":"sleep"}],"say":"Troi going to the white beds by the pond for the night, away from the phantom. No food; health and hunger 20.","inte
 - 19:41 act: {"actions":[{"do":"sleep"}],"say":"Troi at the white bed by the pond, trying to sleep now that it is night. No food; health and hunger 20."}
 - 19:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}],"say":"Troi going to the white bed at -271,67,318 to sleep with the group. No food; I'll bring anything I find to Riker and

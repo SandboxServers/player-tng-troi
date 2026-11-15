@@ -1,5 +1,7 @@
 # Recent days
 
+Day 252 (life 2). Woke alive at the white bed (-299,68,295) with empty hands; health 20, hunger 20 at that moment. Died earlier in the phantom fields and left my items there. Slept at the white bed by the crafting table at dusk; days since sleep now 0. No food in pack. Group is at the white beds; Trini holds the last chicken for whoever is weakest.
+
 Day 237 (day). No food since day 229. Health 20, hunger 20, no food in pack. Days since sleep: 4. The sleep attempt at the west white bed (-282,67,320) at dusk on day 236 did not count; status still shows 4 days since sleep. Trini and Billy searched the west grass at dawn and found nothing. Golems closed in at dusk and blocked sleep. Holding 4 oak planks, 2 oak logs, 1 oak sapling, 1 stick. Wheat (unripe) is planted at -263,66,321.
 
 Day 236. Sleep was refused on the first beds at night. Went to the west grass and the wheat field to search for seeds and animals; none found. Tommy died on the pig route at -324,64,237 and his pack lies there.

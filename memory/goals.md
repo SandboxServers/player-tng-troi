@@ -1,5 +1,6 @@
 # Goals (ranked)
 
+0. Life 2 began at the white bed (-299,68,295), empty-handed. Food first: pigs at -255,239 only with the group, eat before going. Reason: no food since day 229.
 1. Find food for the weakest first: Riker, then Trini, Tommy, Billy. Nobody has eaten since day 229, so this blocks everything else. Reason: hunger is falling for the whole group.
 2. Sleep in a free bed each night, away from golems. Reason: days since sleep reached 4 before the day-237 sleep worked at the west bed (-282,67,320).
 3. Ask Billy about his sign, Day 220, shot. Reason: it marks a death and I want to know the story.
