@@ -156,3 +156,26 @@
 - 01:01 act: {"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
 - 01:01 act: {"actions":[{"do":"sleep"}]}
 - 01:07 act: {"actions":[{"do":"sleep"}]}
+- 01:09 say: {"text":"Troi here, day 251. No food on me either. I'll search the grass for animals with Jason and the group, staying in sight."}
+- 01:09 act: {"intent":{"goal":"search_north_grass_with_group","program":"travel","arguments":{"target":{"x":-275,"y":66,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition
+- 01:09 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":300}}],"say":"Troi: something dropped right beside me at -275,67,300. I'm picking it up and will check what it is."}
+- 01:10 act: {"intent":{"goal":"search_north_west_grass_for_animals","program":"travel","arguments":{"target":{"x":-285,"y":66,"z":285}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precon
+- 01:14 act: {"intent":{"goal":"hunt_pig_or_cow_north","program":"travel","arguments":{"target":{"x":-286,"y":66,"z":248}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 01:14 say: {"text":"Laforge, where exactly did you see the cow? I'm here and see no animals yet."}
+- 01:14 act: {"intent":{"goal":"search_animals_north_east","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":270}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 01:14 act: {"intent":{"goal":"search_pig_north","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":242}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"li
+- 01:15 act: {"intent":{"goal":"search_new_grass_north","program":"travel","arguments":{"target":{"x":-250,"y":67,"z":215}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 01:15 act: {"intent":{"goal":"hunt_pig","program":"travel","arguments":{"target":{"x":-238,"y":68,"z":227}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"
+- 01:15 act: {"intent":{"goal":"kill_pig","program":"gather","arguments":{"block":"pig","count":1},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"max_world_t
+- 01:15 act: {"actions":[{"do":"eat"}],"say":"Got two porkchops. I'm eating one now for my health and keeping one for Trini. Another pig is south-west, so I'll try for it too."}
+- 01:15 act: {"intent":{"goal":"bring_food_to_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":316}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],
+- 01:15 say: {"text":"Troi at the beds with one porkchop. Trini isn't here. Trini, tell me where you are and I'll bring it. Wcrusher, Bcrusher: do you need it more than anyone?"}
+- 01:19 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Worf, giving you the porkchop now. Eat it."}
+- 01:19 act: {"intent":{"goal":"reach_worf_with_food","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":325}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 01:19 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Worf, here is the porkchop. Trini and Data next."}
+- 01:19 say: {"text":"The porkchop went to Riker, not Worf. Riker, please pass it on to Trini or Data."}
+- 01:19 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 01:19 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 01:19 act: {"actions":[{"do":"sleep"}]}
+- 01:24 act: {"actions":[{"do":"sleep"}]}
+- 01:26 act: {"actions":[{"do":"sleep"}]}

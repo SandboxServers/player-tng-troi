@@ -1,10 +1,11 @@
-# Handoff, day 250 (night), latest
+# Handoff, day 251 (night), latest
 
-- Position: (-270,67,337), at the white beds with Tommy, Worf, Wcrusher, LaForge. Not enclosed. Golems 9 to 15 blocks south.
-- Health 14, hunger 12, no food, days_since_sleep 9. Pack: 3 oak_log, 3 oak_sapling, 1 stick, 5 wheat_seeds, wooden_hoe, wooden_sword, 1 oak_planks.
-- Tonight: dusk sleep refused (creeper 7 blocks away); north bed (-270,67,318) refused, beds occupied, search ran out.
-- Wheat at (-253,66,334) is unripe, not food yet. Trini gets any food first.
-- Next: wait for a free bed, try sleep again; stay in sight of the group. No errand is half-done.
+- Position: (-271,67,319), beside the north white beds (-271,67,318) and (-270,67,318). Not enclosed. Night, clear.
+- Health 14, hunger 14, no food, days_since_sleep 10. Pack: 3 oak_log, 3 oak_sapling, 1 stick, 5 wheat_seeds, wooden_hoe, wooden_sword, 1 oak_planks.
+- My porkchop went to Riker by mistake. Riker holds 3 porkchops for Worf (hunger 6, weakest, first), then Trini and Data.
+- Next food: pigs at (-255,67,239) and (-236,68,229), at light. Wheat at (-253,66,334) is unripe.
+- Trying sleep at the bed now. Beds are crowded; if refused, stay with the group.
+- No errand is half-done.
 
 # Handoff, day 249 (night), earlier
 
