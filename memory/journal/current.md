@@ -140,3 +140,12 @@
 - 18:07 act: {"actions":[{"do":"sleep"}],"reasoning":"No golems near the north white bed; sleep again."}
 - 18:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"reach_north_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","
 - 18:07 act: {"actions":[{"do":"sleep"}],"reasoning":"On the white bed, no golems listed. Sleep alone."}
+- 18:09 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"rotten_flesh","count":1}],"say":"Troi at the north white bed, dawn 301, hunger 18. Bcrusher, you were lowest at 8: here is one rotten flesh. Eat 
+- 18:09 act: {"actions":[],"say":"Troi: the rotten flesh went to Billy, not Bcrusher, so Billy has it now. I hold my last one. Bcrusher, Clark, anyone at 6 or below: say so and step into my sight.","reasoning":"Gi
+- 18:13 act: {"intent":{"goal":"join_sheep_hunt","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_b
+- 18:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Troi going to the south white bed for the night, hunger 18, health 20. Golems are around us, which keeps phantoms of
+- 18:23 act: {"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 18:23 act: {"actions":[{"do":"sleep"}],"say":"At the north white bed, hunger 17, health 20. Jason and Chapman are the lowest in the group. Zack and Kimberly have the food; I keep my one rotten flesh for whoever 
+- 18:32 act: {"intent":{"goal":"scout_animals_west","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 18:32 act: {"intent":{"goal":"scout_animals_northwest","program":"travel","arguments":{"target":{"x":-305,"y":67,"z":316}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 18:33 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_

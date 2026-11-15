@@ -1,4 +1,11 @@
-# Handoff, night 300, latest
+# Handoff, night 302, latest
+
+- At the north white bed area (-270,67,337), night, dark, not enclosed. Health 20, hunger 17.
+- Sleep blocked at the south bed and at the north bed ("way was blocked"); golems and crowding. Not asleep yet; days_since_sleep 2.
+- Holding 1 rotten_flesh for whoever drops to hunger 6 (Jason at health 2 and Chapman at 5 are the lowest; food is held by Zack, Kimberly, Trini).
+- Next: at dawn, food hunt with the group. Try sleep again when the beds are clear. No errand half-done.
+
+# Handoff, night 300
 
 - At the yellow bed (-262,67,353), night, dim, not enclosed. Health 20, hunger 19. Bcrusher in reach (hunger 9, holds 1 rotten_flesh for hunger 6). Golem about 11 blocks west.
 - Still carry 2 chicken and 4 rotten_flesh, for whoever calls low first (LaForge, Clark, Macdonald at 15-17 were fed by others).
