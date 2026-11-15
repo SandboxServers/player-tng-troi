@@ -18,3 +18,8 @@
 - 22:11 act: {"actions":[],"say":"Lewis, I cannot see you from here. Step into view by the beds and I will hand the egg over."}
 - 22:15 act: {"actions":[{"do":"goto","target":"lewis"}],"say":"Lewis, I am walking to you with the egg."}
 - 22:23 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1093}},{"do":"deposit","at":{"x":433,"y":107,"z":-1093},"item":"egg","count":1}],"say":"Lewis, I have left the egg in the chest by the white bed
+- 22:24 act: {"intent":{"goal":"reach_chicken_area_north","program":"travel","arguments":{"target":{"x":435,"y":107,"z":-1000}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 22:24 say: {"text":"Morning. I'm at x435 z-1001 looking for the chickens. Leonardo, do you know where they are now?"}
+- 22:24 act: {"intent":{"goal":"return_to_beds_for_weakest","program":"travel","arguments":{"target":{"x":431,"y":107,"z":-1092}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
+- 22:24 act: {"say":"Troi at the beds. I have no food except one rotten flesh, and the egg I left is in the chest at x433 z-1093. Meriwether, Clark, Billy: come into view and I will help you find it."}
+- 22:28 act: {"say":"Lewis, the egg should be in the chest at x433 z-1093. Take it, and eat it when you can. I'll keep looking for chickens north."}
