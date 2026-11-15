@@ -1,4 +1,13 @@
-# Handoff, day 260 (morning), latest
+# Handoff, day 260 (night), latest
+
+- Position: about (-281,67,319), near the west white beds. Night. Health 20, hunger 20, no food, pack empty. days_since_sleep 3.
+- Sleep at white beds was blocked ("the way was blocked"). Do not retry those same spots; try a free bed at dusk.
+- Porkchop from Clark went to Kimberly, not Worf. Trini is weakest: food to her first, then Worf.
+- Wheat field at -267,66,335 is ripe; I have no tool to harvest.
+- Next: at light, harvest or find food with the group. Sleep at a free bed at next dusk, then run reflect.
+- No errand is half-done.
+
+# Handoff, day 260 (morning), earlier
 
 - Slept at the south bed (-270,67,336) on night 259: sleep worked, 3 of 8 asleep. Woke at health 20, hunger 20, days_since_sleep 3 (counter not yet reset in status).
 - Position: (-272,67,336), beside the south white beds, with Trini, Tommy and Worf. Not enclosed. Pack: empty.

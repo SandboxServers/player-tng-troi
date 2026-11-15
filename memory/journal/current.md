@@ -269,3 +269,13 @@
 - 04:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"The sleep did not take; I'm standing a few blocks off the bed. Move onto the free bed before trying again."}
 - 04:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Standing on the bed square at night with no hostiles near. Sleep once here."}
 - 04:11 act: {"actions":[],"say":"Geldar at the south bed, morning of day 260. I have nothing to give. Trini gets Clark's porkchop first; I'll scout the grass in sight for animals.","reasoning":"I have full health
+- 04:19 act: {"say":"Troi here, no food either. I'll go to the ripe wheat at -267,66,335 with Riker and bring any wheat to Trini first.","actions":[{"do":"goto","target":{"x":-267,"y":66,"z":335}}],"reasoning":"Fo
+- 04:19 act: {"say":"Troi at the wheat field at dusk, no food and no wheat yet. Golems are close to the south-east, so I'm going to the white beds to sleep. Trini first for any food.","actions":[{"do":"goto","targ
+- 04:23 act: {"say":"Troi: I have one porkchop. LaForge is at health 5 and in reach, so he gets it now. Trini and Worf next at dawn.","actions":[{"do":"give","to":"ag_laforge_01","item":"porkchop","count":1},{"do"
+- 04:23 act: {"say":"LaForge, your health is low and you are close. Here is the porkchop.","actions":[{"do":"give","to":"ag_laforge_01","item":"porkchop","count":1}],"reasoning":"Previous give failed because items
+- 04:24 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}],"say":"Worf, I'm coming to you with the porkchop. LaForge's give kept failing, so it goes t
+- 04:24 act: {"say":"Troi: the porkchop went to Kimberly, so Trini and Worf get the next meat. I have nothing else. Going to bed now.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"r
+- 04:32 act: {"say":"Troi at dawn, day 261. No food, hunger 20. Worf has the porkchop and beef now, so I'll scout south-west for animals and bring any meat to Trini or Worf first.","intent":{"goal":"scout_food_sou
+- 04:32 act: {"say":"Troi here, midday. No animals at this spot. Billy, I'm heading to the west cow near -288,67,257 to look for more meat.","intent":{"goal":"scout_west_cow","program":"travel","arguments":{"targe
+- 04:33 act: {"say":"Troi at the west cow spot, midday. No cow here, only a horse, and horses are no food. I'm heading back toward the white beds to rejoin the group.","intent":{"goal":"return_to_white_beds","prog
+- 04:33 act: {"say":"Troi back at the white beds. No food found: no cow at the west spot, only a horse. Jason, Wesley, I have nothing in my hands. If anyone finds meat, Trini and Worf first."}
