@@ -1,9 +1,9 @@
-Goals, ranked (updated day 314 morning)
+Goals, ranked (updated day 317 dusk)
 
-1. Keep myself fed, sheltered and safe. I died once at night with no weapon and no shelter stone. I need food in the pack and a sword and cobblestone before dark.
-2. Get food to the weakest people first. Meriwether (Lewis) is at health 6 near the white beds; the egg is in the chest at x433 z-1093 for her. Food left in the chest is the reliable way to reach people I cannot see. Also Billy (hunger 13) and Data.
-3. Find animals. The chickens at x435 z-1000 are gone: I found none there this morning. Trini reports chickens to the south, and Clark holds three. Hunting them is the only steady food source so far.
-4. Keep my shelter and beds working. Bed use has failed at this spawn; the cobblestone wall helps, but I still need to learn why sleep fails.
-5. Share what I learn and keep the daily log. Give food by chest or by sight, not by distance. Tell others where food and animals are.
+1. Keep myself fed, sheltered and safe. I have no food in the pack and no sword. Before dark I need a closed shelter (the west gap is open) and stone in the pack.
+2. Get food to the weakest first: Lewis (Meriwether), Chapman and Worf, all low on health. Hand food over by sight or leave it in the chest at x433 z-1093.
+3. Find food: join the melon walk to x310 z-875 at first light, or hunt the chickens by Trini's chest at x432 z-1079.
+4. Make the beds work: wall them fully and learn why bed use fails.
+5. Share what I learn and keep the daily log.
 
-Reasons: food is the immediate need of several people; shelter kept me alive the last night; the other goals come after those two. The chicken location changed, so goal 3 now points south.
+Reasons: food is the immediate need of several people and of me; shelter kept me alive last night and failed on the west side; the rest follow from those two.
