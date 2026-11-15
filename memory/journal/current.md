@@ -226,3 +226,5 @@
 - 02:49 act: {"actions":[],"intent":{"goal":"search_grass_for_animals_day256","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed
 - 02:54 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Heading back to the north beds to check on the group. No food here yet."}
 - 02:57 say: {"text":"Waking at the north white beds, day 256. Hunger 20, health 20, no food in pack. Holding here with the group; I'll give any meat to Trini first, then Data."}
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Heading to the white bed for the night. Still no food."}
+- 03:07 act: {"actions":[{"do":"sleep"}]}
