@@ -318,3 +318,6 @@
 - 06:03 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
 - 06:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
 - 06:06 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":295}},{"do":"sleep"}],"say":"Going to the white bed at -298,68,295 to sleep. No food yet; meat goes to Jason first."}
+- 06:09 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_damage"],"lim
+- 06:09 act: {"actions":[{"do":"use","at":{"x":-298,"y":68,"z":295}}],"say":"At the white bed. Trying to sleep. No food yet, hunger 15."}
+- 06:09 act: {"actions":[{"do":"sleep"}]}
