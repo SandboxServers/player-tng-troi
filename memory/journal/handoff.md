@@ -1,4 +1,12 @@
-# Handoff, day 249 (night), latest
+# Handoff, day 250 (night), latest
+
+- Position: (-270,67,337), at the white beds with Tommy, Worf, Wcrusher, LaForge. Not enclosed. Golems 9 to 15 blocks south.
+- Health 14, hunger 12, no food, days_since_sleep 9. Pack: 3 oak_log, 3 oak_sapling, 1 stick, 5 wheat_seeds, wooden_hoe, wooden_sword, 1 oak_planks.
+- Tonight: dusk sleep refused (creeper 7 blocks away); north bed (-270,67,318) refused, beds occupied, search ran out.
+- Wheat at (-253,66,334) is unripe, not food yet. Trini gets any food first.
+- Next: wait for a free bed, try sleep again; stay in sight of the group. No errand is half-done.
+
+# Handoff, day 249 (night), earlier
 
 - Session ended at night on day 249 at the white bed (-272,67,336). Sleep refused (skeleton 9 blocks away). Not enclosed; golems 9 to 11 blocks south and west.
 - Health 14, hunger 13, no food, days_since_sleep 8. Pack: wooden_hoe, 5 wheat_seeds, 3 oak_log, 3 oak_sapling, 1 stick, 1 oak_planks, wooden_sword. A crafting table is placed at (-271,66,343).

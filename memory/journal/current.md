@@ -140,3 +140,19 @@
 - 00:34 act: {"actions":[{"do":"till","at":{"x":-272,"y":66,"z":342}}]}
 - 00:34 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Troi: tilling keeps failing on this spot, so I'm moving to Kimberly and the group. Still no food."}
 - 00:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Troi: night on day 249, no food, hunger 13. Trying the white bed at -271,67,336 once. Food goes to Trini first at li
+- 00:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Geldar: trying the white bed for sleep. No food on me, hunger 13."}
+- 00:43 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Geldar: no food, hunger 13. Trying the yellow bed by the water for sleep."}
+- 00:43 act: {"actions":[{"do":"sleep"}]}
+- 00:45 act: {"actions":[{"do":"sleep"}]}
+- 00:45 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":-241,"y":68,"z":344}}],"say":"Geldar: it's light. Still no food, hunger 13. I'm searching the grass for animals, and any food goes to Trini first."}
+- 00:46 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}]}
+- 00:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 00:51 act: {"intent":{"goal":"reach_cow_area","program":"travel","arguments":{"target":{"x":-286,"y":66,"z":245}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limi
+- 00:52 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":337}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 00:52 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 00:56 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:01 act: {"actions":[{"do":"sleep"}],"say":"Trying the white bed now at dusk. No food on me; Trini gets any food first."}
+- 01:01 act: {"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 01:01 act: {"actions":[{"do":"sleep"}]}
+- 01:07 act: {"actions":[{"do":"sleep"}]}
