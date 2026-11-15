@@ -119,3 +119,24 @@
 - 17:26 act: {"actions":[{"do":"sleep"}]}
 - 17:30 act: {"actions":[],"say":"Zack, I have 2 raw chicken and 4 rotten flesh. Come within reach and they're yours. Worf, look after him."}
 - 17:44 say: {"text":"Troi at the yellow bed, night 300, hunger 19. I hold 2 chicken and 4 rotten flesh. Whoever drops to 6 first and is in my reach, call out and I'll hand it over."}
+- 17:45 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"Troi going to the yellow bed for the night, health 20, hunger 19. Holding 2 chicken and 4 rotten flesh for whoever i
+- 17:45 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"reasoning":"Golems closing in. Reach the bed first, then sleep in a separate step."}
+- 17:45 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"reasoning":"Sleep failed because the way was blocked. Move closer to the bed, then try sleep again in a separate step."}
+- 17:45 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"reasoning":"Previous goto still running. Try the bed approach from the north side."}
+- 17:45 act: {"actions":[{"do":"sleep"}],"reasoning":"At the bed, night, no errand running. Sleep."}
+- 17:46 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"chicken","count":1}],"reasoning":"Zack was lowest at hunger 8 and is in reach. Give one chicken, keep the other, then wait out the phantoms before sl
+- 17:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantoms gone from the list. Try sleep at the white bed."}
+- 17:48 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"chicken","count":1},{"do":"sleep"}],"say":"Clark, hunger 14, in my reach. Here is my last chicken. Eat it, then sleep.","reasoning":"Clark is the lo
+- 17:48 act: {"actions":[{"do":"sleep"}],"reasoning":"Give failed, Clark not in sight. Keep the chicken and try sleep again."}
+- 17:51 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantoms gone from the list. Retry sleep alone at the white bed.","say":"Troi going to sleep at the white bed. Chicken stays with me for whoever drops lowest."
+- 17:55 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"chicken","count":1}],"reasoning":"Zack in reach, hunger 8, lowest nearby. Give my chicken.","say":"Zack, you are lowest in reach. Here is my chicken.
+- 18:04 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"rotten_flesh","count":2}],"reasoning":"Night. Bcrusher at hunger 8, in reach. Rotten flesh is edible; give 2.","say":"Bcrusher, two rotten flesh 
+- 18:04 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, no phantoms listed. Try sleep alone.","say":"Going to sleep now. Bcrusher and Macdonald, call me at dawn if you are low."}
+- 18:04 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","preco
+- 18:05 act: {"actions":[{"do":"sleep"}],"reasoning":"At yellow bed, no monsters listed. Sleep."}
+- 18:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep beside the yellow bed after waiting."}
+- 18:06 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["goal_completed","precon
+- 18:06 act: {"actions":[{"do":"sleep"}],"reasoning":"On the white bed now; try sleep before the golem arrives."}
+- 18:07 act: {"actions":[{"do":"sleep"}],"reasoning":"No golems near the north white bed; sleep again."}
+- 18:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"intent":{"goal":"reach_north_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","
+- 18:07 act: {"actions":[{"do":"sleep"}],"reasoning":"On the white bed, no golems listed. Sleep alone."}
