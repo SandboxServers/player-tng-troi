@@ -173,3 +173,7 @@
 - 19:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 19:27 act: {"actions":[{"do":"sleep"}]}
 - 19:31 act: {"actions":[{"do":"note","text":"Day 306 morning at south beds. Health 8, hunger 15. Holding 1 rotten_flesh for hunger 6. Sleep blocked earlier by crowding; waiting for group to scatter."}],"say":"Tro
+- 19:39 act: {"actions":[],"say":"Troi at the south white bed, health 8, hunger 15. Holding 1 rotten flesh for whoever drops to 6 first, Chapman first if he calls.","reasoning":"Daytime, golems 10 south, not attac
+- 19:41 act: {"actions":[{"do":"sleep"}],"say":"Troi at the south white bed for the night, health 8, hunger 15. Holding my rotten flesh for Chapman or whoever drops to 6.","reasoning":"Dusk now. Bed under me, grou
+- 19:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep is partly working, 3 of 10 asleep. Keep trying on the bed."}
+- 19:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Troi at the white bed for the night, health 8, hunger 15. Flesh held for Chapman or whoever drops to 6.","reasoning"

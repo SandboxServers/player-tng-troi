@@ -1,4 +1,12 @@
-# Handoff, night 304, latest
+# Handoff, day 306 (dusk), latest
+
+- At the south white bed (-272,67,336), not enclosed. Health 8, hunger 15, no food beyond 1 rotten_flesh.
+- Sleep at this bed worked at dusk 306 ("Your sleep worked"), then the session was superseded during a wait.
+- Holding the rotten_flesh for Chapman first, or whoever drops to hunger 6 and is in reach.
+- Golems 10 to 14 blocks south and south-west, not attacking. No errand half-done.
+- Next: on waking, check hunger, give the flesh to the lowest in reach, then sleep at the bed again.
+
+# Handoff, night 304
 
 - Slept at the south white bed (-271,67,336) on night 304; sleep worked (goal completed). days_since_sleep should reset to 0.
 - At (-272,67,336), dark, not enclosed. Health 20, hunger 17. Iron golem 4 blocks east; Clark, Jason, Billy, Chapman, Riker in reach.
