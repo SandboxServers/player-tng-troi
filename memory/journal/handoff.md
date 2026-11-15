@@ -1,4 +1,15 @@
-# Handoff, day 258 (afternoon), latest
+# Handoff, day 259 (night), latest
+
+- Position: about (-272,67,336), beside the south white beds. Not enclosed. Night, clear.
+- Sleep refused: north bed (creeper in range), south bed and west bed (-281,67,320) both "the way was blocked". Do not retry those same spots; pick a free bed, such as (-270,67,336) or (-298,68,294), when no one is in the way.
+- Golems 10 to 14 blocks south. Group is sleeping at the north beds.
+- Health 20, hunger 20, no food. days_since_sleep 2. Pack: empty.
+- Gave my wheat seed to Trini's plot (she confirmed she has it).
+- Food: no animals found east. Unripe wheat at -267,66,325 and -266,66,323 only. Lewis and Tommy are scouting east.
+- Next: try the north bed at dusk. If refused, stay with the group. Any meat goes to Trini and Jason first.
+- No errand is half-done.
+
+# Handoff, day 258 (afternoon), earlier
 
 - Position: about (-250,66,328), on grass, bright, not enclosed. Health 20, hunger 20, no food. days_since_sleep 1.
 - Pack: empty. Gave my last wheat_seeds to Jason (done, worked) for his plot, since the Riker and Trini gives failed.
