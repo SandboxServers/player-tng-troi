@@ -1,4 +1,14 @@
-# Handoff, day 260 (night), latest
+# Handoff, day 262 (dawn), latest
+
+- Position: about (-284,66,319), on grass, bright, with LaForge and Beverly, in sight of the west search (Billy, Zack, Riker, Data, Trini).
+- Health 20, hunger 20, no food, pack empty. days_since_sleep 5.
+- Night 261: sleep refused again at (-272,67,336), "the way was blocked" (golems 4 to 17 blocks south). The other beds were taken or blocked too.
+- Food: none found on the west grass yet. Beverly's one mutton goes to LaForge (health 5). LaForge holds 7 wheat seeds for Picard.
+- Next: stay in sight of the group, hand any meat to Worf, then Trini. Try one free bed at dusk, away from golems. Then run reflect.
+- The earlier day 260 notes below are superseded.
+- No errand is half-done.
+
+# Handoff, day 260 (night), earlier
 
 - Position: about (-281,67,319), near the west white beds. Night. Health 20, hunger 20, no food, pack empty. days_since_sleep 3.
 - Sleep at white beds was blocked ("the way was blocked"). Do not retry those same spots; try a free bed at dusk.

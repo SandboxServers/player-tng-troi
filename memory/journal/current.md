@@ -279,3 +279,13 @@
 - 04:32 act: {"say":"Troi here, midday. No animals at this spot. Billy, I'm heading to the west cow near -288,67,257 to look for more meat.","intent":{"goal":"scout_west_cow","program":"travel","arguments":{"targe
 - 04:33 act: {"say":"Troi at the west cow spot, midday. No cow here, only a horse, and horses are no food. I'm heading back toward the white beds to rejoin the group.","intent":{"goal":"return_to_white_beds","prog
 - 04:33 act: {"say":"Troi back at the white beds. No food found: no cow at the west spot, only a horse. Jason, Wesley, I have nothing in my hands. If anyone finds meat, Trini and Worf first."}
+- 04:37 act: {"intent":{"goal":"reach_ripe_wheat","program":"travel","arguments":{"target":{"x":-267,"y":66,"z":335}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"li
+- 04:38 act: {"actions":[{"do":"mine","block":"wheat","count":1}],"say":"Troi at the wheat field, day 261. Trying to harvest the ripe wheat here; any wheat goes to Worf first, he is in reach of me."}
+- 04:38 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":332}}]}
+- 04:38 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Troi: no wheat here, the field was empty and the item on the ground is gone. I have nothing to give. Going back to the white beds w
+- 04:38 act: {"actions":[],"say":"Troi at the white beds, day 261. No food or wheat on me. Beverly, Trini and Worf should get the mutton first."}
+- 04:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi going to the white bed for the night. No food; Worf and Trini first at dawn."}
+- 04:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Troi: sleep blocked by golems. Moving north to the beds at -271,67,318 for another try."}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Troi: trying the bed at -270,67,336 instead. No food; Worf and Trini first at dawn."}
+- 04:47 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}},{"do":"sleep"}],"say":"Troi going to a free bed by the north beds for the night. No food; Worf and Trini first at dawn."}
+- 04:51 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":318}}],"say":"Troi joining the west search in sight of the group. Any meat goes to Worf, then Trini.","intent":{"goal":"join_west_food_search","p
