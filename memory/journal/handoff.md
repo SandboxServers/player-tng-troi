@@ -1,4 +1,11 @@
-# Handoff, day 281 (midday), latest
+# Handoff, day 281 (night), latest
+
+- Slept at north white bed (-270,67,318) on night 281; sleep worked, days_since_sleep 0. Sheltered with Picard and Bcrusher. No errand running.
+- Health 11.8, hunger 15, no food. Food rule: Trini, then LaForge, then Picard.
+- journal/current.md is still about 450 lines; trim it to "# Journal" before the next sleep.
+- Next at dawn: search for food with the group (grass, sheep field north, salmon lake).
+
+# Handoff, day 281 (midday), earlier
 
 - Position: (-270,67,318), at the north white bed, on planks. Bright, not enclosed. Kimberly, LaForge and Bcrusher beside me. Iron golem about 22 blocks south-west at last look.
 - Health 11.8 steady, hunger 15, no food in pack. Days since sleep 3.
