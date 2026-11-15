@@ -1,4 +1,13 @@
-# Handoff, day 247 (night), latest
+# Handoff, day 249 (midday), latest
+
+- Position: about (-271,66,343), near the white beds (-270,67,336) and (-271,67,336). Not enclosed. Golems in view to the south and west.
+- Health 14, hunger 13, no food. days_since_sleep 8. Both beds refused at night (skeleton, creeper nearby); the day-249 try did not count.
+- Pack: 4 oak_log, 3 oak_sapling, 3 stick, 5 wheat_seeds, wooden_sword, 3 oak_planks.
+- Group nearby: Billy, Riker, Trini (health 3), Jason, Tommy, Data, Picard, Kimberly. Trini gets any food first.
+- Next: stay in sight of the group, search for food, retry a bed at dusk when no mobs are near.
+- Session superseded during a wait at midday. No errand is half-done.
+
+# Handoff, day 247 (night)
 
 - Position: (-272,67,336) at the south beds, moving to the north white beds (-270,67,318). Iron golem 5 blocks north. Not enclosed.
 - Health 14, hunger 14, no food. days_since_sleep 6. Sleep failed at south beds: beds occupied.

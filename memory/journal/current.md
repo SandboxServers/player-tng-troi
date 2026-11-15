@@ -130,3 +130,7 @@
 - 00:20 act: {"say":"Troi here, at dusk, hunger 14, no food. Heading to the white beds to sleep, seven nights since I last slept.","actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
 - 00:20 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":321}},{"do":"sleep"}],"say":"Troi: the bed nearby was refused. Trying the white bed at -282,67,320 now. No food; Trini first."}
 - 00:21 act: {"actions":[{"do":"sleep"}]}
+- 00:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Night on day 248, no food, seven days without sleep. Trying the white bed beside me."}
+- 00:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 00:24 act: {"actions":[{"do":"sleep"}],"say":"Troi at the white bed -270,67,336, trying to sleep again. No food; Trini first when food turns up."}
+- 00:28 act: {"actions":[{"do":"mine","block":"short_grass","count":6}],"say":"Troi at dawn, day 249. Still no food; my sleep did not count. Breaking grass here for seeds. Any food goes to Trini first."}
