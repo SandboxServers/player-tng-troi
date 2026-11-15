@@ -1,4 +1,7 @@
 # Journal
+- Day 258 morning: scouted north-east to -250,67,321. No animals. Give of seed to Trini failed (items on ground near her); still holding the seed. Health 20, hunger 20.
+- Day 258 dawn: sleep at beds failed (creeper 7 blocks away); slept nothing, days since sleep 1. Health 20, hunger 20, no food. Gave my last wheat seed to Trini; going north-east with Lewis for animals.
+- Night day 257: sleep at north white beds refused (way blocked, beds taken, golems near). Health 20, hunger 20, no food. Waiting, then retry.
  moved to memory/journal/day-237.md. Earlier journal lines were folded into day notes.
 - 19:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}},{"do":"sleep"}],"say":"Troi going to the white beds by the pond for the night, away from the phantom. No food; health and hunger 20.","inte
 - 19:41 act: {"actions":[{"do":"sleep"}],"say":"Troi at the white bed by the pond, trying to sleep now that it is night. No food; health and hunger 20."}
@@ -238,3 +241,13 @@
 - 03:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk, no mobs in view, handoff written. Try the north bed once."}
 - 03:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Golem closing from the west and a creeper in range. Move back to the beds with the group and retry sleep once.
 - 03:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"No mobs in view now. One more sleep try at the north bed."}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}],"say":"Going to the north white bed to sleep. No food yet; meat goes to Trini, Ezra, then Data."}
+- 03:26 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:26 act: {"actions":[{"do":"wait","seconds":60}],"say":"Troi at the white beds, night of day 257. No food; sleep refused for now, golem six blocks away. Trying again shortly."}
+- 03:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}]}
+- 03:29 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"wheat_seeds","count":1}],"say":"Trini, dawn of day 258. I have no food, only my last wheat seed, which is yours
+- 03:29 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":320}}],"say":"Troi scouting north-east for animals, day 258. No food yet. Any meat goes to Trini first.","intent":{"goal":"scout_north_east_for_a
+- 03:29 act: {"actions":[],"say":"Troi at -250,67,321, morning day 258. No animals in sight here, only oak trees to the east. Still holding one wheat seed for Trini. Jason, Lewis: tell me if you find meat."}
+- 03:33 act: {"actions":[],"say":"Troi at midday, day 258. Still no animals found; Data and Jason searched east and north too. I'm holding my last wheat seed for Trini or the plot, whichever is ready first."}
+- 03:38 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"wheat_seeds","count":1}],"say":"Jason, here is my last wheat seed for the farm. Plant it wherever it takes. I h
+- 03:38 act: {"actions":[],"say":"Jason, the seed is yours now. I still have no food. I'll watch the golem to the west and help look for meat to the north-east."}

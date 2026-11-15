@@ -1,4 +1,13 @@
-# Handoff, day 257 (night, slept), latest
+# Handoff, day 258 (afternoon), latest
+
+- Position: about (-250,66,328), on grass, bright, not enclosed. Health 20, hunger 20, no food. days_since_sleep 1.
+- Pack: empty. Gave my last wheat_seeds to Jason (done, worked) for his plot, since the Riker and Trini gives failed.
+- Iron golem about 20 blocks west near (-269,66,323). Jason is planting near Riker's plot at -264,65,326.
+- Food: no animals found. Unripe wheat at -267,66,325 and -265,66,323 only.
+- Next: stay near the group. At dusk, go to a free north white bed (-271,67,318) and try sleep, with the reflect skill after. Any meat goes to Trini first, then Ezra, then Data.
+- Session superseded during a wait. No errand is half-done.
+
+# Handoff, day 257 (night, slept), earlier
 
 - Slept at the north white bed (-271,67,318) on night 257. days_since_sleep 0. Health 20, hunger 20, no food.
 - Pack: 1 wheat_seeds (still holding; Riker's gives failed twice, do not retry until a clear plot is named).
