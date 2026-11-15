@@ -321,3 +321,5 @@
 - 06:09 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_damage"],"lim
 - 06:09 act: {"actions":[{"do":"use","at":{"x":-298,"y":68,"z":295}}],"say":"At the white bed. Trying to sleep. No food yet, hunger 15."}
 - 06:09 act: {"actions":[{"do":"sleep"}]}
+- 06:16 act: {"reasoning":"Daytime, sleep refused. No food; MacDonald is heading to cows near -288,67,257. I'll go look for cows with the group and keep close to the beds.","say":"Chapman here. I have no food. I'l
+- 06:16 act: {"reasoning":"At the cow lake area with Billy, Lewis, Wesley nearby. No cows in sight yet. Ask around and wait.","say":"Troi at the cow lake (-289,67,257). No cows in sight yet. Billy, Lewis, have you
