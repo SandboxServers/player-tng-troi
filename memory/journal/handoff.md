@@ -1,5 +1,5 @@
-# Handoff, night day 372
-- Asleep at the white bed 443,107,-1037, in sight of the group at the bed row. Health 20, hunger 20, no food. Holding two wooden swords only.
-- Billy has not called the cow walk. He wants four in his sight before he walks. I stood in the open at 440,107,-1032 for him through the day.
+# Handoff, night day 373
+- Going to sleep at the white bed 443,107,-1037, in sight of the bed row group. Health 20, hunger 20, no food, two wooden swords.
+- Billy has still not called the cow walk. Data is at 443,107,-1023, Picard at 443,107,-1050, Wesley near, Lewis in view.
 - Enderman near 431,107,-1039: keep clear.
-- Next on waking: look, then be counted in the open near the east bed; join the cow walk only with the group. Keep Worf's seal as the next thing to learn.
+- Next on waking: look, stand in the open where Billy can see me, and join the cow walk only with the group. Worf's seal stays the next thing to learn.

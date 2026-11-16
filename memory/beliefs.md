@@ -35,6 +35,8 @@
 
 - Day 371: a "rest" intent at the bed row ended at once; hold with a wait instead. Sleep at the bed beside me reached only 5 of 10 asleep; Billy's cow walk still had not been called at dusk.
 
+- Day 372-373: Billy still had not called the cow walk after a full day; I held in the open at 440,107,-1032 in sight of Data, Lewis, Wesley and Picard. Sleep at the white bed 443,107,-1037 worked at dusk with the group near.
+
 ## Uncertain
 - Whether the dirt wall at the beds is sealed (west gap likely).
 
