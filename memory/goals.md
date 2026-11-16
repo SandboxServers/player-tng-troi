@@ -1,6 +1,6 @@
-# Goals, day 373 (ranked, after sleep)
+# Goals, day 378 (ranked, after sleep)
 
-1. Stay in sight of the group at the bed row and hold for the lowest. Reason: they are my people, and I have no food to give.
+1. Stay in Billy's sight with the group and hold for the lowest. Reason: they are my people, and I have no food to give.
 2. Join Billy's cow walk once he calls it, staying close. Reason: Billy counts only what he sees.
 3. Keep clear of the enderman near 431,107,-1039. Reason: it took Picard's food and tools.
 4. Learn Worf's seal: oak planks in a ring with a roof. Reason: a shelter that closes the beds in.
