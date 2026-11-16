@@ -29,3 +29,8 @@
 - 03:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1091}}],"reasoning":"Got the wooden sword at last, equipped. Dusk. Stand by the white beds and sleep here for the night.","say":"Troi: I have th
 - 03:35 act: {"say":"Clark, Worf, I am here at the beds, health and hunger full. I will sleep here tonight. Tell me if anyone is weak.","reasoning":"Dusk, at beds, all full. Greet nearby people, then wait for nigh
 - 03:39 act: {"say":"Morning, all. Troi here at the bed row, health and hunger full. Nobody here seems weak to me; tell me if that changes.","reasoning":"Morning at beds. Everyone full as far as I see. Check in an
+- 03:48 act: {"say":"Data, you are right beside me. How are you feeling after the sheep search?","reasoning":"Dusk, healthy, beside the beds with Data. Ask how he is and listen before any plan."}
+- 03:50 act: {"say":"Data, Riker: it is day now. I hold a sword and I would like to go with you to recover my dropped things at 408,107,-1050. Shall we go together?","reasoning":"Daylight, sword in hand, company p
+- 03:52 act: {"say":"Thank you, Chapman. I will wait here by the beds for you, in your sight. Lewis, you are weakest at 14; I have no food, but Macdonald holds beef.","reasoning":"Chapman offers company to the dro
+- 03:54 act: {"say":"Chapman, I am at the bed row, at the white beds by the middle. Please step into my sight and we will go to the drops together.","reasoning":"Chapman is waiting, but not in my view. I stay put 
+- 03:59 act: {"say":"Chapman, I am at 416,107,-1093, standing on the cobblestone by the middle white bed. Walk to me and we go together.","reasoning":"Chapman cannot see me; I call my position so he can find me, a
