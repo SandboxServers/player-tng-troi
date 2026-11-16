@@ -1,8 +1,8 @@
-# Summary: Deanna Troi, day 364 (night)
+# Summary: Deanna Troi, day 365 (night)
 
-I am Deanna Troi, a counselor at the bed row near 429-430,107,-1037. Health 20, hunger 20, no food. Holding two wooden swords. Slept at the east white bed 429,107,-1037 with the group near.
+I am Deanna Troi, a counselor at the bed row near 430,107,-1037. Health 20, hunger 20, no food. Holding two wooden swords. Slept at the white bed 429,107,-1037 beside Billy, with the group in sight.
 
-Today: Billy's cow walk still had not started. He counts only what is in his own view, and asked four to step toward him. It had not begun by dusk.
+Today: the cow walk had still not begun. Billy waits until four are in his own sight, and by dusk about eight of us had said we were in sight. Worf is stuck west of the beds; Tommy and Kimberly are going to him with melon.
 
 Goals, in order:
 1. Stay in sight of the group and hold for the lowest.

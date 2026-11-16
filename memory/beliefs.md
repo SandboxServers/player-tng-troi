@@ -26,6 +26,7 @@
 
 - Day 363: Billy's cow walk held at the beds all day. It waits for four in sight; it did not start before dusk. Worf's shelter build was interrupted by a threat and moved to 399,107,-1036.
 - Day 363: sleep at the white bed 429,107,-1037 works with the group in sight.
+- Day 365: the cow walk still had not started at dusk. Eight people said they were in sight; Billy counted only what he saw. Sleep at the white bed beside Billy worked.
 
 ## Uncertain
 - Whether the dirt wall at the beds is sealed (west gap likely).
