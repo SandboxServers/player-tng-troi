@@ -16,3 +16,6 @@
 - 23:58 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}}],"say":"Data is not in sight, and a sign here says Data was slain on day 314. I am sorry. I will keep my melon for whoever is weak and ne
 - 23:59 act: {"actions":[{"do":"note","text":"Day 319 morning: back at the beds. Data is dead (grave sign, day 314), so the melon goes to Chapman, Worf or whoever is weak. Lewis says he has eaten. Holding 2 melon.
 - 00:03 act: {"actions":[{"do":"note","text":"Lewis is being fed by Clark, Macdonald, Laforge and Riker, so I hold my 2 melon. Chapman and Worf not seen yet. Staying at the beds."}]}
+- 00:07 act: {"actions":[{"do":"note","text":"Dusk. Clark holds 30 melon and Macdonald 5, so food is not short. Data is alive and was seen at the doors (sign was old). I hold 2 melon for the weakest. Going to bed 
+- 00:11 act: {"actions":[{"do":"note","text":"Day 320 morning at the beds. Everyone reports fed (Worf, Beverly, Laforge, Clark). Data is alive and plans jungle logs west at x378 z-1092. I hold 2 melon; will give t
+- 00:15 act: {"actions":[{"do":"note","text":"Day 320 morning. Clark is feeding Kimberly. Cow trip forming with Macdonald, Beverly, Laforge. I hold 2 melon for anyone weak."}],"say":"Kimberly, if Clark's melon has
