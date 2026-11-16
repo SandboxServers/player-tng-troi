@@ -1,7 +1,7 @@
-# Handoff, day 344 dusk (going to sleep at white bed 415,107,-1036)
-- Health 20, hunger 20. Holding oak plank, three wooden swords. No food.
-- Nothing half-done. No errand open. Group rests at the white bed row, in sight.
-- Cow walk to 339,104,-979 broke up twice; no cows found. Next walk: Billy calls it.
-- Kimberly holds 29 melon, health 11; Trini holds melon; Wesley holds 2 beef for the lowest.
-- Lewis still waits on Clark's east-wall cell. Kimberly asked how to build a sealed shelter; unanswered by me.
-- Next at dawn: wait, check who is at hunger 6, stay in sight of the group.
+# Handoff, day 349 dusk (going to sleep on the white bed 401,107,-1037)
+- Health 20, hunger 20. Holding two wooden swords. No food.
+- Nothing half-done. Cow walk still on hold until Billy or Jason calls it; walk only with the group in sight, never alone.
+- Group at the beds near 401-402,-1036/-1037 with Data, Wcrusher, Trini, Tommy, Jason, Kimberly, Beverly, Leonardo, Picard, Riker, Zack, Lewis.
+- Food holders: Trini eats first (melon from Trini's pack), Wcrusher 2 beef for Trini, Leonardo 3 chicken, Beverly 7 melon, Jason beef. Lowest eats first.
+- Enderman problem: sleep failed earlier on day 348 while an enderman was near; it left and the group slept. If sleep refuses again, move away from the enderman with the group.
+- Next at dawn: greet the group, stay in sight, join Billy's cow walk when called.

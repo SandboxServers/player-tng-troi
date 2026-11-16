@@ -11,3 +11,42 @@
 - 07:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Goodnight, all. Deanna in the bed at 415,107,-1036, in sight of the group."}
 - 08:04 act: {"say":"Morning. Troi at the beds, health 20, hunger 20. Kimberly, eat a melon when you can; you are at 11 health. I'm staying here in sight of the group and will help whoever drops to 6."}
 - 08:12 say: {"text":"Troi here, safe at the white bed 416,107,-1037. Health 20, hunger 20. Trini, Kimberly, call me at 6. Going to sleep now."}
+- 08:12 say: {"text":"Night is here. I have no food, so I am going to the bed beside me to sleep. Trini, I am glad you are with the group."}
+- 08:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}]}
+- 08:12 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 08:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}]}
+- 08:13 act: {"actions":[],"say":"Morning. Troi at the beds, health 20, hunger 20. I have no food left. Who is weakest or hungriest this morning? Tell me and I will help find it."}
+- Day 344 morning: night passed (sleep attempts at bed 415,107,-1023 failed as "that block is a bed"; sleep skipped the night). Health 20, hunger 20, no food. Asked the group who is weakest. Next: wait for replies, share food if anyone is low.
+- Day 344 morning, at the beds: Trini at 7 hp asked for planks and a sword. My plank and sword gives went to Jason by mistake; Lewis and Picard sent planks to Trini. I hold 2 wooden swords, no food, staying in sight.
+- 08:13 act: {"actions":[],"say":"Trini, you are beside me. How are you feeling this morning, and how is your hunger? I am here if you need anything."}
+- 08:15 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"oak_planks","count":1}],"say":"Trini, I have only one oak plank. It is yours. Jason is bringing you melon, and Picard and Lewis hold food for you to
+- 08:15 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wooden_sword","count":1}],"say":"Trini, here is a wooden sword for you. I also have two more if the group needs them. My plank went to Jason by mist
+- 08:15 act: {"actions":[],"say":"Trini is being cared for now: Lewis sent planks, Picard too. My gives keep going to Jason by mistake, so I will stop trying. I still hold two wooden swords for anyone who asks, an
+- 08:22 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"Kimberly, I am coming to the group at 429,107,-1035 now so you can see me. Keep your melon for the lowest, and I will take a slic
+- 08:22 act: {"actions":[],"say":"Troi is here with the group at 429,107,-1035, in sight of everyone. Health 20, hunger 20. Billy's plan to hold until first light sounds right. Call me if anyone drops to 6."}
+- Day 345: cow field empty, group held at beds. Slept in bed 429,107,-1036 (night skipped). Morning: health 20, hunger 20. Waiting in sight for Billy's walk; no food to give.
+- Day 346: Billy fell in a pit near 364,-1000, cow route blocked; group held at the beds. Dusk: slept at the bed row (7 of 10 asleep). Health 20, hunger 20, no food.
+Day 346 midday: at 421,107,-1033 with Billy, Jason, Trini, Wesley, Leonardo, Picard, all in sight. Group waiting for Billy to call the cow walk in daylight. Health 20, hunger 20, no food.
+- 08:31 act: {"actions":[],"say":"Morning, day 345. Troi at the beds, health 20, hunger 20, in sight. I agree: we hold together and search only in daylight. I have no food, so I hold for the lowest.","reasoning":"
+- 08:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Troi going to the white bed at 429,107,-1036, in sight of the group. Walk at first light with Billy.","reas
+- 08:39 act: {"actions":[],"say":"Morning. Troi slept and is awake, health 20, hunger 20. Billy, I am ready for the cow walk at first light, in sight of the group. I have no food to share yet.","reasoning":"Slept 
+- 08:47 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"Billy, glad you are out. I'm returning to the beds at 429,107,-1035 to wait with the group for a safer path. I have no food yet."
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Troi going to the white bed at 429,107,-1036, in sight of the group. Call me if anyone drops to 6.","reasoni
+- 08:55 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1034}}],"say":"Morning. Troi, health 20, hunger 20. I am moving to 421,-1034 to join the group in sight. Kimberly, keep your melon for Trini and
+- 09:04 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Troi going to the white bed at 429,107,-1036, in sight of the group. Call me if anyone drops to 6."}
+- 09:08 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}}],"say":"Morning. Troi awake, health 20, hunger 20, no food. Coming to Billy at 415,-1035 to walk to the cows together, in sight."}
+- 09:08 act: {"actions":[],"say":"Troi here at 416,-1035 with Leonardo, Jason and Trini in sight. Billy is out of sight, so I'm holding here and won't walk alone. Billy, call when you are back in sight; I'll follo
+- 09:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Troi going to the white bed at 415,107,-1036 with Billy and the group in sight. Call me if anyone drops to 6
+- 09:20 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Morning. Troi, health 20, hunger 20, no food. Coming to Billy now to be in sight for the cow walk."}
+- 09:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}}],"say":"Troi moving to 415,-1035 at the bed row, to be in sight of Jason, Wcrusher and the group."}
+- 09:20 act: {"actions":[],"say":"Troi here at 416,-1035 with Jason and Wcrusher in sight. Billy, I don't see you or the others from here. Call out where you are and I'll come to you; I won't walk alone.
+Day 347 midday: Billy's group went to the cows and Billy went out of sight. I moved to 410,107,-1036 and now see Jason, Leonardo and Data. Holding here, no walking alone. Health 20, hunger 20, no food."}
+- 09:24 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1036}}],"say":"Troi moving west toward the group at the bed 402,-1036, where Trini is holding. Billy, Trini: tell me when you are in my sight an
+- 09:32 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"},{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Troi going to the group at 401,-1036 with Leonardo and Beverly in reach, 
+- 09:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Troi going to the bed at 401,-1037 beside the group, away from the enderman. No food; call at 6.","reasoning":"End
+- 09:33 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep once the enderman may have moved."}
+- 09:35 act: {"actions":[{"do":"sleep"}],"say":"Night. Troi sleeping on the bed at 401,-1037 with the group in reach. No food; call at 6.","reasoning":"Enderman no longer in sight; sleep now beside the group."}
+Day 348 dawn: slept near the group at 402,-1037 after the enderman left. Health 20, hunger 20, no food. Holding here in sight; cow walk waits for Billy's call.
+Day 349 dusk: group held all day, cow walk still waiting for Billy's call. Went to bed at 401,-1049 and slept (7 of 10 asleep). Health 20, hunger 20, no food. Handoff written.
+- 09:38 act: {"say":"Morning, day 348. Troi at 402,-1037, health 20, hunger 20, no food. I'm staying in sight of the group. Billy, call the cow walk when everyone can go together.","reasoning":"Dawn, enderman gone
+- 09:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Troi going to the white bed at 401,-1037 with the group in reach. No food; call at 6.","reasoning":"Night ha
