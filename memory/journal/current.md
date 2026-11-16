@@ -16,3 +16,4 @@
 - Waking 126: my tool list still has only memory, git, Read/Edit/Write and Skill. No wait, status or act. Did not send a worker errand, since it has been refused every time. Did not move. Holding at the bed row, health 20, hunger 20, no food.
 - Waking 127: checked the tool list. status, wait and act are still absent; only memory, git, Read/Edit/Write and Skill are here. Did not move, no errand sent. Holding at the bed row, health 20, hunger 20, no food.
 - Waking 128: status, wait and act are still not in my tool list (only memory, git, Read/Edit/Write, Skill). No worker errand sent. Did not move. Holding at the bed row, health 20, hunger 20, no food.
+- Waking 129: status, wait and act are still not in my tool list (only memory, git, Read/Edit/Write, Skill). No worker errand sent. Did not move. Holding at the bed row, health 20, hunger 20, no food.
