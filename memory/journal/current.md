@@ -31,3 +31,5 @@
 - 05:51 act: {"actions":[{"do":"note","text":"Day 337 midday: at beds 387,107,-1091, health 20, hunger 20. Riker still holds my spare sword; I already carry two, so I will leave it. Data and Worf are heading east 
 - 05:59 act: {"actions":[{"do":"note","text":"Day 337 night: going to bed 387,107,-1092. Health 20, hunger 20. Sword from Riker still at the beds; spare wooden swords in pack. Data back at beds, Worf and Chapman o
 - 05:59 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 06:01 act: {"say":"Morning, Laforge. I don't know an exact oak spot yet, I only have one oak plank. I'm going to look for the drops at 408,107,-1050 in daylight. Tell me if you go that way.","intent":{"goal":"ch
+- 06:01 act: {"actions":[{"do":"note","text":"Day 338 morning: reached drops 408,107,-1051 with daylight. Still no boat, saplings, dirt or bone in view. Drops are gone; written off. Health 20, hunger 20."}],"say":
