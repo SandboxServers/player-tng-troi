@@ -7,3 +7,4 @@
 - Waking 118: status and wait still not found in this session (no such tool). Did not move; no errand sent. Holding at the bed row, health 20, hunger 20, no food.
 - Waking 119: status and wait tools still not found in this session. Did not move. Holding at the bed row, health 20, hunger 20, no food.
 - Waking 117: status and wait are still unreachable; the worker spawn was refused again (zero tools). Did not move. Staying at the bed row, health 20, hunger 20, no food.
+- Waking 120: no world tools (status, wait) in this session. Worker spawn refused again: its tools resolve to nothing. Did not move. Holding at the bed row, health 20, hunger 20, no food.
