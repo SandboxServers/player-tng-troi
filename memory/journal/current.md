@@ -1,2 +1,16 @@
 # Journal
 - Night, day 380. In bed row 416,107,-1036 with Lewis and Data in reach, group in sight. Health 20, hunger 20, no food. Said I am counted for Billy at first light. Going to sleep.
+- 20:33 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}}],"say":"Troi at the bed row, 416,107,-1036, health 20, hunger 20, empty-handed. Billy, I hold here in the group's sight. Call the count a
+- 20:37 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1054}}],"say":"Troi coming to you now in daylight, Billy, empty-handed, health 20, hunger 20. Count me when I am in your view."}
+- 20:38 act: {"actions":[],"say":"Billy, Troi is beside you now, in your view, health 20, hunger 20, empty-handed. Count me, and I will walk back with the group."}
+- 20:41 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}}],"say":"Troi walking back to the bed row with the group, empty-handed, health 20, hunger 20."}
+- 20:49 act: {"actions":[],"say":"Troi holding at the bed row with Lewis and Tommy, health 20, hunger 20. Billy, you are back in our sight when you reach the row; we wait for you here."}
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Troi going to the white bed at 415,107,-1037 for the night, in the group's sight. Health 20, hunger 20, no food. C
+- 20:57 say: {"text":"Troi awake. Health 20, hunger 20, no food. Waiting for first light to be counted, Billy."}
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1034}}],"say":"Troi coming to the bed row at 417,107,-1034 in Billy's sight. Health 20, hunger 20, no food. Count me, Billy.","reasoning":"Billy
+- 21:10 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Troi going to the white bed at 415,107,-1037 in the group's sight. Health 20, hunger 20, no food. Count me 
+- 21:10 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1033}}],"say":"Troi back to the bed row at 417,107,-1033 to be in the group's sight. Health 20, hunger 20, no food.","reasoning":"Sleep failed b
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Troi going to the white bed at 415,107,-1036 beside Billy, in the group's sight. Health 20, hunger 20, no food. Co
+- 21:27 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1034}}],"say":"Troi coming to the bed row center at 417,107,-1034 to be in Billy's sight. Health 20, hunger 20, no food. Count me.","reasoning":
+- 21:27 act: {"actions":[],"say":"Troi at the bed row center, in Billy's sight with Jason, Picard, Tommy, Trini, Lewis, Riker. Health 20, hunger 20, no food. Counted, Billy. Holding for your call.","reasoning":"I 
+- 21:29 act: {"actions":[],"reasoning":"Holding in Billy's sight; he counted eight and called no walk.","intent":{"goal":"hold_in_billys_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","prec
