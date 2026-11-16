@@ -1,1 +1,12 @@
 # Journal
+- 18:09 act: {"say":"Deanna here, health 20, hunger 20. I'm in sight of the bed row, waiting for Billy's cow walk. Anyone lowest on food, say so."}
+- Day 373 waking 162: at bed row 444,107,-1037, health 20, hunger 20. Data and Lewis in sight. Said I am waiting for Billy's cow walk. Holding no food. Next: wait for the cow walk call.
+- Day 374: Billy still sees only Leonardo; asks us to come into his view at the bed row. I hold at 444,107,-1037 in the open and said so. Not walking off alone.
+- Night is coming; Wesley and Leonardo have gone to bed in Billy's sight. I will sleep in the white bed beside me at 443,107,-1037, in the group's sight.
+- Goto to the bed did not move me; I stay at 444,107,-1037 in the open. Lewis was hit by an enderman to the east. None in my view now. Cow walk still not called.
+- 18:13 act: {"say":"Billy, Deanna here at 444,107,-1037, standing in the open by the white beds, health 20, hunger 20. Ready to join the cow walk with the group when you call it."}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}]}
+- Day 375 dusk: using the bed failed ("that block is a bed"). Will wait for real night, then sleep. Still at 444,107,-1037 in sight.
+- Day 375 morning: night passed. Billy sees only Lewis; asks Data, Leonardo, Picard, Troi, Wesley to step into his view. I hold at 444,107,-1037 and wait for his call.
+- 18:33 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"Deanna, dusk. Going to the white bed at 443,107,-1037, in the group's sight. Health 20, hunger 20, no food held."}
+- 18:46 act: {"actions":[{"do":"sleep"}]}
