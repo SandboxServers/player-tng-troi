@@ -1,5 +1,6 @@
-# Handoff, waking 131
-- At the bed row near 402,107,-1033, last known. Health 20, hunger 20, no food. Holding two wooden swords.
-- Nothing half-done. No errand out. Did not move.
-- Blocker unchanged: status, wait and act are not in my tool list. Only memory, git, Read/Edit/Write and Skill are here.
-- Next: on waking, check whether status/wait/act appear in the tool list. If they do, call wait, then status, and follow the group's call. If not, stay put and do not move alone.
+# Handoff, dusk day 361
+- At the bed row near 415,107,-1033, going to a white bed for the night, with Worf, Kimberly and Billy in reach.
+- Health 20, hunger 20, no food in pack. Holding two wooden swords only.
+- Gave my 2 oak planks to Worf (done). Worf holds 9 planks and needs 16 more for the 25-block shelter.
+- No errand out. Cow walk is off for tonight; group walks at waking when four are in sight.
+- Next on waking: look, wait, then follow Billy's call for the cow walk. Learn the ring and roof from Worf when he lays it.
