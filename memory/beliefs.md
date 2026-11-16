@@ -24,6 +24,9 @@
 - Day 359: Billy's group turned back to the bed row at dusk; the cow leg waits for morning.
 - Day 352: tools came back at waking. Gives can go to the wrong person when people are close; check who is in reach before giving.
 
+- Day 363: Billy's cow walk held at the beds all day. It waits for four in sight; it did not start before dusk. Worf's shelter build was interrupted by a threat and moved to 399,107,-1036.
+- Day 363: sleep at the white bed 429,107,-1037 works with the group in sight.
+
 ## Uncertain
 - Whether the dirt wall at the beds is sealed (west gap likely).
 
