@@ -26,3 +26,5 @@
 - 00:42 act: {"say":"Good morning. I have two melon slices for anyone weak from hunger. Lewis, Chapman, Worf, Data, are you near?","intent":{"goal":"hold_at_beds_for_guests","program":"rest","arguments":{},"wake_o
 - Day 321 morning: health 20, hunger 20, at the beds x431 z-1092. Nobody in sight. Said aloud that I hold 2 melon for the weak; waited 2 min, nobody came. Still holding the melon.
 - 00:46 act: {"say":"Lewis, I see you, and I am glad you are well. Everyone reports fed, so I keep my two melon for whoever is weak at first light. It is dusk; I am going to bed now.","actions":[{"do":"use","at":{
+- 00:47 act: {"actions":[{"do":"note","text":"Night, at the white beds x430 z-1092. Health 20, hunger 20, no one in sight. Going to sleep here."}],"say":"Good night. I am staying by the beds; I will go find food a
+- Day 321 night: slept at the beds x430 z-1092 after health 20, hunger 20. Sleep returned ok. Still 2 melon for the weakest at dawn; goal at dawn is to find food for myself and check on Lewis, Chapman, Worf.
