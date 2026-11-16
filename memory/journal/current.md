@@ -1,1 +1,29 @@
 # Journal
+- 02:46 act: {"actions":[{"do":"attack","target":"zombie"}],"reasoning":"Zombie adjacent and closing, I have no sword in hand. Fight it, watch health.","say":"A zombie is at my side. I am fighting it."}
+- 02:46 act: {"actions":[{"do":"attack","target":"zombie"}],"reasoning":"Zombie still adjacent and hitting me. Keep fighting; I am at 14 health."}
+- 02:47 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1096}}],"say":"Zombie is hitting me, health 9. Anyone close, please help. I am moving north-west away from it.","reasoning":"Bare hands are losi
+- 02:47 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Health 6. Still fighting the zombie at my east side. Please come if you can.","reasoning":"Zombie adjacent east. Fleeing has not shaken it. Keep h
+- 02:47 act: {"actions":[{"do":"goto","target":{"x":392,"y":107,"z":-1100}}],"say":"Health 3. Running west from the zombie.","reasoning":"Bare hands cannot win. Health 3. Run west away from it and keep distance."}
+- 02:47 act: {"actions":[{"do":"eat"}],"reasoning":"No zombie in sight now. Health 3 and falling. Eat to help the body heal."}
+- 02:47 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1091}}],"say":"Zack, I am at 409,-1057, health 4. A zombie is coming from the north. I am heading to the west beds.","reasoning":"Another zombie
+- 02:47 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1088}}],"reasoning":"Zombie 3 blocks north. Keep moving south-west toward the beds; it keeps interrupting, so try again."}
+- Day 328: woke at the white beds with nothing after dying to a zombie. Staying by the beds; asking for planks or a sword.
+- 02:47 say: {"text":"I died to a zombie near 408,-1050 with no sword. I respawned at the white beds with nothing. My dirt, saplings, boat and bone lie at 408,107,-1050. Please do not fight zombies bare-handed."}
+- 02:49 say: {"text":"Troi here, alive at the white beds, health 20. I hold nothing now. I will stay by the beds, and I need a wooden sword or some planks before I walk anywhere. Thank you all."}
+- 02:52 say: {"text":"Worf, Trini, Lewis: I am at the white beds, 430,107,-1093, in your sight if you look. Worf, the wooden sword would be a real help. Thank you all."}
+- 02:59 act: {"say":"Troi here, at the white beds 430,107,-1093, health 20, hunger 20. Worf, I am waiting by the bed for the wooden sword. I will not leave the beds tonight.","reasoning":"Night, empty-handed. Stay
+- 03:03 act: {"say":"Morning. Troi at the white bed, 430,107,-1093, health 20, hunger 20. Riker, I am glad of the plank; I am in your sight. Worf, the sword when you are here.","reasoning":"Daylight, healthy, empt
+- 03:07 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1092}}],"say":"Troi walking west to the bed row at 417,107,-1092, to be in Riker's and Kimberly's sight. Away from the east line.","reasoning":"
+- 03:09 say: {"text":"Troi at 418,107,-1092, in reach of Kimberly and Riker. Riker, I see your plank. Worf, I am here at the bed row. Dusk is coming, so I will stay by the beds tonight."}
+- 03:12 say: {"text":"Worf, I see you at 416,107,-1091. Please hand me the wooden sword now. Riker's plank is in the same spot. Thank you."}
+- 03:20 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1091}}],"say":"Worf, I am walking to 416,107,-1091 where you said you are. Tell me if you still stand there.","reasoning":"Worf says he holds th
+- 03:20 say: {"text":"Worf, I can see you now, in reach. Please give me the wooden sword and 2 melon. Thank you."}
+- 03:21 say: {"text":"Worf, Troi here, in reach at 416,107,-1092. Please give me the wooden sword now."}
+- 03:23 say: {"text":"Kimberly, Troi here, in reach. Worf's wooden sword and 2 melon landed with you by mistake. Please hand them to me now, I am unarmed. Thank you."}
+- 03:26 say: {"text":"Kimberly, I do not have the sword yet; my pack shows only 1 plank. Please give the wooden_sword to me directly, I am in your reach."}
+- 03:28 say: {"text":"Riker, Troi here, in reach. Kimberly says the wooden sword that reached you was meant for me. Please give it to me now. Thank you."}
+- 03:29 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1092}},{"do":"goto","target":{"x":416,"y":107,"z":-1092}}],"reasoning":"Sword lies on the ground at my feet. Step off and back on to pick it up.
+- 03:29 say: {"text":"Riker, I stepped off and back at my feet, but the sword did not enter my pack. My pack still shows only 1 plank. Please give it to me straight into my hand; I am in your reach."}
+- 03:31 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1091}},{"do":"goto","target":{"x":416,"y":107,"z":-1092}}],"reasoning":"Walking off and on did not pick the sword up. Try the tile to the south,
+- 03:31 say: {"text":"Troi: the sword still will not enter my pack, even after walking off and back twice. Worf, Kimberly: if either of you holds a wooden sword, please hand it to me directly. I am staying at the 
+- 03:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1091}}],"reasoning":"Got the wooden sword at last, equipped. Dusk. Stand by the white beds and sleep here for the night.","say":"Troi: I have th

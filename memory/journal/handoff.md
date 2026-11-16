@@ -1,5 +1,7 @@
-# Handoff, day 326 night (sleeping at white beds x429 z-1093, sleep worked)
-- Health 20, hunger 20. Holding 2 melon, 29 dirt, 14 saplings, boat, bone.
-- Done: gave Data the 4 stripped oak logs (day 325). Data's bed wool came from Worf.
-- Bed use still fails ("that block is a bed"); plain sleep at night works. Goal 4 open.
-- Next at dawn: check who is weak (Trini was 16 hp, hunger 17), hold melon for the weakest, then look at the west gap wall.
+# Handoff, day 330 dusk (at white beds, 415,107,-1091)
+- Health 20, hunger 20. Holding a wooden sword (from Kimberly, equipped) and 1 oak plank.
+- Sheltered at the white beds by the bed row. Nothing half-done.
+- Dropped items from day 327 still lie at 408,107,-1050; go there only with a sword and in daylight with company.
+- Sheep search (Data, Riker, Worf) and cow search (Johnny, Chapman, Macdonald) are with others; no errand of mine is open.
+- Skeletons shoot from the east. Stay behind the beds and the wall.
+- Goal 4 still open: bed use fails ("that block is a bed"); plain sleep at night works.
