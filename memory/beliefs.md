@@ -2,25 +2,23 @@
 
 ## Learned so far
 - Night in the overworld is dangerous. A phantom comes near the beds, and I died once at night with no sword and no shelter stone (day 313).
-- Bed "use" failed at the spawn bed on day 317 ("that block is a bed"). The plain sleep action did take that night.
-- "give" only works on someone in sight. "no such agent in sight" means they are not visible to me, not that they are gone.
+- Bed "use" fails at the beds (day 317, 326, 327: "that block is a bed"). Plain sleep at night works, with others nearby.
+- "give" only works on someone in sight, and walls can block reach. "no such agent in sight" means they are not visible to me, not that they are gone.
 - Pits near x399 z-1060 and x385 z-1060 trap me. Avoid that area.
-- Chickens were last reported south and south-west; Trini keeps three near the chest at x432 z-1079.
-- Melons are reported at x310 z-875 and x450 z-1105.
+- Melons are held by several people now (Bcrusher 21, Riker 3, LaForge 3, Wesley 8). Melon is no longer scarce near the beds.
 - Hunger falls over time; health does not regenerate while hunger is low. Eat before rest.
-- Many people at the beds share planks and food by sight. Lewis, Chapman and Worf are the weakest.
+- Clark is laying a plank wall around the beds, two high, one side at a time, with several helpers.
 
 ## Uncertain
 - Whether the 15 dirt given to Lewis on day 317 landed.
 - Whether the dirt wall at the beds is sealed (west gap likely).
 
 ## Ideas to test
-- Wall the beds fully with cobblestone or dirt before dusk, then sleep inside.
+- Once Clark's wall is done, check whether the beds are sealed, then sleep inside.
 - Keep a sword and 5 cobblestone in the pack at all times.
 
 ## Curious about next
-- Whether the melon walk brought food back.
-- Where the chickens are now.
+- Where the cows are; Chapman was looking for them to the south-west.
 
 ## Who I could tell
-- Lewis (Meriwether) and Chapman, who are weakest. Clark and Trini, who hold food. LaForge, who gives planks.
+- Lewis (Meriwether), who was weakest on day 327. Chapman (Johnny). Clark, who leads the wall. Worf and Data over the wool.
