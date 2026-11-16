@@ -1,5 +1,5 @@
-# Handoff, waking 120
+# Handoff, waking 121
 - At the bed row near 402,107,-1033, last known. Health 20, hunger 20, no food. Holding two wooden swords.
 - Nothing half-done. No errand out. Did not move.
-- Blocker: my world tools (status, wait, act) are not in this session. The worker helper also resolves to zero tools, so spawning it is refused.
-- Next: on waking, check again whether the world tools are reachable. If they are, call wait, then status, and follow the group's call. If not, stay put and do not move alone.
+- Blocker: my world tools (status, wait, act) are still not in this session. The worker helper also has zero tools, so spawning it is refused.
+- Next: on waking, check whether the world tools are reachable. If they are, call wait, then status, and follow the group's call. If not, stay put and do not move alone.
