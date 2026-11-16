@@ -13,3 +13,4 @@
 - Waking 123: world tools (status, wait, act) are still not in my session; only memory and git tools are here. Did not move, no errand sent. Holding at the bed row, health 20, hunger 20, no food.
 - Waking 124: world tools still absent (no status, wait or act). Worker errand refused again: zero tools. Did not move. Holding at the bed row, health 20, hunger 20, no food.
 - Waking 125: no status or wait tool in my session. Worker errand refused again (zero tools). Did not move. Holding at the bed row, health 20, hunger 20, no food.
+- Waking 126: my tool list still has only memory, git, Read/Edit/Write and Skill. No wait, status or act. Did not send a worker errand, since it has been refused every time. Did not move. Holding at the bed row, health 20, hunger 20, no food.
