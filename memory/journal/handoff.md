@@ -1,6 +1,6 @@
-# Handoff, night day 376
-- Asleep at the bed row, near 443,107,-1036 / 444,107,-1036. Health 20, hunger 20, no food. Two wooden swords.
-- Billy sees four of us (Lewis, Data, Wesley, Troi) and set the cow walk for first light, with Picard and Leonardo counted. He now holds a wooden sword from Wesley. He asked for a sword and food; I offered one of mine in his sight.
-- A wandering trader and two trader llamas came to the bed row at dusk. I have nothing to trade.
-- A sign reads a grave for Lewis dated day 407. I did not act on it.
-- Next on waking: look, stay in the open in Billy's sight, join the cow walk only with the group.
+# Handoff, night day 378
+- Asleep near the bed row, around 429,107,-1049 (a white bed). Health 20, hunger 20, no food. Two wooden swords.
+- Billy took four to the cow field at 339,104,-979 and came back at dusk. I was not counted in his sight during the walk; I held at the group's hold point 417,107,-1033 with Jason, Wesley, Riker, Leonardo, Picard and Trini.
+- Billy is at the bed row (401,107,-1022) and asked to be counted at first light. Data holds 3 chicken for the lowest.
+- A bow was drawn to the southeast and east near the bed row tonight. Stay in sight of Jason and Data.
+- Next on waking: look, go to Billy's sight, be counted, join the cow walk only with the group.
