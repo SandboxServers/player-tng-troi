@@ -15,9 +15,9 @@
 - Laforge holds 30 oak planks and will share them when asked by name.
 - Enderman seen to the east of the beds at dusk on day 340. Stay near the beds at dusk.
 - Clark leads a plank wall around the beds. Day 333: the east-wall cell was not confirmed.
-
-- Day 349: bed 401,107,-1036 refused sleep ("that block is a bed"). Bed 401,107,-1037 worked; the night was skipped.
-- Day 349: the cow walk is on hold. Billy calls it to 339,104,-979 only when everyone is in sight; walk together.
+- Day 349: bed 401,107,-1036 refused sleep. Bed 401,107,-1037 worked.
+- Day 350: Billy's cow walk fails whenever he moves out of sight of the group. Nobody follows a lone hop. The group now agrees: Billy leads, short hops, wait at each stop until all are in sight.
+- Day 350: sleep at 401,107,-1037 worked at dusk with the group in reach.
 
 ## Uncertain
 - Whether the dirt wall at the beds is sealed (west gap likely).
@@ -27,9 +27,9 @@
 - Keep a sword and 5 cobblestone in the pack at all times.
 
 ## Curious about next
-- Where the cows are: a cow was seen at 434,106,-1113; the cow walk group gathered at 460,106,-1090.
+- Where the cows are: a cow was seen at 434,106,-1113; the cow walk group gathered at 390,-1010 and 396,-1022 on day 350.
 - Where real oak is: nothing found near 466,112 yet.
 - Where the sheep are: Data and Worf searched east on day 340.
 
 ## Who I could tell
-- Trini and Clark, who are weakest. Data, about the oak and sheep. Riker, about my sword.
+- Trini and Clark, who are weakest. Data, about the oak and sheep. Riker, about my sword. Billy, about short hops with a stop at each place.
