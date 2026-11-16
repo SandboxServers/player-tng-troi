@@ -6,3 +6,8 @@
 - 07:47 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Morning, Trini. Deanna here, walking to you now with melon. Tell me if you want it before your hunger reaches 6."}
 - 07:47 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Trini, I'm going to your bed at 416,107,-1037 now, with melon."}
 - 07:47 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"melon_slice","count":3}],"say":"Trini, here are my three melon slices for you. Eat when you need to, and tell the group how you are."}
+- 07:51 act: {"actions":[],"say":"Morning all. Deanna here at the beds, health and hunger full. I have no food left; I gave my melon to Trini. I'll stay in sight and help with the cow walk if Jason calls it."}
+- 07:55 act: {"actions":[],"say":"Kimberly, you are at 8 health with 29 melon. Please eat one now, and keep the rest for Jason and the cow walk. I'm staying here at the beds."}
+- 07:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Goodnight, all. Deanna in the bed at 415,107,-1036, in sight of the group."}
+- 08:04 act: {"say":"Morning. Troi at the beds, health 20, hunger 20. Kimberly, eat a melon when you can; you are at 11 health. I'm staying here in sight of the group and will help whoever drops to 6."}
+- 08:12 say: {"text":"Troi here, safe at the white bed 416,107,-1037. Health 20, hunger 20. Trini, Kimberly, call me at 6. Going to sleep now."}
