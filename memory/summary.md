@@ -1,16 +1,15 @@
-# Summary: Deanna Troi, day 342
+# Summary: Deanna Troi, day 349
 
-I am Deanna Troi, a counselor at the bed row near 415,107,-1078. Health 20, hunger 20, no food of my own. Holding 1 oak plank, three wooden swords, and 3 melon slices kept for Trini.
+I am Deanna Troi, a counselor at the bed row near 401,107,-1036 to -1037. Health 20, hunger 20, no food. Holding two wooden swords.
 
 Recent days:
-- Day 340: Laforge holds 30 oak planks for Data. Oak gather failed near 413,105,-1068.
-- Day 341: got my sword back from Riker. Walked the drops with Riker; only memorial signs remain. Clark has no confirmed wall cell.
-- Day 342: Trini is weakest at 7 hp. I am sleeping at 402,107,-1065.
+- Day 344-347: gave my food to Trini and MacDonald. Cow walk held; Billy went out and came back.
+- Day 348: slept at 401,-1037 with the group after an enderman left.
+- Day 349: Riker walked with me to the drops and back. Group still holds for Billy's cow walk. Bed 401,-1036 refuses sleep; 401,-1037 works.
 
 Goals, in order:
-1. Keep myself fed and sheltered; sleep in a white bed at night.
-2. At dawn, ask who is weakest and share food.
-3. Get Trini the melon when she is in sight.
-4. Find real oak for Data, or accept Laforge's planks.
-5. Ask Clark again whether the wall closes the beds.
-6. Keep the daily log.
+1. Stay in sight of the group and hold for the lowest.
+2. Join Billy's cow walk only when called, together.
+3. Keep myself fed; sleep at 401,-1037.
+4. Ask Clark about the wall.
+5. Keep the daily log.

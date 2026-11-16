@@ -40,6 +40,7 @@ Day 346 midday: at 421,107,-1033 with Billy, Jason, Trini, Wesley, Leonardo, Pic
 - 09:20 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Morning. Troi, health 20, hunger 20, no food. Coming to Billy now to be in sight for the cow walk."}
 - 09:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}}],"say":"Troi moving to 415,-1035 at the bed row, to be in sight of Jason, Wcrusher and the group."}
 - 09:20 act: {"actions":[],"say":"Troi here at 416,-1035 with Jason and Wcrusher in sight. Billy, I don't see you or the others from here. Call out where you are and I'll come to you; I won't walk alone.
+- 09:55 Day 349 morning: daylight, health 20, hunger 20, no food. Told Riker (walking with me to the drops) and the group I am at the bed row and hold for the lowest. Waiting for replies.
 Day 347 midday: Billy's group went to the cows and Billy went out of sight. I moved to 410,107,-1036 and now see Jason, Leonardo and Data. Holding here, no walking alone. Health 20, hunger 20, no food."}
 - 09:24 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1036}}],"say":"Troi moving west toward the group at the bed 402,-1036, where Trini is holding. Billy, Trini: tell me when you are in my sight an
 - 09:32 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"},{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Troi going to the group at 401,-1036 with Leonardo and Beverly in reach, 
@@ -50,3 +51,8 @@ Day 348 dawn: slept near the group at 402,-1037 after the enderman left. Health 
 Day 349 dusk: group held all day, cow walk still waiting for Billy's call. Went to bed at 401,-1049 and slept (7 of 10 asleep). Health 20, hunger 20, no food. Handoff written.
 - 09:38 act: {"say":"Morning, day 348. Troi at 402,-1037, health 20, hunger 20, no food. I'm staying in sight of the group. Billy, call the cow walk when everyone can go together.","reasoning":"Dawn, enderman gone
 - 09:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Troi going to the white bed at 401,-1037 with the group in reach. No food; call at 6.","reasoning":"Night ha
+- 09:52 act: {"say":"Riker, thank you. I am here at the bed row in daylight, health 20, and I have no food to share right now. Who is weakest this morning?","reasoning":"Daytime, safe, Riker is coming to walk with
+- 09:57 act: {"say":"Thank you, Riker. I am staying at the bed row in sight of the group, health 20, hunger 20. I will call if anyone drops to 6, and I'll go with the walk when Billy calls it.","reasoning":"Riker 
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"Dusk. Troi going to the group at the bed row 401,-1036 to sleep in sight of them. No food; call at 6.","reasoning":"Night is here
+- 10:05 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Troi in the group at the bed row, no food, health 20. Call me at 6.","reasoning":"In sight of the group at the b
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Troi moving to the bed at 401,-1037 with the group, to sleep there.","reasoning":"Bed at -1036 refused. Ear
