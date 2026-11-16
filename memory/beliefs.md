@@ -16,6 +16,9 @@
 - Enderman seen to the east of the beds at dusk on day 340. Stay near the beds at dusk.
 - Clark leads a plank wall around the beds. Day 333: the east-wall cell was not confirmed.
 
+- Day 349: bed 401,107,-1036 refused sleep ("that block is a bed"). Bed 401,107,-1037 worked; the night was skipped.
+- Day 349: the cow walk is on hold. Billy calls it to 339,104,-979 only when everyone is in sight; walk together.
+
 ## Uncertain
 - Whether the dirt wall at the beds is sealed (west gap likely).
 
