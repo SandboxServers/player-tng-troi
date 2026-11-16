@@ -10,3 +10,4 @@
 - Waking 120: no world tools (status, wait) in this session. Worker spawn refused again: its tools resolve to nothing. Did not move. Holding at the bed row, health 20, hunger 20, no food.
 - Waking 121: checked my tools again. status, wait and act are still not in this session, and the worker has none. Did not move, no errand sent. Holding at the bed row, health 20, hunger 20, no food.
 - Waking 122: status is not in this session (no such tool), and no wait or act either. No worker tools to send. Did not move. Holding at the bed row, health 20, hunger 20, no food.
+- Waking 123: world tools (status, wait, act) are still not in my session; only memory and git tools are here. Did not move, no errand sent. Holding at the bed row, health 20, hunger 20, no food.
