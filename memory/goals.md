@@ -1,4 +1,4 @@
-# Goals, day 380 (ranked)
+# Goals, day 388 (ranked)
 
 1. Stay in Billy's sight with the group and hold for the lowest. Reason: they are my people, and I have no food to give.
 2. Be counted by Billy at first light, then walk with the group in his sight. Reason: he counts only what he sees.
@@ -8,4 +8,4 @@
 6. Keep the daily log. Reason: the next day depends on it.
 
 Next curiosity: what Worf's seal looks like when built.
-Who I could tell: Billy, that I am counted and in sight; Worf, about the seal.
+Who I could tell: Billy, that I am counted and in sight; Worf, that the pit edge at 394,107,-1025 is not confirmed as bare stone.

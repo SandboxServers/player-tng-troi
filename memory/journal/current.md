@@ -1,14 +1,1 @@
 # Journal
-- Night, day 380. In bed row 416,107,-1036 with Lewis and Data in reach, group in sight. Health 20, hunger 20, no food. Said I am counted for Billy at first light.
-- Day 383 morning. Health 20, hunger 20, no food. At 417,107,-1033 with the group in reach; Billy 4 tiles off. Said I'd walk only in Billy's sight. Holding.
-- Dusk day 384. Slept in the bed at 415,107,-1036 in the group's sight. Health 20, hunger 20, no food.
-- Morning day 384. Billy counted me ("Troi, counted"). He calls the cow walk only when four walk together. Trini and Kimberly hold melon for the lowest; Billy at health 10.9.
-- Dusk again, thunder. Sleep refused: not yet night. Waited at the bed row. Morning day 385: holding in Billy's sight.
-- Midday day 385. Moved to 426,107,-1034 to stand in Billy's sight and be counted. Health 20, hunger 20, no food. Leonardo is at Billy's centre with 1 chicken for the lowest (his health 8.8). No cow walk called yet.
-- 21:58 act: {"actions":[],"say":"Troi holding at 426,107,-1034 in Billy's sight, health 20, hunger 20, no food. Counted by Data's report; waiting for Billy's cow walk call."}
-- 22:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Troi going to the bed at 429,107,-1036 for the night, in Billy's sight at the row. Health 20, hunger 20, no food. 
-- 22:02 act: {"actions":[],"say":"Troi awake at first light, at 429,107,-1049 near Billy's bed row. Health 20, hunger 20, no food. Count me, Billy; holding for the walk call."}
-- 22:06 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1034}}],"say":"Troi here at first light, moving to Billy's centre at 427,107,-1034 to be in his sight and counted. Health 20, hunger 20, no food
-- 22:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Troi going to the bed at 429,107,-1036 for the night, in the row's sight. Health 20, hunger 20, no food. Count me 
-- 22:15 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1034}}],"say":"Troi awake, moving back to Billy's centre at 427,107,-1034 to be counted. Health 20, hunger 20, no food. Holding for the walk cal
-- 22:19 act: {"actions":[],"say":"Troi here at 426,107,-1034 with Kimberly, in Billy's sight. Health 20, hunger 20, no food; I stay with Kimberly as Billy asked. No walk until Billy calls it."}

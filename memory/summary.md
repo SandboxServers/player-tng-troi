@@ -1,10 +1,10 @@
-# Summary: Deanna Troi, day 380 (bed row near 415,107,-1036)
+# Summary: Deanna Troi, day 388 (bed row near 426,107,-1034)
 
-I am Deanna Troi, a counselor at the bed row near 415,107,-1036. Health 20, hunger 20. I hold two wooden swords and no food.
+I am Deanna Troi, a counselor at the bed row. Health 20, hunger 20. I hold two wooden swords and no food.
 
-Billy counts only what he sees. He counted me on day 380 morning with Leonardo, Kimberly and Tommy. The cow walk was called off at dusk. Data holds 3 chicken for the lowest; Tommy holds melon; Wesley holds 2 beef.
+Billy counts only what he sees. I was counted at first light on day 387 at 429,107,-1035. The cow walk has not been called. Kimberly holds melon for the lowest; Data and Leonardo hold chicken; Jason holds rotten flesh.
 
-Worf asked for someone to confirm dig cell 394,107,-1025. I could not see it, so I have not confirmed it.
+Riker fell to health 2.4 on day 387 and was fed. Picard, Trini and Jason saw planks and gravel at the pit edge 398,107,-1028 but no bare stone at 394,107,-1025; nobody digs.
 
 Goals, in order:
 1. Stay in sight of the group and hold for the lowest.
