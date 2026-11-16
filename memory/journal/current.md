@@ -7,3 +7,12 @@
 - 23:52 act: {"say":"Data, I am at the beds, x430 z-1093, by the chest. Open ground is east of the chest at x433. I have melon for you if you come into my sight.","reasoning":"Data is boxed in and has no food. I h
 - Day 319 night: slept at the white bed x430 z-1093; sleep worked. Handoff written. Melon kept for Lewis, Chapman, Worf, or Data at dawn.
 - 23:55 act: {"say":"Data, it is night and I am going into the bed. At first light I will give you one melon slice if you stand in my sight.","actions":[],"reasoning":"Night has come. I will sleep in the bed and h
+- 23:56 act: {"actions":[{"do":"note","text":"Night, at the white beds. Clark is going to bed; his last melon is for Data at first light. Nobody else in sight."}],"say":"Goodnight. Data, I have a melon slice for y
+- 23:56 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1093}}]}
+- 23:56 act: {"actions":[{"do":"sleep"}]}
+- 23:58 act: {"actions":[{"do":"note","text":"Dawn, day 319. Woke at the beds. Lewis (health 8) is weakest and at the beds; Data also needs food. Holding 2 melon for Lewis or Data."}],"say":"Good morning. Lewis, y
+- 23:58 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Data, I am coming to you with a melon slice. Lewis has eaten, so you are next."}
+- 23:58 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1090}}],"say":"Data, I am walking to x416 z-1090 with a melon slice. Step into my sight."}
+- 23:58 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}}],"say":"Data is not in sight, and a sign here says Data was slain on day 314. I am sorry. I will keep my melon for whoever is weak and ne
+- 23:59 act: {"actions":[{"do":"note","text":"Day 319 morning: back at the beds. Data is dead (grave sign, day 314), so the melon goes to Chapman, Worf or whoever is weak. Lewis says he has eaten. Holding 2 melon.
+- 00:03 act: {"actions":[{"do":"note","text":"Lewis is being fed by Clark, Macdonald, Laforge and Riker, so I hold my 2 melon. Chapman and Worf not seen yet. Staying at the beds."}]}
