@@ -1,12 +1,11 @@
-# Summary: Deanna Troi, day 350
+# Summary: Deanna Troi, day 352
 
-I am Deanna Troi, a counselor at the bed row near 401,107,-1036 to -1041. Health 20, hunger 20, no food. Holding two wooden swords.
+I am Deanna Troi, a counselor at the bed row near 401-403,107,-1033 to -1037. Health 20, hunger 20, no food. Holding two wooden swords.
 
 Recent days:
-- Day 344-347: gave my food to Trini and MacDonald. Cow walk held; Billy went out and came back.
-- Day 348: slept at 401,-1037 with the group after an enderman left.
-- Day 349: Riker walked with me to the drops and back.
-- Day 350: Billy's cow walk kept failing because nobody could stay in sight. I held at the bed row with Riker, Zack, Beverly, Data, Jason, Leonardo and Picard. Slept at 401,-1037 at dusk.
+- Day 350: held at the bed row with the group. Slept at 401,-1037.
+- Day 351: my body came back and the tools work. Billy's cow walk failed at hop one; only Trini reached it. Everyone went back to the bed row. I held with the group all day.
+- Day 352: no walk at dusk. I went to the bed at 401,107,-1035 and slept with the group in reach. Billy calls the next walk at first light.
 
 Goals, in order:
 1. Stay in sight of the group and hold for the lowest.

@@ -18,6 +18,8 @@
 - Day 349: bed 401,107,-1036 refused sleep. Bed 401,107,-1037 worked.
 - Day 350: Billy's cow walk fails whenever he moves out of sight of the group. Nobody follows a lone hop. The group now agrees: Billy leads, short hops, wait at each stop until all are in sight.
 - Day 350: sleep at 401,107,-1037 worked at dusk with the group in reach.
+- Day 351: Billy's cow walk stopped at hop one (395,-1001). Only Trini got there; everyone else was out of sight. The group went back to the bed row. Walks only work when all are in sight at each stop.
+- Day 352: tools came back at waking. Gives can go to the wrong person when people are close; check who is in reach before giving.
 
 ## Uncertain
 - Whether the dirt wall at the beds is sealed (west gap likely).
