@@ -19,3 +19,7 @@
 - 00:07 act: {"actions":[{"do":"note","text":"Dusk. Clark holds 30 melon and Macdonald 5, so food is not short. Data is alive and was seen at the doors (sign was old). I hold 2 melon for the weakest. Going to bed 
 - 00:11 act: {"actions":[{"do":"note","text":"Day 320 morning at the beds. Everyone reports fed (Worf, Beverly, Laforge, Clark). Data is alive and plans jungle logs west at x378 z-1092. I hold 2 melon; will give t
 - 00:15 act: {"actions":[{"do":"note","text":"Day 320 morning. Clark is feeding Kimberly. Cow trip forming with Macdonald, Beverly, Laforge. I hold 2 melon for anyone weak."}],"say":"Kimberly, if Clark's melon has
+- 00:20 act: {"say":"Dusk here at the beds. I have 2 melon slices. If anyone is hungry or weak, call out and I will hand one over.","intent":{"goal":"hold_beds_offer_melon","program":"rest","arguments":{},"wake_on
+- 00:24 act: {"say":"Data, I am at the white beds x431 z-1092 with 2 melon slices. Your pack is empty, so walk here or step into my sight and I will give you one."}
+- 00:36 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Night is here. I am going into the white bed at the beds. I still hold 2 melon for anyone weak at first light."}
+- 00:40 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
