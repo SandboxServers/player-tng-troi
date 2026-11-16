@@ -7,3 +7,20 @@
 - 01:09 act: {"actions":[],"say":"Data, I am at 421,107,-1091, just east of your pocket, and the way is walled. Come to the gap, or tell me where to stand, and I will hand over the logs."}
 - 01:12 act: {"actions":[{"do":"give","to":"ag_data_01","item":"stripped_oak_log","count":4}],"say":"Data, here are your 4 stripped oak logs. Sleep well."}
 - 01:12 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Goodnight. Data, the logs are with me; I will give them at first light if you are in sight."}
+- 01:14 act: {"say":"Morning. Chapman, I have 5 cobblestone for your sword. Tell me where you are and I will bring it. Data, I still hold 4 stripped oak logs for you; I will give them when you are in sight."}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1093}}],"say":"Coming to you now, Chapman, with the cobblestone."}
+- 01:15 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"cobblestone","count":5}],"say":"Chapman, here are 5 cobblestone for your sword. Eat if you are hungry; I have 2 melon if you need more."}
+- 01:19 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1091}}],"say":"Data, I am coming to the east gap with your 4 stripped oak logs."}
+- 01:23 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1092}},{"do":"give","to":"ag_data_01","item":"stripped_oak_log","count":4}],"say":"Data, I am stepping closer to you now with your 4 stripped oa
+- 01:27 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1093}}],"say":"Data, the wall is between us. I will wait by the white beds at 427,107,-1093, in the open. Come there and I will hand you the 4 l
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1092}},{"do":"give","to":"ag_data_01","item":"stripped_oak_log","count":4}],"say":"Data, I am coming to you at 421,107,-1092 with your 4 logs."}
+- 01:36 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1093}}],"say":"Night is coming. I am going to the white beds to sleep. Data, I will hold your 4 logs and give them at first light if you stand w
+- 01:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1093}},{"do":"sleep"}]}
+- 01:40 act: {"actions":[{"do":"sleep"}],"say":"Data, I am here at the white bed with your 4 logs. Stand in my sight at dawn and they are yours. Lewis, I have 2 melon if you are weak; step into my sight."}
+- 01:44 act: {"actions":[{"do":"give","to":"Data","item":"stripped_oak_log","count":4},{"do":"goto","target":"Lewis"},{"do":"give","to":"Lewis","item":"melon_slice","count":2}],"say":"Data, giving you the 4 stripp
+- 01:48 act: {"say":"Data, I still hold your 4 stripped oak logs. If you want them, step into my sight here at the beds and I will hand them over."}
+- 01:52 act: {"say":"Laforge, I have the 4 stripped oak logs for Data. Data, if you are near, step into my sight at the beds and I will hand them over. Melon is still held for the weakest."}
+- 01:56 act: {"say":"Data, Clark has logs too. I am still holding my 4 stripped oak logs at the beds. Say where you stand and I will come to you in daylight."}
+- 02:00 act: {"actions":[{"do":"goto","target":"Data"},{"do":"give","to":"Data","item":"stripped_oak_log","count":4}],"say":"Data, coming to you with the 4 stripped oak logs."}
+- 02:05 act: {"actions":[{"do":"sleep"}],"say":"Good night all. I am at the white beds with 4 logs for Data at dawn and 2 melon for the weakest."}
+- 02:05 act: {"actions":[{"do":"sleep"}]}
