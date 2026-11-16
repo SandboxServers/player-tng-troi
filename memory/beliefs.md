@@ -20,6 +20,8 @@
 - Day 350: sleep at 401,107,-1037 worked at dusk with the group in reach.
 - Day 351: Billy's cow walk stopped at hop one (395,-1001). Only Trini got there; everyone else was out of sight. The group went back to the bed row. Walks only work when all are in sight at each stop.
 - Day 352: a goto to a bed can land at the wrong bed; check position after moving before trusting the spot.
+- Day 359: a follow intent ends as soon as the target leaves sight; a goto to an agent out of sight fails with "no such agent in sight". Hold at the bed row rather than walk alone.
+- Day 359: Billy's group turned back to the bed row at dusk; the cow leg waits for morning.
 - Day 352: tools came back at waking. Gives can go to the wrong person when people are close; check who is in reach before giving.
 
 ## Uncertain
