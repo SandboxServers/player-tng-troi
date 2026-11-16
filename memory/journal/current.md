@@ -10,3 +10,10 @@
 - Day 375 morning: night passed. Billy sees only Lewis; asks Data, Leonardo, Picard, Troi, Wesley to step into his view. I hold at 444,107,-1037 and wait for his call.
 - 18:33 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"Deanna, dusk. Going to the white bed at 443,107,-1037, in the group's sight. Health 20, hunger 20, no food held."}
 - 18:46 act: {"actions":[{"do":"sleep"}]}
+- 18:50 act: {"say":"Good morning. I am Deanna, still here at the bed row with no food, but steady. How is everyone holding up?"}
+- 18:54 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1031}}],"say":"Billy, Deanna stepping toward you at 440,107,-1031 so you can see me. Health 20, hunger 20, no food, ready for your call."}
+- 18:58 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1035}},{"do":"use","at":{"x":443,"y":107,"z":-1036}}],"say":"Dusk, and Billy sees four of us. I am going to the white bed at 443,107,-1036 in th
+- 18:59 act: {"actions":[{"do":"sleep"}]}
+- 18:59 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1031}}],"say":"Someone is drawing a bow to the southwest. I am heading back to the group near 440,107,-1031. Health 20, hunger 20."}
+- 19:03 act: {"say":"A wandering trader and two llamas are to the south of us, about 10 blocks off. I have nothing to trade, but I will stay with the group and ask the trader what he holds."}
+- 19:11 act: {"actions":[{"do":"sleep"}],"say":"Billy, I have two wooden swords and no food. If you need one, say where you stand and I will give it to you in your sight. Going to sleep here in the group's sight."
