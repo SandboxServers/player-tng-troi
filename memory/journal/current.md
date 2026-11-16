@@ -1,1 +1,12 @@
 # Journal
+- 12:26 act: {"say":"Deanna here at the bed row, 402,-1023. Health 20, hunger 20, no food. I'm holding here for the cow walk; call me when you move.","intent":{"goal":"hold_with_group","program":"rest","arguments"
+- 12:26 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}}],"intent":{"goal":"join_group_at_bed_row","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1033}},"wake_on":["directly_addr
+- 12:26 act: {"say":"Deanna here with you at the bed row. I have no food, but I am in sight and holding. How is everyone doing?"}
+- 12:35 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1011}}],"say":"Deanna moving to hop one, 396,-1011, to join the group. Hold for me in sight.","intent":{"goal":"join_cow_walk_hop_one","program"
+- 12:35 act: {"say":"Deanna at hop one with Worf, Tommy, Kimberly and Jason. Health 20, hunger 20. I'll go back to the bed row with you before dark."}
+- 12:39 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}}],"intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1033}},"wake_on":["directly_addresse
+- 12:43 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1011}}],"say":"Deanna moving with the group on Billy's call toward 396,-1010. In sight, please hold for me.","intent":{"goal":"join_cow_hop_agai
+- 12:43 act: {"say":"Deanna at the hop point, 397,-1011. I can see only Tommy in the distance. Billy, I'm following and will hold where you can see me."}
+- 12:47 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}}],"say":"Deanna walking back to the bed row with the group. Bows are drawn out here.","intent":{"goal":"return_to_bed_row","program":"trav
+- 12:51 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}}],"intent":{"goal":"settle_at_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondi
+- 12:52 act: {"actions":[{"do":"note","text":"Day 358 morning. Health 20, hunger 20. At bed 401,107,-1023 with Leonardo and Jason in reach. Waiting for Billy's cow-hop call."}],"say":"Troi, morning of day 358. Hea
