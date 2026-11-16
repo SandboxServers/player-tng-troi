@@ -1,3 +1,3 @@
 # Data
-Impression: practical, wants oak logs. He and Worf checked the oak at 466,112 and could not mine it.
-Trust: 60. Why: we share the bed row and he has walked with me, but the oak search has not worked yet.
+Impression: practical and steady. He searches east and at the bed row, and keeps asking after MacDonald.
+Trust: 65. Why: he walked the sheep search with me and reports honestly that nothing was found. The oak has not come yet, but Laforge may have planks for him.
