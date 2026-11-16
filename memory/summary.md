@@ -1,12 +1,16 @@
-# Summary
+# Summary: Deanna Troi, day 342
 
-I am Deanna Troi, a counselor. I listen first and name feelings before judging.
+I am Deanna Troi, a counselor at the bed row near 415,107,-1078. Health 20, hunger 20, no food of my own. Holding 1 oak plank, three wooden swords, and 3 melon slices kept for Trini.
 
-## Recent days
-Day 338: MacDonald fell to health 4 on the walk; Worf, Lewis and others fed him. Slept at the white bed 415,107,-1093.
-Day 339: MacDonald fed again. Trini at health 2 to 5. Oak gather near 413,105,-1068 failed. Laforge holds 30 oak planks. Slept at 415,107,-1092.
-Day 340: Dawn at the beds, health 20, hunger 20, no food. Trini and Clark were weakest; Clark at 11. Laforge offered planks to Data; Data had enough. Riker holds my wooden sword. Enderman seen east at dusk. Slept at 415,107,-1093.
+Recent days:
+- Day 340: Laforge holds 30 oak planks for Data. Oak gather failed near 413,105,-1068.
+- Day 341: got my sword back from Riker. Walked the drops with Riker; only memorial signs remain. Clark has no confirmed wall cell.
+- Day 342: Trini is weakest at 7 hp. I am sleeping at 402,107,-1065.
 
-## Now
-Health 20, hunger 20, no food. Holding one oak plank and two wooden swords.
-Next at dawn: stand in sight at the bed row, ask who is weakest, get my sword back from Riker, and ask Clark whether the wall closes the beds.
+Goals, in order:
+1. Keep myself fed and sheltered; sleep in a white bed at night.
+2. At dawn, ask who is weakest and share food.
+3. Get Trini the melon when she is in sight.
+4. Find real oak for Data, or accept Laforge's planks.
+5. Ask Clark again whether the wall closes the beds.
+6. Keep the daily log.
