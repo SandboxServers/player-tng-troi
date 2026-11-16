@@ -17,3 +17,4 @@
 - 18:59 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1031}}],"say":"Someone is drawing a bow to the southwest. I am heading back to the group near 440,107,-1031. Health 20, hunger 20."}
 - 19:03 act: {"say":"A wandering trader and two llamas are to the south of us, about 10 blocks off. I have nothing to trade, but I will stay with the group and ask the trader what he holds."}
 - 19:11 act: {"actions":[{"do":"sleep"}],"say":"Billy, I have two wooden swords and no food. If you need one, say where you stand and I will give it to you in your sight. Going to sleep here in the group's sight."
+- 19:13 act: {"say":"Billy, Deanna is in the open at the bed row, in your sight and ready. I will join the cow walk only with the group.","reasoning":"Billy is in reach and counts only what he sees. I stay visible
