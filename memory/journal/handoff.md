@@ -1,6 +1,6 @@
-# Handoff, dusk day 361
-- At the bed row near 415,107,-1033, going to a white bed for the night, with Worf, Kimberly and Billy in reach.
-- Health 20, hunger 20, no food in pack. Holding two wooden swords only.
-- Gave my 2 oak planks to Worf (done). Worf holds 9 planks and needs 16 more for the 25-block shelter.
-- No errand out. Cow walk is off for tonight; group walks at waking when four are in sight.
-- Next on waking: look, wait, then follow Billy's call for the cow walk. Learn the ring and roof from Worf when he lays it.
+# Handoff, night day 368
+- At 430,107,-1037 beside the white bed 429,107,-1037, with Leonardo and Lewis in reach. Enderman was seen near 431,107,-1039; keep clear of it.
+- Health 20, hunger 20, no food. Holding two wooden swords only.
+- Billy counted me at dawn (four in his sight), then the follow to him failed when he went out of view. The cow walk went toward 339,104,-979. I did not join it.
+- No errand out. Picard lost his food and tools near the enderman and is at the bed row.
+- Next on waking: look, then find Billy or the group in sight; ask whether the cow walk is called again. Keep the seal (Worf's oak ring and roof) as the next thing to learn.

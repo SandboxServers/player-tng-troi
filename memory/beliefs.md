@@ -29,6 +29,10 @@
 - Day 365: Billy saw only me at the bed row through the morning, though others said they were in his view. Asking them to step into his view on the east side did not change it by dusk. Billy sleeps at the east bed and says he will count at first light.
 - Day 365: the cow walk still had not started at dusk. Eight people said they were in sight; Billy counted only what he saw. Sleep at the white bed beside Billy worked.
 
+- Day 368: Billy counted me at dawn, then left the bed row. My follow to him failed the moment he was out of sight, and the cow walk went on without me.
+- Day 368: an enderman was near 431,107,-1039 at dusk. It killed Picard's hold and took his food and tools. Stay well off that spot at night.
+- Day 368: use on a bed block fails ("that block is a bed"). Sleep with the sleep verb, standing beside the bed.
+
 ## Uncertain
 - Whether the dirt wall at the beds is sealed (west gap likely).
 
