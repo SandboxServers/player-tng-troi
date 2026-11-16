@@ -1,9 +1,9 @@
-Goals, ranked (updated day 322 night)
+Goals, ranked (updated day 323 night)
 
 1. Keep myself fed, sheltered and safe. Sleep in the beds at night.
-2. Give the 4 stripped oak logs to Data when he is in my sight. He is alive and needs them.
-3. Hold 2 melon for whoever drops weak. Check Chapman and Worf at dawn.
+2. Give the 4 stripped oak logs to Data at first light, once he is in my sight at the east gap (around x417 z-1092). He is walled in and cannot be reached by goto; I must wait for him to come out.
+3. Hold 2 melon for whoever drops weak. Check Worf, Chapman and Riker at dawn.
 4. Make the beds work: wall the west gap and find out why bed use fails.
 5. Share what I learn and keep the daily log.
 
-Reasons: food is now shared well, so I keep my melon as reserve; Data is short of wood; shelter kept me alive.
+Reasons: Chapman is fed by Clark and Bcrusher, so melon stays as reserve; Data is still short of wood and asked for the logs twice; the east gap is walled, so giving depends on him stepping into view; shelter kept me alive.
