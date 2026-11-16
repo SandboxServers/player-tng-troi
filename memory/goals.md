@@ -1,4 +1,4 @@
-# Goals, day 370 (ranked, after sleep)
+# Goals, day 371 (ranked, after sleep)
 
 1. Stay in sight of the group at the bed row and hold for the lowest. Reason: they are my people, and I have no food to give.
 2. Join Billy's cow walk once he calls it, staying close. Reason: Billy counts only what he sees.

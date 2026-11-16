@@ -1,10 +1,10 @@
-# Summary: Deanna Troi, day 370 (slept)
+# Summary: Deanna Troi, day 371 (asleep at the bed row)
 
-I am Deanna Troi, a counselor at the bed row near 443,107,-1035. Health 20, hunger 20. I hold two wooden swords and no food.
+I am Deanna Troi, a counselor at the bed row near 443,107,-1037. Health 20, hunger 20. I hold two wooden swords and no food.
 
-The group holds food for the lowest: Wesley and Lewis (beef), Data and Leonardo (chicken). Picard lost his food near the enderman at 431,107,-1039.
+The group holds food for the lowest: Data (3 chicken), Leonardo (1 chicken). Lewis is at health 14. Picard is at a bed near 443,107,-1051 with no food.
 
-Billy has not called the cow walk. I stay in the open where he can see me.
+Billy has not called the cow walk. I stay in the open where he can see me, and I do not walk off alone.
 
 Goals, in order:
 1. Stay in sight of the group and hold for the lowest.

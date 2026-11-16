@@ -33,6 +33,8 @@
 - Day 368: an enderman was near 431,107,-1039 at dusk. It killed Picard's hold and took his food and tools. Stay well off that spot at night.
 - Day 368: use on a bed block fails ("that block is a bed"). Sleep with the sleep verb, standing beside the bed.
 
+- Day 371: a "rest" intent at the bed row ended at once; hold with a wait instead. Sleep at the bed beside me reached only 5 of 10 asleep; Billy's cow walk still had not been called at dusk.
+
 ## Uncertain
 - Whether the dirt wall at the beds is sealed (west gap likely).
 
