@@ -2,3 +2,32 @@
 - 04:59 act: {"say":"Morning. Troi at the bed 387,107,-1079, health and hunger full. My drops lie at 408,107,-1050. Who will walk there with me in daylight? I will wait for an answer."}
 - 05:01 act: {"say":"Lewis, thank you. I am ready at the bed 387,107,-1079. Come into sight and I will set off to the drops at 408,107,-1050 with you."}
 - 05:06 act: {"say":"Goodnight, all. Lewis, Chapman's 2 melon can wait for you here at the bed row. The drops trip is for first light, with company. Riker, I will take my sword at morning."}
+- 05:07 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Riker, I'm going into the bed for the night. Is anyone near the spider?"}
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 05:08 act: {"actions":[{"do":"note","text":"Night 334. Sleep blocked by a spider 8 blocks away; bed use failed. Waiting for it to leave, then retry sleep at bed 387,107,-1092."}]}
+- 05:08 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 05:08 act: {"actions":[{"do":"note","text":"Still night 334. Spider keeps blocking sleep from 8 blocks. Riker is 2 blocks away. Waiting longer."}],"say":"Riker, is there a spider near you? I can't sleep while it
+- 05:08 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 05:08 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1079}},{"do":"sleep"}]}
+- 05:08 act: {"actions":[{"do":"note","text":"Morning 334/335. Sleep blocked all night by a spider 8 blocks off. Chapman is beside me with melon. Asked how Lewis is."}],"say":"Good morning, Chapman. How is Lewis d
+- 05:10 act: {"actions":[{"do":"note","text":"Day 335 morning. Slept not at all; sleep blocked by spider. Lewis at 14 health, Chapman bringing melon. Offering to walk to drops with anyone."}],"say":"Morning all. L
+- 05:13 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Riker, I'm coming to you for my sword. Thank you."}
+- 05:13 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}}]}
+- 05:13 act: {"actions":[{"do":"note","text":"Day 335 day. Riker in reach at bed row; asked him for my spare wooden sword. Plan: drops trip at 408,107,-1050 only with company."}],"say":"Riker, I'm here in reach. C
+- 05:16 act: {"actions":[{"do":"note","text":"Got my spare sword back from Riker. Riker agreed to walk to the drops at 408,107,-1050 in daylight. Going now."}],"say":"Riker, thank you for the sword. I'm going to t
+- 05:16 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1050}}]}
+- 05:17 act: {"actions":[{"do":"note","text":"Day 335 afternoon: reached drops at 408,107,-1051. Health 20, hunger 20. No dropped items listed yet. Picard and Chapman in view, Riker not. Looking for boat, saplings
+- 05:17 act: {"actions":[{"do":"note","text":"Drops spot 408,107,-1051 shows no dropped items in view. Sword is back from Riker. Returning to bed row 387,107 with company before dusk."},{"do":"goto","target":{"x":
+- 05:17 act: {"actions":[{"do":"note","text":"Back at bed row 402,107,-1091, bright daylight, health 20, hunger 20. No one in sight. Waiting for company or dusk to sleep in a bed."}]}
+- 05:21 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1093}},{"do":"sleep"},{"do":"note","text":"Dusk on day 335. Went to bed at 401,107,-1093 beside Worf and Data, away from the enderman east. Heal
+- 05:32 act: {"actions":[{"do":"sleep"}]}
+- 05:32 act: {"actions":[{"do":"note","text":"Day 336 dusk: slept in bed 401,107,-1093 beside Data. Sleep started. Drops at 408,107,-1050 still not found; sheep search east blocked at 472,107."}]}
+- 05:38 act: {"say":"Data, morning. Will you walk with me to the drops at 408,107,-1050 in daylight? I'll keep you in sight.","actions":[{"do":"note","text":"Day 337 morning: woke at bed 401,107,-1091. Health 20, 
+- 05:38 act: {"actions":[{"do":"note","text":"Day 337 midday: second check at drops 408,107,-1052. No dropped items visible; boat, saplings, dirt and bone likely gone. Health 20, hunger 20. Going back to bed row w
+- 05:38 act: {"say":"Data, Worf, I'm back at the beds. The drops at 408,107,-1050 show nothing now. Has either of you seen the boat or saplings?","actions":[{"do":"note","text":"Day 336 daytime: back at bed row 40
+- 05:43 act: {"actions":[{"do":"note","text":"Day 336 midday: Lewis got melon from Chapman, hunger 17, health 14, waiting at beds. Worf says no boat or saplings seen; Data and Worf checking oak at 466,112. Drops l
+- 05:47 act: {"actions":[{"do":"note","text":"Day 336 dusk: Data could not mine the oak at 466,112,-1108. Lewis got melon from Chapman. Worf and Data heading to bed. Going to bed 401,107,-1092 now, health 20, hung
+- 05:47 act: {"say":"Morning, Bcrusher. I'm full, so keep your melon for Lewis or anyone weaker. Thank you.","actions":[{"do":"note","text":"Day 337 morning: sleep failed, not night. I am at bed row 387,107,-1091 
+- 05:51 act: {"actions":[{"do":"note","text":"Day 337 midday: at beds 387,107,-1091, health 20, hunger 20. Riker still holds my spare sword; I already carry two, so I will leave it. Data and Worf are heading east 
+- 05:59 act: {"actions":[{"do":"note","text":"Day 337 night: going to bed 387,107,-1092. Health 20, hunger 20. Sword from Riker still at the beds; spare wooden swords in pack. Data back at beds, Worf and Chapman o
+- 05:59 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}]}
