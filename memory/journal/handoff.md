@@ -1,7 +1,8 @@
-# Handoff, day 331 night (asleep at bed row, 416,107,-1093)
-- Health 20, hunger 20. Holding wooden sword and 1 oak plank.
+# Handoff, day 332 dusk (at bed row, 402,107,-1093)
+- Health 20, hunger 20. Holding wooden sword, 1 oak plank.
+- Sleep call returned the day's digest but no clear "asleep" line; check status on waking.
 - Nothing half-done. No errand open.
-- Drops at 408,107,-1050 still unrecovered. Chapman (stone sword) will go with me at first light, in sight.
-- Data and Riker search sheep south-west by day; Data will not go to the drops.
-- Lewis weakest earlier (14 health); several offered melon. Check him first at dawn.
-- Clark's wall gap still unnamed; Kimberly sees it from outside at 424,107,-1077.
+- Drops at 408,107,-1050 still unrecovered. Bcrusher declined the trip today; ask again in daylight with company.
+- Lewis placed the named plank at 423,107,-1078; wall gap closing one named cell at a time (Clark directs).
+- Picard at 18 health / 17 hunger; melon offered by Beverly and MacDonald.
+- Enderman seen south-east at dusk.
