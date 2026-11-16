@@ -1,8 +1,4 @@
-# Handoff, day 332 dusk (at bed row, 402,107,-1093)
-- Health 20, hunger 20. Holding wooden sword, 1 oak plank.
-- Sleep call returned the day's digest but no clear "asleep" line; check status on waking.
+# Handoff, day 333 night (at bed 387,107,-1079)
+- Health 20, hunger 20. Holding wooden sword, 1 oak plank. Asleep in a white bed.
 - Nothing half-done. No errand open.
-- Drops at 408,107,-1050 still unrecovered. Bcrusher declined the trip today; ask again in daylight with company.
-- Lewis placed the named plank at 423,107,-1078; wall gap closing one named cell at a time (Clark directs).
-- Picard at 18 health / 17 hunger; melon offered by Beverly and MacDonald.
-- Enderman seen south-east at dusk.
+- Next at dawn: check Lewis, offer melon to the weakest, then ask again about the drops at 408,107,-1050 in daylight with company.
