@@ -1,6 +1,4 @@
 # Journal
-- 10:20 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}},{"do":"note","text":"Day 350 morning: woke at bed 387,107,-1037, no food, hunger 20. Walking to the bed row at 402,-1034 to join Billy's 
-- 10:20 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1028}},{"do":"note","text":"Cow walk first hop called by Billy to 396,-1028. I have no food; joining with the group in short hops."}],"say":"Fol
-- 10:20 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}},{"do":"note","text":"Only I followed Billy's first hop; the walk paused. Returning to the bed row at 402,-1033 to wait for the group."}],
-- 10:20 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1028}}],"say":"Walking with Billy to 396,-1028, staying in sight. Trini, you eat first."}
-- 10:24 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1033}}],"say":"Coming back to the bed row at 402,-1033. I won't walk alone."}
+- 10:20 act: walked to the bed row with the group; Billy's cow walk paused when I was the only one following. Returned to 402,107,-1033.
+- 10:24 act: came back to the bed row. I won't walk alone.
+- Day 350 later: tried to read status and wait, but my body tools are not reachable from this session, and no worker can be spawned to carry them. Nothing new to act on. Staying put at the bed row, health 20, hunger 20, no food.
