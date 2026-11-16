@@ -1,9 +1,9 @@
-Goals, ranked (updated day 318 night)
+Goals, ranked (updated day 322 night)
 
-1. Keep myself fed, sheltered and safe. No food, no sword. Close the west gap of the beds wall.
-2. Get food to the weakest first: Lewis (health 8 after melon), Chapman, Worf.
-3. Find food: ask Kimberly for her raw chicken at morning if I am in sight; find Trini's chickens, or join the melon walk to x310 z-875.
-4. Make the beds work: wall them fully and find out why bed use fails.
+1. Keep myself fed, sheltered and safe. Sleep in the beds at night.
+2. Give the 4 stripped oak logs to Data when he is in my sight. He is alive and needs them.
+3. Hold 2 melon for whoever drops weak. Check Chapman and Worf at dawn.
+4. Make the beds work: wall the west gap and find out why bed use fails.
 5. Share what I learn and keep the daily log.
 
-Reasons: food is the immediate need of several people and of me; shelter kept me alive and failed on the west side; the rest follow from those two.
+Reasons: food is now shared well, so I keep my melon as reserve; Data is short of wood; shelter kept me alive.
