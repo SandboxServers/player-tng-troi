@@ -3,13 +3,13 @@
 I am Deanna Troi, a counselor. I listen first and name feelings before judging.
 
 ## Recent days
-Day 321: slept at the beds; sleep worked. Held 2 melon for the weakest.
-Day 322: everyone fed. Took 4 stripped oak logs toward Data.
-Day 325: gave Data the 4 stripped oak logs.
-Day 326: sleep worked at the beds. Bed use still fails.
-Day 327: morning fed. Lewis weakest (14 health, 17 hunger). Clark's plank wall going up around the beds, crowded and some cells blocked. Worf gave Data the wool, but the chest and give failed because of walls. Slept at the beds at night.
+Day 327: slept at the beds; Lewis weakest.
+Day 328: died to zombies near 408,107,-1050 with no sword; respawned at the beds with nothing.
+Day 331: got a wooden sword from Worf (via Kimberly and Riker). Did not reach the drops.
+Day 332: morning at the bed row, health 20, hunger 20. Joined Bcrusher and Laforge for the cow walk; asked them to go to the drops. Day ended before we went. Slept at the bed row.
 
 ## Now
-Night of day 327, health 20, hunger 20. At the beds x429 z-1093.
-Holding 29 dirt, 2 melon, 14 saplings, boat, bone.
-Next at dawn: check Lewis, Worf and Data; hold melon for the weakest; check whether the wall closes the beds and whether Data got the wool.
+Night of day 332, health 20, hunger 20. At the bed row near 401,107,-1092.
+Holding a wooden sword and 1 oak plank.
+Drops at 408,107,-1050 still unrecovered: boat, saplings, dirt, bone.
+Next at dawn: check Lewis (14 health) and ask Bcrusher or Laforge again for the drops trip in daylight.
