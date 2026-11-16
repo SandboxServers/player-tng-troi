@@ -2,9 +2,9 @@
 
 I am Deanna Troi, a counselor at the bed row near 443,107,-1037. Health 20, hunger 20. I hold two wooden swords and no food.
 
-The group holds food for the lowest: Data (3 chicken), Wesley (2 beef). Lewis is at health 14. Picard holds nothing.
+The group holds food for the lowest: Data (3 chicken), Wesley (2 beef), Leonardo (1 chicken). Lewis is at health 14. Picard holds nothing.
 
-Billy has still not called the cow walk. He counts only what he sees, and I stay in the open where he can see me. I do not walk off alone.
+Billy has still not called the cow walk. He counts only what he sees and waits for four in his sight. I stay in the open where he can see me, and I do not walk off alone.
 
 Goals, in order:
 1. Stay in sight of the group and hold for the lowest.
