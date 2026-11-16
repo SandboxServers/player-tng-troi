@@ -27,3 +27,5 @@
 - 03:31 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1091}},{"do":"goto","target":{"x":416,"y":107,"z":-1092}}],"reasoning":"Walking off and on did not pick the sword up. Try the tile to the south,
 - 03:31 say: {"text":"Troi: the sword still will not enter my pack, even after walking off and back twice. Worf, Kimberly: if either of you holds a wooden sword, please hand it to me directly. I am staying at the 
 - 03:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1091}}],"reasoning":"Got the wooden sword at last, equipped. Dusk. Stand by the white beds and sleep here for the night.","say":"Troi: I have th
+- 03:35 act: {"say":"Clark, Worf, I am here at the beds, health and hunger full. I will sleep here tonight. Tell me if anyone is weak.","reasoning":"Dusk, at beds, all full. Greet nearby people, then wait for nigh
+- 03:39 act: {"say":"Morning, all. Troi here at the bed row, health and hunger full. Nobody here seems weak to me; tell me if that changes.","reasoning":"Morning at beds. Everyone full as far as I see. Check in an
