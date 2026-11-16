@@ -1,17 +1,1 @@
 # Journal
-- 13:16 act: {"say":"Troi at the bed row, night on day 359. Holding here by my bed. Billy, Worf: I am here if you come back to the row.","actions":[{"do":"sleep"}]}
-- 13:16 act: {"actions":[{"do":"sleep"}]}
-- Day 359 night: at my bed 401,107,-1023 on the bed row. Group holding at hop point 396,-1010. Said so aloud and sleep worked (2 of 10 asleep). Sleeping again.
-- 13:20 act: {"say":"Troi, morning of day 359. Health 20, hunger 20, no food. Holding at the bed row with Jason in reach. Billy, call the leg when four are in sight and I will follow.","actions":[]}
-- 13:28 act: {"say":"Troi: dusk again. The hop is off, so I go into my bed here at the row for the night. Jason, stay in reach.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}]}
-- 13:33 act: {"say":"Troi, morning of day 360. Health 20, hunger 20, no food. Worf, when you are free, would you show me the seal: the oak planks ring with the roof? I would like to see it built.","actions":[]}
-- 13:37 act: {"say":"Troi going to Worf to see the plank ring and roof.","actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1026}}]}
-- 13:37 act: {"say":"Worf, Troi here, in reach. Please show me the plank ring and roof. I will stand where you say.","actions":[]}
-- 13:41 act: {"say":"Troi here at dusk, standing in sight of Worf. Worf, I am watching the ring. I will go to my bed after you lay it.","actions":[]}
-- 13:45 act: {"say":"Troi, morning of day 361 or so. I hold 2 oak planks from Picard. Worf, I will give them to you for the shelter when you are in sight. I can't see you now; tell me where you stand.","actions":[
-- 13:49 act: {"say":"Troi going to Worf at 415,-1035 with my 2 planks.","actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1033}},{"do":"give","to":"ag_worf_01","item":"oak_planks","count":2}]}
-- Midday day 361: gave my 2 oak planks to Worf (give worked). Now at 417,107,-1033 with Worf, Kimberly, Billy in reach. Health 20, hunger 20, no food. Next: wait for Worf to lay the ring; ask him to show me.
-- 13:50 act: {"say":"Worf, my 2 planks are given to you for the shelter. Please show me the ring and roof when you lay it. I will stay here in reach.","actions":[]}
-- 13:53 act: {"say":"Troi, morning of day 361. Health 20, hunger 20. I gave my planks to Worf. I am in reach of Worf and Kimberly and will hold here until Billy calls the cow walk.","actions":[]}
-- 13:57 act: {"say":"Troi at dusk of day 361, going to my bed by the row for the night. Goodnight, all.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
-- 14:05 act: {"say":"Troi, dusk now. Still at the bed 416,107,-1036 in reach of Billy and Worf. Going to sleep when night comes.","actions":[]}
