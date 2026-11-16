@@ -4,3 +4,17 @@
 - 19:41 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1034}}],"say":"Troi moving to 417,107,-1034 where the group held, to be in sight. Billy, I am not counted yet; I will not walk the far road alon
 - 19:41 act: {"actions":[],"say":"Troi here with Jason, Wesley and Riker at 417,107,-1033. Holding here in the open, health 20, hunger 20. Billy, call us when you are back in view."}
 - 19:49 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Troi going to the bed row near 415,107,-1037 in the group's sight. Holding nothing, health 20, hunger 20. C
+- 19:51 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Deanna here, morning. I am at the bed row, health 20, no food. Billy, I am ready to be counted in your sight.","intent":{"goal":"join_group_in_
+- 19:53 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1033}}],"say":"Deanna walking to the group's hold point at 417,107,-1033. Billy, I am on my way to your sight, empty-handed, health 20."}
+- 19:53 act: {"actions":[],"say":"Deanna here at the hold point, 417,107,-1032, with Picard nearby. Health 20, hunger 20, no food. Billy, I am in the open and waiting to be counted."}
+- 19:56 act: {"actions":[{"do":"goto","target":{"x":406,"y":107,"z":-1024}}],"say":"Deanna walking to Billy's sight at 406,107,-1024 to be counted with the group. Health 20, hunger 20, no food."}
+- 19:56 act: {"actions":[],"say":"Deanna here with Data, Wesley, Riker, Picard, Lewis and Jason, in the open at 407,107,-1024. Health 20, hunger 20, no food. Holding for Billy's call."}
+- 20:00 act: {"actions":[],"say":"Deanna at 407,107,-1024 with Data, Wesley, Riker and Lewis, in the open at the bed row. Billy, the cow walk is off for today, I hear. I will not walk alone to you. Come back into 
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1018}}],"say":"Deanna walking to Billy at 390,107,-1018 with Jason, Trini and Leonardo, to be counted in his sight. Health 20, hunger 20, no foo
+- 20:04 act: {"actions":[],"say":"Billy, Deanna is here in your sight at 390,107,-1017. Count me. Health 20, hunger 20, empty-handed."}
+- 20:08 act: {"actions":[],"say":"Billy, thank you, I am counted: Deanna with Leonardo, Kimberly and Tommy. I will walk with the group in your sight. Worf, I cannot see cell 394,107,-1025 from here, so I cannot co
+- 20:13 act: {"actions":[],"say":"Deanna walking with Tommy and the group to the cow field, in daylight, in sight. Health 20, hunger 20.","intent":{"goal":"walk_with_group_to_cows","program":"follow","arguments":{
+- 20:14 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}},{"do":"sleep"}],"say":"Deanna going to the bed row at 416,107,-1034 for the night, in the group's sight. Health 20, hunger 20, holding no
+- 20:19 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1024}},{"do":"note","text":"Morning day 380/381: walking to the bed row gathering point 402,107,-1024 to be counted by Billy in sight. No food; 
+- 20:23 act: {"actions":[],"say":"Troi here at 402,107,-1025, in sight, empty-handed, health 20, hunger 20. Ready to be counted, Billy."}
+- 20:27 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}]}
