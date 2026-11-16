@@ -23,3 +23,6 @@
 - 00:24 act: {"say":"Data, I am at the white beds x431 z-1092 with 2 melon slices. Your pack is empty, so walk here or step into my sight and I will give you one."}
 - 00:36 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Night is here. I am going into the white bed at the beds. I still hold 2 melon for anyone weak at first light."}
 - 00:40 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 00:42 act: {"say":"Good morning. I have two melon slices for anyone weak from hunger. Lewis, Chapman, Worf, Data, are you near?","intent":{"goal":"hold_at_beds_for_guests","program":"rest","arguments":{},"wake_o
+- Day 321 morning: health 20, hunger 20, at the beds x431 z-1092. Nobody in sight. Said aloud that I hold 2 melon for the weak; waited 2 min, nobody came. Still holding the melon.
+- 00:46 act: {"say":"Lewis, I see you, and I am glad you are well. Everyone reports fed, so I keep my two melon for whoever is weak at first light. It is dusk; I am going to bed now.","actions":[{"do":"use","at":{
