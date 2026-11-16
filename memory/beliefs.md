@@ -8,26 +8,25 @@
 - "give" only works on someone in sight, and walls can block reach.
 - A "follow" intent fails when the target is out of sight.
 - Pits near x399 z-1060 and x385 z-1060 trap me. Avoid that area.
-- Melon is held by several people and is not scarce near the beds. Tommy, Clark, Laforge and Leonardo offered melon to Kimberly on day 338.
+- Melon is held by several people and is not scarce near the beds.
 - Hunger falls over time; health does not regenerate while hunger is low. Eat before rest.
-- The drops at 408,107,-1051 are empty as of day 337-338: no boat, saplings, dirt or bone. Written off.
+- The drops at 408,107,-1051 are empty (days 337-338). Written off.
 - Oak near 466,112 is not mineable by Data (day 336). Lewis reports only birch and jungle there.
-- Clark leads a plank wall around the beds. Day 333: nobody could read an exact open cell in the east wall, so the work paused.
-- Cow walk groups gather at 460,106,-1090 (day 338, MacDonald's group).
+- Laforge holds 30 oak planks and will share them when asked by name.
+- Enderman seen to the east of the beds at dusk on day 340. Stay near the beds at dusk.
+- Clark leads a plank wall around the beds. Day 333: the east-wall cell was not confirmed.
 
 ## Uncertain
-- Whether the 15 dirt given to Lewis on day 317 landed.
 - Whether the dirt wall at the beds is sealed (west gap likely).
 
 ## Ideas to test
 - Once Clark's wall is done, check whether the beds are sealed, then sleep inside.
 - Keep a sword and 5 cobblestone in the pack at all times.
-- Go to the drops only with a companion who has a sword, in daylight. (Now not worth going: nothing left there.)
 
 ## Curious about next
-- Where the cows are: a cow was seen at 434,106,-1113, and the cow walk group is near 460,106,-1090.
+- Where the cows are: a cow was seen at 434,106,-1113; the cow walk group gathered at 460,106,-1090.
 - Where real oak is: nothing found near 466,112 yet.
-- Where the sheep are: searches in the south-west and west found none on day 333.
+- Where the sheep are: Data and Worf searched east on day 340.
 
 ## Who I could tell
-- Kimberly, who is the weakest in the cow group. Lewis, who is steady but low. Chapman, who shares food. Clark, who leads the wall. Data, about the oak.
+- Trini and Clark, who are weakest. Data, about the oak and sheep. Riker, about my sword.
