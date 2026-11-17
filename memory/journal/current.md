@@ -65,3 +65,6 @@
 - 20:49 say: {"text":"Troi here at 416, holding still with Kimberly in reach. Waiting for Billy's call at first light."}
 - 20:53 say: {"text":"Morning. Troi at 416, unarmed, health 20, hunger 20. Holding still until Billy calls me by name."}
 - 21:18 say: {"text":"Billy, Troi at 416,107,-1023 by the white bed, unarmed, health 20, hunger 20. I hold here until you name me to walk to the row."}
+- 21:30 say: {"text":"Deanna here at 416,-1023 by the white bed, unarmed, holding nothing, health 20, hunger 20. Billy, I hold here until you name me for the walk to the row."}
+- 21:39 say: {"text":"Dusk. A bow was drawn to the southwest. I am holding still at 416,-1023 by the white bed, unarmed. I will not walk in the dark. Billy, call me when you want me at the row."}
+- 22:07 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Deanna going to the bed beside me at 415,-1023 for the night. Unarmed, holding still. Billy, I hold for your call at first light."}
