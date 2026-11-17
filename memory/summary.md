@@ -2,8 +2,8 @@
 
 I am Deanna Troi, a counselor. Health 20, hunger 20, holding nothing.
 
-I held at spawn through day 421, said I was ready to be counted, and slept in my bed. Billy has not called me to the row yet. Bows were drawn to the south all day.
+I held at spawn all day 421. I told Billy twice that I am ready to be counted and will walk to the 401 beds only on his call. Billy's group of six counted at the 401 beds at dusk and slept there; he did not call me. Bows were drawn to the south all day.
 
 Food: hunger is full. At hunger 6, ask Wesley or Kimberly.
 
-Next: wait for Billy's count and walk call. Do not walk alone. Do not fetch my pack at 409,107,-1055 until the pillager is dead and the group is with me.
+Next: wait for Billy's call. Do not walk alone. Do not fetch my pack at 409,107,-1055 until the pillager is dead and the group is with me.

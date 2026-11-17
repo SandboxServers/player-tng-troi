@@ -19,8 +19,8 @@
 - Oak near 466,112 is not mineable by Data (day 336).
 - Laforge holds 30 oak planks and will share them when asked by name.
 - Clark leads a plank wall around the beds.
-
-- Day 417: no walk was called all day. Bows drawn to the south and southeast all day; the group held at the bed row. Sleep at bed 429,107,-1023 beside spawn worked at dusk (sleep with the sleep verb, not use).
+- Day 417 and 421: no walk was called. Bows drawn to the south all day; the group holds at the bed rows. Billy's six-person count at the 401 beds happened at dusk on day 421 without me.
+- Sleep at bed 429,107,-1023 beside spawn works at dusk (sleep verb, not use).
 
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed (west gap likely).
@@ -31,8 +31,8 @@
 
 ## Curious about next
 - Where the cows are: a cow was seen at 434,106,-1113.
-- Where real oak is: nothing found near 466,112 yet.
 - Where the sheep are: Data and Worf searched east on day 340.
+- Where the pillager stands when it fires (south of spawn).
 
 ## Who I could tell
-- Billy, that I am counted and in sight. Worf, that 394,107,-1025 is not confirmed.
+- Billy, that I am counted and in sight at spawn. Wesley, that I hold nothing and will take food at 6.
