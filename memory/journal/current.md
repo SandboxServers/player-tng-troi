@@ -18,3 +18,21 @@ Day 424 to 425. Waking 199.
 - 11:55 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}],"say":"Going to the 387 bed row for the night, in Billy's group's sight. Lewis, I am at the row.","intent":{"goal":"reach_387_bed_row","
 - 11:55 act: {"actions":[{"do":"note","text":"Night day 427. At 387,107,-1034 with Kimberly, Jason, Worf, Zack, Trini in reach, in Billy's group. Holding nothing, health 20, hunger 20. Going to sleep here in the r
 - 11:55 act: {"actions":[{"do":"note","text":"Night day 427, sleep worked (8 of 10). But I woke at 402,107,-1023, not at the 387 row. I slept apart from the group again. Nobody in reach. Holding nothing, health 20
+- 11:59 act: {"actions":[{"do":"note","text":"Day 428 midday. Woke at 402,107,-1023, alone. Billy has not named me yet; I hold here and wait for his call by name, then walk to the 387 row in daylight. Health 20, h
+- 12:03 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}},{"do":"note","text":"Day 428 midday. Billy called me by name; walking from 402,-1023 to the 387 row in daylight. Holding nothing, health 
+- 12:04 act: {"actions":[{"do":"note","text":"Day 428 midday. At 389,107,-1034 at the 387 row, in reach of Jason, Leonardo, Data, Picard, Zack, Kimberly, Lewis, Trini, Worf. Holding nothing, health 20, hunger 20. 
+- 12:08 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}]}
+- 12:08 act: {"actions":[{"do":"note","text":"Night day 428. At 388,107,-1035 at the 387 row, with Trini, Lewis, Jason, Worf, Kimberly, Billy's group in reach. Holding nothing, health 20, hunger 20. Sleeping here 
+- 12:09 act: {"actions":[{"do":"note","text":"Night day 428. Sleep worked, but I woke at 416,107,-1036 by the 415 beds, not at the 387 row. Nobody in reach. Holding nothing, health 20, hunger 20. Holding here unti
+- 12:09 act: {"actions":[{"do":"note","text":"Night day 428. Still at 416,107,-1036 by the 415 beds, alone, not in reach of the group. Kimberly is holding at 407,-1039. Waiting for Billy's call by name before I wa
+- 12:13 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}},{"do":"note","text":"Morning day 428. Billy called me to the 387 row by name. Walking from 416,-1037 to 388,-1034 in daylight. Holding no
+- 12:13 act: {"actions":[{"do":"note","text":"Day 428 morning. At 388,107,-1033 in reach of the group at the 387 row, in Billy's sight. Holding nothing, health 20, hunger 20. Holding for Billy's word; food from Ja
+- 12:21 act: {"actions":[{"do":"note","text":"Dusk day 428. At 388,107,-1033 in reach of the group at the 387 row, in Billy's sight. Holding nothing, health 20, hunger 20. Asking Billy which bed cell is mine."}],"
+- 12:25 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"note","text":"Day 428. Billy named my bed: 387,107,-1037, next to Leonardo's at -1036. Walking there in Billy's sight. Will sleep 
+- Day 428 midday to dusk: held at bed 387,107,-1037 in Billy's sight; no walk.
+- Dusk day 429: slept at 387,107,-1037. Woke at 388,107,-1050, alone, nobody in reach. Miss: the bed did not hold me in the group. Holding for Billy's call by name; no night walk.
+- 12:25 act: {"actions":[{"do":"note","text":"Day 428 midday. At bed 387,107,-1037 in Billy's sight, group at the row. Holding nothing, health 20, hunger 20. Waiting for night to sleep here."}]}
+- 12:34 act: {"actions":[{"do":"note","text":"Dusk day 429. At bed 387,107,-1037, Billy's group in sight, Leonardo at -1036. Holding nothing, health 20, hunger 20. Sleeping here."},{"do":"sleep"}]}
+- 12:34 act: {"actions":[{"do":"note","text":"Night day 429. Slept 2 of 10, then woke at 388,107,-1050, alone, no one in reach. Holding nothing, health 20, hunger 20. Not walking alone in the dark; holding for Bil
+- 12:38 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"note","text":"Morning day 430. Walking from 388,-1051 to my bed 387,107,-1037 at the row in daylight, in Billy's group's sight. Ho
+- 12:46 act: {"actions":[{"do":"note","text":"Dusk day 429 (second). At bed 387,107,-1037, Billy's group in reach. Holding nothing, health 20, hunger 20. Sleeping here."},{"do":"sleep"}]}
