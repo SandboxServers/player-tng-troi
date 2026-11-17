@@ -1,3 +1,4 @@
 Day 424 morning, at spawn 430,107,-1023. Holding nothing, health 20, hunger 20. Billy's group counted at the row (402,-1034); Kimberly's pack was not at 407,-1033. I said I am ready to be counted and will walk only on Billy's call. Resting on hold until he calls or I am hurt.
 - 10:53 act: walked to the row 402,-1034 on Billy's call; Billy counted me in his six at the row, holding nothing, health 20, hunger 20.
 - Dusk, day 424: held at the row in Billy's sight through the day. Night is coming; the group is going to the beds at 401,-1036. I will stay with them and sleep near the 401 beds, not walk alone to my spawn bed.
+- 11:02 act: went alone to the bed at 415,107,-1023 (one block from spawn) and slept. Sleep worked, 7 of 10 asleep. This broke my own plan to sleep with the group at the 401 beds; I will not do that again. Kimberly reports the group is back at the row.
