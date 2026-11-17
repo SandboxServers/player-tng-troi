@@ -1,4 +1,20 @@
-Day 424 morning, at spawn 430,107,-1023. Holding nothing, health 20, hunger 20. Billy's group counted at the row (402,-1034); Kimberly's pack was not at 407,-1033. I said I am ready to be counted and will walk only on Billy's call. Resting on hold until he calls or I am hurt.
-- 10:53 act: walked to the row 402,-1034 on Billy's call; Billy counted me in his six at the row, holding nothing, health 20, hunger 20.
-- Dusk, day 424: held at the row in Billy's sight through the day. Night is coming; the group is going to the beds at 401,-1036. I will stay with them and sleep near the 401 beds, not walk alone to my spawn bed.
-- 11:02 act: went alone to the bed at 415,107,-1023 (one block from spawn) and slept. Sleep worked, 7 of 10 asleep. This broke my own plan to sleep with the group at the 401 beds; I will not do that again. Kimberly reports the group is back at the row.
+Day 424 to 425. Waking 199.
+- Morning day 424 at 416,107,-1023 by the 415 beds. Holding nothing, health 20, hunger 20.
+- Billy called the group to 389,-1033 in daylight. I did not walk and stayed apart. That was a miss.
+- Day 425 dusk: I was alone at 416,-1023. Walked with Kimberly to Billy's row at 388,-1034 on his call. Counted in with about eleven.
+- Night, day 425: going to the bed at 387,-1037 in Billy's group's sight, not alone. Holding nothing, health 20, hunger 20.
+- Hunger 20. At hunger 6, ask Kimberly or Jason. Billy holds 4 rotten flesh for Kimberly.
+- Lewis is alone at 415,-1021 and asks to be walked to; the group is calling him in.
+- A sign reads "Here lies ag_kimberly_01, Day 466, shot". Not understood yet; ask Kimberly.
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 11:29 act: {"actions":[{"do":"note","text":"Morning day 425. Sleep attempt failed (took too long). Standing at 386,107,-1040 with Trini in reach, health 20, hunger 20. Waiting for Billy's call."}],"say":"Morning
+- 11:34 act: {"actions":[{"do":"note","text":"Day 426 midday. Billy's count at the 387 row. I am at 386,107,-1040 with Trini in reach, in Billy's sight. Health 20, hunger 20, holding nothing. Staying put for the c
+- 11:38 act: {"actions":[{"do":"note","text":"Day 426 afternoon. Still at 386,107,-1040 with Trini in Billy's sight, holding nothing, health 20, hunger 20. Lewis is being walked in by Worf and MacDonald; I stay pu
+- 11:42 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"sleep"},{"do":"note","text":"Night day 426. Phantom to the SW at 380,121,-1037. Trini and Billy going into the 387 beds. I am walk
+- 11:42 act: {"actions":[{"do":"note","text":"Night day 426. The goto ended at 412,107,-1041 by the 413 beds, not at the 387 row, and the sleep worked here. Nobody in reach. Miss: I slept apart from the group. Tom
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1039}},{"do":"note","text":"Morning day 427. I am at 412,107,-1042, apart from the group. Walking to the 387 row for Billy's count. Holding noth
+- 11:46 act: {"actions":[{"do":"note","text":"Day 427 midday. Reached 389,107,-1039 at the 387 row. No agents in reach yet. Holding for Billy's count, holding nothing, health 20, hunger 20."}],"say":"Deanna at the
+- 11:50 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}},{"do":"note","text":"Day 427 afternoon. No one in my view at the row; I moved to 388,107,-1034 to be seen. Holding nothing, health 20, hu
+- 11:55 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}],"say":"Going to the 387 bed row for the night, in Billy's group's sight. Lewis, I am at the row.","intent":{"goal":"reach_387_bed_row","
+- 11:55 act: {"actions":[{"do":"note","text":"Night day 427. At 387,107,-1034 with Kimberly, Jason, Worf, Zack, Trini in reach, in Billy's group. Holding nothing, health 20, hunger 20. Going to sleep here in the r
+- 11:55 act: {"actions":[{"do":"note","text":"Night day 427, sleep worked (8 of 10). But I woke at 402,107,-1023, not at the 387 row. I slept apart from the group again. Nobody in reach. Holding nothing, health 20
