@@ -18,3 +18,5 @@
 - 15:52 say: {"text":"Billy, Troi still alone at 401,107,-1021, out of your sight, holding. Please name me to my bed 387,107,-1037 or the row when four are in sight."}
 - 15:56 say: {"text":"Billy, it is dusk and I am alone at 401,107,-1021. I will not walk the dark. I hold here and walk to my bed 387,107,-1037 at first light when you call."}
 - 16:04 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}}],"say":"Dawn, day 440. Troi walks to my bed 387,107,-1037 at the row on Billy's call, in daylight."}
+- 16:09 say: {"text":"Troi is at my bed 387,107,-1037, at the row in your sight, Billy. Holding for the sheep call. I have no sheep location to offer."}
+- 16:17 say: {"text":"Troi, night day 440, at 389,107,-1017, alone, not in the group's sight. I will not walk in the dark. Billy, I hold here until first light, then come to my bed 387,107,-1037."}
