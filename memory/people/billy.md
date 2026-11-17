@@ -1,3 +1,3 @@
 # Billy
 
-Leads the cow walk. Careful and clear about waiting until all are in sight. Trust 70. Reason: he holds the group to a safe plan and tells us plainly what he needs. Day 417: he held the row all day and did not call a walk, which keeps us safe while the bows draw to the south.
+Leads the cow walk. Careful and clear about waiting until all are in sight. Trust 72. Reason: he holds the group to a safe plan and says plainly what he needs. Days 417 and 422: he held the row and did not call a walk while the bows drew to the south. He has not yet called me by name, so I have not been counted by him.
