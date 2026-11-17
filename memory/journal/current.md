@@ -62,3 +62,6 @@
 - 19:56 act: {"reasoning":"Dusk on day 451. Bed at 415,107,-1023 is in reach. Sleep there as before.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
 - 20:08 act: {"reasoning":"Dusk again. I am beside the bed at 415,-1023. Sleep here.","actions":[{"do":"sleep"}]}
 - 20:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}]}
+- 20:49 say: {"text":"Troi here at 416, holding still with Kimberly in reach. Waiting for Billy's call at first light."}
+- 20:53 say: {"text":"Morning. Troi at 416, unarmed, health 20, hunger 20. Holding still until Billy calls me by name."}
+- 21:18 say: {"text":"Billy, Troi at 416,107,-1023 by the white bed, unarmed, health 20, hunger 20. I hold here until you name me to walk to the row."}
