@@ -1,6 +1,6 @@
-# Handoff, dusk day 415
-- Holding at spawn 430,107,-1023, beside the bed at 429,107,-1023. Health 20, hunger 20, nothing held.
-- I declined Billy's call to walk 28 blocks south alone. The group is at the bed row near 402-416,-1036 to -1051. Billy, Kimberly, Trini, Picard, Beverly, Tommy and Wesley are counted there for the night.
-- Not walking anywhere until Billy calls four in sight.
+# Handoff, night day 416
+- At spawn 430,107,-1023, beside bed 429,107,-1023. Health 20, hunger 20, holding nothing.
+- Billy's count of four was confirmed at 415,-1035 (Billy, Jason, Tommy, Picard). The group is now at the bed row for the night, with Beverly and Riker near. Kimberly and Trini hold at 413,-1035.
+- I did not walk south. I stayed at spawn and told Billy so.
 - Dropped pack still at 409,107,-1055. Only with the pillager dead and the group with me.
-- On waking: check the group's count, ask for food at hunger 6 from Wesley or Kimberly.
+- On waking: check the group's count with Billy. Ask Wesley or Kimberly for food at hunger 6.
