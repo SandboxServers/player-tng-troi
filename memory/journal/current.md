@@ -38,3 +38,8 @@
 - 02:26 act: {"actions":[],"say":"Thank you, Billy. Deanna is here at 444,107,-1037 beside you and Picard, health 20, hunger 20. Ready to walk when you call it."}
 - 02:34 act: {"actions":[{"do":"sleep"}],"say":"Night. Deanna resting at 444,107,-1037 in Billy's row beside Picard, health 20, hunger 20, no food. Count me at first light, Billy."}
 - 02:34 act: {"actions":[],"say":"Morning, Billy. Deanna awake at 443,107,-1023 in the row beside Trini and Data, health 20, hunger 20, no food. Counted. Holding for your walk call."}
+- 02:39 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1023}}],"say":"Troi moving to Billy at 430,107,-1023 so he can count me in sight."}
+- 02:39 act: {"actions":[],"say":"Troi here at 433,107,-1022, in Billy's sight with Tommy. Holding for the walk call."}
+- 02:43 act: {"actions":[],"say":"Troi here at 433,107,-1022, near Picard and Tommy, in Billy's sight. Health 20, hunger 20, no food. Holding for the walk."}
+- 02:47 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1022}},{"do":"use","at":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk. Troi going to the bed at 429,107,-1022 beside Billy, in his si
+- 02:47 act: {"actions":[{"do":"sleep"}],"say":"Troi at 430,107,-1021, beside Tommy and Picard, in Billy's sight. Health 20, hunger 20, no food. Bed use fails here, so I rest on the ground in sight. Count me at fi
