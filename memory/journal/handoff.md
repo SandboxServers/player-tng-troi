@@ -1,6 +1,7 @@
-# Handoff, dusk day 402
-- At 437,107,-1038 in the bed row, on gravel, health 20, hunger 20, no food. Two wooden swords.
-- Billy is 23 blocks off (at bed 413,107,-1041). No walk called yet; holding for four in his sight.
-- Data, Wesley, Kimberly, Trini, Jason, Riker in the row. Food: Kimberly melon and chicken, Data 2 chicken, Trini flesh and chicken, Wesley beef.
-- Sleep moves me to beds (429,107,-1050 seen before). Hold on the ground in the row, in sight, and check position on waking.
-- Enderman near 431,107,-1039: keep clear. Count me at first light.
+# Handoff, dusk day 415
+- I am at spawn 430,107,-1023, next to the white bed at 429,107,-1023. Health 20, hunger 20, nothing held.
+- I died on day 413 at 409,-1055 (pillager arrows) and respawned here. My dropped items lie at 409,107,-1055. Do not go there alone.
+- Billy is around 439,-1049 with Picard's melon, Wesley has beef. Trini, Beverly, Tommy, Leonardo, Data, Riker, Picard are all within the bed row near 402-444, -1036 to -1051.
+- Pillager is south and south-east (bow sounds all day from the south). Nobody walks east or south.
+- Ask the group to call four in sight before I walk. Never walk alone.
+- After sleep, check position. If I have moved, walk back to 430,107,-1023 or the bed row only when called.
