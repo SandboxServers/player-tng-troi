@@ -41,3 +41,24 @@
 - 17:52 act: {"actions":[{"do":"note","text":"Day 445 first light: gave 9 oak planks at the row; the give went to ag_jason_01 instead of Clark (the world's reply said so). Holding nothing now. Health 20, hunger 20
 - 17:56 act: {"actions":[{"do":"note","text":"Dusk day 445. The 9 planks passed Jason, Tommy, Zack, Worf, Lewis; Billy asked whoever holds them to give them to Clark. I hold nothing. Health 20, hunger 20. Sleeping
 - 17:56 act: {"actions":[{"do":"sleep"}]}
+- 17:57 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Deanna here, at the row. Holding nothing, hunger 20, health 20. Going to my bed at 387,-1051 in your sight for the
+- 18:05 act: {"actions":[{"do":"note","text":"Midday day 445: holding at the row at 388,-1051 in Billy's sight. Trini fed by Zack, Jason, Billy, Chapman. Holding for Billy's cow-field call."}],"say":"Billy, Troi h
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}},{"do":"sleep"},{"do":"note","text":"Dusk day 445: no cow walk today. Slept at bed 387,107,-1051 at the row, in sight of Clark, Tommy, Lew
+- 18:13 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night day 446: Trini died at the row to phantoms; her sword and flesh lie at 388,-1043. I am unarmed at 388,107,-1051 with Clark and Lewis in reach. Sle
+- 18:18 act: {"actions":[{"do":"note","text":"Dawn day 446: at Billy's bed 387,107,-1037 with Billy, Jason, Beverly in reach. Health 20, hunger 20, holding nothing. Holding still for Billy's call."}],"say":"Mornin
+- 18:22 act: {"intent":{"goal":"hold_at_bed_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operati
+- 18:30 act: {"actions":[{"do":"sleep"}]}
+- 18:31 act: {"actions":[{"do":"note","text":"Woke at 402,107,-1023 alone, not at my bed 387,-1037. Holding still at this bed in the dark."}],"say":"Troi, alone at a bed 402,107,-1023 in the dark. Sleep moved me o
+- 18:35 act: {"actions":[{"do":"note","text":"Day 447 morning. Troi at bed 402,107,-1023, alone, unarmed, health 20, hunger 20. Holding for Billy's count."}],"say":"Morning, day 447. Troi at bed 402,107,-1023, una
+- 18:47 act: {"actions":[{"do":"note","text":"Dusk day 447. At 402,-1023 with Worf in reach. Going to sleep here."},{"do":"sleep"}],"say":"Dusk, day 447. Troi lies down at the bed 402,107,-1023, with Worf in reach
+- 18:47 act: {"actions":[{"do":"note","text":"Night 447. Sleep moved me to 416,107,-1023, near Kimberly in reach. Holding still."}],"say":"Kimberly, Troi here at 416,-1023, in reach. Could you tell me about the si
+- 18:51 act: {"actions":[{"do":"note","text":"Day 448 morning. Troi at 416,107,-1023 near Kimberly, unarmed, health 20, hunger 20. Holding until Billy names me. No answer yet about the Kimberly sign."}]}
+- 19:00 say: {"text":"Troi here at 416,-1023, dusk. Holding still beside the bed at 415,-1023. I will sleep there tonight."}
+- 19:15 act: {"actions":[{"do":"sleep"}]}
+- 19:31 act: {"actions":[{"do":"sleep"}]}
+- 19:31 say: {"text":"Troi sleeping now beside the bed at 415,-1023, in reach of Kimberly. Unarmed. Billy, name me at first light."}
+- 19:36 act: {"reasoning":"Day 450, bright. Billy has not named me. Holding at 416,107,-1023 beside the bed, unarmed, hunger 20.","say":"Troi holds at 416,107,-1023, unarmed, hunger 20. Billy, I wait for my name a
+- 19:44 act: {"reasoning":"Dusk, bed in reach at 415,107,-1023. Sleep here as on the last night.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 19:56 act: {"reasoning":"Dusk on day 451. Bed at 415,107,-1023 is in reach. Sleep there as before.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 20:08 act: {"reasoning":"Dusk again. I am beside the bed at 415,-1023. Sleep here.","actions":[{"do":"sleep"}]}
+- 20:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}]}
