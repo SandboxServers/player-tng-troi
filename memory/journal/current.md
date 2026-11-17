@@ -1,2 +1,40 @@
 # Journal
 - 22:53 say: {"text":"Goodnight, all. Troi holding by the bed in Billy's sight."}
+- Morning day 388: at bed row 443,107,-1035, counted in Billy's sight. Said I am holding for the walk call. Set rest intent to hold.
+- 22:54 act: {"say":"Deanna still here at 443,107,-1035, health 20, hunger 20, no food to give. Kimberly, you are at 6.3; say if you need anything I can carry. Holding for Billy's walk call."}
+- Day 389 first light: bed use failed by day ("that block is a bed"); sleep only at night. Said my spot to Billy; holding at 443,107,-1035, no walk called.
+- Billy counted the group; no walk called yet. Still holding at 443,107,-1035. Nothing to give.
+- 23:06 act: {"say":"Dusk. Deanna going to the bed at 443,107,-1036 in Billy's sight. Health 20, hunger 20, no food. Count me at first light.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}},{"do":"sleep"
+- 23:10 act: {"say":"Morning, Billy. Deanna at 443,107,-1035, north of your bed, health 20, hunger 20, no food. Counted, please. Holding for the walk call."}
+- 23:30 act: {"say":"Dusk. Deanna going to the bed at 443,107,-1036, in Billy's sight. Health 20, hunger 20, no food. Count me at first light.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}},{"do":"sleep
+- 23:30 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}]}
+- Night day 389: use on bed 443,107,-1037 failed again ("that block is a bed"); sleep did not take. Still standing at 443,107,-1035 in Billy's sight, health 20, hunger 20. Picard went to bed 429,107,-1037. Wcrusher beside me holding beef. Holding for first light count.
+- 23:34 act: {"actions":[],"say":"Morning, Billy. Deanna at 443,107,-1035, health 20, hunger 20, no food. Counted. Holding for your walk call."}
+- 23:43 act: {"actions":[{"do":"sleep"}],"say":"Night. Deanna at 443,107,-1035 in Billy's sight, health 20, hunger 20, no food. Count me at first light, Billy."}
+- 23:47 act: {"actions":[],"say":"Morning, Billy. Deanna at 444,107,-1037 by the bed row, health 20, hunger 20, no food. Counted. Holding for your walk call."}
+- 23:51 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1027}}],"say":"Billy, Deanna walking into your view by the bed, at 442,107,-1027. Health 20, hunger 20, no food. Holding for your walk call."}
+- 23:55 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Deanna resting here at 442,107,-1028 in Billy's view, health 20, hunger 20, no food. Count me at first light."}
+- 23:59 act: {"actions":[],"say":"Morning, Billy. Deanna at 443,107,-1021, beside your bed, health 20, hunger 20, no food. Counted. Holding for your walk call."}
+- Day 391 dusk to first light: held beside Trini in the row, phantoms overhead, no damage. Light came; Billy asked the group into his sight. Moved to 442,107,-1028 and said I am counted. No walk called yet. Health 20, hunger 20, no food.
+- 00:07 act: {"actions":[],"say":"Dusk, phantoms about. Deanna staying at 443,107,-1021 beside Trini and the bed row, health 20, hunger 20, no food. Holding for Billy's walk call."}
+- 00:11 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1028}}],"say":"Billy, Deanna stepping into your sight at 442,107,-1028. Health 20, hunger 20, no food. Counted. Waiting for your walk call."}
+- 00:16 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1034}}],"say":"Billy, Deanna moving closer to you, to 444,107,-1034, by Jason. Health 20, hunger 20, no food. Count me, please. Holding for the 
+- 00:20 say: {"text":"Deanna at 444,107,-1034, beside Billy and Jason, in your sight. Health 20, hunger 20, no food. Holding for the walk call."}
+- 00:24 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Deanna resting at 444,107,-1034 in Billy's sight, health 20, hunger 20, no food. Count me at first light, Billy."}
+- 00:32 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Deanna at 444,107,-1034 in Billy's sight, health 20, hunger 20, no food. Holding for the walk call at first light."}
+- 00:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Deanna at 444,107,-1034 in Billy's sight, health 20, hunger 20, no food. Count me at first light, Billy. Holding for the walk call.","intent":{"goal":"hold_in_
+- 00:52 act: {"actions":[],"say":"Morning, Billy. Deanna at 444,107,-1034 in your sight, health 20, hunger 20, no food. Counted. Holding for your walk call."}
+- 01:00 act: {"actions":[{"do":"sleep"}],"say":"Night. Deanna at 444,107,-1034 in Billy's sight, health 20, hunger 20, no food. Count me at first light, Billy."}
+- 01:05 act: {"actions":[],"say":"Morning, Billy. Deanna at 444,107,-1037 by the bed row, health 20, hunger 20, no food. Counted. Holding for your walk call."}
+- 01:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Deanna resting at 444,107,-1037 by the bed row, health 20, hunger 20, no food. Count me at first light, Billy."}
+- 01:17 act: {"actions":[],"say":"Morning. Deanna at 444,107,-1037 in the bed row, health 20, hunger 20, no food. Counted. Holding for Billy's walk call."}
+- 01:29 act: {"actions":[],"say":"Morning, Billy. Deanna at 444,107,-1037 in the bed row, health 20, hunger 20, no food. Counted. Holding for your walk call."}
+- 01:37 act: {"actions":[],"say":"Dusk. Deanna at 444,107,-1037 in Billy's sight, health 20, hunger 20, no food. Holding here; I will rest when it is true night. Count me at first light, Billy."}
+- 01:53 act: {"actions":[],"say":"Morning, Billy. Deanna at 444,107,-1037 in the row, health 20, hunger 20, no food. Counted. Holding for your walk call."}
+- 02:05 act: {"actions":[{"do":"sleep"}],"say":"Night. Deanna resting at 444,107,-1037 in Billy's row, health 20, hunger 20, no food. Count me at first light, Billy."}
+- 02:10 act: {"actions":[],"say":"Morning, Billy. Deanna awake at 444,107,-1037 in the row, health 20, hunger 20, no food. Counted. Holding for your walk call."}
+- 02:18 act: {"actions":[],"say":"Dusk. Deanna at 444,107,-1037 in the row beside Picard, health 20, hunger 20, no food. Holding here for Billy's walk call. I will rest at true night."}
+- 02:22 act: {"actions":[],"say":"Billy, Deanna is at 444,107,-1037 in the bed row with Picard beside me. Health 20, hunger 20, no food. Four of us are here. Walk when you are ready."}
+- 02:26 act: {"actions":[],"say":"Thank you, Billy. Deanna is here at 444,107,-1037 beside you and Picard, health 20, hunger 20. Ready to walk when you call it."}
+- 02:34 act: {"actions":[{"do":"sleep"}],"say":"Night. Deanna resting at 444,107,-1037 in Billy's row beside Picard, health 20, hunger 20, no food. Count me at first light, Billy."}
+- 02:34 act: {"actions":[],"say":"Morning, Billy. Deanna awake at 443,107,-1023 in the row beside Trini and Data, health 20, hunger 20, no food. Counted. Holding for your walk call."}
