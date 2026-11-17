@@ -1,9 +1,9 @@
-# Summary: Deanna Troi, end of day 419 (asleep in my bed at 429,107,-1023, beside spawn 430,107,-1023)
+# Summary: Deanna Troi, end of day 420 (asleep in my bed at 429,107,-1023, beside spawn 430,107,-1023)
 
 I am Deanna Troi, a counselor. Health 20, hunger 20, holding nothing.
 
-I hold at spawn and walk only when Billy calls four in sight. The group keeps to the bed row near 416,-1037. Bows were drawn to the south all day. Jason was hit at health 5 by something unseen and went to Wesley's group.
+I held at spawn through day 420 and was not counted into Billy's group at the row. Billy counted seven at the bed row near 415,-1037 and called no walk. Bows were drawn to the south all day. Jason was hit to health 1 and Wesley fed him the beef.
 
-Food: Wesley holds 1 beef for the lowest. I have not needed food yet. Ask Wesley at hunger 6.
+Food: Wesley gave his beef to Jason. Ask Wesley or Kimberly at hunger 6.
 
-Goals: see memory/goals.md.
+Next: wait for Billy's count and walk call to the row. Do not walk alone.
