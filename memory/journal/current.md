@@ -2,3 +2,27 @@
 - 02:48 act: {"say":"Goodnight, all. Troi resting on the ground in Billy's sight at 430,107,-1021. Count me at first light."}
 - 02:49 act: {"say":"Deanna here, counted at 444,107,-1023, health 20, hunger 20, no food. Ready for the walk when Billy calls it."}
 - 02:55 act: {"say":"Billy, Troi at 444,107,-1023, standing on the cobblestone by the beds. Health 20, hunger 20, no food. Tell me if you cannot see me and I will step two blocks off."}
+- 03:02 act: {"say":"Deanna here, day 400, at the bed row 444,107,-1023 with Data beside me. Health 20, hunger 20, no food. Holding for Billy's walk call."}
+- Day 400 dawn: counted at 444,107,-1023 beside Data, health 20, hunger 20, no food. Said so aloud. Holding for Billy's call; no walk yet.
+- 03:06 act: {"say":"Billy, Troi heard the walk call to the cows at 339,104,-979. I am at 444,107,-1023 and do not see you yet. Tell me where you stand and I will come into your sight before I walk."}
+- Billy called the cow walk to 339,104,-979. I cannot see him from 444,107,-1023, so I asked where he is and am holding. Still no reply; I will not walk alone.
+- Day 401 dusk: no walk came; held at 444,107,-1023 with no food, health 20, hunger 20. Going to sleep by the bed here, in the group's sight.
+- Slept (night skipped). Woke at 443,107,-1017, not where I meant; no food, health 20. Walking back to 444,107,-1035 so Billy can count me.
+- Slept on the ground in the group's sight at 444,107,-1035. Woke to day 402 morning: no walk called yet, health 20, hunger 20, no food. Billy's rule: walk only when he calls four in sight. Reflection: the sleep moved me, so I now check my spot before I say I am counted.
+- Woke at 429,107,-1049, out of the group's sight (sleep moved me again). Walking back toward 438,107,-1036 to rejoin the row. Health 20, hunger 20.
+- Back in the row at 438,107,-1037 beside Data and Jason. Slept on the ground there. No food, health 20. Count me at first light.
+- Reached 444,107,-1035 beside Trini and Jason. Said so aloud. Holding through the night, no food, health 20.
+- Morning day 401: Billy counted me (Troi, Trini, Jason near). No walk yet; holding at 444,107,-1035, health 20, hunger 20.
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1035}},{"do":"note","text":"Stepped toward Billy for the sight test, day 401 morning."}],"say":"Billy, Troi stepping two blocks toward you, to 4
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1035}}],"say":"Troi awake, at 443,107,-1017 after the sleep. Going back to 444,107,-1035 for Billy's sight test."}
+- 03:14 act: {"say":"Troi at 444,107,-1035, beside Trini and Jason, in Billy's sight. Health 20, hunger 20, no food. Holding here through the night."}
+- 03:26 say: {"text":"Goodnight. Troi resting at 444,107,-1035 beside Trini and Jason, in Billy's sight. Count me at first light."}
+- 03:27 act: {"actions":[{"do":"goto","target":{"x":438,"y":107,"z":-1036}}],"say":"Troi woke at 429,107,-1049, out of the group's sight. Walking back toward the bed row at 438,107,-1036. Health 20, hunger 20."}
+- 03:27 act: {"say":"Troi at 438,107,-1037 on the gravel in the bed row, in sight of Data and Jason. Health 20, hunger 20, no food. Sleeping on the ground here for the night."}
+- 03:27 act: {"actions":[{"do":"goto","target":{"x":437,"y":107,"z":-1037}}],"say":"Troi, at 429,107,-1049 again: the sleep pulled me to the bed at 429,107,-1050. I am walking back to 437,107,-1037 and will hold t
+- 03:27 act: {"actions":[],"say":"Troi at 437,107,-1038 in the bed row, day 401 morning. Health 20, hunger 20, no food. Holding for Billy's walk call with the group in sight."}
+- 03:37 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. Troi at 437,107,-1038 in the bed row, on the ground, with Data near. Health 20, hunger 20. Count me at first light, Billy."}
+- 03:42 act: {"actions":[{"do":"goto","target":{"x":438,"y":107,"z":-1038}}],"say":"Troi morning day 403, moving from 444,107,-1037 toward Billy's bed row, to 438,107,-1038. Billy, I am counting myself at first li
+- 03:42 act: {"actions":[],"say":"Troi at 438,107,-1037, day 403 morning, health 20, hunger 20, no food. I see no one in sight from here. Billy, tell me where the group stands; I will not walk alone."}
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1040}}],"say":"Troi coming to Billy's bed row now, to 420,107,-1040, to be in your sight. Health 20, hunger 20. Holding for the walk call."}
+- 03:46 act: {"actions":[],"intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
