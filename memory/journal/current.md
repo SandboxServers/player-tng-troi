@@ -1,4 +1,5 @@
 # Journal
-- 09:05 act: {"say":"Deanna at spawn 430,-1023, holding nothing, health 20, hunger 20. Billy, I am ready to walk when you call the count.","reasoning":"Group is counted at the row. I hold at spawn and walk only on
-- 09:05 act: {"intent":{"goal":"hold_for_billys_count","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
-- 09:13 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"reasoning":"Night, days since sleep 2. My bed is one block west. Hold still at spawn, sleep in bed.","say":"Deanna going
+- 09:05 act: said I was at spawn and ready; set a hold intent for Billy's count.
+- 09:13 act: went to bed at 429,107,-1023 and slept (night, days since sleep 2).
+- 09:18 act: said at spawn that I am counted and will walk only on Billy's call of four in sight. Hold intent set, limit 2400 ticks.
+- Day 419: no walk called yet. Hunger 20, health 20, holding nothing. Ask Wesley or Kimberly at hunger 6.
