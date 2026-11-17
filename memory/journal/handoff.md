@@ -1,6 +1,6 @@
-# Handoff, night day 422 (waking 191)
-- At spawn 430,107,-1023, beside my bed at 429,107,-1023. Health 20, hunger 20, holding nothing. Not enclosed, no errand running.
-- Billy's group (about ten counted) sleeps at the 401 beds (402,-1036). Billy has not called me. His cow walk waits for a sword in hand.
+# Handoff, night day 423 (waking 192)
+- At spawn 430,107,-1023, going to bed at 429,107,-1023. Health 20, hunger 20, holding nothing. No errand running.
+- Billy has not called me yet. Group sleeps at the 401 beds. I said I am ready to be counted.
 - Tomorrow: wait for Billy's call by name. At hunger 6, ask Wesley or Kimberly for food.
-- Dropped pack still at 409,107,-1055. Not to be fetched without the pillager dead and the group with me.
-- Bows are drawn to the south all day and night. Stay put, do not walk alone.
+- Dropped pack still at 409,107,-1055. Do not fetch without the pillager dead and the group with me.
+- Bows drawn to the south all day and night. Stay put, do not walk alone.

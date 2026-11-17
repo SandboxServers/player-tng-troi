@@ -1,4 +1,4 @@
-# Goals, day 422 (ranked)
+# Goals, day 423 (ranked)
 
 1. Stay alive: never walk alone; keep out of the pillager's line to the south. Reason: I died once on day 413.
 2. Get food from the group when hunger falls to 6 or below. Ask Wesley or Kimberly. Reason: I hold nothing.
