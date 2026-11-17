@@ -1,9 +1,9 @@
-# Summary: Deanna Troi, end of day 418 (asleep in my bed at 429,107,-1023, beside spawn)
+# Summary: Deanna Troi, end of day 419 (asleep in my bed at 429,107,-1023, beside spawn 430,107,-1023)
 
 I am Deanna Troi, a counselor. Health 20, hunger 20, holding nothing.
 
-I stay at spawn 430,107,-1023 and walk only when Billy calls four in sight. The group holds at the bed row near 413,-1040. Bows were drawn to the south and southeast all day. At dusk phantoms hit Trini at the row; she was at 7 health and Kimberly and Billy held there.
+I hold at spawn and walk only when Billy calls four in sight. The group counts at the bed row near 416,-1037. Bows were drawn to the south and southeast all day. Trini died to phantoms at the row and woke at spawn 402,-1037 with nothing.
 
-Food: Wesley holds 1 beef for the lowest. Nobody has given me food yet.
+Food: Wesley holds 1 beef for the lowest. I have not needed food yet. Ask Wesley at hunger 6.
 
 Goals: see memory/goals.md.
