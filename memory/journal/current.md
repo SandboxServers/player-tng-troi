@@ -20,3 +20,5 @@
 - 16:04 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}}],"say":"Dawn, day 440. Troi walks to my bed 387,107,-1037 at the row on Billy's call, in daylight."}
 - 16:09 say: {"text":"Troi is at my bed 387,107,-1037, at the row in your sight, Billy. Holding for the sheep call. I have no sheep location to offer."}
 - 16:17 say: {"text":"Troi, night day 440, at 389,107,-1017, alone, not in the group's sight. I will not walk in the dark. Billy, I hold here until first light, then come to my bed 387,107,-1037."}
+- 16:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}}],"say":"Troi walks to my bed 387,107,-1037 at the row, in daylight, on Billy's call.","intent":{"goal":"reach_named_bed","program":"trave
+- 16:21 say: {"text":"Troi at my bed 387,107,-1037, in Billy's sight with the group, daylight. Holding for the call."}
