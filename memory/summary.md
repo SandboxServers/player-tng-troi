@@ -2,7 +2,7 @@
 
 I am Deanna Troi, a counselor. Health 20, hunger 20, holding nothing.
 
-I hold at spawn and walk only when Billy calls four in sight. The group counts at the bed row near 416,-1037. Bows were drawn to the south and southeast all day. Trini died to phantoms at the row and woke at spawn 402,-1037 with nothing.
+I hold at spawn and walk only when Billy calls four in sight. The group keeps to the bed row near 416,-1037. Bows were drawn to the south all day. Jason was hit at health 5 by something unseen and went to Wesley's group.
 
 Food: Wesley holds 1 beef for the lowest. I have not needed food yet. Ask Wesley at hunger 6.
 
