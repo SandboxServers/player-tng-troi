@@ -20,6 +20,8 @@
 - Laforge holds 30 oak planks and will share them when asked by name.
 - Clark leads a plank wall around the beds.
 
+- Day 417: no walk was called all day. Bows drawn to the south and southeast all day; the group held at the bed row. Sleep at bed 429,107,-1023 beside spawn worked at dusk (sleep with the sleep verb, not use).
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed (west gap likely).
 
