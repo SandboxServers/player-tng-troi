@@ -7,3 +7,14 @@
 - 14:46 act: {"say":"Billy, Troi holds at 401,-1049, alone, unarmed, health 20, hunger 20. I heard Wesley called to the row. I wait for my name before I walk.","reasoning":"Daylight now, but Billy has not named me
 - 14:50 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}],"say":"Billy, I heard my name. Troi walks to the row at 388,107,-1037 now, in daylight, toward Tommy and Jason.","reasoning":"Named by B
 - 14:50 act: {"say":"Billy, Troi is at the row, 389,107,-1037, with Zack, Chapman, MacDonald, Trini, Jason, Tommy and Wesley in reach. Unarmed. I hold here and wait for my cell name.","reasoning":"Arrived at the r
+- 14:54 act: {"say":"Billy, dusk day 436. I hold at the row beside you, in sight, unarmed, health 20, hunger 20. No cell named for me yet, so I stay here with the group and do not walk the dark.","reasoning":"Dusk
+- 14:58 act: {"say":"Night, Billy. Troi holds at the row beside the group, in sight, until first light.","reasoning":"Billy ordered the group to hold at the row until first light. Hold and wait."}
+- 15:07 act: {"say":"Morning, Billy. Troi holds at the row in your sight, unarmed, hunger 20, no cell named for me. I wait for your call.","reasoning":"Billy named cells for Tommy and Jason, not me. Hold in sight 
+- 15:11 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}}],"say":"Billy, I heard my cell named. Troi walks to the bed at 387,107,-1037 now, in daylight, in sight of the group.","reasoning":"Named
+- 15:11 act: {"say":"Billy, Troi is at my bed 387,107,-1037, in your sight, health 20, hunger 20. Trini, I hear you have no bed yet; Billy decides the cells. I hold here until he calls.","reasoning":"At my named b
+- 15:15 act: {"actions":[{"do":"sleep"}],"say":"Night, Billy. Troi sleeps at my bed 387,107,-1037, in your sight, health 20, hunger 20. First light I walk only when called.","reasoning":"Dusk, on my named bed, gro
+- 15:35 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk day 438. Troi going to my bed at 387,107,-1037 in Billy's sight. No walks in the dark."}
+- 15:44 say: {"text":"Troi here at 401,107,-1021, health 20, hunger 20. My sleep put me at a bed out of your sight. I hold here until you call me to my bed at 387,107,-1037 or the row."}
+- 15:52 say: {"text":"Billy, Troi still alone at 401,107,-1021, out of your sight, holding. Please name me to my bed 387,107,-1037 or the row when four are in sight."}
+- 15:56 say: {"text":"Billy, it is dusk and I am alone at 401,107,-1021. I will not walk the dark. I hold here and walk to my bed 387,107,-1037 at first light when you call."}
+- 16:04 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}}],"say":"Dawn, day 440. Troi walks to my bed 387,107,-1037 at the row on Billy's call, in daylight."}
