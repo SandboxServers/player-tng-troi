@@ -36,3 +36,10 @@ Day 424 to 425. Waking 199.
 - 12:34 act: {"actions":[{"do":"note","text":"Night day 429. Slept 2 of 10, then woke at 388,107,-1050, alone, no one in reach. Holding nothing, health 20, hunger 20. Not walking alone in the dark; holding for Bil
 - 12:38 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"note","text":"Morning day 430. Walking from 388,-1051 to my bed 387,107,-1037 at the row in daylight, in Billy's group's sight. Ho
 - 12:46 act: {"actions":[{"do":"note","text":"Dusk day 429 (second). At bed 387,107,-1037, Billy's group in reach. Holding nothing, health 20, hunger 20. Sleeping here."},{"do":"sleep"}]}
+- 12:54 say: {"text":"Troi at the 387 row, morning, health 20, hunger 20, holding nothing. Holding for Billy's call. Kimberly, I hold nothing and will ask at hunger 6."}
+- 12:54 act: {"reasoning":"Holding at the 387 row with the group, daylight. Wait for Billy's call.","say":"Holding at the row with the group, Billy. Nothing in hand, waiting for your call.","actions":[{"do":"note"
+- 13:02 act: {"reasoning":"Dusk. Billy named bed 387,-1037 for me; in his sight. Go there and sleep with the group.","say":"Dusk. Troi going to my bed at 387,-1037, in Billy's sight, to sleep.","actions":[{"do":"g
+- 13:03 act: {"reasoning":"Still day; sleep refused. Stay at my bed in Billy's sight and wait for dusk.","actions":[{"do":"note","text":"Day 430 late. At bed 387,107,-1037 in Billy's sight, Trini and Billy in reac
+- 13:15 act: {"reasoning":"Night. At my bed 387,-1037 in Billy's sight. Sleep here with the group.","actions":[{"do":"note","text":"Night day 431. At bed 387,107,-1037 in Billy's sight, Trini, Billy, Bcrusher, Leo
+- 13:15 act: {"actions":[{"do":"note","text":"Night day 431. Sleep worked (7 of 10), but I woke at 388,107,-1050, not at my bed 387,-1037. Tommy in reach beside me. Holding nothing, health 20, hunger 20. Not walki
+- 13:19 act: {"actions":[{"do":"note","text":"Morning day 431. Woke at 388,107,-1051 with Tommy in reach, not at my bed. Holding nothing, health 20, hunger 20. Holding here for Billy's call by name; no walk until 
