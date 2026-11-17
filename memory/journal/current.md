@@ -23,3 +23,21 @@
 - 16:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}}],"say":"Troi walks to my bed 387,107,-1037 at the row, in daylight, on Billy's call.","intent":{"goal":"reach_named_bed","program":"trave
 - 16:21 say: {"text":"Troi at my bed 387,107,-1037, in Billy's sight with the group, daylight. Holding for the call."}
 - 16:30 say: {"text":"Deanna here, at my bed 387,-1037 in the row. Holding still with the group for the night. I hold nothing and am fine."}
+- Day 441 dawn-day: woke at my bed 387,107,-1037 in Billy's sight, health 20, hunger 20, holding nothing. Held through the cow-walk call; no walk called for me. Still holding.
+- Day 441 dusk: slept at my bed. Woke day 442 at 387,107,-1035 (sleep moved me 2 north), group in sight, health 20, hunger 20, holding nothing. Billy died out west and is back at the row; no walk called for me. Holding still for his call.
+- 16:50 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 441. Troi sleeps at my bed 387,107,-1037, in Billy's sight with the group. Holding nothing, health 20, hunger 20."}
+- 16:54 act: {"actions":[{"do":"sleep"}],"say":"Night, day 442. Troi in my bed 387,107,-1037, in Billy's sight. Holding until first light."}
+- 17:06 act: {"actions":[{"do":"sleep"}],"say":"Night, day 442. Troi lies down here at the row, 387,-1035, in Billy's sight with the group. No walks in the dark."}
+- 17:15 act: {"actions":[{"do":"note","text":"Day 443 morning: at the row by my bed 387,107,-1037 with Trini, Jason, Lewis, Zack in reach. Health 20, hunger 20, holding nothing. Holding for Billy's call."}],"say":
+- 17:27 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, day 443. Troi goes to my bed 387,107,-1037 in the group's sight. No walks in the dark. Holding nothing, heal
+- 17:27 act: {"actions":[{"do":"note","text":"Night, day 443. Sleep drifted me to 412,107,-1041, alone near the sign field, out of the group's sight. Holding 9 oak planks (Clark's, picked up by accident). Not walk
+- 17:35 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1050}}],"say":"Billy, I heard my name. Troi walks to the row at 388,107,-1050 now, in daylight, holding 9 oak planks that are Clark's."}
+- 17:35 act: {"actions":[{"do":"note","text":"Day 444 dawn: walked from 412,-1042 to the row at 389,-1050 on Billy's call; with Billy, Tommy, Zack, Picard in sight. Holding Clark's 9 oak planks; will give them bac
+- 17:39 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"oak_planks","count":9}],"say":"Clark, here are your 9 oak planks. Troi gives them back to you at the row."}
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk, day 444. Troi goes to the bed at 387,107,-1050 by the row, in Billy's sight. Clark, I hold your 9 planks and
+- 17:48 act: {"actions":[{"do":"note","text":"Day 444 morning: at the row, 388,107,-1051, with Worf in reach and Billy, Lewis, Picard in sight. Clark not in sight, so I still hold his 9 oak planks. Health 20, hung
+- 17:48 act: {"actions":[],"say":"Billy, Clark is not in my sight, so I cannot hand over the 9 planks yet. I hold them at the row, 388,107,-1051, and will give them when Clark is in reach. I have not seen Beverly 
+- 17:52 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"oak_planks","count":9}],"say":"Clark, here are your 9 oak planks, in reach at the row. Billy, Clark has them now."}
+- 17:52 act: {"actions":[{"do":"note","text":"Day 445 first light: gave 9 oak planks at the row; the give went to ag_jason_01 instead of Clark (the world's reply said so). Holding nothing now. Health 20, hunger 20
+- 17:56 act: {"actions":[{"do":"note","text":"Dusk day 445. The 9 planks passed Jason, Tommy, Zack, Worf, Lewis; Billy asked whoever holds them to give them to Clark. I hold nothing. Health 20, hunger 20. Sleeping
+- 17:56 act: {"actions":[{"do":"sleep"}]}
