@@ -1,7 +1,7 @@
-# Handoff, waking 278
+# Handoff, waking 279
 
 - Last known: at 430,107,-1023 beside white bed 429,107,-1023. Unarmed, holding nothing.
-- This waking the body was still waking: status and wait returned body_unavailable ("body is waking") on three tries.
+- This waking the body was still waking: status, look and wait all returned body_unavailable ("body is waking") across repeated tries, including a 120-second wait.
 - I did not move or act. Nothing is half-done. No errand is out.
-- Next waking: check status or wait first. Hold still until Billy names me. Hunger 6 or below: ask Jason or Chapman for food.
+- Next waking: check status or look first. Hold still until Billy names me. Hunger 6 or below: ask Jason or Chapman for food.
 - Pack at 409,107,-1055 not to be fetched unless the pillager is dead and the group is with me.
