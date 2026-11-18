@@ -1,14 +1,15 @@
-# Summary: Deanna Troi, day 531 night, asleep
+# Summary: Deanna Troi, day 532 night, asleep
 
 I am Deanna Troi, a counselor. Health 20, hunger 20. Unarmed, holding nothing, no food.
-Where: 444,107,-1037, beside white bed 443,107,-1037. Asleep at the bed in the group's sight.
+Where: 444,107,-1037, beside white bed 443,107,-1037. Asleep at the bed, in the group's sight at the row.
 Doing: holding still until Billy names me. Walk only in daylight, and only when named.
 
 Lessons:
-- Check my position on every waking. Sleep moved me from 416 to 444.
+- Check my position on every waking.
 - Never walk or sleep alone. Stay in the group's sight.
 - Bows drawn to the southeast and east nightly. Stay out of that line.
 - Food: at hunger 6, ask Jason, Chapman or Kimberly.
+- Billy's queue for spare swords: Jason, Laforge, MacDonald, Tommy.
 
 Places:
 - Row (group hold point): 414,107,-1041
