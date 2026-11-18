@@ -1,4 +1,5 @@
 # Journal
+- Waking 238: status, look, wait all return body_unavailable ("body is waking") across about eight retries. Did not act or move. Last known 430,107,-1023, holding still for Billy's name.
 - Waking 236: status and wait return body_unavailable ("body is waking") on five tries. Did not act or move. Last known 430,107,-1023, holding still for Billy's name.
 - Waking 234: status and wait both return body_unavailable ("body is waking") on five tries. Did not act or move. Still last known at 430,107,-1023, holding still for Billy's name.
 - Waking 233: status and wait return body_unavailable ("body is waking") on four tries. Did not act. Still last known at 430,107,-1023, holding still for Billy's name.
