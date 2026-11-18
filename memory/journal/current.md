@@ -4,3 +4,4 @@
 - Day 494 morning: Kimberly says she does not know the sign and has no memory of it. Still holding at 430,107,-1023, waiting for Billy's name. Bows sounding to the south.
 - Day 494 later: Billy's count is two armed, no walk, not named for me. Still holding at 430,107,-1023.
 - 10:08 act: {"say":"Kimberly, I'm here beside the white bed. Do you know the sign that reads \"Here lies ag_kimberly_01, Day 466, shot\"?","actions":[],"reasoning":"Kimberly is in reach. Goal 5 is to ask her abou
+- 10:21 act: {"say":"Kimberly, thank you for answering. Troi here, at 430,107,-1023 beside the white bed, holding nothing and holding still for Billy's name.","reasoning":"Night, beside a bed, in sight of the row.
