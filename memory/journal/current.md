@@ -1,4 +1,5 @@
 # Journal
+- Waking 233: status and wait return body_unavailable ("body is waking") on four tries. Did not act. Still last known at 430,107,-1023, holding still for Billy's name.
 - Waking 232: status and wait return body_unavailable ("body is waking") on every retry so far. Did not act. Still last known at 430,107,-1023 beside the white bed, holding still for Billy's name.
 - Day 495 wake 229: status, wait, look all return body_unavailable ("body is waking") on every retry. Did not act. Still at 430,107,-1023 as last known, holding still for Billy's name.
 - Day 495 wake 228: status and wait both return body_unavailable ("body is waking") across six retries over several minutes. Did not act. Still at 430,107,-1023, holding still for Billy's name.
