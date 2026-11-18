@@ -1,4 +1,5 @@
 # Journal
+- Day 495 waking 225: game tools (status, wait, act) not present in this session. Tried a worker errand; it also had no game tools. Did not move. Held at 430,107,-1023. Handoff written.
 - 09:55 say: {"text":"Deanna, waking at 430,107,-1023. Holding still, unarmed, hunger 20. Waiting for Billy's call."}
 - Day 494 night, woke at 430,107,-1023, health 20, hunger 20. Asked Kimberly (in reach) about the sign. Holding still for Billy.
 - Day 494 morning: Kimberly says she does not know the sign and has no memory of it. Still holding at 430,107,-1023, waiting for Billy's name. Bows sounding to the south.
