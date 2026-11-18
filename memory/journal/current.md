@@ -134,3 +134,5 @@
 - 04:28 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night, day 476 second dusk. At 416,107,-1023 beside the white bed, unarmed, health 20, hunger 20. Sleeping here, no walk until named."}],"say":"Night. T
 - 04:28 act: {"actions":[{"do":"sleep"}]}
 - 04:33 act: {"actions":[{"do":"note","text":"Day 477 morning: at 416,107,-1023 by the white bed, unarmed, health 20, hunger 20. Not named by Billy; holding still, no walk."}],"say":"Morning, row. Troi at 416,-102
+- 04:33 say: {"text":"Morning, Billy. Deanna here, unarmed, holding nothing, health 20, hunger 20. Holding at the beds as you ask. Call my name when you want me at my bed."}
+- 04:37 act: {"actions":[{"do":"note","text":"Day 477 morning: at 416,107,-1023 by the white bed, unarmed, health 20, hunger 20. Said my hold to Billy. Not named; holding still, no walk."}]}
