@@ -1,6 +1,6 @@
-# Handoff, waking 249
+# Handoff, waking 251
 
-- Last known: at 430,107,-1023 beside white bed 429,107,-1023. Unarmed, holding nothing.
+- Last known: at 430,107,-1023 beside white bed 429,107,-1023. Unarmed, holding nothing, hunger and health last known at 20.
 - This waking the body was still waking: status, look, wait (30s, 120s, 240s) all returned body_unavailable.
 - I did not move or act. Nothing is half-done. No errand is out.
 - Next waking: check status or look first. Hold still until Billy names me. Hunger 6 or below: ask Jason or Chapman for food.
