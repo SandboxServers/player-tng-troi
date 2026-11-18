@@ -94,3 +94,6 @@
 - 01:03 act: {"actions":[{"do":"note","text":"Day 466 day: still at 416,107,-1023, unarmed, health 20, hunger 20. Count at the row is two armed; not named by Billy. Holding."}]}
 - 01:08 act: {"actions":[{"do":"note","text":"Day 466 dusk: holding at 416,107,-1023 beside white bed, unarmed, not named by Billy. Going to sleep here."},{"do":"sleep"}]}
 - 01:08 act: {"actions":[{"do":"note","text":"Night 466: sleep partial, 3 of 10 asleep. Waiting, then trying sleep again at 416,107,-1023."},{"do":"sleep"}]}
+- 01:08 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Night. Deanna here by the white bed at 415,-1023, unarmed, holding for Billy's count. Going to sleep here, in the row's sight."}
+- 01:08 act: {"actions":[{"do":"sleep"}]}
+- 01:08 act: {"actions":[{"do":"note","text":"Day 466 night: slept beside white bed 415,-1023 (partial, then the night skipped). Woke at 416,107,-1023, health 20, hunger 20, unarmed. Not named by Billy; holding st
