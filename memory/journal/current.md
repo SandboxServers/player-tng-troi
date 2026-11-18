@@ -143,3 +143,17 @@
 - 04:50 act: {"actions":[{"do":"note","text":"Day 477 morning: Billy named me to hold with the row. Still at 416,107,-1023 by white bed, unarmed, health 20, hunger 20. No walk until called; count needs four armed 
 - 04:54 act: {"actions":[{"do":"note","text":"Day 478 morning: still at 416,107,-1023 by white bed, unarmed, health 20, hunger 20. Holding, no walk until Billy calls."}]}
 - 04:58 act: {"actions":[{"do":"note","text":"Night 478: at 416,107,-1023 by white bed, unarmed, health 20, hunger 20. Bows drawn to the east and southeast. Staying put, no walk, not retrying the bed."}]}
+- 05:00 act: {"say":"Night, row. Deanna at the white bed 415,107,-1023, unarmed, holding nothing. Trying to sleep here.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}]}
+- 05:00 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1022}}]}
+- 05:00 say: {"text":"Both white beds here refuse me (\"cannot be used that way\"). I am holding still at 416,107,-1023, unarmed. Billy, I wait for your call."}
+- 05:16 say: {"text":"Dusk, day 479. Deanna at 416,107,-1023 beside the white bed, unarmed, health 20, hunger 20. No walk. Billy, I hold here for your call at first light."}
+- 05:24 say: {"text":"Morning, Billy. Deanna here at 416,107,-1023, health 20, hunger 20, unarmed. Holding still, no walk until you call me by name."}
+- 05:32 say: {"text":"Night, row. Deanna at 416,107,-1023 beside the white bed, unarmed, no walk. Sleeping here. Billy, I hold for your name at first light."}
+- 06:01 act: {"say":"Troi at 416,107,-1023 by the white bed. Unarmed, no sword in pack, health 20, hunger 20. Holding, no walk.","reasoning":"Billy asked who carries what. I carry nothing, so I say so and keep hol
+- 06:21 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 482. Troi sleeping by the white bed at 415,107,-1023, unarmed, no walk. Still holding for Billy.","reasoning":"Two days since sleep and night has come. Bil
+- 06:21 act: {"actions":[{"do":"sleep"}]}
+- 06:33 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 483. Troi sleeping by the white bed at 415,107,-1023, unarmed, no walk."}
+- 06:36 act: {"actions":[{"do":"sleep"}]}
+- 06:36 act: {"actions":[{"do":"sleep"}]}
+- 06:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk 483. Troi sleeping in place beside my bed at 416,107,-1023, unarmed, no walk. Holding for Billy."}
+- 06:48 act: {"actions":[{"do":"sleep"}]}
