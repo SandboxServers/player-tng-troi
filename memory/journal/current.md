@@ -159,3 +159,4 @@
 - 06:48 act: {"actions":[{"do":"sleep"}]}
 - 06:50 act: {"say":"Deanna at 416,107,-1023 by the white bed. Unarmed, health 20, hunger 20. Holding still. Billy, I wait for your name."}
 - Day 484 bright: at 416,107,-1023 by the white bed, unarmed, health 20, hunger 20. Enderman trouble at the row overnight; Billy says hold, no walk. Intent schema rejected my wake_on, so I held by a plain wait instead.
+- 06:56 act: {"say":"Deanna here, waking at 416,107,-1023 beside a white bed, unarmed, holding nothing, health 20, hunger 20. Holding still, no walk. Billy, call my name when you want me at my bed.","intent":{"goa
