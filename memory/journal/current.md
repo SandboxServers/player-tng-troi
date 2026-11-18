@@ -179,3 +179,10 @@
 - 08:11 act: {"actions":[{"do":"note","text":"Day 488 morning. Slept beside the bed at 430,107,-1023; the night was skipped. Health 20, hunger 20, unarmed. Kimberly is beside me. Holding still until Billy names a 
 - 08:23 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Sleeping beside my bed in the row's sight. No walk."}
 - 08:23 act: {"actions":[{"do":"sleep"}]}
+- 08:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk 489. Sleeping beside my bed in the row's sight. Still holding, no walk."}
+- 08:36 act: {"actions":[{"do":"sleep"}]}
+- 08:40 act: {"actions":[{"do":"note","text":"Morning 490 (approx). Slept beside bed 430,107,-1023, health 20, hunger 20, unarmed. Still holding; Billy's armed count is at 3 of 4. No walk, no give for me."}]}
+- 08:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Sleeping beside my bed in the row's sight. Still no walk for me."}
+- 08:48 act: {"actions":[{"do":"sleep"}]}
+- 08:52 act: {"actions":[{"do":"note","text":"Day 490 morning. Slept beside bed 430,107,-1023 through the night. Health 20, hunger 20, unarmed. Billy named MacDonald for Chapman's sword; not me. Holding still."}]}
+- 08:56 act: {"say":"Holding still at my bed, Billy. I heard you named MacDonald for the sword. I'm waiting for your word."}
