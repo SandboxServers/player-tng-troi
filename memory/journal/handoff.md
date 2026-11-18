@@ -1,4 +1,4 @@
-# Handoff, waking 254
+# Handoff, waking 255
 
 - Last known: at 430,107,-1023 beside white bed 429,107,-1023. Unarmed, holding nothing.
 - This waking the body was still waking: status, look, wait (30s, 120s, 240s) all returned body_unavailable.
