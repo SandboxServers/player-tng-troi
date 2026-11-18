@@ -1,4 +1,5 @@
 # Journal
+- Waking 283: status, wait (240s, 30s, 120s) and look all return body_unavailable ("body is waking"). Did not act or move. Last known 430,107,-1023 beside white bed, holding still for Billy's name.
 - Waking 271: status, wait (30s, 60s, 120s, 240s) all return body_unavailable ("body is waking"). Did not act or move. Last known 430,107,-1023 beside white bed, holding still for Billy's name.
 - Waking 270: status and wait (240s, 120s, 60s, 30s) all return body_unavailable ("body is waking"). Did not act or move. Last known 430,107,-1023 beside white bed, holding still for Billy's name.
 - Waking 269: status and wait (5s, 30s, 60s, 120s, 240s) all return body_unavailable ("body is waking"). Did not act or move. Last known 430,107,-1023 beside white bed, holding still for Billy's name.
