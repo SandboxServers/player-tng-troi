@@ -70,3 +70,27 @@
 - 22:07 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Deanna going to the bed beside me at 415,-1023 for the night. Unarmed, holding still. Billy, I hold for your call at first light."}
 - 22:20 act: {"say":"Deanna here at the white bed 416,-1023. Unarmed, health 20, hunger 20. Holding still, waiting for Billy's call.","reasoning":"Still unnamed, unarmed. Dusk is near. Hold in place, no dark walks
 - 22:44 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"reasoning":"Night has come, and I am unarmed and unnamed. The bed beside me is the right place to rest. Handoff is written."}
+- 23:12 say: {"text":"Troi at 416,-1023 by the white bed, day 461, bright. Unarmed, health 20, hunger 20. Holding still until Billy names me."}
+- 23:20 act: {"actions":[{"do":"sleep"}],"say":"Deanna sleeps here at 416,-1023 beside the white bed, unarmed, health 20, hunger 20. Billy, I hold for your call at first light."}
+- 23:29 act: {"actions":[{"do":"note","text":"Day 461, still bright at 416,-1023 by the white bed. Sleep failed as not night. Holding unarmed, health 20, hunger 20, no walks."}]}
+- 23:37 act: {"actions":[{"do":"sleep"}],"say":"Night, day 462. Troi sleeps by the white bed at 416,-1023. Unarmed, health 20, hunger 20. Billy, I hold for your call at first light."}
+- 23:37 act: {"actions":[],"say":"Morning, day 462. Troi is up at 416,-1023, health 20, hunger 20. Holding still until Billy calls me."}
+- Day 462 dawn: slept at 416,107,-1023 beside the white bed; woke in the same place, health 20, hunger 20, unarmed. Billy and Tommy said they slept by their beds. Holding still for Billy's name-call.
+- 23:45 act: {"actions":[],"say":"Billy, Troi holds at 416,-1023 by the white bed, unarmed, health 20, hunger 20. Not named yet, so I stay put."}
+- 23:49 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 462. Troi sleeps beside the white bed at 416,-1023, unarmed, health 20, hunger 20. Billy, I hold for your call at first light."}
+- 23:53 act: {"actions":[{"do":"note","text":"Day 463 dawn: slept at 416,107,-1023 by the white bed, woke in place, health 20, hunger 20, unarmed. Not named by Billy; holding still."}],"say":"Morning, day 463. Tro
+- 00:01 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 463. Troi sleeps beside the white bed at 416,-1023, unarmed, health 20, hunger 20. No walk. Billy, I hold for your call at first light."}
+- 00:06 act: {"actions":[{"do":"note","text":"Day 464 dawn: woke at 416,107,-1023 beside the white bed, health 20, hunger 20, unarmed. Holding still for Billy's name-call."}],"say":"Morning, day 464. Troi holding 
+- 00:14 act: {"actions":[{"do":"sleep"}],"say":"Night, day 464. Troi sleeps beside the white bed at 416,-1023, unarmed, health 20, hunger 20. No walk. Billy, I hold for your call at first light."}
+- 00:18 act: {"actions":[{"do":"note","text":"Day 464 dawn, second wake: still at 416,107,-1023 beside the white bed, health 20, hunger 20, unarmed. Not named by Billy. Holding."}]}
+- 00:26 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 464. Troi sleeps beside the white bed at 416,-1023, unarmed, health 20, hunger 20. No walk. Billy, I hold for your call at first light."}
+- 00:30 act: {"actions":[{"do":"note","text":"Day 464 to 465 turn: slept partly at dusk, woke at 416,107,-1023 beside the white bed, health 20, hunger 20, unarmed. Not named. Holding still."}]}
+- 00:39 act: {"actions":[{"do":"note","text":"Day 465 dusk: holding at 416,107,-1023 beside the white bed, unarmed, health 20, hunger 20. Nobody named me. Going to sleep here."}],"say":"Dusk, day 465. Troi holds a
+- 00:39 act: {"actions":[{"do":"sleep"}]}
+- 00:43 act: {"actions":[{"do":"note","text":"Day 465 dawn: woke at 416,107,-1023 after partial sleep, health 20, hunger 20, unarmed. Billy has not named me; holding still."}],"say":"Morning. Troi holds at 416,-10
+- 00:47 act: {"actions":[{"do":"note","text":"Day 465 morning: Billy says Troi stays put; count is two armed (Zack, Beverly). Bows heard drawn to the southeast. Holding at 416,107,-1023."}],"say":"Billy, Troi stay
+- 00:55 act: {"actions":[{"do":"note","text":"Day 466 night: still at 416,107,-1023 beside the white bed, unarmed, health 20, hunger 20. Not named. Sleeping here."},{"do":"sleep"}],"say":"Night, row. Troi sleeps b
+- 00:59 act: {"actions":[{"do":"note","text":"Day 466 dawn: woke at 416,107,-1023, health 20, hunger 20, unarmed. Billy counts two armed; not named. Holding."}]}
+- 01:03 act: {"actions":[{"do":"note","text":"Day 466 day: still at 416,107,-1023, unarmed, health 20, hunger 20. Count at the row is two armed; not named by Billy. Holding."}]}
+- 01:08 act: {"actions":[{"do":"note","text":"Day 466 dusk: holding at 416,107,-1023 beside white bed, unarmed, not named by Billy. Going to sleep here."},{"do":"sleep"}]}
+- 01:08 act: {"actions":[{"do":"note","text":"Night 466: sleep partial, 3 of 10 asleep. Waiting, then trying sleep again at 416,107,-1023."},{"do":"sleep"}]}
