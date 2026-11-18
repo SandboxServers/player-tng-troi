@@ -170,3 +170,12 @@
 - 07:13 act: {"actions":[{"do":"sleep"}]}
 - 07:26 act: {"actions":[{"do":"note","text":"Day 485 dusk. Holding at bed 416,107,-1023. Billy has one armed; Picard's wooden sword landed in Billy's pack. No walk named for me. Going to sleep beside the bed in t
 - 07:30 act: {"actions":[{"do":"sleep"}]}
+- 07:42 act: {"actions":[{"do":"sleep"}]}
+- 07:42 act: {"actions":[{"do":"sleep"}]}
+- 07:54 act: {"actions":[{"do":"sleep"}]}
+- 07:55 act: {"actions":[{"do":"sleep"}]}
+- 07:55 act: {"actions":[{"do":"sleep"}]}
+- 08:11 act: {"actions":[{"do":"sleep"}]}
+- 08:11 act: {"actions":[{"do":"note","text":"Day 488 morning. Slept beside the bed at 430,107,-1023; the night was skipped. Health 20, hunger 20, unarmed. Kimberly is beside me. Holding still until Billy names a 
+- 08:23 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Sleeping beside my bed in the row's sight. No walk."}
+- 08:23 act: {"actions":[{"do":"sleep"}]}
