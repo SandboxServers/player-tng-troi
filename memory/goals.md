@@ -1,6 +1,6 @@
-# Goals, day 515 (ranked)
+# Goals, day 529 (ranked)
 
-1. Stay alive: never walk or sleep alone; stay in the group's sight; keep out of the pillager's line to the south. Reason: I died once on day 413, Billy was shot on the cow road on day 515.
+1. Stay alive: never walk or sleep alone; stay in the group's sight; keep out of the pillager's line to the south and east. Reason: I died once on day 413, Billy was shot on the cow road on day 515.
 2. Keep to Billy's call: hold still at the nearest white bed until he names me, and walk only in daylight when named. Reason: walking unnamed is how I get lost.
 3. Get food when hunger falls to 6 or below. Ask Jason, Chapman or Kimberly. Reason: I hold nothing.
 4. Get a sword and some cobblestone into my pack. Reason: I am unarmed, and Billy counts armed people.
