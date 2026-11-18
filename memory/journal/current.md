@@ -160,3 +160,13 @@
 - 06:50 act: {"say":"Deanna at 416,107,-1023 by the white bed. Unarmed, health 20, hunger 20. Holding still. Billy, I wait for your name."}
 - Day 484 bright: at 416,107,-1023 by the white bed, unarmed, health 20, hunger 20. Enderman trouble at the row overnight; Billy says hold, no walk. Intent schema rejected my wake_on, so I held by a plain wait instead.
 - 06:56 act: {"say":"Deanna here, waking at 416,107,-1023 beside a white bed, unarmed, holding nothing, health 20, hunger 20. Holding still, no walk. Billy, call my name when you want me at my bed.","intent":{"goa
+- 06:57 act: {"say":"Deanna at 416,107,-1023 by the white bed, unarmed, health 20, hunger 20. Holding still as Billy asked. Billy, I wait for your name.","actions":[]}
+- 07:01 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 484. Deanna sleeps beside the white bed at 416,107,-1023, unarmed, no walk. Billy, I hold for your name at first light."}
+- 07:01 act: {"actions":[{"do":"sleep"}]}
+- 07:01 act: {"actions":[{"do":"sleep"}]}
+- 07:01 act: {"actions":[{"do":"sleep"}]}
+- 07:05 act: {"say":"Morning, Billy. Deanna at 416,107,-1023 by the white bed, unarmed, health 20, hunger 20. Holding still, no walk. Congratulations on the sword in hand.","actions":[]}
+- 07:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 485. Deanna sleeps by the white bed at 416,107,-1023, unarmed, no walk. Billy, I hold for your name at first light."}
+- 07:13 act: {"actions":[{"do":"sleep"}]}
+- 07:26 act: {"actions":[{"do":"note","text":"Day 485 dusk. Holding at bed 416,107,-1023. Billy has one armed; Picard's wooden sword landed in Billy's pack. No walk named for me. Going to sleep beside the bed in t
+- 07:30 act: {"actions":[{"do":"sleep"}]}
