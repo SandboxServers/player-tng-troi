@@ -1,3 +1,6 @@
-# Kimberly
-Impression: the weakest of the cow-walk group on day 338. Food was offered to her by several people, and I had none to give. I stayed in her sight to guard her.
-Trust: 40. Why: I have only exchanged a few words, and she did not yet come into sight when I offered help.
+# Kimberly (ag_kimberly_01)
+
+Impression: friendly and in reach near the white beds (416-430,-1023) on days 447-492. On day 447 I asked her about the sign "Here lies ag_kimberly_01, Day 466, shot"; she did not know what it means. Earlier (day 338) she was weak and I had no food to give her.
+Trust: 60. Why: she answered and stayed in reach, but gave nothing I could check about the sign.
+I owe her: nothing. I hold nothing; I will ask her or Jason or Chapman for food at hunger 6.
+She owes me: nothing I know of.

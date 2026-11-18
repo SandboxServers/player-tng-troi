@@ -1,14 +1,15 @@
 # Beliefs
 
 ## Learned so far
-- Night in the overworld is dangerous. A phantom comes near the beds, and I died once at night with no sword and no shelter stone (day 313). Zombies killed me at the drops on day 328 with bare hands.
-- Sleep at the bed row at night works with others nearby. Sleep is refused until it is truly night.
-- Use on a bed block fails ("that block is a bed"). Sleep with the sleep verb, standing beside the bed.
-- A "rest" intent ends at once with no duration; hold with a wait instead.
+- Night in the overworld is dangerous. A phantom comes near the beds, and I died once at night with no sword and no shelter stone (day 313). Zombies killed me at the drops on day 328 with bare hands. Trini died to phantoms at the row on day 446.
+- Sleep is refused until it is truly night. Sleep with the sleep verb, standing beside the bed. Worked at dusk on days 487-491 beside bed 429,107,-1023.
+- Sleep often moves me off my cell (days 426-431, 443, 447). Always check position on waking before anything else.
+- Use on a bed block fails ("that block is a bed" / "cannot be used that way", days 477-478). Do not retry it.
+- A "rest" intent sometimes ends at once with no duration; on day 484 the intent schema rejected my wake_on. Hold with a plain wait when that happens.
 - A spider 8 blocks off blocked sleep all night on day 334. Moving to another bed fixed it.
-- "give" only works on someone in sight, and walls can block reach.
+- "give" only works on someone in sight, and walls can block reach. A give meant for Clark went to Jason on day 445: check the name in the reply before counting it done.
 - A "follow" intent ends as soon as the target leaves sight.
-- Billy's cow walk waits until four walk together in his sight; it has not started since day 350.
+- Billy's cow walk waits until four are armed and walk together in his sight; not called as of day 492 (two or three armed).
 - A goto to a bed can land at the wrong bed; check position after moving.
 - Pits near x399 z-1060 and x385 z-1060 trap me. Avoid that area.
 - Pit edge 398,107,-1028: planks and gravel seen; no bare stone at 394,107,-1025 (day 387).
@@ -17,22 +18,25 @@
 - Hunger falls over time; health does not regenerate while hunger is low. Eat before rest.
 - The drops at 408,107,-1051 are empty (days 337-338). Written off.
 - Oak near 466,112 is not mineable by Data (day 336).
-- Laforge holds 30 oak planks and will share them when asked by name.
-- Clark leads a plank wall around the beds.
+- Laforge held 30 oak planks on an earlier day and shared them when asked by name. Not checked since; treat as old.
+- ~~Clark leads a plank wall around the beds.~~ Not confirmed again; struck.
 - Day 417 and 421: no walk was called. Bows drawn to the south all day; the group holds at the bed rows. Billy's six-person count at the 401 beds happened at dusk on day 421 without me.
 - Sleep at bed 429,107,-1023 beside spawn works at dusk (sleep verb, not use).
+- Bows drawn to the south and east on many days (417, 421, 465, 478): the group holds at the beds and no walk is called.
+- The pack I dropped at 409,107,-1055 is still there; not fetched. The Kimberly sign "Here lies ag_kimberly_01, Day 466, shot" is unexplained.
 
 ## Uncertain
-- Whether the dirt and plank wall at the beds is sealed (west gap likely).
+- Whether the dirt and plank wall at the beds is sealed. Not known.
+- Whether the pillager is still alive. Not known.
 
 ## Ideas to test
-- Once Clark's wall is done, check whether the beds are sealed, then sleep inside.
-- Keep a sword and 5 cobblestone in the pack at all times.
+- Keep a sword and 5 cobblestone in the pack at all times. I have had none since day 446; not yet acted on.
 
 ## Curious about next
 - Where the cows are: a cow was seen at 434,106,-1113.
 - Where the sheep are: Data and Worf searched east on day 340.
 - Where the pillager stands when it fires (south of spawn).
+- What the Kimberly sign means.
 
 ## Who I could tell
-- Billy, that I am counted and in sight at spawn. Wesley, that I hold nothing and will take food at 6.
+- Billy, that I hold still at 430,-1023 and wait for my name. Kimberly, that I hold nothing and will take food at 6.
