@@ -97,3 +97,12 @@
 - 01:08 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Night. Deanna here by the white bed at 415,-1023, unarmed, holding for Billy's count. Going to sleep here, in the row's sight."}
 - 01:08 act: {"actions":[{"do":"sleep"}]}
 - 01:08 act: {"actions":[{"do":"note","text":"Day 466 night: slept beside white bed 415,-1023 (partial, then the night skipped). Woke at 416,107,-1023, health 20, hunger 20, unarmed. Not named by Billy; holding st
+- 01:09 act: {"say":"Morning. Deanna here at the row, unarmed, holding still beside the white bed. Waiting for Billy's call.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["dire
+- 01:13 act: {"say":"Morning, row. Troi holding at 416,-1023 beside the white bed, unarmed, health 20, hunger 20. Billy, I hold for your name."}
+- 01:21 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Dusk, day 467. Troi goes to the bed at 415,-1023 beside me, in the row's reach. Unarmed, health 20, hunger 20. No walks in the dark. B
+- 01:21 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 467. Troi lies down by the white bed at 415,-1023, unarmed, health 20, hunger 20. Billy, I hold for your call at first light."}
+- 01:26 act: {"actions":[],"say":"Morning, row. Troi at 416,-1023 by the white bed, unarmed, holding nothing, health 20. Leonardo, I have no food to give, but I hold in your sight. Billy, I wait for your name."}
+- 01:34 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Troi at 416,-1023 beside the white bed, unarmed, holding still. Sleeping here for the night, Billy."}
+- 01:41 act: {"actions":[],"say":"Morning, Billy. Troi still at 416,-1023 by the white bed, unarmed, holding. I will walk only when you name me. Kimberly, what does the sign \"Here lies ag_kimberly_01, Day 466, sh
+- 01:45 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Kimberly. Troi stays at the white bed here for the night, unarmed, no walk until Billy names it."}
+- 02:01 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Troi at the white bed, 416,-1023, unarmed, no walk. Sleeping here."}
