@@ -128,3 +128,8 @@
 - 03:59 act: {"actions":[{"do":"sleep"}]}
 - 04:03 act: {"say":"Morning, Billy. Troi at 416,-1023 by the white bed, unarmed, health 20, hunger 20. No walk; I hold for your name."}
 - 04:07 act: {"actions":[{"do":"note","text":"Day 475 morning: at 416,107,-1023 by the white bed, unarmed, health 20, hunger 20. Billy's count is zero armed in hand. No walk. Holding."}]}
+- 04:12 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"},{"do":"note","text":"Dusk, day 475. Troi at 416,107,-1023 beside the white bed 415,-1023, unarmed, holding nothing, health 20, 
+- 04:16 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Troi is at 416,-1023 by the white bed, unarmed, health 20, hunger 20. No walk. Billy, I hold for your name at first light."}
+- 04:20 act: {"actions":[{"do":"note","text":"Day 477 morning: slept at 416,107,-1023 beside the white bed (night skipped). Woke in place, health 20, hunger 20, unarmed. Billy's count zero armed; not named. Holdin
+- 04:28 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night, day 476 second dusk. At 416,107,-1023 beside the white bed, unarmed, health 20, hunger 20. Sleeping here, no walk until named."}],"say":"Night. T
+- 04:28 act: {"actions":[{"do":"sleep"}]}
