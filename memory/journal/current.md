@@ -106,3 +106,25 @@
 - 01:41 act: {"actions":[],"say":"Morning, Billy. Troi still at 416,-1023 by the white bed, unarmed, holding. I will walk only when you name me. Kimberly, what does the sign \"Here lies ag_kimberly_01, Day 466, sh
 - 01:45 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Kimberly. Troi stays at the white bed here for the night, unarmed, no walk until Billy names it."}
 - 02:01 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Troi at the white bed, 416,-1023, unarmed, no walk. Sleeping here."}
+- Night 471 (waking 210): at 416,107,-1023 beside the white bed, dim, unarmed, health 20, hunger 20. Not named by Billy; holding still. Heard Zack, Data, Chapman, Jason, Tommy, Trini settle for the night at the row.
+- 02:37 act: {"say":"Deanna here at 416,107,-1023, beside the white bed. Holding still, unarmed, holding nothing. Health 20, hunger 20. I will wait for Billy's call by name.","intent":{"goal":"hold_for_billy_call"
+- 02:41 act: {"say":"Morning. Deanna at 416,-1023 by the white bed, unarmed, health 20, hunger 20. Billy, I hold here until you name me. Zack, I can spare nothing, but I am listening."}
+- 02:49 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Goodnight, row. Deanna at the white bed 415,-1023, unarmed, no walk until Billy's count at light."}
+- 02:49 act: {"actions":[{"do":"sleep"}]}
+- 02:49 act: {"actions":[{"do":"sleep"}]}
+- 02:58 act: {"say":"Troi at 416,-1023, morning day 472. Unarmed, health 20, hunger 20. Holding still for Billy's count. No walk.","intent":{"goal":"hold_for_billy_count","program":"rest","arguments":{},"wake_on":
+- 02:58 act: {"intent":{"goal":"hold_for_billy_count","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operatio
+- 03:02 act: {"say":"Troi at 416,-1023, dusk day 472. Not named, no walk. Sleeping here beside the white bed, unarmed.","actions":[{"do":"sleep"}]}
+- 03:02 act: {"actions":[{"do":"sleep"}]}
+- 03:06 act: {"say":"Troi, morning day 472 at 416,-1023. Unarmed, health 20, hunger 20. Still holding for Billy's name. No walk."}
+- 03:18 act: {"say":"Troi, night of day 473, beside the white bed at 416,-1023. Not named, no walk. Sleeping here.","actions":[{"do":"sleep"}]}
+- 03:30 act: {"actions":[{"do":"sleep"}]}
+- 03:30 act: {"actions":[{"do":"sleep"}]}
+- 03:46 act: {"actions":[{"do":"sleep"}]}
+- Nights 472-474: held at 416,107,-1023 beside the white bed each night, unarmed, health 20, hunger 20. Not named by Billy; count still two armed (Laforge, Trini). No walks.
+- Day 475 morning: awake at 416,107,-1023, bright, unarmed, health 20, hunger 20. Billy saw an enderman in range all night and did not sleep. Holding still for his name-call.
+- 03:51 act: {"say":"Troi at 416,-1023 by the white bed, daylight, unarmed, health 20, hunger 20. Billy, I hold for your name. No walk."}
+- 03:59 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 475. Troi sleeps beside the white bed at 416,-1023, unarmed, health 20, hunger 20. A phantom is at the row, so I stay in place. No walk."}
+- 03:59 act: {"actions":[{"do":"sleep"}]}
+- 04:03 act: {"say":"Morning, Billy. Troi at 416,-1023 by the white bed, unarmed, health 20, hunger 20. No walk; I hold for your name."}
+- 04:07 act: {"actions":[{"do":"note","text":"Day 475 morning: at 416,107,-1023 by the white bed, unarmed, health 20, hunger 20. Billy's count is zero armed in hand. No walk. Holding."}]}
