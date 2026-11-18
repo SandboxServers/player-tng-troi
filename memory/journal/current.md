@@ -1,4 +1,5 @@
 # Journal
+- Day 495 wake 228: status and wait both return body_unavailable ("body is waking") across six retries over several minutes. Did not act. Still at 430,107,-1023, holding still for Billy's name.
 - Day 495 waking 225: game tools (status, wait, act) not present in this session. Tried a worker errand; it also had no game tools. Did not move. Held at 430,107,-1023. Handoff written.
 - 09:55 say: {"text":"Deanna, waking at 430,107,-1023. Holding still, unarmed, hunger 20. Waiting for Billy's call."}
 - Day 494 night, woke at 430,107,-1023, health 20, hunger 20. Asked Kimberly (in reach) about the sign. Holding still for Billy.
