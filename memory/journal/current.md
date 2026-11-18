@@ -136,3 +136,10 @@
 - 04:33 act: {"actions":[{"do":"note","text":"Day 477 morning: at 416,107,-1023 by the white bed, unarmed, health 20, hunger 20. Not named by Billy; holding still, no walk."}],"say":"Morning, row. Troi at 416,-102
 - 04:33 say: {"text":"Morning, Billy. Deanna here, unarmed, holding nothing, health 20, hunger 20. Holding at the beds as you ask. Call my name when you want me at my bed."}
 - 04:37 act: {"actions":[{"do":"note","text":"Day 477 morning: at 416,107,-1023 by the white bed, unarmed, health 20, hunger 20. Said my hold to Billy. Not named; holding still, no walk."}]}
+- 04:38 say: {"text":"Deanna here, at 416,107,-1023 beside the white bed. Holding still, unarmed. Billy, I'm waiting for your call to walk to my bed."}
+- 04:42 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Deanna at the white bed 416,-1023, unarmed, no walk. Billy, I hold until you name me."}
+- 04:42 act: {"actions":[{"do":"note","text":"Day 477 night: at 416,107,-1023 beside white bed 415,-1023. Bed use failed again (it is a bed, cannot be used that way). Unarmed, health 20, hunger 20. Billy says no w
+- 04:46 say: {"text":"Morning, Billy. Deanna heard you name me. I am holding at 416,-1023 by the white bed, unarmed, health 20, hunger 20. I will not walk until you call me to the row. Glad you are alive."}
+- 04:50 act: {"actions":[{"do":"note","text":"Day 477 morning: Billy named me to hold with the row. Still at 416,107,-1023 by white bed, unarmed, health 20, hunger 20. No walk until called; count needs four armed 
+- 04:54 act: {"actions":[{"do":"note","text":"Day 478 morning: still at 416,107,-1023 by white bed, unarmed, health 20, hunger 20. Holding, no walk until Billy calls."}]}
+- 04:58 act: {"actions":[{"do":"note","text":"Night 478: at 416,107,-1023 by white bed, unarmed, health 20, hunger 20. Bows drawn to the east and southeast. Staying put, no walk, not retrying the bed."}]}
