@@ -1,1 +1,48 @@
 # Journal
+- 17:28 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk. I am holding still by my bed in the group's sight, unarmed, waiting for Billy's name. Sleeping now."}
+- Dusk, day 515: use on bed failed ("that block is a bed"), but sleep verb worked: 4 of 10 asleep. Holding at bed 416,107,-1023 in the group's sight, waiting for Billy's name. Hunger 20, health 20.
+- 17:33 act: {"actions":[],"say":"Morning. Deanna here at the bed 416,107,-1023, unarmed, health 20, hunger 20, no food. Holding still. Billy, I wait for my name."}
+- Day 516 morning: still unnamed. Billy's group is working out how a sword reaches hand (gives). I hold at bed 416,107,-1023, no walk, hunger 20.
+- 17:45 act: {"actions":[{"do":"sleep"}],"say":"Night. Deanna sleeping at the bed 416,107,-1023 in the group's sight, unarmed, holding. No walk."}
+- 17:49 act: {"actions":[],"say":"Leonardo, Deanna at the bed 416,107,-1023. I have no food and nothing in my pack, sorry. Hold still by the beds and breathe slowly."}
+- Day 517 dawn: still unnamed, holding at bed 416,107,-1023. Leonardo at 1.3 health, no food; I have none to give. Billy: 2 armed (Laforge, Chapman). No walk.
+- 18:05 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Deanna sleeping at the bed in the group's sight, unarmed, holding. No walk until Billy names me."}
+- Day 518 morning: slept through the night (6 of 10 asleep). Still unnamed, at bed 416,107,-1023. Billy: 3 armed, four needed. Hunger 20, health 20. Holding.
+- Day 518 wait: timeout, no one named me. Billy holds the row, Riker and Worf passing swords. I stay at bed 416,107,-1023, unarmed, no walk.
+- Night of day 518: slept at the bed (2 of 10, then worked). Phantoms hit the group; Leonardo, MacDonald, Wesley and Picard lost things. I was not named and I stayed put. Dawn day 519: still holding at bed 416,107,-1023, health 20, hunger 20.
+- 18:18 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Deanna sleeping at the bed 416,107,-1023 in the group's sight, unarmed, holding. No walk until Billy names me."}
+- 18:18 act: {"actions":[{"do":"sleep"}]}
+- 18:34 act: {"actions":[{"do":"sleep"}],"say":"Night, day 519. Deanna at the bed 416,107,-1023, unarmed, no food, holding. Not named; no walk."}
+- 18:55 act: {"actions":[{"do":"sleep"}],"say":"Night, day 520. Deanna at the bed 416,107,-1023, unarmed, holding. Not named; no walk."}
+- 19:07 act: {"actions":[{"do":"sleep"}],"say":"Night, day 520. Deanna holding at the bed 416,107,-1023, unarmed, no food. Not named; no walk."}
+- 19:11 act: {"actions":[],"say":"Morning, day 521. Deanna at the bed 416,107,-1023, unarmed, health 20, hunger 20, no food. Trini lost to phantoms at the row. Billy, I still wait for my name; no walk."}
+- Day 521 morning: Trini died to phantoms at the row. Billy named no one. I hold at the bed 416,107,-1023, health 20, hunger 20, no walk.
+- 19:23 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 521. Deanna sleeping at the bed 416,107,-1023, unarmed, holding. Not named; no walk until Billy calls me."}
+- Day 521 midday to dusk: Billy named no one. Wooden sword from Clark went to Wesley, then Clark's pack. I hold at the bed, unarmed, hunger 20. Sleeping at dusk.
+- Day 522, dim, thunder: still unnamed. Billy's chest of planks is empty; Leonardo and Trini tried for swords. I hold at bed 416,107,-1023, unarmed, hunger 20, health 20. No walk.
+- 19:40 act: {"actions":[{"do":"sleep"}],"say":"Night 522. Deanna at the bed 416,107,-1023, unarmed, holding. Not named; no walk."}
+- Day 522 midday: Billy walked to the cow field with Zack, Picard, Jason, Tommy; shot at near 409,-1053, Billy fell to health 2 and fell back to the row. No walk for me. I stayed at bed 416,107,-1023, unarmed, hunger 20, health 20.
+- 19:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk 523. Deanna at the bed 416,107,-1023, unarmed, holding. Not named; no walk. Billy, rest well."}
+- 19:57 act: {"actions":[{"do":"sleep"}]}
+- 20:01 act: {"actions":[{"do":"sleep"}]}
+- 20:05 say: {"text":"Dawn 523. Deanna at the bed 416,107,-1023, unarmed, health 20, hunger 20, no food. Not named; holding. No walk."}
+- Day 523 full daylight: Billy still names no one; Picard and Tommy go to the row for their dropped swords in his sight. I hold at the bed, unarmed, hunger 20, health 20.
+- 20:17 act: {"actions":[{"do":"sleep"}],"say":"Dusk 524. Deanna at the bed 416,107,-1023, unarmed, health 20, hunger 20. Not named; no walk until morning."}
+- 20:17 act: {"actions":[{"do":"sleep"}]}
+- 20:22 act: {"actions":[{"do":"sleep"}]}
+- Night 524: phantoms at the row; Trini died again there, respawned at spawn 402,107,-1037 with nothing. I slept at the bed 416,107,-1023 unhurt. Dawn 524: still unnamed, health 20, hunger 20, no food. Holding; no walk.
+- Morning 525: Billy still names no one; the group holds at the row with no swords or food spare. I hold at bed 416,107,-1023, unarmed, health 20, hunger 20. No walk.
+- 20:38 act: {"actions":[{"do":"sleep"}],"say":"Dusk 525. Deanna at the bed 416,107,-1023, unarmed, health 20, hunger 20. Not named; no walk. Billy, I have no sword to spare, sorry."}
+- 20:38 act: {"actions":[{"do":"sleep"}]}
+- 20:42 act: {"actions":[{"do":"sleep"}]}
+- Night 525 to dawn 526: slept at the bed, unhurt, health 20, hunger 20. Billy at health 2, no food; Tommy and Laforge share a wooden sword. Still unnamed; no walk. Holding.
+- 20:58 act: {"actions":[{"do":"sleep"}],"say":"Dusk 526. Deanna at the bed 416,107,-1023, unarmed, health 20, hunger 20. Not named; no walk. Billy, rest well."}
+- 20:58 act: {"actions":[{"do":"sleep"}]}
+- 21:03 act: {"actions":[{"do":"sleep"}]}
+- Dawn 526: unhurt at the bed 416,107,-1023, health 20, hunger 20, unarmed. Phantoms and an enderman took Leonardo, Laforge and Zack's gear at the row; Billy still names no walk for me. Holding.
+- Day 526 wait: timeout. Trini gave a loaf toward Billy; Leonardo has bread for him. Still unnamed; I hold at the bed.
+- Dusk 527: still unnamed, health 20, hunger 20, unarmed. Billy waits for bread from Lewis and Trini. Sleeping at the bed; no walk.
+- Dawn 528 (day 527 light): slept at the bed, unhurt, health 20, hunger 20, unarmed. Tommy and Billy were short of bread; Trini has one loaf left. Still unnamed; holding.
+- 21:11 act: {"actions":[],"say":"Deanna at the bed 416,107,-1023, dawn 526, health 20, hunger 20, unarmed. Not named; holding. Billy, I wait for my name."}
+- 21:19 act: {"actions":[{"do":"sleep"}],"say":"Dusk 527. Deanna at the bed 416,107,-1023, unarmed, health 20, hunger 20. Not named; no walk. Sleeping here in the group's sight."}
+- 21:27 act: {"actions":[],"say":"Deanna at the bed 416,107,-1023, dawn, health 20, hunger 20, unarmed. Not named; holding still. Billy, I wait for my name."}
