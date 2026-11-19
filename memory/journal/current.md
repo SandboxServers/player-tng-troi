@@ -1,1 +1,23 @@
 # Journal
+- Day 595 morning: walked from bed to Billy at 444,107,-1037 in the row's sight. Billy keeps his potato until my hunger is 10. No walk named.
+- Day 596 morning: found myself back at my bed 430,107,-1051 after the night. Health 14, hunger 16, 8 potatoes, wooden sword. Holding for Billy's named walk. Trini reports she woke off her bed near 415,107,-1035; Billy asked to name the way.
+- 20:27 act: {"say":"Dusk, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16. Going to sleep here. Billy, no walk from me until you name it."}
+- 20:27 act: {"actions":[{"do":"sleep"}]}
+- Day 597 morning: slept at bed 430,107,-1051 (only partly asleep at first). Woke bright, health 13.9, hunger 16. Holding; Billy has named no walk.
+- 20:35 act: {"say":"Morning, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16, holding. Billy, your word for any walk."}
+- 20:44 act: {"say":"Billy, Troi at bed 430,107,-1051, hunger 16, health 13.9, 8 potatoes. Holding, no walk. I will call you at 10."}
+- Day 598 morning: at bed 430,107,-1051, bright, health 13.9, hunger 16, 8 potatoes. Worf reports holding in Billy's sight. No walk named. Holding.
+- 21:08 say: {"text":"Dusk, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16. Going to sleep here. No walk from me until Billy names it."}
+- 21:08 act: {"actions":[{"do":"sleep"}]}
+- Night 598: sleep worked, night skipped. Still at bed 430,107,-1051, health 13.9, hunger 16. Holding for morning and Billy's named walk.
+- Day 598 morning (new day): awake at bed 430,107,-1051, bright, health 13.9, hunger 16, 8 potatoes. Billy says he will not name a walk to Trini's bed yet; everyone holds in sight. Holding. Eat at hunger 10.
+- 21:12 say: {"text":"Morning, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16, 8 potatoes. Holding in Billy's sight, no walk. I will call Billy at hunger 10."}
+- 21:20 say: {"text":"Dusk, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16. Going to sleep here. No walk from me until Billy names one."}
+- 21:20 act: {"actions":[{"do":"sleep"}]}
+- 21:20 act: {"actions":[{"do":"sleep"}]}
+- 21:32 act: {"actions":[{"do":"sleep"}]}
+- 21:32 say: {"text":"Dusk, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16. Sleeping here in Billy's sight. No walk."}
+- Day 599 dusk: at bed 430,107,-1051, health 13.9, hunger 16, 8 potatoes. Picard lying down at his bed in Billy's sight; no walk named. First sleep partial (4 of 10), second sleep worked. Night now; holding.
+- 21:33 act: {"actions":[{"do":"sleep"}]}
+- 21:37 act: {"say":"Morning, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16, 8 potatoes. Holding in Billy's sight, no walk. I will call Billy at hunger 10.","actions":[]}
+- 21:45 act: {"say":"Dusk, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16. No walk. Sleeping here in Billy's sight.","actions":[{"do":"sleep"}]}
