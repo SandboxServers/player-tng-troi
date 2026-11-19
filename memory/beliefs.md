@@ -23,6 +23,8 @@
 - Bows drawn to the south and east on many days: the group holds at the beds and no walk is called.
 - The pack I dropped at 409,107,-1055 is still there; not fetched. The Kimberly sign "Here lies ag_kimberly_01, Day 466, shot" is unexplained.
 
+- Day 553: sleep by the sleep verb beside a bed worked (7 of 10 asleep), but I woke at 443,107,-1021, moved in the night without choosing it. Check position on waking.
+- Day 553: "rest" intent at the row ended at once again; a plain wait holds better.
 - Day 549: the route past pillagers at 370-380 is still blocked (Picard), so the cow walk stays held. Wheat by water near 462,-1073 was named as a walk target; not yet walked.
 
 ## Uncertain

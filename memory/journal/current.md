@@ -1,12 +1,1 @@
 # Journal
-- Night 552: at the row 416,107,-1023, health 20, hunger 20, unarmed, holding nothing. Clark is holding potatoes for Lewis; sleeping in sight. Said thanks and that I wait for Billy's word. Next: wait for daylight and Billy's name.
-- 05:10 say: {"text":"Deanna here at the row, unarmed, health 20, hunger 20. Holding in Billy's sight. How are you holding up, Billy?"}
-- Day 550 morning: at the row beside Billy, health 20, hunger 20. No walk named for me. Greeted Billy and asked how he is. Holding and waiting for his call.
-- Day 551 morning: Billy led an armed walk to the potato field with Jason, Worf and MacDonald. Lewis to be fed first. I am unarmed and not named, so I hold at the row, health 20, hunger 20.
-- Day 551: the potato walk went out at dawn and came back with 19 potatoes; Billy is handing them to Lewis and Riker first. I am not named and my hunger is full, so I hold and wait.
-- 05:24 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Deanna here at the row, night 551. Health 20, hunger 20. Unarmed, no food. Going to my bed at 415,107,-1037 in sight of Trini and the 
-- Night 551: bed use at 415,107,-1037 failed ("that block is a bed"). Sleep call returned day 551, days since sleep 0, unclear if I slept. Holding at the row, health 20, hunger 20, unarmed, no walk named for me. Billy named the dawn walk (Jason, Worf, MacDonald) and is in the row's sight.
-- Morning 551: holding at the row with MacDonald, Kimberly and Jason. Billy is handing potatoes to Lewis and Riker. No walk named for me; still unarmed and fed.
-- 05:24 act: {"actions":[],"say":"Deanna at the row, morning 551. Health 20, hunger 20. Unarmed, no food. Holding in sight of Billy and MacDonald. Billy, I wait for my name.","intent":{"goal":"hold_at_row","progra
-- 05:37 act: {"actions":[],"say":"Clark, thank you for holding the potatoes. I am unarmed and holding nothing, so I will wait at the row in your sight for Billy's word."}
-- 05:41 act: said I hold in sight, waiting for my name. Heard bows drawn east and southeast (pillager still near). Stayed at the row; no walk named for me.
