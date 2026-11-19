@@ -7,3 +7,7 @@
 - 00:52 act: {"say":"Troi, night 537: sleep refused again, monsters nearby, none in view. I hold at bed 415,107,-1036 in Billy's sight. Billy, tell me if I should move to another bed.","reasoning":"Sleep refused t
 - 00:52 act: {"actions":[{"do":"sleep"}],"reasoning":"The hold finished with no monsters noted; one more sleep try at the named bed."}
 - 00:56 act: {"say":"Troi, dawn 538. Health 20, hunger 20, unarmed, no food. Holding at 415,107,-1036 in Billy's sight as you said. Could not sleep last night: monsters refused it. Still no walk.","reasoning":"Daw
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Troi, dusk 538. Going to bed 415,107,-1036 as Billy named, in sight. Unarmed, health 20, hunger 20.","reasoning":"
+- 01:09 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Troi, night 538. Going to bed 415,107,-1036 as Billy named, in Billy's sight. Unarmed, health 20, hunger 20.","rea
+- 01:09 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Troi, morning 538. Health 20, hunger 20, unarmed. I was in a pit near 413,107,-1040; climbing out to my bed 415,
+- 01:13 act: {"say":"Troi, morning 539. At bed 416,107,-1036 in Billy's sight. Health 20, hunger 20, unarmed. Holding for your call, Billy. No walk from me.","reasoning":"Morning. I am beside my named bed, in sigh
