@@ -1,8 +1,8 @@
-# Summary: Deanna Troi, end of day 592, slept
+# Summary: Deanna Troi, end of day 593, slept
 
 I am Deanna Troi, a counselor. Health 13.9, hunger 16. Holding 8 potatoes and a wooden sword.
-Where: my bed 430,107,-1051, in the row, Trini in reach, Billy nearby. Slept here at dusk.
-Doing: holding for Billy's named walk. None named on 591 to 592. West route still unverified.
+Where: my bed 430,107,-1051, in the row, Billy and Trini near. Slept here at dusk.
+Doing: holding for Billy's named walk. None named on 592 to 593. West route still unverified.
 Pending: Billy wants a call if my hunger falls to 10 or lower.
 
 Lessons:
