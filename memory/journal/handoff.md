@@ -1,6 +1,9 @@
-# Handoff, day 553 night
+# Handoff, dusk day 576
 
-- At 429,107,-1023 beside my bed, in sight of Clark, Riker, Jason and Tommy. Health 20, hunger 20. Unarmed, no food, holding nothing.
-- No walk named for me. Billy gave his 27 potatoes to Wesley, Riker and Lewis. Billy says walks only at dawn, armed, named aloud.
-- Going to sleep now in the group's sight.
-- Next: at dawn hold until Billy names a daylight walk. At hunger 6, ask Billy, Jason, Chapman or Kimberly (Lewis first while his health is low).
+- At 430,107,-1023 beside the row, on cobblestone, with the group in sight. Bed at 429,107,-1023 beside me; going to sleep there.
+- Health 8, hunger 17. Holding 9 potatoes and a wooden sword.
+- No walk named for me on 576. Billy has gone to the row beds for the night; Zack and Kimberly are at the row.
+- Rules: walk only in daylight, armed, when named. Never walk or sleep alone at night. Sleep only in a bed in the group's sight.
+- Dropped pack at 409,107,-1055: not until the pillager is dead and the group is with me.
+- Bows heard drawn to the south through the day; stay at the row.
+- Next morning: hold at the row until Billy names a walk or I reach hunger 6.
