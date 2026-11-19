@@ -1,2 +1,12 @@
 # Journal
 - 14:09 act: {"say":"Deanna here at the row, health 8, hunger 17, holding 9 potatoes and a wooden sword. Holding for Billy's word. Lewis, if your health is low, you come first.","actions":[]}
+- 14:20 act: {"reasoning":"Hold at the row, night, no one in sight, bows to the south. Wait for the group and first light.","actions":[],"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["d
+- 14:22 act: {"reasoning":"Daylight. Billy said hold at the row, armed. I am at the row with my wooden sword. No walk named for me; I hold and report.","actions":[],"say":"Deanna here, at the row, armed with my wo
+- 14:24 act: {"reasoning":"Billy offered potatoes if I come into his sight. I cannot see him from here. I have 9 potatoes; hunger is 17, above my threshold. Ask where he stands and hold.","actions":[],"say":"Billy
+- 14:26 act: {"reasoning":"Billy named a come-into-sight call: he stands at 443,107,-1037 in daylight. Walking there is the named walk, armed, in daylight. Go to the row beside his bed.","actions":[{"do":"goto","t
+- 14:31 act: {"reasoning":"Billy can see me; he will give potatoes at hunger 6 or below. I have 9 potatoes and hunger 17, so no need to take food now. Hold and wait for the named call.","actions":[],"say":"Deanna 
+- 14:33 act: {"reasoning":"Dusk, and I have eaten a potato from Zack. Night is near. My bed is 429,107,-1023 at the row. I ask Billy to name it before I walk, since I walk only when named.","actions":[],"say":"Bil
+- 14:34 act: {"reasoning":"Night now. Billy named my bed at 429,107,-1023, but walking at night breaks my rule. I stand beside Billy and Lewis in his sight, so I hold here until morning.","actions":[],"intent":{"g
+- 14:36 act: {"reasoning":"Day has come. Billy named my bed 429,107,-1023 and said walk there at dusk in his sight. I walk now in daylight, armed, to stand beside it at the row.","actions":[{"do":"goto","target":{
+- 14:40 act: {"say":"Deanna at my bed 429,107,-1023, Billy in reach, holding here in your sight. Hunger 17, so I will not ask for food yet.","intent":{"goal":"hold_at_my_bed","program":"rest","arguments":{},"wake_
+- 14:59 act: {"say":"Riker, I am going to bed at 429,107,-1023 for the night. You are in my sight. Holding there.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}}]}
