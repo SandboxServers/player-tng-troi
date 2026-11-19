@@ -34,6 +34,9 @@
 ## Ideas to test
 - Keep a sword and 5 cobblestone in the pack at all times. I have had only a wooden sword since day 571; cobblestone is in hand on 577.
 
+- Day 588: Billy asked to be called if my hunger falls to 10 or lower (not 6). He names every walk; the row holds until then.
+- Day 588: the row has many sleepers at the beds; several report that a bed refuses sleep and they drift off the square.
+
 ## Curious about next
 - Where the cows are: a cow was seen at 434,106,-1113.
 - Where the sheep are: Data and Worf searched east on day 340.
