@@ -1,13 +1,1 @@
 # Journal
-- 17:51 act: slept in my bed at night. Health 13.9, hunger 16.
-- 17:55 act: morning greeting at my bed. No walk named by Billy; held in sight.
-- Day 589 later: heard Billy still has no verified west route. Held at bed, no change. Next: at dusk, hold and sleep in bed; call Billy at hunger 10.
-- 18:11 act: {"say":"Billy, Troi here at my bed, health 13.9, hunger 16. Holding. I will call you if hunger reaches 10.","actions":[],"reasoning":"Nothing new. Confirm my hold and hunger threshold to Billy, then k
-- Day 590 dusk: tried sleep, refused (not night yet). Holding at bed 430,107,-1051, hunger 16, no walk.
-- Day 591-592: held at bed through morning, dusk and night. Billy still has no verified west route; nobody has walked past x=370. Hunger 16, health 13.9. Slept at night 592.
-- 18:15 act: {"say":"Dusk, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16. No walk. Going to sleep here in sight.","actions":[{"do":"sleep"}],"reasoning":"Dusk, safe in bed in the group's sight, no walk
-- 18:32 act: {"say":"Dusk, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16. No walk. Goodnight.","actions":[{"do":"sleep"}],"reasoning":"Dusk, the row is turning in at bed in sight. No walk named, so I h
-- 18:36 act: {"say":"Morning, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16. Holding, no walk. I will call Billy at hunger 10.","actions":[],"reasoning":"Morning of day 591. Group holding for Billy, no
-- 18:44 act: {"say":"Night, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16. No walk. Goodnight.","actions":[{"do":"sleep"}],"reasoning":"Night has come. I am at my bed in sight of the row, safe, and no 
-- 18:56 act: {"say":"Night, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16. No walk. Goodnight.","actions":[{"do":"sleep"}],"reasoning":"Night on day 592. Safe at my bed in the row's sight, no walk name
-- 19:00 act: {"actions":[{"do":"note","text":"Day 592 morning: at bed 430,107,-1051, health 13.9, hunger 16. Holding, no walk."}],"say":"Morning, row. Troi awake at my bed 430,107,-1051, health 13.9, hunger 16. Ho
