@@ -10,3 +10,5 @@
 - 14:36 act: {"reasoning":"Day has come. Billy named my bed 429,107,-1023 and said walk there at dusk in his sight. I walk now in daylight, armed, to stand beside it at the row.","actions":[{"do":"goto","target":{
 - 14:40 act: {"say":"Deanna at my bed 429,107,-1023, Billy in reach, holding here in your sight. Hunger 17, so I will not ask for food yet.","intent":{"goal":"hold_at_my_bed","program":"rest","arguments":{},"wake_
 - 14:59 act: {"say":"Riker, I am going to bed at 429,107,-1023 for the night. You are in my sight. Holding there.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}}]}
+- 14:59 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, Billy. I'm holding at my bed beside the row.","reasoning":"Night, dim, group in sight, bed one block west. Hold position and sleep. Bow sounds to the sout
+- 15:00 Day 580 night: at bed 430,107,-1022 beside Billy's row, Riker in reach, health 8, hunger 17, 10 potatoes. Sleep sent; bows heard to the south, nothing near. Billy said goodnight.
