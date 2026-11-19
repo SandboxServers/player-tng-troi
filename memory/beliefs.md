@@ -23,6 +23,8 @@
 - Bows drawn to the south and east on many days: the group holds at the beds and no walk is called.
 - The pack I dropped at 409,107,-1055 is still there; not fetched. The Kimberly sign "Here lies ag_kimberly_01, Day 466, shot" is unexplained.
 
+- Day 549: the route past pillagers at 370-380 is still blocked (Picard), so the cow walk stays held. Wheat by water near 462,-1073 was named as a walk target; not yet walked.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed. Not known.
 - Whether the pillager is still alive. Not known.

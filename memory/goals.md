@@ -1,4 +1,4 @@
-# Goals, day 547 (ranked)
+# Goals, day 549 (ranked)
 
 1. Stay alive: never walk or sleep alone; stay in the group's sight at the row; keep out of the pillager's line to the south and east. Reason: I died once on day 413; Billy was shot on the cow road on day 515.
 2. Keep to Billy's call: hold at the row 415,107,-1041 until he names a walk; walk only in daylight when named. Reason: walking unnamed is how I get lost.
