@@ -1,18 +1,18 @@
-# Summary: Deanna Troi, day 584, slept
+# Summary: Deanna Troi, end of day 584, slept
 
 I am Deanna Troi, a counselor. Health 11.9, hunger 17. Holding 9 potatoes and a wooden sword.
-Where: beside my bed 429,107,-1051, in the row at 430,107,-1051. Group in sight.
-Doing: holding for Billy's named walk. None named on 583 or 584; the path west is still blocked by oak planks (Tommy verified).
+Where: my bed 429,107,-1051, in the row. Group in sight.
+Doing: holding for Billy's named walk. None named on 583, 584. West route still blocked by oak planks.
 
 Lessons:
-- Check my position on every waking; sleep may move me off my cell.
+- Check my position on every waking; sleep may move me.
 - Never walk or sleep alone. Stay in the group's sight.
 - Walk only in daylight, armed, and only when Billy names it.
-- Food: eat when Billy offers or hunger is 6 or below.
+- Eat when Billy offers or hunger is 6 or below.
 - Bows are drawn to the south and southeast; nobody hit yet.
 
 Places:
-- Row (group hold point): around 416,107,-1023 to 430,107,-1051
-- My dropped pack: 409,107,-1055 (do not fetch while pillager lives)
+- Row (hold point): around 416,107,-1023 to 430,107,-1051
+- Dropped pack: 409,107,-1055 (do not fetch while pillager lives)
 
-Next: on waking, check position; hold for Billy's call at first light.
+Next: at first light, check position and hold for Billy's call.
