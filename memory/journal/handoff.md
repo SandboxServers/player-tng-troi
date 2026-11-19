@@ -1,8 +1,6 @@
-# Handoff, day 539 night
+# Handoff, day 544 dusk
 
-- Asleep in bed 415,107,-1036 at night 539, in Billy's sight at the row. Health 20, hunger 20. Unarmed, no food, nothing in hand.
-- Billy named bed 415,107,-1036 for me. Sleep was refused on night 537 and dusk 538; it worked on night 539.
-- Woke in a pit near 413,107,-1040 at dawn 538; climbed out with unstick and went back to the named bed.
-- Sword line: MacDonald armed; Laforge, Riker, Tommy, then me. Nothing named for me yet.
-- Pack at 409,107,-1055 not to be fetched unless the pillager is dead and the group is with me.
-- Next: hold in Billy's sight at the row. Ask Billy for food at hunger 6 (he holds rotten flesh). No walk until Billy names it in daylight.
+- Going to sleep at dusk 544 beside the bed at 429,107,-1051, at the row in Billy's sight (430,107,-1051).
+- Health 20, hunger 20. Unarmed, no food, nothing in hand.
+- Billy's group is holding at the row; no walk named. Six armed earlier. Riker's way: use, wooden_sword, no target.
+- Next: hold in Billy's sight. Ask Billy for food at hunger 6. No walk until Billy names it in daylight.

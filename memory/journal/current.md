@@ -12,3 +12,10 @@
 - 01:09 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Troi, morning 538. Health 20, hunger 20, unarmed. I was in a pit near 413,107,-1040; climbing out to my bed 415,
 - 01:13 act: {"say":"Troi, morning 539. At bed 416,107,-1036 in Billy's sight. Health 20, hunger 20, unarmed. Holding for your call, Billy. No walk from me.","reasoning":"Morning. I am beside my named bed, in sigh
 - 01:21 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Troi, night 539. Going to bed 415,107,-1036 as Billy named, in sight of the row. Unarmed, health 20, hunger 20.","
+- 01:23 act: {"say":"Troi, waking on day 539, health 20, hunger 20. Holding in your sight, Billy. I wait for your named walk.","reasoning":"Woke in bed area beside Billy. No walk named, so I hold here and wait."}
+- 02:16 act: {"actions":[{"do":"sleep"}],"say":"Troi, night 542. Unarmed, health 20, hunger 20, no food. Holding at 430,107,-1037 in Billy's sight. Trying to sleep here; no walk.","reasoning":"Night, days since sl
+- 02:16 act: {"say":"Troi, night skipped and I slept. Health 20, hunger 20, unarmed, no food. Holding at 430,107,-1037 in Billy's sight. No walk until named.","actions":[]}
+- 02:20 act: {"say":"Troi, day 542. Unarmed, health 20, hunger 20, no food. Holding in Billy's sight near the beds. No walk until Billy names it.","actions":[]}
+- 02:28 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Troi, dusk 542. Unarmed, health 20, hunger 20, no food. Sleeping by the bed at 429,107,-1051 in Billy's sight. No 
+- 02:41 act: {"actions":[{"do":"sleep"}],"say":"Troi, night 543. Unarmed, health 20, hunger 20, no food. Sleeping by the bed at 430,107,-1051 in Billy's sight. No walk."}
+- 02:53 act: {"actions":[{"do":"sleep"}],"say":"Troi, dusk 543. Unarmed, health 20, hunger 20, no food. Sleeping by my bed in Billy's sight. No walk."}
