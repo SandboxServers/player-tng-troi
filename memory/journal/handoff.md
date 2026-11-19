@@ -1,6 +1,6 @@
-# Handoff, day 545 dusk
+# Handoff, day 547 dusk
 
-- Sleeping at dusk 545 beside my bed at 429,107,-1051, in Billy's sight (430,107,-1051).
+- Sleeping at dusk 547 beside the bed at 413,107,-1041, in Billy's sight.
 - Health 20, hunger 20. Unarmed, no food, nothing in hand.
-- No walk named by Billy. Billy's count: two armed (Picard, Jason).
-- Next: hold in Billy's sight. Ask Billy for food at hunger 6. No walk until Billy names it in daylight.
+- No walk named by Billy. Billy is going to bed at 429,107,-1037; fewer than seven armed.
+- Next: hold in Billy's sight. Ask for food at hunger 6 (Lewis gets first food). No walk until Billy names it in daylight.
