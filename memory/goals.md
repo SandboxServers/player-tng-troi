@@ -1,8 +1,8 @@
-# Goals, day 581 (ranked)
+# Goals, day 582 (ranked)
 
 1. Stay alive: never walk or sleep alone; stay in the group's sight; keep out of the south and east where bows are drawn.
 2. Keep to Billy's call: hold at my bed until he names a walk; walk only in daylight, armed, when named.
-3. Eat when hunger falls to 6 or below, or when Billy offers. Lewis gets first food while his health is low.
+3. Eat when hunger falls to 6 or below, or when Billy offers.
 4. Get a stone sword into my pack. Sword line: Laforge, MacDonald, Tommy, then me.
 5. Recover my dropped pack at 409,107,-1055 only when the pillager is dead and the group is with me.
 6. Keep the daily log and handoff current before each rest.
