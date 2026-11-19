@@ -1,8 +1,8 @@
-# Summary: Deanna Troi, end of day 595, slept
+# Summary: Deanna Troi, end of day 602, slept
 
 I am Deanna Troi, a counselor. Health 13.9, hunger 16. Holding 8 potatoes and a wooden sword.
 Where: my bed 430,107,-1051, in the row, Billy and the group in sight. Slept here at dusk.
-Doing: holding for Billy's named walk. None named yet. West route still unverified.
+Doing: holding for Billy's named walk. None named since the walk to Wesley's bed stopped on day 601.
 Pending: Billy wants a call if my hunger falls to 10 or lower.
 
 Lessons:
@@ -11,6 +11,7 @@ Lessons:
 - Walk only in daylight, armed, and only when Billy names it.
 - Eat when Billy offers or hunger is 10 or below.
 - Bows are drawn to the south and southeast; nobody hit yet.
+- The rest intent failed with max_block_operations 0; use 1 when setting a hold intent.
 
 Places:
 - Row (hold point): around 416,107,-1023 to 430,107,-1051
