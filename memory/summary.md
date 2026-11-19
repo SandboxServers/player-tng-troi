@@ -1,7 +1,7 @@
-# Summary: Deanna Troi, day 545 dusk, going to sleep
+# Summary: Deanna Troi, day 547 night, asleep
 
 I am Deanna Troi, a counselor. Health 20, hunger 20. Unarmed, holding nothing, no food.
-Where: bed at 429,107,-1051, in Billy's sight (430,107,-1051), at the row.
+Where: the row, 415,107,-1041, in Billy's sight. Slept at the bed near 401,107,-1037.
 Doing: holding for Billy's named walk. No walk named.
 
 Lessons:
@@ -11,8 +11,8 @@ Lessons:
 - Food: at hunger 6, ask Billy (rotten flesh), Jason, Chapman or Kimberly.
 
 Places:
-- Row (group hold point): 414,107,-1041
-- Bed beside Billy: 429,107,-1051 (mine tonight)
+- Row (group hold point): 415,107,-1041
+- Beds near the row: 413,107,-1041 and 401,107,-1037
 - My dropped pack: 409,107,-1055 (do not fetch while pillager lives)
 
 Next: on waking, check position; hold at the row for Billy's call.
