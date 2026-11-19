@@ -21,3 +21,4 @@
 - 21:33 act: {"actions":[{"do":"sleep"}]}
 - 21:37 act: {"say":"Morning, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16, 8 potatoes. Holding in Billy's sight, no walk. I will call Billy at hunger 10.","actions":[]}
 - 21:45 act: {"say":"Dusk, row. Troi at my bed 430,107,-1051, health 13.9, hunger 16. No walk. Sleeping here in Billy's sight.","actions":[{"do":"sleep"}]}
+- 21:45 act: {"actions":[{"do":"sleep"}]}
