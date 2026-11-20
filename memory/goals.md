@@ -1,6 +1,6 @@
-# Goals, day 656 (night, ranked)
+# Goals, day 657 (night, ranked)
 
-1. Stay alive: never walk or sleep alone; stay in the group's sight; walk only in daylight, armed, when Billy names it.
+1. Stay alive: never walk or sleep alone; stay in the group's sight; walk only in daylight, armed, when Billy names it. Reason: the bows to the south are still drawn daily.
 2. Eat at hunger 10 or below, or when Billy or Clark offers. Hunger is 16.
 3. Potato: I hold one. Offer it to whoever in the row hits hunger 10 first.
 4. Check on MacDonald (health 11) and Data (health 13) each waking, and ask how they feel.
