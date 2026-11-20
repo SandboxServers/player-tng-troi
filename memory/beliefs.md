@@ -15,7 +15,9 @@
 - Bread is shared by hand among the group, not by chest.
 - The pack I dropped at 409,107,-1055 is still there; not fetched.
 - Billy names every walk. Holding at the row until named is the safe course.
-- Potatoes given by me in all: 7 (last to Tommy on day 625). I hold 2.
+- Potatoes given by me in all: 7 (last to Tommy on day 625). I hold 1.
+- Day 628: a give to MacDonald at 2 blocks went to Chapman, who stood at the same distance. Give only when one person is clearly the nearest; otherwise ask first.
+- Day 628: bows were heard to the south and southwest all day; no west walk named.
 
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed.
