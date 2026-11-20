@@ -29,6 +29,8 @@
 
 - Day 616: Billy named no walk; no verified west route. Pillagers with crossbows reported south, about 15 blocks off. Holding at the bed and waiting is the safe course. Sleep at my bed worked at dusk.
 
+- Day 617: Billy named one walk (Riker, east to Trini for a sword) and none for me. Pillager arrows killed Riker and Kimberly in the south and west; Wesley was shot. Sleep at my bed worked at night.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed. Not known.
 - Whether the pillager is still alive. Not known.
