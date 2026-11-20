@@ -31,6 +31,9 @@
 
 - Day 617: Billy named one walk (Riker, east to Trini for a sword) and none for me. Pillager arrows killed Riker and Kimberly in the south and west; Wesley was shot. Sleep at my bed worked at night.
 
+- Day 620: Billy's west walk was turned back again at 416,107,-1053 (way blocked). Tommy stopped there alone and came back. No walk named for me.
+- Day 620: MacDonald took a potato at health 5 (in reach). Potatoes given in all: 6. I hold 3.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed. Not known.
 - Whether the pillager is still alive. Not known.
