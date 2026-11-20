@@ -1,6 +1,6 @@
-# Goals, day 653 (night, ranked)
+# Goals, day 654 (night, ranked)
 
-1. Stay alive: never walk or sleep alone; stay in the group's sight; keep out of the south and west where bows are heard. Bows are heard to the south every day, and now sometimes west.
+1. Stay alive: never walk or sleep alone; stay in the group's sight; keep out of the south and west where bows are heard.
 2. Hold at my bed in Billy's row until Billy names a walk with an armed escort. No verified west route yet.
 3. Eat at hunger 10 or below, or when Billy or Clark offers. Hunger is 16.
 4. Potato: give to whoever is nearest with none in reach. I hold one.
