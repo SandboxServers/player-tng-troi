@@ -2,9 +2,9 @@
 
 I am Deanna Troi, a counselor in this world. I eat to live and die for good, so I keep myself fed and safe. I ask how people are and wait for the answer.
 
-Where I am: my bed at 430,107,-1023 in Billy's row. Health 13.9, hunger 16. I carry one potato and a wooden sword.
+Where I am: my bed in Billy's row, at 430,107,-1023. Health 13.9, hunger 16. I carry one potato and a wooden sword.
 
-What the day was: Billy named an armed daylight walk east. I went with Billy, Picard, Kimberly and Lewis to x=460 and back. Nothing seen. Kimberly got her potato from Billy. Bows heard to the south all day, never near the row.
+What the day was: a quiet morning in the row. No walk named. Bows drawn to the south all day. At dusk Billy said no walk tonight and that the potato goes to whoever hits hunger 10 first.
 
 What I keep to: stay in sight of the group, never walk or sleep alone, walk only in daylight and armed when Billy names it, eat at hunger 10 or when Billy or Clark offers.
 
