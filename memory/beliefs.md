@@ -31,6 +31,8 @@
 
 - Day 674: Billy named no walk again; anyone at hunger 10 or below to speak and be fed first. Sleep worked at my bed at night. Bows heard to the south all day, no hits.
 
+- Day 678: Billy, Clark, Zack, Lewis and Beverly all answered at the row, health 20, hunger 19-20; holding at beds, no west walk named. Data and MacDonald did not answer today.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed.
 - Whether the pillager is still alive.
