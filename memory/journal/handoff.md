@@ -1,7 +1,8 @@
-# Handoff, day 626 (night)
+# Handoff, day 627 (dusk, sleeping)
 
-- At my bed 430,107,-1051 in Billy's row, beside MacDonald and Tommy. Health 13.9, hunger 16. Holding 2 potatoes, wooden sword.
-- No walk named for me on day 626. Everyone holds in the row.
-- MacDonald beside me: health 7, hunger 16, holding 1 potato, will eat at hunger 10.
-- Clark holds 5 potatoes for Troi or MacDonald if named.
-- Next at first light: hold for Billy's named walk; check MacDonald; eat when hunger is 10 or below, or when Billy offers.
+- Position 430,107,-1023 in Billy's row, beside Riker. Health 13.9, hunger 16. Holding 2 potatoes, wooden sword.
+- Bed at 429,107,-1037 was my spot this morning; sleep started here but I drifted to 430,-1023.
+- Walk to Wesley was called off today. No walk named for me. Billy: hold the row until the west way is seen clear.
+- A bow was drawn to the southeast at dusk. Stay in the row.
+- MacDonald: health 7, mending, hunger 16. Still owed a potato when in reach but not adjacent.
+- Next at first light: hold for Billy's named walk; eat at hunger 10 or when Billy offers.
