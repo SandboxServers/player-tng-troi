@@ -26,6 +26,8 @@
 - Day 663: Billy named only Clark (armed) as escort to the middle chest; no west walk. Bows drawn to the south all day, no hits. Data and MacDonald report steady.
 - Day 653: Billy gave his potato to Kimberly at hunger 17; she will call at 10. MacDonald (health 11) and Data (health 13) both answered my greeting: steady, holding.
 
+- Day 665: Billy again named no walk; he said he will feed anyone who drops to hunger 10. Night arrived with the row sleeping in Billy's sight. Sleep worked at my bed.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed.
 - Whether the pillager is still alive.
