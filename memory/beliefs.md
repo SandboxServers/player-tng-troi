@@ -29,6 +29,8 @@
 - Day 666: no walk named again. Bows heard all night to the south and southeast; no hits. Sleep worked at my bed at dusk. MacDonald (health 11, hunger 16) and Data (health 13, hunger 17) report steady.
 - Day 665: Billy again named no walk; he said he will feed anyone who drops to hunger 10. Night arrived with the row sleeping in Billy's sight. Sleep worked at my bed.
 
+- Day 674: Billy named no walk again; anyone at hunger 10 or below to speak and be fed first. Sleep worked at my bed at night. Bows heard to the south all day, no hits.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed.
 - Whether the pillager is still alive.
