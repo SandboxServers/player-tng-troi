@@ -1,4 +1,4 @@
-# Goals, day 668 (night, ranked)
+# Goals, day 672 (night, ranked)
 
 1. Stay alive: never walk or sleep alone; stay in the group's sight; walk only in daylight, armed, when Billy names me. (Reason: arrows have killed row members on the south and west.)
 2. Eat at hunger 10 or below, or when Billy or Clark offers. Hunger is 16.
