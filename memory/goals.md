@@ -1,7 +1,7 @@
 # Goals, day 640 (night, ranked)
 
-1. Stay alive: never walk or sleep alone; stay in the group's sight; keep out of the south and west where bows are heard. Reason: Kimberly was hit from behind near 413,-1041 on day 640.
-2. Hold at my bed in Billy's row until Billy names a walk. Reason: Billy wants a verified west route first.
+1. Stay alive: never walk or sleep alone; stay in the group's sight; keep out of the south and west where bows are heard. Reason: bows sounded all day to the south and west.
+2. Hold at my bed in Billy's row until Billy names a walk. Reason: Billy wants the west route verified first.
 3. Eat at hunger 10 or below, or when Billy or Clark offers. Reason: hunger is 16.
 4. Potato: MacDonald (health 7) is weakest; Zack keeps the row's potatoes. Give only if clearly nearest in reach.
 5. Sword line: Laforge, MacDonald, Tommy, then me. I still hold my wooden sword.
