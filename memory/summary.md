@@ -1,8 +1,8 @@
-# Summary: Deanna Troi, end of day 634, asleep
+# Summary: Deanna Troi, end of day 635, asleep
 
 I am Deanna Troi, a counselor. Health 13.9, hunger 16. Holding 1 potato and a wooden sword.
 Where: my bed 429,107,-1023 in Billy's row, within sight of the group.
-Doing: holding for Billy's named walk. No walk named for me since day 620. The west way is still unverified. Bows drawn to the south all day 634, none near me.
+Doing: holding for Billy's named walk. No walk named for me since day 620. The west way is still unverified. Bows drawn to the south all day 635, none near me.
 Pending: eat at hunger 10 or when Billy or Clark offers. Check MacDonald when he is clearly nearest in reach; he keeps his potatoes for those without.
 
 Lessons:
