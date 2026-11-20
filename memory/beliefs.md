@@ -25,6 +25,8 @@
 
 - Day 649: Billy will not send anyone west of x=370 until a route is verified. MacDonald ate on his word and now holds five potatoes.
 
+- Day 650: Billy still names no walk. Bows heard to the south all day; none near the row. Dusk sleep at my bed worked.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed.
 - Whether the pillager is still alive.
