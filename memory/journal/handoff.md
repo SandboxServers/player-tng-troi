@@ -1,8 +1,7 @@
-# Handoff, day 618 (night)
+# Handoff, day 619 (dusk)
 
-- At my bed 430,107,-1051 in the row, in Billy's sight. Health 13.9 steady, hunger 16.
-- Holding 8 potatoes and a wooden sword.
-- Day 618: Billy named a walk for Riker only. No walk for me. Riker has his sword and is back at his bed.
-- MacDonald (health 5, hunger 17) at bed 415,107,-1037, holding for the night. My potatoes wait for him if he comes into my sight.
+- Going to bed 430,107,-1051 in the row, in Billy's sight. Health 13.9, hunger 16.
+- Holding 5 potatoes and a wooden sword. Gave MacDonald 4 potatoes (he was at health 5). Tommy and Wesley still have no food from me; I said I would give Tommy one when he is in my sight.
+- No walk named for me on day 619. Billy named none.
 - Dropped pack at 409,107,-1055: not until the pillager is dead and the group is with me.
-- Next: at first light, check position, hold for Billy's named walk. Call Billy at hunger 10.
+- Next: at first light, check position, hold for Billy's named walk. Call Billy at hunger 10. Give Tommy a potato when he is in sight.
