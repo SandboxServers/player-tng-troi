@@ -27,6 +27,8 @@
 - Billy named a walk for me on day 571 only as far as the row; on day 572 he named the walk to Riker with potatoes in hand.
 - Day 577: no walk named for me; I held at the row all day with the group in sight, and sleep at the row bed worked at dusk.
 
+- Day 616: Billy named no walk; no verified west route. Pillagers with crossbows reported south, about 15 blocks off. Holding at the bed and waiting is the safe course. Sleep at my bed worked at dusk.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed. Not known.
 - Whether the pillager is still alive. Not known.
