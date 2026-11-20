@@ -23,6 +23,7 @@
 - Day 647: Billy will not send anyone west of x=370 until a route is verified. Trini, Picard and Tommy offered to escort.
 - Day 649: MacDonald ate on Billy's word and now holds five potatoes.
 - Day 659: Sleep failed at morning ("not night") and worked at dusk, once partly (5 of 10) then again. Wesley reports cows at 339,104,-979, the first sheep-area lead.
+- Day 663: Billy named only Clark (armed) as escort to the middle chest; no west walk. Bows drawn to the south all day, no hits. Data and MacDonald report steady.
 - Day 653: Billy gave his potato to Kimberly at hunger 17; she will call at 10. MacDonald (health 11) and Data (health 13) both answered my greeting: steady, holding.
 
 ## Uncertain
