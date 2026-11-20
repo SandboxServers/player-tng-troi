@@ -1,6 +1,5 @@
-# Handoff, day 630 (dusk, sleeping)
+# Handoff, day 630 (night, asleep in bed)
 
-- Position 430,107,-1023, beside my bed at 429,107,-1023, in Billy's row. Health 13.9, hunger 16. Holding 1 potato, wooden sword.
-- Day 629-630: no walk named for me. Billy says the west route is unverified and bows are heard to the south. Held in sight all day.
-- Clark (William) holds potatoes for me and MacDonald; offered when I reach hunger 10.
-- Next at first light: hold for Billy's named walk; eat at hunger 10 or when Billy offers.
+- Position 430,107,-1023, in my bed at 429,107,-1023, Billy's row. Health 13.9, hunger 16. Holding 1 potato, wooden sword.
+- No walk named for me. Bows heard to the south and southeast. Tommy, Lewis and Data are also asleep in the row.
+- Next at first light: hold for Billy's named walk; eat at hunger 10 or when Billy or Clark offers.
