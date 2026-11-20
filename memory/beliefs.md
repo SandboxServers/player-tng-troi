@@ -23,6 +23,8 @@
 - Day 648: Lewis confirms no route west or Wesley seen since day 647. Morning sleep ended with dusk sleep at the bed; sleep worked.
 - Day 647: Billy still names no west walk; he wants a verified route west of x=370 and an armed escort. Trini, Picard and Tommy offered to escort. Lewis holds a potato for anyone hungry; nobody in reach needed mine.
 
+- Day 649: Billy will not send anyone west of x=370 until a route is verified. MacDonald ate on his word and now holds five potatoes.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed.
 - Whether the pillager is still alive.
