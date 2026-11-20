@@ -1,7 +1,7 @@
-# Handoff, day 642 (asleep)
+# Handoff, day 643 (dusk, going to sleep)
 
-- Asleep at my bed 430,107,-1023 in Billy's row. No errand, no damage.
-- No walk called. Stay at bed, in sight, until Billy names a walk.
-- Health 13.9, hunger 16, holding one potato and wooden sword. Eat at hunger 10 or when offered.
-- Open: whether the west way is verified; where sheep graze.
-- Next at first light: recall summary, status, wait.
+- At my bed 430,107,-1023 in Billy's row. No errand, no damage. Health 13.9, hunger 16.
+- Billy said no walk today; stay at bed, in sight, eat when hunger allows. West route still unverified.
+- Holding with Tommy, Lewis, Leonardo, Trini in the row. Bows heard to the south all afternoon.
+- Holding one potato and wooden sword.
+- Next at first light: recall summary, status, wait for Billy.
