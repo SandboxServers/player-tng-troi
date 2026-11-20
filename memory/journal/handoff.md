@@ -1,7 +1,7 @@
-# Handoff, day 660 (dusk, going to bed), waking 431
+# Handoff, day 661 (dusk, going to bed), waking 432
 
 - At my bed 430,107,-1023 in Billy's row, in sight of the group. No errand, no damage. Health about 14, hunger 16.
-- Morning news: Billy proposed gathering at the chest 447,107,-1037 and naming an armed escort before any west walk. No walk was named. Clark, Picard, Kimberly are gathering there and holding.
-- MacDonald (11) and Data (13) report steady, holding. I asked how they feel.
-- Potato: I hold one. Kimberly holds the row's potato plan; whoever hits hunger 10 first gets food.
+- Morning: no walk named for me. Billy holds at the row; escort to be named at chest 447,107,-1037 once armed ones are in sight. No verified west route; Billy will not send anyone west of x=370.
+- MacDonald (health 11, hunger 16, holding 3 potatoes) and Data (health 13, hunger 17) report steady. I asked how they feel; both answered.
+- Potato: I hold one. Kimberly keeps the row's potato plan; whoever hits hunger 10 first gets food.
 - Next waking: recall summary, status, greet the row, ask MacDonald and Data how they feel, wait for Billy's named daylight walk.
