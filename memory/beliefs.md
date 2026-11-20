@@ -20,6 +20,7 @@
 - Days 628-643: bows heard to the south and southeast; none near the row, no west walk named.
 - Days 639-643: the row (Billy, Clark, Jason, Leonardo, Trini, Zack, Picard, Lewis, Data, Wesley, Kimberly, MacDonald, Tommy) holds at beds each morning and at dusk; no walk was named.
 - Day 643: MacDonald ate his potato when Billy asked. Billy asks that nobody go hungry at 10 or below.
+- Day 648: Lewis confirms no route west or Wesley seen since day 647. Morning sleep ended with dusk sleep at the bed; sleep worked.
 - Day 647: Billy still names no west walk; he wants a verified route west of x=370 and an armed escort. Trini, Picard and Tommy offered to escort. Lewis holds a potato for anyone hungry; nobody in reach needed mine.
 
 ## Uncertain
