@@ -1,8 +1,8 @@
-# Handoff, day 612 (night, going to sleep)
+# Handoff, day 613 (dusk, going to sleep)
 
 - At my bed 430,107,-1051 in the row, in Billy's sight. Health 13.9, hunger 16.
 - Holding 8 potatoes and a wooden sword.
-- Billy named no route on day 612; no walk for me. Hold at bed.
+- Billy named no walk on day 613. Hold at bed.
 - Call Billy at hunger 10.
 - Dropped pack at 409,107,-1055: not until the pillager is dead and the group is with me.
 - Next: at first light, check position, hold for Billy's named walk, eat or call Billy at hunger 10.
