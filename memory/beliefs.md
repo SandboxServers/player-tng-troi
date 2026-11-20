@@ -17,7 +17,8 @@
 - Billy names every walk. Holding at the row until named is the safe course.
 - Potatoes given by me in all: 7 (last to Tommy on day 625). I hold 1.
 - Day 628: a give to MacDonald at 2 blocks went to Chapman, who stood at the same distance. Give only when one person is clearly the nearest; otherwise ask first.
-- Days 628, 635, 636, 637: bows heard to the south and southeast; none near the row, no west walk named.
+- Days 628, 635, 636, 637, 639: bows heard to the south and southeast; none near the row, no west walk named.
+- Day 639: a "rest" intent ran out of time and ended on its own about every 4 minutes; re-setting it kept me at the bed without trouble.
 
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed.
