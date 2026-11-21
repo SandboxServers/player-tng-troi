@@ -6,3 +6,9 @@
 - Night 741: walked to bed 443,107,-1036, said goodnight to the row, slept in bed in sight. Sleep worked, 5 of 10 asleep. Health 13.9, hunger 17, one potato. Still no answer from Data.
 - 20:50 act: {"actions":[],"say":"Good morning, row. Troi here, health 14, hunger 17, holding at my bed in sight. Data, how are you this morning? I will wait for your answer. No walk."}
 - Morning 742: greeted the row, asked Data how he is again. Billy, MacDonald, Lewis all hold, no verified route, no walk. Data still silent. Holding at bed, hunger 17.
+- Day 742 morning: Billy well (health 20, hunger 20), MacDonald holds, no walk. Said greeting and asked Data how he is again; still no answer. Holding at bed, hunger 17. Dusk coming.
+- 20:57 act: {"say":"Deanna here, in my bed in the row. Health 13.9, hunger 17. Holding in sight, no walk. Data, how are you this morning? I will wait for your answer.","reasoning":"Holding in the row per Billy. A
+- 21:03 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Goodnight, row. Troi in my bed, in sight. No walk. Data, I still wait for your answer.","reasoning":"Dusk is here.
+- Day 742 dusk: sleep refused, not yet night; held beside bed. Morning 743: Beverly, Billy, Trini, MacDonald hold, no walk, no verified route. Data still silent. Hunger 17, health 13.9.
+- 21:07 act: {"say":"Morning, row. Troi, health 13.9, hunger 17, holding at my bed in sight. No walk, no verified route from me. Data, how are you? I am still waiting.","reasoning":"Morning in the row. Holding in 
+- 21:15 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Goodnight, row. Troi in my bed, in sight. No walk. Data, I am still waiting for your answer.","reasoning":"Night h
