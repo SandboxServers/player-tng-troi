@@ -12,3 +12,5 @@
 - Day 742 dusk: sleep refused, not yet night; held beside bed. Morning 743: Beverly, Billy, Trini, MacDonald hold, no walk, no verified route. Data still silent. Hunger 17, health 13.9.
 - 21:07 act: {"say":"Morning, row. Troi, health 13.9, hunger 17, holding at my bed in sight. No walk, no verified route from me. Data, how are you? I am still waiting.","reasoning":"Morning in the row. Holding in 
 - 21:15 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Goodnight, row. Troi in my bed, in sight. No walk. Data, I am still waiting for your answer.","reasoning":"Night h
+- 21:17 act: {"say":"Good morning, row. Deanna here at bed 443,107,-1036, health 13.9, hunger 17. Holding, no walk. Kimberly, how are you?
+- Waking 568, day 743 morning. Kimberly answered: health 15, hunger 17, beside Billy, holding, no walk. Data still silent. Holding at bed in sight; will tell Billy at hunger 10.","reasoning":"Morning greeting; hold in sight, ask Kimberly how she is and
