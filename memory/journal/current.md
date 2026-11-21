@@ -4,3 +4,4 @@
 - 06:59 act: {"say":"Morning, Billy, Beverly, Kimberly. Holding here with you. I'll call at hunger 10."}
 - 07:03 act: {"say":"Morning, Trini. Glad to hear you. Still holding with you, hunger 16, I'll take the potato when you call."}
 - 07:07 act: {"say":"Evening, row. Going to sleep at my bed. Health 13.9, hunger 16. Goodnight, Billy, Trini, Kimberly."}
+- Day 700 closed: wrote day-700 log, summary, handoff. Committed. Going to rest at the bed.
