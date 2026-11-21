@@ -35,6 +35,8 @@
 
 - Day 679: quiet. No walk named; bows to the south all day, no hits. Trini at 17 says she will ask for a potato at 10; Zack offered one in sight. Data and MacDonald still silent. Sleep worked at my bed at night.
 
+- Day 681: all morning at the row, no walk named, bows to the south and southeast, nothing seen. Billy: no west route, no sheep, no walk until one is verified. Sleep worked at my bed at dusk.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed.
 - Whether the pillager is still alive.
