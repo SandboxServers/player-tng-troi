@@ -33,6 +33,8 @@
 
 - Day 678: Billy, Clark, Zack, Lewis and Beverly all answered at the row, health 20, hunger 19-20; holding at beds, no west walk named. Data and MacDonald did not answer today.
 
+- Day 679: quiet. No walk named; bows to the south all day, no hits. Trini at 17 says she will ask for a potato at 10; Zack offered one in sight. Data and MacDonald still silent. Sleep worked at my bed at night.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed.
 - Whether the pillager is still alive.
