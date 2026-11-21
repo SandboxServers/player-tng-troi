@@ -1,6 +1,6 @@
 # Goals, day 691 (night, ranked)
 
-1. Stay alive: never walk or sleep alone; stay in the group's sight; walk only in daylight, armed, when Billy names me. Bows still sound to the south and southeast, and once to the west. (Reason: no hits yet, but two of the row died to arrows.)
+1. Stay alive: never walk or sleep alone; stay in the group's sight; walk only in daylight, armed, when Billy names me. Bows still sound to the south and southeast. (Reason: no hits yet, but two of the row died to arrows.)
 2. Eat at hunger 10 or below, or when Billy or Trini offers. Hunger is 16. (Reason: health does not regenerate while hunger is low.)
 3. Potato: I hold one. Offer it to Trini at hunger 10. (Reason: Trini asked to be first.)
 4. Ask Data and MacDonald how they feel each waking. (Reason: neither has answered yet.)
