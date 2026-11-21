@@ -1,6 +1,7 @@
-# Handoff, day 547 night
+# Handoff, day 740 (slept, waking into day 741)
 
-- Slept at the bed 401,107,-1037, after reaching the row. 9 of 10 asleep at the last check.
-- Health 20, hunger 20. Unarmed, no food, nothing in hand.
-- No walk named by Billy. Hold at the row 415,107,-1041 in Billy's sight.
-- Next: on waking, check position and who is near. Ask for food at hunger 6 (Lewis gets first food). No walk until Billy names it in daylight.
+- Slept in my bed at 443,107,-1036 in Billy's row. Health 13.9, hunger 17, holding one potato and a wooden sword.
+- Row answers: all holding at beds; no verified route west, so no walk.
+- Data has still not answered how he is. Ask on waking and wait.
+- Billy will feed me at hunger 10; tell him when it reaches 10.
+- Next: greet the row, hold until Billy names a verified walk, keep to the bed in sight.
