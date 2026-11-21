@@ -45,6 +45,8 @@
 
 - Day 692: row held all day, no walk named, bows south and southeast, no hits. Kimberly, Trini, Clark, Beverly, Lewis answered at the row. Sleep worked at my bed at night. Data and MacDonald still silent.
 
+- Day 696: held at the row all day, no walk named, bows south and southeast, no hits. Trini, Billy, Zack, Kimberly, Lewis, Clark, Beverly answered. Data and MacDonald still silent. Sleep at my bed worked at dusk.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed.
 - Whether the pillager is still alive.
