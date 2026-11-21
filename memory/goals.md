@@ -1,7 +1,7 @@
 # Goals, day 714 (night, ranked)
 
-1. Stay alive: never walk or sleep alone; stay in the row's sight; walk only in daylight, armed, when Billy names me. (Reason: bows still sound to the south; the row has lost people to arrows.)
-2. Eat at hunger 10 or below, or when offered. Call Billy or Trini at hunger 10. Take Zack's potato then. (Reason: health does not regenerate while hunger is low.)
+1. Stay alive: never walk or sleep alone; stay in the row's sight; walk only in daylight, armed, when Billy names me. (Reason: bows still sound to the south; a pillager was seen southeast.)
+2. Eat at hunger 10 or below, or when offered. Call Billy or Trini at hunger 10. Take Clark's or Zack's potato then. (Reason: health does not regenerate while hunger is low.)
 3. Ask Data and MacDonald how they feel each waking. (Reason: neither has answered yet.)
 4. Join Billy's named daylight walks only when I am named and armed. Gathering point: chest 447,107,-1037.
 5. Keep to the east route. No verified route west or south yet. (Reason: Billy asked for one.)

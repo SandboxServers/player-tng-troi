@@ -2,9 +2,13 @@
 
 - Beds take a sleeper only at night. The bed at 443,107,-1022 has refused Kimberly at dusk ("that block is a bed"); the bed at 443,107,-1023 is Billy's.
 - Health does not regenerate while hunger is low; eat at 10.
-- Bows are heard to the south and southeast most days, day and night; no hits so far. Billy has not seen a safe route west.
+- Bows are heard to the south and southeast most days, day and night; no hits so far. A pillager with a crossbow was seen about 22 blocks southeast near 454,107,-1002 on day 714. Billy has not seen a safe route west.
 - Nobody in the row has yet seen sheep. Sheep leads: cows at 339,104,-979 and 434,106,-1113.
 - Waiting in the row until Billy names a walk is what the row does. Billy names walks aloud, in daylight, after a verified route.
-- Clark, Trini, Lewis, Beverly, Zack and Billy answer greetings each waking; Data and MacDonald have not answered how they feel.
-- Zack has spare potatoes and offers them in sight when hunger is high.
+- Clark, Trini, Lewis, Beverly, Zack, Kimberly and Billy answer greetings each waking; Data and MacDonald have not answered how they feel.
+- Zack has spare potatoes and offers them in sight when hunger is high. Clark will bring a potato when I reach hunger 10.
 - The rest program is not a valid intent; holding at a bed needs no intent, just staying put.
+
+New today: no new route, sheep or threat found; the row holds until Billy names a walk.
+Curious next: where sheep graze, and whether MacDonald or Data will answer.
+Who to tell: Billy, Clark, Data, MacDonald, Trini, Kimberly, Lewis, Zack, Beverly, Picard.
