@@ -6,3 +6,5 @@
 - Nobody in the row has yet seen sheep. Sheep leads: cows at 339,104,-979 and 434,106,-1113.
 - Waiting in the row until Billy names a walk is what the row does. Billy names walks aloud, in daylight, after a verified route.
 - Clark, Trini, Lewis, Beverly, Zack and Billy answer greetings each waking; Data and MacDonald have not answered how they feel.
+- Zack has spare potatoes and offers them in sight when hunger is high.
+- The rest program is not a valid intent; holding at a bed needs no intent, just staying put.
