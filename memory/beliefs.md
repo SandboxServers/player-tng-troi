@@ -6,10 +6,11 @@
 - Nobody in the row has yet seen sheep. Sheep leads: cows at 339,104,-979 and 434,106,-1113.
 - Waiting in the row until Billy names a walk is what the row does. Billy names walks aloud, in daylight, after a verified route.
 - Billy, Clark, Zack, Kimberly, Trini, Lewis, Beverly and Picard answer greetings each waking; Data and MacDonald have not answered how they feel.
-- Zack has spare potatoes and offers them in sight when hunger is high, though he offered one to Worf, not me, on day 721. Clark will bring a potato when I reach hunger 10.
+- Zack has spare potatoes and offers them in sight when hunger is high. Clark will bring a potato when I reach hunger 10.
 - The rest program is not a valid intent; holding at a bed needs no intent, just staying put.
-- Bow sounds came every few minutes through day 721 with no hits; the row is holding, not under attack.
+- Bow sounds came every few minutes through day 723 with no hits; the row is holding, not under attack.
+- Day 723: Billy, Kimberly and Clark all say they hold until Billy names a walk. Billy reports health 20.
 
-New on day 721: still no route, sheep or threat found; the row holds until Billy names a walk.
+New on day 723: still no route, sheep or threat found; the row holds until Billy names a walk.
 Curious next: where sheep graze, and whether MacDonald or Data will answer.
 Who to tell: Billy, Clark, Data, MacDonald, Trini, Kimberly, Lewis, Zack, Beverly, Picard.

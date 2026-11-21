@@ -1,4 +1,4 @@
-# Goals, day 721 (night, ranked)
+# Goals, day 723 (night, ranked)
 
 1. Stay alive: never walk or sleep alone; stay in the row's sight; walk only in daylight, armed, when Billy names me. (Reason: bows still drawn to the south and southeast.)
 2. Eat at hunger 10 or below, or when offered. Call Billy or Clark at hunger 10. (Reason: health does not regenerate while hunger is low.)
