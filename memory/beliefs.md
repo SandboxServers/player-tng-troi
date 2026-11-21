@@ -8,6 +8,7 @@
 - Clark, Trini, Lewis, Beverly, Zack, Kimberly and Billy answer greetings each waking; Data and MacDonald have not answered how they feel.
 - Zack has spare potatoes and offers them in sight when hunger is high. Clark will bring a potato when I reach hunger 10.
 - The rest program is not a valid intent; holding at a bed needs no intent, just staying put.
+- Bow sounds came every few minutes through day 715 with no hits; the row is holding, not under attack.
 
 New today: no new route, sheep or threat found; the row holds until Billy names a walk.
 Curious next: where sheep graze, and whether MacDonald or Data will answer.
