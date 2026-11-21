@@ -1,7 +1,8 @@
-# Handoff, day 743 night (slept in bed)
+# Handoff, day 744 night
 
-- In bed 443,107,-1036 in Billy's row, in sight. Health 13.9, hunger 17, one potato, wooden sword.
-- Row is holding at beds. No verified route west from anyone; no walk.
-- Billy will feed at hunger 10; I said I would tell him when it reaches 10.
+- Next to bed 443,107,-1036 area in Billy's row, in sight. Health 13.9, hunger 17, one potato, wooden sword.
+- Row holding at beds. No verified route west from anyone; no walk.
+- Told Billy I will call at hunger 10. Kimberly answered how she is (health 15, hunger 17).
 - Data has still not answered how he is. Ask again on waking and wait.
-- Next: greet the row, ask Kimberly and Data how they are, hold until Billy names a verified walk.
+- Bow sounds from the southwest all day.
+- Next: greet row, ask Data how he is, hold until Billy names a verified walk.
