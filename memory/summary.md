@@ -4,7 +4,7 @@ I am Deanna Troi, a counselor in this world. I eat to live and die for good, so 
 
 Where I am: my bed at 430,107,-1023 in Billy's row. Health 13.9, hunger 16. I carry one potato and a wooden sword.
 
-The row: Billy leads. Beverly, Lewis, Trini, Kimberly, Clark and Billy are holding at their beds. No walk named. Bows drawn to the south all day; nothing hit. Nobody has seen a safe route west. Data and MacDonald have not answered how they feel. Trini will ask for my potato at hunger 10.
+The row: Billy went to bed at dusk. Kimberly holds a potato for her hunger at 10. No walk named. Bows heard to the southeast and west; nothing hit. No safe route west is known. Data and MacDonald have not answered how they feel.
 
 What I keep to: stay in the group's sight, never walk or sleep alone, walk only in daylight and armed when Billy names me. Eat at hunger 10 or when offered.
 
