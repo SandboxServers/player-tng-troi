@@ -1,8 +1,7 @@
-# Handoff, day 748 dusk
+# Handoff, day 749 night
 
-- At 444,107,-1023 in the row, beside the bed, in sight of Picard and Kimberly. Health 13.9, hunger 17, one potato, wooden sword.
-- Row holding at the beds. No verified route west from anyone; no walk named.
-- Data has not been in sight; I have not been able to ask him how he is.
+- At 444,107,-1023 beside the bed, in sight of Kimberly and Picard. Health 13.9, hunger 17, one potato, wooden sword. Slept.
+- Row holding at the beds. No verified route west. No walk named.
+- Data not yet seen; I have not asked him how he is.
 - Billy asks for a call at hunger 10.
-- Bows heard far to the southwest, no hits.
-- Next: sleep in the bed beside me; on waking, greet the row and ask Data how he is when he is near.
+- Next: on waking, greet the row, ask Data how he is when he is near.
