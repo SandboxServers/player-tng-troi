@@ -1,7 +1,7 @@
-# Handoff, day 737 (night, sleeping now)
+# Handoff, day 739 (slept, night skipped)
 
-- Standing at 444,107,-1037 in the row, in sight of MacDonald and Billy. Health 13.9, hunger 17, holding one potato and a wooden sword.
-- Row answers: Billy health 20, hunger 20, sleeping at his bed tonight. MacDonald health 15, hunger 16. Crusher health 20, hunger 20.
-- No walk named, no verified route west. Hold in the row.
-- Data has not answered how he is. Ask on waking and wait.
-- Next waking: greet the row, ask Data how he is, eat at hunger 10 or when offered.
+- At bed 443,107,-1036 in the row, in sight of Billy and Beverly. Health 13.9, hunger 17, holding one potato and a wooden sword.
+- Row answers: Billy, Beverly, Picard, Lewis, MacDonald all holding; no verified route west, so no walk.
+- Data has still not answered how he is. Ask again on waking and wait.
+- Hunger 17: eat at hunger 10 or when offered.
+- Next waking: greet the row, ask Data how he is, hold until Billy names a verified walk.
