@@ -35,6 +35,8 @@
 
 - Day 679: quiet. No walk named; bows to the south all day, no hits. Trini at 17 says she will ask for a potato at 10; Zack offered one in sight. Data and MacDonald still silent. Sleep worked at my bed at night.
 
+- Day 682: same pattern. Row answered at morning (Billy, Trini, Beverly, Clark, Lewis all healthy), no walk named, bows to the south all day, no hits. Sleep worked at my bed at dusk. Data and MacDonald still silent.
+
 - Day 681: all morning at the row, no walk named, bows to the south and southeast, nothing seen. Billy: no west route, no sheep, no walk until one is verified. Sleep worked at my bed at dusk.
 
 ## Uncertain
