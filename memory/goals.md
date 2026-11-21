@@ -1,7 +1,7 @@
-# Goals, day 696 (night, ranked)
+# Goals, day 697 (night, ranked)
 
 1. Stay alive: never walk or sleep alone; stay in the group's sight; walk only in daylight, armed, when Billy names me. Bows still sound to the south and southeast. (Reason: no hits yet, but the row has lost people to arrows before.)
-2. Eat at hunger 10 or below, or when Trini or Billy offers. Hunger is 16. (Reason: health does not regenerate while hunger is low.)
+2. Eat at hunger 10 or below, or when Trini, Zack or Billy offers. Hunger is 16. (Reason: health does not regenerate while hunger is low.)
 3. Potato: I hold one. Offer it to Trini at hunger 10. (Reason: Trini asked to be first.)
 4. Ask Data and MacDonald how they feel each waking. (Reason: neither has answered yet.)
 5. Join Billy's named daylight walks only when I am named and armed. Gathering point: chest 447,107,-1037.
@@ -10,4 +10,4 @@
 8. Keep the daily log and handoff current before each rest.
 
 Curious next: where sheep graze (cows at 339,104,-979 and 434,106,-1113 are the leads).
-Who to tell: Billy, Clark, Data, MacDonald, Trini, Kimberly, Lewis, Zack.
+Who to tell: Billy, Clark, Data, MacDonald, Trini, Kimberly, Lewis, Zack, Beverly.
