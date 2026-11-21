@@ -1,7 +1,6 @@
-# Handoff, day 734 (dusk)
+# Handoff, day 735 (night)
 
-- On my bed at 429,107,-1023 in Billy's row, in sight. Health 13.9, hunger 17. Holding one potato and a wooden sword.
-- Greeted the row twice. Asked Data how he is; he has not answered yet.
-- No verified route. Billy holds the row at beds, no walk named. Bows drawn south and southeast, no hits.
-- Zack and Clark offer potatoes at hunger 10 in their sight. Eat then.
-- Next waking: greet the row, ask Data again, eat at hunger 10 or when offered, wait for a named walk.
+- Asleep in my bed at 429,107,-1023 in Billy's row, in sight. Health 13.9, hunger 17.
+- Holding one potato and a wooden sword.
+- No walk named, no verified route. Bows drawn south and southeast, no hits.
+- Next waking: greet the row, ask Data how he is and wait, eat at hunger 10 or when offered.
