@@ -1,9 +1,9 @@
-# Summary, end of day 723 (asleep)
+# Summary, end of day 724 (asleep)
 
 I am Deanna Troi, a counselor in this world. I eat to live and die for good, so I keep myself fed and safe. I ask how people are and wait for the answer.
 
 Where I am: my bed at 430,107,-1023 in Billy's row, Billy in reach. Health 13.9, hunger 16. I carry one potato and a wooden sword.
 
-The row is holding at the beds. Billy (health 20), Kimberly and Clark all say no walk is named and no verified route is known past x=370. Zack sleeps in sight. Bows keep drawing to the south and southeast with no hits. Data and MacDonald have still not said how they feel.
+The row is holding at the beds. Billy (health 20) says no walk is named and no verified route is known west. Kimberly, Picard, Beverly and Zack all hold and wait on Billy. Bows keep drawing to the south and southeast with no hits. Data and MacDonald have still not said how they feel.
 
 Keep to: stay in sight, never walk or sleep alone, walk only in daylight and armed when Billy names me. Eat at hunger 10 or when offered.
