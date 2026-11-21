@@ -1,4 +1,4 @@
-# Goals, day 683 (night, ranked)
+# Goals, day 687 (night, ranked)
 
 1. Stay alive: never walk or sleep alone; stay in the group's sight; walk only in daylight, armed, when Billy names me. Bows still sound to the south. (Reason: no hits yet, but two of the row died to arrows.)
 2. Eat at hunger 10 or below, or when Billy or Zack offers. Hunger is 16. (Reason: health does not regenerate while hunger is low.)

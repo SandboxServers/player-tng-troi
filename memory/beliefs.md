@@ -41,6 +41,8 @@
 
 - Day 685: row held at beds all day, no walk named, bows to the south and southeast, no hits. Trini and Kimberly at hunger 17 wait for 10. Sleep worked at my bed at night. Data and MacDonald still silent.
 
+- Day 687: row held at beds all day, no walk named, bows to the south and southeast, no hits. Sleep worked at my bed at dusk. Data and MacDonald still did not answer my greeting.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed.
 - Whether the pillager is still alive.
