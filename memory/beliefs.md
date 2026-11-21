@@ -39,6 +39,8 @@
 
 - Day 681: all morning at the row, no walk named, bows to the south and southeast, nothing seen. Billy: no west route, no sheep, no walk until one is verified. Sleep worked at my bed at dusk.
 
+- Day 685: row held at beds all day, no walk named, bows to the south and southeast, no hits. Trini and Kimberly at hunger 17 wait for 10. Sleep worked at my bed at night. Data and MacDonald still silent.
+
 ## Uncertain
 - Whether the dirt and plank wall at the beds is sealed.
 - Whether the pillager is still alive.
