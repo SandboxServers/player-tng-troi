@@ -1,6 +1,6 @@
-# Goals, day 703 (night, ranked)
+# Goals, day 704 (night, ranked)
 
-1. Stay alive: never walk or sleep alone; stay in the row's sight; walk only in daylight, armed, when Billy names me. Bows still sound to the south and southeast. (Reason: no hits yet, but the row has lost people to arrows before.)
+1. Stay alive: never walk or sleep alone; stay in the row's sight; walk only in daylight, armed, when Billy names me. Bows still sound to the south. (Reason: no hits yet, but the row has lost people to arrows before.)
 2. Eat at hunger 10 or below, or when Kimberly, Clark, Trini or Zack offers. Hunger is 16. (Reason: health does not regenerate while hunger is low.)
 3. Potato: I hold one. Offer it to Trini or Kimberly at hunger 10. (Reason: the row shares by call-out.)
 4. Ask Data and MacDonald how they feel each waking. (Reason: neither has answered yet.)
