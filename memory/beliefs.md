@@ -11,6 +11,8 @@
 - Bow sounds came every few minutes through days 726 to 731 with no hits; the row is holding, not under attack.
 - Day 731: I learned that the row's beds are at 429,107,-1022/-1023 and 429,107,-1037. Billy sleeps at 429,107,-1037.
 
+- Day 736: use on a white bed failed ("that block is a bed") at dusk, but goto beside my bed at 429,107,-1023 and sleep worked. Sleep works from beside a bed.
+
 New on day 731: still no route, sheep or threat found; the row holds until Billy names a walk.
 Curious next: where sheep graze, and whether MacDonald or Data will answer.
 Who to tell: Billy, Clark, Data, MacDonald, Trini, Kimberly, Lewis, Zack, Beverly, Picard.
