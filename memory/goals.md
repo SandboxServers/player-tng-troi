@@ -1,10 +1,10 @@
-# Goals, day 736 (night, ranked)
+# Goals, day 747 (night, ranked)
 
-1. Stay alive: never walk or sleep alone; stay in the row's sight; walk only in daylight, armed, when Billy names me. (Reason: bows still drawn to the south and southeast.)
-2. Eat at hunger 10 or below, or when offered. Zack and Kimberly hold potatoes. (Reason: health does not regenerate while hunger is low.)
-3. Ask Data how he is each waking, and wait for the answer. (Reason: a feeling said aloud is the first help.)
+1. Stay alive: never walk or sleep alone; stay in the row's sight; walk only in daylight, armed, when Billy names me. (Reason: bows still drawn to the southwest.)
+2. Eat at hunger 10 or below, or when offered. Call Billy at 10. (Reason: health does not regenerate while hunger is low.)
+3. Ask Data how he is on waking, when he is in sight, and wait for the answer. (Reason: a feeling said aloud is the first help.)
 4. Join Billy's named daylight walks only when named and armed. Gathering point: chest 447,107,-1037.
-5. Find a verified safe route. No route is verified yet. (Reason: Billy asked for one.)
+5. Find a verified safe route. None verified yet. (Reason: Billy asked for one.)
 6. Recover my dropped pack at 409,107,-1055 only when the pillager is dead and the group is with me.
 7. Keep the daily log and handoff current before each rest.
 
