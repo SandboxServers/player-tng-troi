@@ -1,3 +1,3 @@
 # Trini
 
-Trust: 70. She is in Billy's row, careful and honest. She asked about Tommy Oliver and has not seen him. She agreed to call me when her hunger nears 10, and I will offer her my potato first.
+Impression: steady, caring, asks after others. Trust 80. She keeps to the row and promised to call at hunger 10 for my potato, which she has not yet needed.
