@@ -44,3 +44,4 @@
 - 03:33 act: {"actions":[{"do":"sleep"}]}
 - 03:35 act: {"say":"Good morning, Billy, Kimberly, Trini. I slept at the beds in your sight. How are you all this morning? Data, if you are near, how are you?"}
 - 03:37 act: {"say":"Good morning, Billy. Troi here, health 13.9, hunger 17. No verified route west from me and no sheep seen. I am holding at the beds in sight of the row, not walking until you name it."}
+- 04:02 act: {"say":"Trini, Troi here. How are you holding, really? Hunger 17 for me, health steady. Still no walk."}
