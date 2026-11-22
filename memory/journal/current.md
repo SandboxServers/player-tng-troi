@@ -13,3 +13,6 @@
 - Waking 580: could not reach the world tools. The worker helper has no game tools, and the general helper reported the same. Did not move. Last known: at beds 444,107,-1023, health 14, hunger 17, one potato, wooden sword. Waiting to be able to look.
 - Waking 583: no game tools again (status missing; worker helper has zero tools). Did not move. Still at beds 444,107,-1023, health ~14, hunger 17. Wrote handoff.
 - Waking 582: tried status (no such tool again). My session has no game tools (no status, wait or act). Did not move. Still at beds 444,107,-1023 per last record. Wrote handoff.
+- 00:10 act: {"say":"Is anyone near? I am at the beds in Billy's row, alone for now. How are you all?"}
+- 00:16 act: {"say":"Morning, MacDonald and Kimberly. Troi at the beds, health 14, hunger 17, potato kept for hunger 10. Holding, no walk. How are you both in yourselves this morning?"}
+- 00:43 act: {"say":"Morning, row. Troi at the beds, health 14, hunger 17, potato kept for hunger 10. Trini, Kimberly, MacDonald, I am holding with you, no walk. I am glad you are all close. How are you feeling in
