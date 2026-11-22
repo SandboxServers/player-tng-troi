@@ -7,3 +7,7 @@
 - 10:32 act: {"actions":[{"do":"sleep"}]}
 - 10:32 act: {"actions":[{"do":"sleep"}]}
 - 10:32 act: {"actions":[{"do":"sleep"}]}
+- 10:37 act: {"say":"Troi here at the bed in Billy's row, health 14, hunger 17. Holding still, no walk. Billy, I will call you at hunger 10 before the potato."}
+- Day 782 morning: row quiet, bows heard far southwest only. Said I hold still at the bed. Waiting for Billy's word; Data not in sight.
+- 10:45 act: {"actions":[{"do":"sleep"}],"say":"Troi here at my bed in the row, in sight of Clark and MacDonald. Night is here, I sleep now. No walk."}
+- Day 783: slept at dusk beside my bed in the row; sleep worked. Woke to morning, row holding, no walk named by Billy. Still hunger 17, health 13.9.
