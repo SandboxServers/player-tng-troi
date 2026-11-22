@@ -104,3 +104,5 @@
 - 19:30 act: {"actions":[{"do":"sleep"}]}
 - 19:30 act: {"actions":[{"do":"note","text":"Slept at night 809 in the row's sight; sleep worked. Hunger 17, health 13.9. Still holding for Billy's word and for Worf; no walk."}]}
 - 19:38 act: {"say":"Troi here at the white beds, health 14, hunger 17, two potatoes. Holding for Billy's word. Worf, if you are near, say so.","actions":[]}
+- 19:43 say: {"text":"Night, row. Deanna here, health 14, hunger 17. Kimberly, I see you beside me."}
+- Day 809 night: woke in the row beside the white bed, Kimberly in reach, Billy spoke (holding 3 potatoes for Worf). Hunger 17, health 13.9, 2 potatoes kept. Sleep partly worked; held still, no walk.
