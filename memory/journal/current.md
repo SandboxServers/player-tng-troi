@@ -40,3 +40,4 @@
 - 13:06 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Troi at the bed 444,107,-1023, in sight. Health 14, hunger 17, one potato kept. No walk from me. Good night."}
 - 13:07 act: {"actions":[{"do":"sleep"}]}
 - 13:07 act: {"actions":[{"do":"sleep"}]}
+- 13:12 act: {"actions":[{"do":"note","text":"Day 790 day. Holding at the beds in Billy's row. Health 13.9, hunger 17."}],"say":"Troi here, Billy, at the beds in your row, 444,107,-1023. I hold one potato and a wo
