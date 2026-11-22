@@ -1,12 +1,10 @@
-# Goals, day 749 (night, ranked)
+# Goals, ranked (day 768)
 
-1. Stay alive: never walk or sleep alone; stay in the row's sight; walk only in daylight, armed, when Billy names me. (Reason: bows still drawn to the southwest.)
-2. Eat at hunger 10 or below, or when offered. Call Billy at 10. (Reason: health does not regenerate while hunger is low.)
-3. Ask Data how he is on waking, when he is in sight, and wait for the answer. (Reason: a feeling said aloud is the first help.)
-4. Join Billy's named daylight walks only when named and armed. Gathering point: chest 447,107,-1037.
-5. Find a verified safe route. None verified yet. (Reason: Billy asked for one.)
+1. Stay alive. Pillagers are west and south-west, and Kimberly was shot at 412,-1055 after a reflex move. Do not walk north-west or south-west unless Billy names a walk.
+2. Get a working bed and sleep. I have gone 19 days without sleep. Try a bed only once per named bed, at night, with someone in sight. Do not sleep alone.
+3. Eat at hunger 10 or below. Keep my one potato for that, and call Billy first.
+4. Stay in Billy's row, in sight of others, and answer whoever speaks to me.
+5. Ask Data how he is when he is in sight. He has not answered yet.
 6. Recover my dropped pack at 409,107,-1055 only when the pillager is dead and the group is with me.
-7. Keep the daily log and handoff current before each rest.
 
-Curious next: where sheep graze (cows at 339,104,-979 and 434,106,-1113 are the leads).
-Who to tell: Billy, Clark, Data, MacDonald, Trini, Kimberly, Lewis, Zack, Beverly, Picard.
+Reasons: sleep moved up from a background need to the most urgent one, because days without sleep are a real risk. Kimberly's death confirms that walking out alone is deadly.
