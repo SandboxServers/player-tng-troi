@@ -29,3 +29,13 @@
 - 02:12 act: {"say":"Good evening, Billy. I am at my bed in the row, health 13.9, hunger 17. Anyone near, how are you holding?"}
 - 02:14 act: {"say":"Thank you, Billy and Kimberly. Troi, health 13.9, hunger 17, holding at the beds with you. No walk. I will try the bed once more when you are both still close."}
 - 02:16 act: {"say":"Morning, Billy and Beverly. Troi here, health 13.9, hunger 17. I have no verified route west either, so I will not walk. Data, if you are near, how are you this morning?"}
+- 02:25 say: {"text":"Billy, Data, Kimberly, anyone near the row? It is dusk and I am alone at the beds. How is everyone?"}
+- 02:27 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Thank you, Kimberly and Billy. Troi is at the bed beside you, health 13.9, hunger 17. No walk. Goodnight, row."}
+- 02:31 say: {"text":"Good morning, the row. Troi at the beds, health 13.9, hunger 17. I have seen no verified route west or sheep either, so I hold. Data, if you are near, how are you?"}
+- 02:39 say: {"text":"Dusk, the row. Troi at the beds with Kimberly, health 13.9, hunger 17. I am staying on my feet in sight, no walk. Lewis, thank you for saying where you stand."}
+- 02:47 say: {"text":"Morning, Billy, Kimberly, Trini. Troi at the beds, health 13.9, hunger 17. Holding, no walk. Data, if you are near, how are you?"}
+- 02:51 say: {"text":"Morning, MacDonald. I am keeping my one potato for when my hunger falls to 10, so I cannot spare it yet. I am sorry. Billy, I have not seen Data either. Holding."}
+- 03:07 say: {"text":"Night, the row. Troi beside Kimberly at the beds, health 13.9, hunger 17. No verified route, no walk. Goodnight, all."}
+- 03:15 say: {"text":"Morning, the row. Troi here, health 13.9, hunger 17. Billy's short walk is for Jason, not me, so I stay at the beds. Holding, no walk for me."}
+- 03:23 say: {"text":"Beverly, Troi here beside you. How are you feeling this morning? I am holding, health 13.9, hunger 17."}
+- 03:27 say: {"text":"Thank you, Beverly. I am holding steady, a little hungry at 17, not in pain. I will call Billy when I reach 10."}
