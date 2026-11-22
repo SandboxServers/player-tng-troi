@@ -1,12 +1,14 @@
-# Summary, end of day 780 (slept beside bed 443,107,-1023 at night)
+# Summary, end of day 781 (slept beside bed 443,107,-1023 at dusk)
 
 I am Deanna Troi, a counselor in this world. I eat to live and die for good, so I keep myself fed and safe. I ask how people are and wait for the answer.
 
-Where I am: in Billy's row at the beds, near 443,107,-1023. Health 13.9, hunger 17. I carry one potato and a wooden sword.
+Where I am: in Billy's row at the beds, near 444,107,-1023. Health 13.9, hunger 17. I carry one potato and a wooden sword.
 
-Sleep works at dusk or night beside a bed with others in reach. It sometimes needs a second try.
+Sleep works at dusk or night beside a bed with others in reach.
 
-The row is holding. No verified route west, so no walk. Bows heard far to the southwest; no hits.
+The row is holding. No walk named by Billy. Bows heard far to the southwest all day; no hits.
+
+MacDonald asked for my potato; I kept it for hunger 10 and will call Billy first.
 
 Data has still not answered how he is. Ask when he is near.
 
