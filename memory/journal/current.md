@@ -1,4 +1,5 @@
 # Journal
+- Day 790 day: held at the bed in Billy's row, health 13.9, hunger 17. Said hello and asked Data how he is. No walk named. Bows heard far southwest only.
 - 10:32 say: {"text":"Troi here, beside the bed at 444,107,-1023. Health 13.9, hunger 17. Night is here, I sleep now in the row's sight. Data, how are you?"}
 - 10:32 act: {"actions":[{"do":"sleep"}]}
 - 10:32 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}]}
@@ -41,3 +42,7 @@
 - 13:07 act: {"actions":[{"do":"sleep"}]}
 - 13:07 act: {"actions":[{"do":"sleep"}]}
 - 13:12 act: {"actions":[{"do":"note","text":"Day 790 day. Holding at the beds in Billy's row. Health 13.9, hunger 17."}],"say":"Troi here, Billy, at the beds in your row, 444,107,-1023. I hold one potato and a wo
+- 13:17 say: {"text":"Troi here at the row, bed 444,107,-1023. Health 14, hunger 17. Holding for Billy's word. Data, how are you?"}
+- 13:21 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Troi going to sleep at the bed, in Billy's sight. Hunger 17, no walk from me."}
+- 13:21 act: {"actions":[{"do":"sleep"}]}
+- 13:21 act: {"actions":[{"do":"sleep"}]}
