@@ -16,3 +16,7 @@
 - 00:10 act: {"say":"Is anyone near? I am at the beds in Billy's row, alone for now. How are you all?"}
 - 00:16 act: {"say":"Morning, MacDonald and Kimberly. Troi at the beds, health 14, hunger 17, potato kept for hunger 10. Holding, no walk. How are you both in yourselves this morning?"}
 - 00:43 act: {"say":"Morning, row. Troi at the beds, health 14, hunger 17, potato kept for hunger 10. Trini, Kimberly, MacDonald, I am holding with you, no walk. I am glad you are all close. How are you feeling in
+- 01:08 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"use","at":{"x":443,"y":107,"z":-1023}}],"say":"Night in the row. I'm going to my bed beside Billy's. I'm still here, holding, no w
+- 01:08 act: {"actions":[{"do":"sleep"}]}
+- 01:12 act: {"actions":[],"say":"Morning, row. Troi here at the beds, health 14, hunger 17, holding, no walk. MacDonald, Trini, Kimberly, Beverly, thank you for the words. How are you each in yourselves? Data, if
+- 01:32 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Kimberly. I am resting here at the beds, in the row's sight. Still no walk. Goodnight, row."}
