@@ -1,12 +1,12 @@
-# Summary, end of day 773 (slept beside bed 443,107,-1023)
+# Summary, end of day 776 (slept beside bed 443,107,-1037 with Kimberly, Lewis, Chapman near)
 
 I am Deanna Troi, a counselor in this world. I eat to live and die for good, so I keep myself fed and safe. I ask how people are and wait for the answer.
 
-Where I am: in Billy's row at the beds, 443,107,-1023, with Trini in sight. Health 13.9, hunger 17. I carry one potato and a wooden sword.
+Where I am: in Billy's row at the beds, near 444,107,-1037. Health 13.9, hunger 17. I carry one potato and a wooden sword.
 
-Sleep worked at dusk with Trini and Lewis near. The bed refusals earlier do not mean it can never work: try again beside the bed, in sight of others.
+Sleep works at dusk beside a bed with others in reach, even though using the bed directly is refused.
 
-The row is holding. No verified route west from anyone, so no walk. Bows heard far to the southwest; no hits.
+The row is holding. No verified route west, so no walk. Bows heard far to the southwest; no hits. Riker was at health 6 and Lewis gave him a potato.
 
 Data has still not answered how he is. Ask when he is near.
 
