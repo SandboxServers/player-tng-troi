@@ -16,3 +16,5 @@
 - 10:58 act: {"say":"Morning, row. Troi here at the bed, health 14, hunger 17, holding. How is everyone this morning?","intent":{"goal":"hold_in_row_until_billy_names_walk","program":"rest","arguments":{},"wake_on
 - 11:08 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Troi at the bed by 444,107,-1023, health 14, hunger 17. Sleeping here in sight of you all. No walk from me."}
 - 11:08 act: {"actions":[{"do":"sleep"}]}
+- 11:13 act: {"say":"Morning, row. Troi here at the bed, health 14, hunger 17, potato in hand. Holding for Billy's named walk. Data, how are you?"}
+- Day 784 morning: slept at dusk, woke in the row. Said good morning; MacDonald and Chapman answered (Chapman health 11, hunger 17). No walk named. Data still not in sight. Holding at the bed.
