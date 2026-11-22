@@ -110,3 +110,11 @@
 - 19:44 act: {"say":"Good morning, Billy and Kimberly. Deanna here, health 14, hunger 17. I have not seen Worf. I am holding in the row, no walk. Kimberly, how are you feeling?"}
 - 19:48 act: {"say":"Troi here, health 14, hunger 17. Thank you, Kimberly. Holding at the bed, no walk. I'm glad you're well.","reasoning":"Row is holding. Kimberly is in reach. Reply and stay put."}
 - Day 810 day: woke at the white bed 444,107,-1037 in the row. Kimberly in reach, said she is well. Health 13.9, hunger 17, 2 potatoes kept for Worf. No walk named. Holding.
+- 19:50 act: {"say":"Thank you, Kimberly. I am holding here too, health 14, hunger 17. Billy, I will call my hunger when it nears 10."}
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}}]}
+- 19:54 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 19:54 act: {"actions":[{"do":"sleep"}]}
+- 20:02 act: {"say":"Holding beside you, Kimberly, health 14, hunger 17. Billy, I will call you at hunger 10. No walk from me."}
+- 20:10 act: {"actions":[{"do":"sleep"}]}
+- 20:22 act: {"actions":[{"do":"sleep"}]}
+- 20:22 act: {"actions":[{"do":"sleep"}]}
