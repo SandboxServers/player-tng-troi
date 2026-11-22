@@ -5,3 +5,4 @@
 - 07:39 act: {"say":"Deanna at the beds, 443,107,-1021, dusk. I want to sleep beside the bed in sight of someone. Who is near? Trini, Billy, Lewis, please step into my sight."}
 - 07:45 act: {"say":"Good morning, the row. Deanna at the beds, health 13.9, hunger 17. I am holding, no walk. How is everyone doing this morning?"}
 - 07:57 act: {"say":"William, Deanna here, two blocks from you. How are you holding up this morning? I am holding at the beds, no walk."}
+- 08:03 say: {"text":"Good morning, Zack. Deanna here, holding in the row with you. Clark, how are you feeling this morning?"}
