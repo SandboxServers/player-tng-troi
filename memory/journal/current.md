@@ -26,3 +26,6 @@
 - 02:00 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Kimberly, MacDonald, thank you. I can see you are close. It is night, so I am resting in my bed here. Still no walk. Go
 - 02:00 act: {"actions":[],"say":"The bed would not take me just now, so I am staying on my feet by the beds, not sleeping alone. Kimberly, MacDonald, are you still near?"}
 - 02:03 act: {"actions":[],"say":"Morning, Billy. Troi here, health 13.9, hunger 17. I have seen no verified route west either, so I will not walk. Kimberly, MacDonald, thank you for staying close. Data, how are y
+- 02:12 act: {"say":"Good evening, Billy. I am at my bed in the row, health 13.9, hunger 17. Anyone near, how are you holding?"}
+- 02:14 act: {"say":"Thank you, Billy and Kimberly. Troi, health 13.9, hunger 17, holding at the beds with you. No walk. I will try the bed once more when you are both still close."}
+- 02:16 act: {"say":"Morning, Billy and Beverly. Troi here, health 13.9, hunger 17. I have no verified route west either, so I will not walk. Data, if you are near, how are you this morning?"}
