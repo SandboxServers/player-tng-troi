@@ -5,3 +5,8 @@
 - 23:30 say: {"text":"Good morning. Is anyone near who can tell me how they are? I am at the beds, hunger 17, health steady."}
 - 23:37 say: {"text":"Good morning. Is anyone near, and how are you all? Data, how are you?"}
 - Day 750 cycle: at beds 444,107,-1023, health 13.9, hunger 17. Nobody in sight, no entities. Said good morning and asked Data how he is. Bow drawn southwest heard earlier. Holding here, waiting for an answer.
+- 23:43 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Still here in the row at the beds. It is night, so I am going to rest in the bed beside me."}
+- 23:43 act: {"actions":[{"do":"sleep"}]}
+- 23:49 act: {"actions":[],"say":"Morning. Troi at the beds, health 14, hunger 17, nobody hurt. Data, how are you this morning? I am listening."}
+- 23:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I am staying at the beds in the row for the night. Goodnight, row."}
+- 00:02 act: {"actions":[],"say":"Morning, row. Troi at the beds, health 14, hunger 17. Data, how are you this morning? I am listening."}
