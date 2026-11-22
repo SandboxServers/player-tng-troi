@@ -11,3 +11,5 @@
 - Day 782 morning: row quiet, bows heard far southwest only. Said I hold still at the bed. Waiting for Billy's word; Data not in sight.
 - 10:45 act: {"actions":[{"do":"sleep"}],"say":"Troi here at my bed in the row, in sight of Clark and MacDonald. Night is here, I sleep now. No walk."}
 - Day 783: slept at dusk beside my bed in the row; sleep worked. Woke to morning, row holding, no walk named by Billy. Still hunger 17, health 13.9.
+- 10:53 act: {"say":"Morning, row. Troi here at the bed, health 14, hunger 17, potato in hand. Holding for Billy's named walk. Data, how are you this morning?"}
+- 10:57 act: {"actions":[{"do":"sleep"}]}
