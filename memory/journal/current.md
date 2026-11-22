@@ -63,3 +63,4 @@
 - 06:31 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}}]}
 - 06:47 act: {"say":"Good morning, the row. A trader is beside me, and I have nothing to trade but one potato, which I keep for hunger 10. Holding here with Trini.","actions":[]}
 - 07:00 act: {"say":"Good morning, Trini. Troi here, holding beside you at 444,107,-1022. How are you feeling, truly? I am still waiting for Billy's word on the beds.","intent":{"goal":"hold_in_row","program":"res
+- 07:10 act: {"say":"Trini, I am still here beside you. How are you holding up?"}
