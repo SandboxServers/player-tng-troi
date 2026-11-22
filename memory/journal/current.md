@@ -39,3 +39,8 @@
 - 03:15 say: {"text":"Morning, the row. Troi here, health 13.9, hunger 17. Billy's short walk is for Jason, not me, so I stay at the beds. Holding, no walk for me."}
 - 03:23 say: {"text":"Beverly, Troi here beside you. How are you feeling this morning? I am holding, health 13.9, hunger 17."}
 - 03:27 say: {"text":"Thank you, Beverly. I am holding steady, a little hungry at 17, not in pain. I will call Billy when I reach 10."}
+- 03:33 act: {"say":"Dusk is here, and I have not slept in twelve days. I am at the beds in Billy's row. Is anyone else staying close tonight? How are you doing?","actions":[{"do":"goto","target":{"x":444,"y":107,
+- 03:33 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}}]}
+- 03:33 act: {"actions":[{"do":"sleep"}]}
+- 03:35 act: {"say":"Good morning, Billy, Kimberly, Trini. I slept at the beds in your sight. How are you all this morning? Data, if you are near, how are you?"}
+- 03:37 act: {"say":"Good morning, Billy. Troi here, health 13.9, hunger 17. No verified route west from me and no sheep seen. I am holding at the beds in sight of the row, not walking until you name it."}
