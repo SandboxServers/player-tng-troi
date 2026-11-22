@@ -1,15 +1,1 @@
 # Journal
-- 08:33 act: {"actions":[{"do":"note","text":"Waking 604, night, row at 443,107,-1023. Hunger 17, health 13.9. Holding in sight of the row. Sleeping beside the bed with others near."}],"say":"Troi here, health 14,
-- 08:33 act: {"say":"Morning, row. Troi here, health 13.9, hunger 17. William, how are you holding up this morning?","reasoning":"Safe in the row, in sight of others. Hold position, greet, and ask William how he i
-- 08:45 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Troi going to sleep by the bed, still in sight. Good night."}
-- 08:46 act: {"say":"Evening, MacDonald. Clark, how are you holding? I'm steady at 13.9, hunger 17, one potato kept for when Billy says.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["
-- 09:01 act: {"say":"Clark, how are you doing? I am holding in the row with you.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_da
-- 09:01 act: {"say":"Thank you, Clark. I am glad you are well. I am holding here too, health 13.9, and I will wait for Billy's word.","actions":[{"do":"wait","seconds":120}]}
-- 09:02 act: {"say":"Morning, William. Troi here, health 13.9, hunger 17. Holding in the row beside the beds, no walk. Billy, I am waiting for your word.","reasoning":"Hold in the row, in sight of others, as the g
-- 09:12 act: {"actions":[{"do":"sleep"}],"say":"Clark, I am going to sleep here by the beds. I am glad you are close."}
-- Dusk 778: slept beside bed 443,107,-1023 with Clark in reach. Sleep worked. Health 13.9, hunger 17, one potato kept for Billy.
-- 09:16 act: {"actions":[{"do":"wait","seconds":60}],"say":"Morning, row. Troi here, health 13.9, hunger 17. Holding at the beds, no walk. Billy, your word first."}
-- 09:28 act: {"actions":[{"do":"wait","seconds":120}],"say":"Troi at the beds, health 13.9, hunger 17. Holding here, no walk. Billy, when you call I will come."}
-- 09:43 act: {"say":"Good morning, row. Deanna here, health 13.9, hunger 17. Holding at my bed, in sight of you all. How is everyone doing?"}
-- Day 779 morning: health 13.9, hunger 17, held at bed in the row. Greeted the row and asked how everyone is. Bows still heard southwest, no walk named. Waiting for replies.
-- 09:47 act: {"actions":[{"do":"wait","seconds":240}],"say":"Chapman, I'm glad you're holding. Deanna, health 13.9, hunger 17, still at the beds. Billy, your word first."}
