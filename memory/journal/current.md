@@ -13,3 +13,6 @@
 - Day 783: slept at dusk beside my bed in the row; sleep worked. Woke to morning, row holding, no walk named by Billy. Still hunger 17, health 13.9.
 - 10:53 act: {"say":"Morning, row. Troi here at the bed, health 14, hunger 17, potato in hand. Holding for Billy's named walk. Data, how are you this morning?"}
 - 10:57 act: {"actions":[{"do":"sleep"}]}
+- 10:58 act: {"say":"Morning, row. Troi here at the bed, health 14, hunger 17, holding. How is everyone this morning?","intent":{"goal":"hold_in_row_until_billy_names_walk","program":"rest","arguments":{},"wake_on
+- 11:08 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Troi at the bed by 444,107,-1023, health 14, hunger 17. Sleeping here in sight of you all. No walk from me."}
+- 11:08 act: {"actions":[{"do":"sleep"}]}
