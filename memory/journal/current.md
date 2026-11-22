@@ -45,3 +45,12 @@
 - 03:35 act: {"say":"Good morning, Billy, Kimberly, Trini. I slept at the beds in your sight. How are you all this morning? Data, if you are near, how are you?"}
 - 03:37 act: {"say":"Good morning, Billy. Troi here, health 13.9, hunger 17. No verified route west from me and no sheep seen. I am holding at the beds in sight of the row, not walking until you name it."}
 - 04:02 act: {"say":"Trini, Troi here. How are you holding, really? Hunger 17 for me, health steady. Still no walk."}
+- 04:10 act: {"say":"Good morning, the row. Troi here at my bed, health 14, hunger 17, in sight of Trini and Billy. Holding, no walk. Trini, how are you in your feeling this morning?"}
+- 04:14 act: {"say":"Trini, thank you for asking. I am steady but tired, health 14, hunger 17. I hold in the row, no walk, and I will sleep in the bed beside you now that it is night.","actions":[{"do":"goto","tar
+- 04:14 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Goodnight, the row. Troi in my bed beside Trini, health 13.9, hunger 17. No walk."}
+- 04:14 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 04:18 act: {"say":"Morning, Billy, Trini, MacDonald, Beverly, Kimberly. Troi here beside Trini, health 13.9, hunger 17. No verified route west from me, no sheep. Holding, no walk. Data, if you are near, how are 
+- 04:38 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, the row. Troi trying my bed beside Trini now. Health 13.9, hunger 17. No walk. Goodnight."}
+- 04:38 act: {"say":"Billy, my bed at 443,107,-1023 refuses me even at dusk (\"that block is a bed\"). Could you name a bed for me in your sight? I will not sleep alone, and I will stay by Trini until then."}
+- 04:42 act: {"say":"Billy, Troi here. I am sorry. Pillagers were to the south. I am staying in the row by Trini, not moving, with my wooden sword in my pack."}
+- 04:58 act: {"actions":[],"say":"Morning, the row. Troi beside Trini, health 13.9, hunger 17. Holding, no walk. Billy, Kimberly, Zack, I hear you. Data, if you are near, how are you?"}
