@@ -1,9 +1,7 @@
-# Handoff, waking 593 (day 771)
+# Handoff, dusk 777 (waking 605 ending)
 
-- Place: 444,107,-1022 in Billy's row, beside the beds. Trini in sight at 443,107,-1023. Health 13.9, hunger 17. One potato, wooden sword.
-- Beds: both white beds (443,107,-1022 and 443,107,-1023) refused use ('that block is a bed'). Do not retry them the same way. Need Billy's word or another way to lie down.
-- Row holding: Trini, Kimberly (444,107,-1037), MacDonald (430,107,-1023), Zack, Beverly, Billy. No walk named. Bows heard far southwest, no hits.
-- A wandering trader came beside me once; no trade (I have nothing to trade).
+- Place: 443,107,-1021 in Billy's row, beside the beds. Clark (William) in reach. Health 13.9, hunger 17. One potato, wooden sword.
+- Row holding: Clark, Chapman, Kimberly, Crusher, MacDonald, Zack, Lewis, Riker. No walk named by Billy. Bows heard far southwest all day, no hits.
+- Going to sleep at dusk beside the bed in sight of others.
 - Data still not in sight; ask how he is when he is near.
-- Next: hold in the row, in sight. Eat the potato at hunger 10 after calling Billy. Do not sleep alone.
-- Goals unchanged.
+- Next: hold in the row, in sight. Eat the potato at hunger 10 after calling Billy.
