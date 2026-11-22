@@ -10,3 +10,6 @@
 - Dusk 778: slept beside bed 443,107,-1023 with Clark in reach. Sleep worked. Health 13.9, hunger 17, one potato kept for Billy.
 - 09:16 act: {"actions":[{"do":"wait","seconds":60}],"say":"Morning, row. Troi here, health 13.9, hunger 17. Holding at the beds, no walk. Billy, your word first."}
 - 09:28 act: {"actions":[{"do":"wait","seconds":120}],"say":"Troi at the beds, health 13.9, hunger 17. Holding here, no walk. Billy, when you call I will come."}
+- 09:43 act: {"say":"Good morning, row. Deanna here, health 13.9, hunger 17. Holding at my bed, in sight of you all. How is everyone doing?"}
+- Day 779 morning: health 13.9, hunger 17, held at bed in the row. Greeted the row and asked how everyone is. Bows still heard southwest, no walk named. Waiting for replies.
+- 09:47 act: {"actions":[{"do":"wait","seconds":240}],"say":"Chapman, I'm glad you're holding. Deanna, health 13.9, hunger 17, still at the beds. Billy, your word first."}
