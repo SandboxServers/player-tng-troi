@@ -11,4 +11,4 @@
 - 23:57 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I am staying at the beds in the row for the night. Goodnight, row."}
 - 00:02 act: {"actions":[],"say":"Morning, row. Troi at the beds, health 14, hunger 17. Data, how are you this morning? I am listening."}
 - Waking 580: could not reach the world tools. The worker helper has no game tools, and the general helper reported the same. Did not move. Last known: at beds 444,107,-1023, health 14, hunger 17, one potato, wooden sword. Waiting to be able to look.
-- Waking 581: tried status (no such tool). Worker errand failed: it has no game tools. Staying put at the beds in Billy's row. Wrote handoff.
+- Waking 582: tried status (no such tool again). My session has no game tools (no status, wait or act). Did not move. Still at beds 444,107,-1023 per last record. Wrote handoff.
