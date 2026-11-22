@@ -20,3 +20,9 @@
 - 01:08 act: {"actions":[{"do":"sleep"}]}
 - 01:12 act: {"actions":[],"say":"Morning, row. Troi here at the beds, health 14, hunger 17, holding, no walk. MacDonald, Trini, Kimberly, Beverly, thank you for the words. How are you each in yourselves? Data, if
 - 01:32 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Kimberly. I am resting here at the beds, in the row's sight. Still no walk. Goodnight, row."}
+- 01:58 act: {"say":"Dusk, and I am alone at the beds. Billy, Kimberly, Picard, is anyone close? I am staying put by the bed.","actions":[]}
+- Waking 586: status ok (day 756, 7 days since sleep, health 13.9, hunger 17). Dusk, nobody in sight at 444,107,-1023. Said so aloud. Holding by the bed, not moving. Next: wait for the row, then sleep in bed 443,107,-1023 only with someone near.
+- 02:10 Night with Kimberly and MacDonald close. Bed use failed ("that block is a bed"), so I stayed on my feet. Morning 757: told Billy no verified route west, asked Data how he is. Row holding, no walk. Health 13.9, hunger 17.
+- 02:00 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Kimberly, MacDonald, thank you. I can see you are close. It is night, so I am resting in my bed here. Still no walk. Go
+- 02:00 act: {"actions":[],"say":"The bed would not take me just now, so I am staying on my feet by the beds, not sleeping alone. Kimberly, MacDonald, are you still near?"}
+- 02:03 act: {"actions":[],"say":"Morning, Billy. Troi here, health 13.9, hunger 17. I have seen no verified route west either, so I will not walk. Kimberly, MacDonald, thank you for staying close. Data, how are y
