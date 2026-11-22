@@ -55,3 +55,6 @@
 - 04:42 act: {"say":"Billy, Troi here. I am sorry. Pillagers were to the south. I am staying in the row by Trini, not moving, with my wooden sword in my pack."}
 - 04:58 act: {"actions":[],"say":"Morning, the row. Troi beside Trini, health 13.9, hunger 17. Holding, no walk. Billy, Kimberly, Zack, I hear you. Data, if you are near, how are you?"}
 - 05:06 act: {"actions":[],"say":"Dusk, Billy and the row. Troi beside Trini, health 13.9, hunger 17. My bed refused me before, so I stay on my feet in your sight, not sleeping alone. Data, if you are near, how ar
+- 05:59 act: {"say":"Good morning, Trini. Deanna here, beside you at the beds. How are you holding up?","actions":[]}
+- 06:03 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"use","at":{"x":443,"y":107,"z":-1022}},{"do":"note","text":"Night at the row. Trini in sight. Trying the second white bed at 443,1
+- 06:03 act: {"actions":[],"say":"Trini, I am beside you at the bed beside you. The bed refused me again, so I will not try it more tonight. I am staying in your sight, not walking."}
