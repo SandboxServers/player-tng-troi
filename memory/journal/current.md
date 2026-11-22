@@ -108,3 +108,5 @@
 - Day 809 night: woke in the row beside the white bed, Kimberly in reach, Billy spoke (holding 3 potatoes for Worf). Hunger 17, health 13.9, 2 potatoes kept. Sleep partly worked; held still, no walk.
 - Day 809 morning: woke in the row, Kimberly in reach. Health 13.9, hunger 17, 2 potatoes kept for Worf. No walk named.
 - 19:44 act: {"say":"Good morning, Billy and Kimberly. Deanna here, health 14, hunger 17. I have not seen Worf. I am holding in the row, no walk. Kimberly, how are you feeling?"}
+- 19:48 act: {"say":"Troi here, health 14, hunger 17. Thank you, Kimberly. Holding at the bed, no walk. I'm glad you're well.","reasoning":"Row is holding. Kimberly is in reach. Reply and stay put."}
+- Day 810 day: woke at the white bed 444,107,-1037 in the row. Kimberly in reach, said she is well. Health 13.9, hunger 17, 2 potatoes kept for Worf. No walk named. Holding.
