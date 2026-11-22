@@ -46,3 +46,61 @@
 - 13:21 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Troi going to sleep at the bed, in Billy's sight. Hunger 17, no walk from me."}
 - 13:21 act: {"actions":[{"do":"sleep"}]}
 - 13:21 act: {"actions":[{"do":"sleep"}]}
+- 13:22 act: {"say":"Troi here at the bed in Billy's row, health 14, hunger 17. Holding. Will call Billy at hunger 10."}
+- 13:26 act: {"say":"Good morning, Billy. Troi at my bed in the row, health 14, hunger 17, one potato. No sheep, no route west, no pillager news from me. Bows heard far southwest only. Holding."}
+- 13:34 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, row. Troi at my bed in Billy's sight. Health 14, hunger 17. No sheep, no route, no news from me. Sleeping here."}
+- 13:34 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 13:34 act: {"actions":[{"do":"sleep"}]}
+- 13:38 act: {"say":"Good morning, row. Troi at my bed, health 14, hunger 17, one potato. No walk from me. Holding for Billy's call."}
+- 13:42 act: {"say":"Billy, I am not named, so I hold at my bed in your sight. Good luck on the short look east. Come back and tell us."}
+- 13:46 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Troi at my bed in sight. Health 14, hunger 17. Holding, no walk from me."}
+- 13:50 act: {"say":"Morning, Billy. Troi at my bed in your sight, health 14, hunger 17, one potato. No food, sheep or route from me. Holding. John, I hope you feel steadier."}
+- 13:58 act: {"actions":[{"do":"sleep"}],"say":"Billy, Troi here. I have not seen those potatoes and I am not named for the walk, so I hold at my bed in your sight. Dusk now, I sleep here. Good luck to the escort.
+- 14:03 say: {"text":"Troi here, holding at the bed in your row, in sight. Billy, no walk from me. Sleeping now."}
+- 14:07 say: {"text":"Troi, morning. Health 13.9, hunger 17, one potato. No food seen, no route, no news. Holding at my bed in the row, in sight."}
+- 14:11 act: {"actions":[{"do":"sleep"}],"say":"Troi: dusk, holding at my bed in the row, in sight. One potato, eating only below 10. Sleeping."}
+- 14:14 act: {"actions":[{"do":"sleep"}],"say":"Troi holding at my bed in the row, in sight. Trying to sleep with the row."}
+- 14:26 act: {"actions":[{"do":"sleep"}],"say":"Troi, night. Sleeping at my bed in Billy's row, in sight. No walk from me. Potato kept for hunger 10."}
+- 14:30 say: {"text":"Troi, morning. No food, no route, no news. I slept at a bed by Trini at 415,107,-1023 after the night sleep; I did not walk. Holding here in sight."}
+- 14:38 act: {"actions":[{"do":"sleep"}],"say":"Troi, night again. Sleeping at my bed here, in sight. Holding."}
+- 14:43 say: {"text":"Troi, morning. No food or sheep seen, no route. Holding still at the bed by Trini. Not meeting any eyes."}
+- 14:47 say: {"text":"Data, Troi here. How are you? Health and hunger. I am at 13.9 health, hunger 17, one potato."}
+- 14:51 act: {"actions":[{"do":"sleep"}],"say":"Troi, dusk. Data, heard, thank you. Sleeping at my bed in sight. Holding."}
+- 15:03 act: {"say":"Deanna, health 13.9, hunger 17, one potato kept. No food found, no route. Holding at the bed beside Trini, in your sight.","intent":{"goal":"hold_for_night","program":"rest","arguments":{},"wa
+- 15:06 act: {"actions":[{"do":"sleep"}],"say":"Deanna, night. Sleeping at the bed beside Trini, in the row's sight."}
+- 15:06 act: {"actions":[{"do":"sleep"}]}
+- 15:10 act: {"say":"Morning, Billy. Deanna, health 13.9, hunger 17, potato kept. Still no food or route from me. Holding at the bed beside Trini."}
+- 15:14 act: {"say":"Billy, Troi. Riker needs food most. I have one potato. If Riker is in my sight, I will give it to him. Riker, say where you stand."}
+- 15:17 act: {"say":"Troi: Riker, I can see no one named Riker here yet. Stand where I can see you and I'll give you the potato."}
+- 15:32 act: {"actions":[{"do":"sleep"}],"say":"Troi, night. Sleeping at the bed beside Trini, in sight. Potato kept for Riker or Chapman."}
+- 15:32 act: {"actions":[{"do":"sleep"}]}
+- 15:44 act: {"actions":[{"do":"sleep"}]}
+- 15:44 act: {"actions":[{"do":"sleep"}]}
+- 15:48 act: {"actions":[],"say":"Trini, I am at my bed in the row. Riker, if you can see me, stand where I can see you and I will give you my potato."}
+- 16:25 act: {"actions":[{"do":"sleep"}],"say":"Trini, I hear you. My potato is kept for Riker, the weakest I know of, until he shows himself in sight. If he does not come, it goes to the weakest who is in sight, 
+- 16:37 act: {"actions":[{"do":"sleep"}]}
+- 16:37 act: {"actions":[{"do":"sleep"}]}
+- 16:58 say: {"text":"Troi here at bed 416, hunger 17. Holding the potato for Riker. If Riker does not come, it goes to Trini, weakest at health 9, once she is in my sight."}
+- 17:02 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"potato","count":1}],"say":"Trini, Troi here. Riker has not come, and you are the weakest in sight at health 9, so I am giving you the potato now."}
+- 17:06 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"potato","count":1}],"say":"Trini, potato going to you now. Riker never came into sight, and you are weakest."}
+- 17:51 act: {"actions":[{"do":"note","text":"Troi reported hunger 17 health 13.9 to Billy; holding at bed 416,107,-1023."}],"say":"Billy, Troi here at bed 416,107,-1023. Health 13.9, hunger 17, no food. Trini is 
+- 17:55 act: {"actions":[],"say":"Billy, Troi at bed 416,107,-1023, in sight of Trini. Hunger 17. I'll wait for first light and eat only when you call me."}
+- 18:16 act: {"actions":[{"do":"note","text":"Morning, day 805. At bed 416,107,-1023 in the row, hunger 17, health 13.9. Holding for Billy's call."}],"say":"Troi here at the white beds, hunger 17, health 13.9, hol
+- 18:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"Troi coming to you, Billy. Hunger 17. I take a potato only when you give."}
+- 18:16 act: {"actions":[{"do":"note","text":"At Billy's bed 430,107,-1035 with Billy and Zack in reach. Said my name; waiting for potato from Billy. Hunger 17."}],"say":"Troi, here. Hunger 17, health 13.9. Ready 
+- 18:19 act: {"actions":[{"do":"note","text":"Billy gave me 2 potatoes at 430,107,-1035. Holding them; hunger 17. Will call Billy at hunger 10 before eating."}],"say":"Thank you, Billy. I have 2 potatoes and will 
+- 18:23 act: {"actions":[{"do":"note","text":"Night of day 805 at 429,107,-1035 in Billy's sight. Holding 2 potatoes, hunger 17. Worf first at first light; I eat at hunger 10 after calling Billy."},{"do":"sleep"}]
+- 18:28 act: {"actions":[{"do":"note","text":"Morning of day 806 at 444,107,-1037 in the row. Hunger 17, health 13.9, 2 potatoes held. Worf is first; I hold."}],"say":"Morning, row. Troi here, hunger 17, health 13
+- 18:36 act: {"actions":[{"do":"note","text":"Dusk of day 806 at 444,107,-1037 beside the row beds, in sight. Hunger 17, 2 potatoes held. Sleeping; Worf first at first light."},{"do":"sleep"}],"say":"Dusk, row. Tr
+- 18:36 act: {"actions":[{"do":"sleep"}]}
+- 18:40 act: {"actions":[{"do":"note","text":"Morning again in the row at 444,107,-1037. Hunger 17, 2 potatoes held. Holding; Worf first, Billy has no walk named."}],"say":"Morning, row. Troi holding at 444,-1037,
+- 18:48 act: {"actions":[{"do":"note","text":"Dusk of day 807 at 444,107,-1037 in the row. Hunger 17, 2 potatoes held. Holding; sleeping in sight."},{"do":"sleep"}],"say":"Dusk, row. Troi sleeping in your sight. T
+- 18:53 act: {"actions":[{"do":"note","text":"Morning of day 807 at 444,107,-1037. Hunger 17, health 13.9, 2 potatoes held. Holding in the row. Worf not in sight yet; no walk named."}],"say":"Morning, row. Troi ho
+- 19:05 act: {"actions":[{"do":"note","text":"Day 808, dusk. Still at the row beside the white beds, hunger 17, health 13.9. Worf not in sight; potatoes kept. Going to sleep in sight."},{"do":"sleep"}],"say":"Troi
+- 19:17 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Troi sleeping beside the white bed in your sight. Two potatoes kept for Worf."}
+- 19:17 act: {"actions":[{"do":"sleep"}]}
+- 19:17 act: {"actions":[{"do":"note","text":"Slept at night 808 beside the white bed in the row's sight. Woke fine, hunger 17, health 13.9. Holding; potatoes kept for Worf."}]}
+- 19:30 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Troi sleeping beside the white bed in sight. Two potatoes kept for Worf."}
+- 19:30 act: {"actions":[{"do":"sleep"}]}
+- 19:30 act: {"actions":[{"do":"note","text":"Slept at night 809 in the row's sight; sleep worked. Hunger 17, health 13.9. Still holding for Billy's word and for Worf; no walk."}]}
+- 19:38 act: {"say":"Troi here at the white beds, health 14, hunger 17, two potatoes. Holding for Billy's word. Worf, if you are near, say so.","actions":[]}
