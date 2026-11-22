@@ -64,3 +64,5 @@
 - 06:47 act: {"say":"Good morning, the row. A trader is beside me, and I have nothing to trade but one potato, which I keep for hunger 10. Holding here with Trini.","actions":[]}
 - 07:00 act: {"say":"Good morning, Trini. Troi here, holding beside you at 444,107,-1022. How are you feeling, truly? I am still waiting for Billy's word on the beds.","intent":{"goal":"hold_in_row","program":"res
 - 07:10 act: {"say":"Trini, I am still here beside you. How are you holding up?"}
+- 07:17 act: {"say":"Trini, Lewis, I am here in the row. How are you both holding up?"}
+- 07:19 act: {"say":"Trini, I am glad you are well, health 17. Lewis, Kimberly, Beverly, MacDonald, thank you for holding in sight. I am holding too, health 13.9, hunger 17, no walk."}
