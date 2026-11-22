@@ -18,3 +18,25 @@
 - 11:08 act: {"actions":[{"do":"sleep"}]}
 - 11:13 act: {"say":"Morning, row. Troi here at the bed, health 14, hunger 17, potato in hand. Holding for Billy's named walk. Data, how are you?"}
 - Day 784 morning: slept at dusk, woke in the row. Said good morning; MacDonald and Chapman answered (Chapman health 11, hunger 17). No walk named. Data still not in sight. Holding at the bed.
+- 11:22 act: {"actions":[{"do":"sleep"}],"say":"It is dusk and dark. I will rest beside the white bed here in Billy's row."}
+- 11:22 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 11:22 act: {"actions":[{"do":"sleep"}],"say":"Still dusk, row. Troi at the bed, trying to sleep again. No walk from me."}
+- 11:26 act: {"actions":[],"say":"Good morning, row. Troi here at the bed, health 14, hunger 17, potato in hand. Holding for Billy's named walk. How is everyone?"}
+- 11:38 act: {"actions":[],"say":"Zack, good to see you here. Troi, health 14, hunger 17. How are you holding up?"}
+- 11:42 act: {"actions":[],"say":"Morning, Zack. I have no food but my one potato, and I will not go west. Bows are heard far southwest. I hold here for Billy's word."}
+- 11:50 act: {"actions":[{"do":"sleep"}],"say":"Night is here, Zack. Troi sleeping at the bed in the row. No walk from me."}
+- 12:02 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Troi sleeping at the bed, in sight of Zack and Clark. No walk from me."}
+- 12:07 act: {"actions":[],"say":"Morning, row. Troi at the bed, health 14, hunger 17, holding. Still no walk from me. Data, how are you, when you are near?"}
+- 12:09 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Troi sleeping at the bed beside Billy's row. Holding here, no walk from me."}
+- 12:17 act: {"actions":[{"do":"sleep"}],"say":"Troi here at the bed in the row, in sight of Billy. Holding for the night. Good night."}
+- 12:21 act: {"actions":[],"say":"Troi at the bed by 444,107,-1023, in Billy's sight. Seen no sheep, no verified route west. Only bows heard far southwest. Health 14, hunger 17, one potato kept. Holding for Billy'
+- 12:29 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Troi at the bed, in sight. Holding, no walk from me."}
+- 12:29 act: {"actions":[{"do":"sleep"}],"say":"Troi trying the bed again, in the row's sight. No walk from me."}
+- 12:33 act: {"actions":[],"say":"Morning, row. Troi at the bed, health 14, hunger 17. Holding, no walk from me. Billy, I still have only my potato."}
+- 12:41 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Troi at the bed in sight. Holding, no walk from me."}
+- 12:42 act: {"actions":[{"do":"sleep"}],"say":"Troi trying the bed once more, in the row's sight."}
+- 12:54 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Troi at the bed, in Billy's sight. Holding, no walk from me."}
+- 12:54 act: {"actions":[{"do":"sleep"}],"say":"Troi trying the bed once more, in the row's sight."}
+- 13:06 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Troi at the bed 444,107,-1023, in sight. Health 14, hunger 17, one potato kept. No walk from me. Good night."}
+- 13:07 act: {"actions":[{"do":"sleep"}]}
+- 13:07 act: {"actions":[{"do":"sleep"}]}
