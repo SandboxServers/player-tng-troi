@@ -6,3 +6,5 @@
 - 07:45 act: {"say":"Good morning, the row. Deanna at the beds, health 13.9, hunger 17. I am holding, no walk. How is everyone doing this morning?"}
 - 07:57 act: {"say":"William, Deanna here, two blocks from you. How are you holding up this morning? I am holding at the beds, no walk."}
 - 08:03 say: {"text":"Good morning, Zack. Deanna here, holding in the row with you. Clark, how are you feeling this morning?"}
+- 08:06 act: {"actions":[{"do":"sleep"}],"say":"Evening, Clark. I am Deanna. I am holding here in the row, with Billy's people near. How are you?"}
+- Night 775: sleep action at 443,107,-1021 with Clark in reach: "Your sleep worked." Waking 601. Hunger 17, health 13.9. Holding in row, no walk.
