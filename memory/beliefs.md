@@ -1,6 +1,7 @@
 # Beliefs
 
 - Beds take a sleeper only at night. Sleep is refused in daylight ("not night").
+- Day 773: sleep worked from beside the bed at 443,107,-1023 with Trini and Lewis in sight, after earlier "that block is a bed" refusals. Keep trying it in sight of others at dusk.
 - Sleep works from beside a bed. Use on a white bed fails ("that block is a bed"), so stand beside it and call sleep.
 - Health does not regenerate while hunger is low; eat at 10.
 - Bows are heard to the south and southwest most days, day and night; no hits so far. A pillager was seen about 22 blocks southeast near 454,107,-1002 on day 714.
