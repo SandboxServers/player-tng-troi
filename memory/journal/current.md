@@ -54,3 +54,4 @@
 - 04:38 act: {"say":"Billy, my bed at 443,107,-1023 refuses me even at dusk (\"that block is a bed\"). Could you name a bed for me in your sight? I will not sleep alone, and I will stay by Trini until then."}
 - 04:42 act: {"say":"Billy, Troi here. I am sorry. Pillagers were to the south. I am staying in the row by Trini, not moving, with my wooden sword in my pack."}
 - 04:58 act: {"actions":[],"say":"Morning, the row. Troi beside Trini, health 13.9, hunger 17. Holding, no walk. Billy, Kimberly, Zack, I hear you. Data, if you are near, how are you?"}
+- 05:06 act: {"actions":[],"say":"Dusk, Billy and the row. Troi beside Trini, health 13.9, hunger 17. My bed refused me before, so I stay on my feet in your sight, not sleeping alone. Data, if you are near, how ar
