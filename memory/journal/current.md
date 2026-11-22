@@ -61,3 +61,4 @@
 - 06:21 act: {"say":"Good morning, Trini. How are you holding up? I'm here in the row, staying put until Billy names a route.","actions":[]}
 - 06:31 act: {"say":"Good evening, Trini. I'm trying the bed right beside me now, with you in sight.","actions":[{"do":"use","at":{"x":443,"y":107,"z":-1022}}]}
 - 06:31 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}}]}
+- 06:47 act: {"say":"Good morning, the row. A trader is beside me, and I have nothing to trade but one potato, which I keep for hunger 10. Holding here with Trini.","actions":[]}
