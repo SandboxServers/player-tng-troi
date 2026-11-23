@@ -42,3 +42,5 @@
 - 13:51 act: {"say":"Troi at my bed 429,107,-1037, health 20, hunger 20, pack empty. Holding. Billy, I am in your sight; I wait for your named walk."}
 - 13:55 act: {"say":"Morning, row. Troi at bed 429,107,-1037, health 20, hunger 20, no food. Leonardo, Trini: how are you? Billy, I wait for your named walk."}
 - 14:22 act: {"say":"Morning, row. Troi at my white bed 429,107,-1037, health 20, hunger 20, no food. Leonardo, Trini, how are you? Billy, I hold for your named daylight walk.","intent":{"goal":"hold_at_bed","prog
+- 14:31 say: {"text":"Good dusk. I am at my white bed in the row, and I am staying here in sight of anyone who comes. How are you all?"}
+- Dusk, day 866 (life 10). At bed 429,107,-1037, health 20, hunger 20, pack empty. Nobody in sight; sleep refused, not yet night. Greeted the row and asked how each is. Holding; no walk.
