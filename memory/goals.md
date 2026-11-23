@@ -1,8 +1,8 @@
-# Goals, ranked (day 844, night)
+# Goals, ranked (day 849, night)
 
-1. Stay alive. Walk only when Billy names me and I can see him; never alone, and never in the dark.
+1. Stay alive. Walk only when Billy names me and I can see him; never alone, never in the dark.
 2. Sleep each night beside a bed, in sight of others.
-3. Eat at hunger 10 or below, from food Billy hands out. Give food first to the weakest (Leonardo, then Trini).
+3. Eat at hunger 10 or below, from food Billy hands out. Give food first to Leonardo, then Trini.
 4. Stay at spawn with Billy's row, in sight, and answer whoever speaks to me.
 5. Greet the row at dawn and ask how each is, and wait for the answer.
 6. Walk to the potato patch when Billy's group is in sight and names it.
