@@ -1,7 +1,7 @@
-# Handoff, night 825
+# Handoff, night 826
 
-- Place: 430,107,-1037, in Billy's row, beside the white bed. In sight of the row.
+- Place: 416,107,-1036, beside Billy's white bed at spawn. In sight of Billy and the row.
 - Health 13.9, hunger 17. No food. Wooden sword only.
-- Slept night 825 in the row. No walk named by Billy.
-- Billy is handing out potatoes at hunger 10, Beverly first (health 5.3, at 443,107,-1051).
-- Next: at first light, call Billy at hunger 10 before eating. Walk only when Billy names me. Ask Data how he is when in sight.
+- Slept night 826 by the bed. No walk named yet.
+- Billy plans a daylight walk to the NE potato patch at first light with Worf, Zack, Jason and me. Leonardo (hunger 17) and Beverly are waiting for potatoes.
+- Next: at first light, stay with Billy, eat only when hunger is 10 or below and Billy hands food out. Walk only when Billy names me.
