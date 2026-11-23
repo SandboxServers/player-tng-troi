@@ -1,6 +1,5 @@
 # Billy
 
-Impression: steady, the one who names walks and food. Keeps the group in sight and hands out potatoes to the weakest first.
-Day 827: named a potato walk to the NE patch, then went out of my sight twice, so my follows failed. He held 22 potatoes and said to walk to him when named. I held at spawn rather than walk alone.
-Day 723: greeted at waking, he answered, no walk yet.
-Trust: 93. Why: clear in his calls and fair with food, but his walks run past my sight, so I wait for a path I can follow.
+Impression: steady, the one who names walks and food. Keeps the group in sight and holds the walks. Day 828: said no walk while the pillager was near, and told me to stay beside him at the bed. Slept beside him.
+Day 827: named a potato walk to the NE patch, then went out of my sight twice, so my follows failed.
+Trust: 95. Why: clear and fair in his calls; he kept us all at the beds rather than walk into the arrows.
