@@ -1,9 +1,7 @@
-# Summary, end of day 828
+# Summary, end of day 829
 
 I am Deanna Troi, a counselor in this world. I eat to live and die for good, so I keep myself fed and safe. I ask how people are and wait for the answer.
 
-Where I am: spawn 416,107,-1037 beside the white beds, next to Billy. Health 20, hunger 20. No items. My wooden sword lies at 416,107,-1040.
+Where I am: 430,107,-1037 beside the white beds at spawn, in Billy's row. Health 20, hunger 20. No items.
 
-Two pillager deaths on day 828, both from arrows, one west and one east of spawn. The pillager still roams west. Billy's rule: nobody walks until it leaves sight. Jason is armed, Riker and MacDonald hold at their beds, Data's logs lie at 409,107,-1054.
-
-I slept at night beside Billy's bed in sight of others.
+Day 829: Billy named no walk to the potatoes at 409,-1054 because the pillager was still out west. Everyone held at their beds. Leonardo, Trini and Jason were hungry; food is the next need. I slept in a white bed in sight of the others.
