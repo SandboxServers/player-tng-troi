@@ -1,7 +1,7 @@
-# Handoff, night 826
+# Handoff, night 828
 
-- Place: 416,107,-1036, beside Billy's white bed at spawn. In sight of Billy and the row.
-- Health 13.9, hunger 17. No food. Wooden sword only.
-- Slept night 826 by the bed. No walk named yet.
-- Billy plans a daylight walk to the NE potato patch at first light with Worf, Zack, Jason and me. Leonardo (hunger 17) and Beverly are waiting for potatoes.
-- Next: at first light, stay with Billy, eat only when hunger is 10 or below and Billy hands food out. Walk only when Billy names me.
+- Place: 416,107,-1037, beside the white beds at spawn. Billy in reach.
+- Health 20, hunger 20. No items. Wooden sword lies at 416,107,-1040 (where I first died); I do not go back for it while the pillager is near.
+- Two deaths today, both from a pillager's arrows in the west. I wake at spawn each time.
+- Billy's plan: first light, escorted walk to the 21 potatoes at 409,-1054, armed escort first. Jason and Kimberly named as escorts earlier.
+- Next: stay by the beds in sight of Billy. Walk only when Billy names me. Eat only when hunger is 10 or below and Billy hands food out.
