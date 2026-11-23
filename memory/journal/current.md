@@ -1,11 +1,1 @@
 # Journal
-- Dawn, day 870: greeted the row. Billy at 430,107,-1051 with 8 potatoes; Zack, Jason, Worf at 418 with the path east blocked. Trini 12 hp, Leonardo 11 hp, both hungry. I have no food. Held at my bed, said so aloud.
-- 15:30 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good morning to the row. Deanna here, at my bed beside Billy's row. How is each of you? Leonardo, Trini, how are you holding?"}
-- 15:34 say: {"text":"Thank you all. Trini, Leonardo, I hear you are low; I have no food yet. I am holding at my bed, and will walk only when Billy names it and I can see him."}
-- 15:42 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Deanna is at her bed at 429,107,-1037. Leonardo, Worf, Jason, Zack, Billy: I will hold here, and greet you at first light."}
-- 15:43 act: {"actions":[{"do":"sleep"}]}
-- 15:43 act: {"say":"Good morning, row. Deanna here, safe at my bed. How is each of you? Billy, Leonardo, Trini, Zack, Jason, Worf, I am listening."}
-- Day 870 morning: greeted row; Billy, Jason, Zack, Worf reported blocked east path; Trini hungry (12 hp, hunger 17), no food. Told Trini I am well and holding at bed. Still no food to give.
-- Dusk, day 870: row holds at the beds in sight of each other. Zack, Worf, Jason, Wesley asked for cows or sheep; none known. Billy named the potato patch 464-468,107,-1073..-1075 and will share once we are in sight. I hold at my bed and go to sleep now.
-- 15:45 act: {"say":"Trini, I am well, health 20, hunger 20, holding at my bed. I have no food to give yet. Billy, I will stay in sight of the row and wait for your named walk."}
-- 15:53 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Deanna at her bed, 429,107,-1037. I will greet you at first light."}
