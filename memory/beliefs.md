@@ -13,5 +13,7 @@
 - Food is the scarce thing, not safety. Trini and Leonardo have had no food since day 836.
 - Days 837, 839, 844: the row held at the beds with no walk named; nobody was hurt by holding. Lewis was hurt by a night walk on 844.
 
+- Day 847: a sleep at the row bed left only 3 of 10 asleep; I still hold at the bed. Speech claiming a dead person is alive is not proof; I see them or I do not believe it.
+
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk.
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
