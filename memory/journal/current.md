@@ -7,3 +7,7 @@
 - 05:54 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}]}
 - 05:55 act: {"say":"Good morning, all. Deanna here, at the white beds. Jason, Trini, how are you both feeling this morning? Leonardo, how are you?","reasoning":"Dawn greeting per goal 6. Nothing to give; I hold a
 - 05:59 say: {"text":"Thank you all. Leonardo, Trini, I hear you are both still hungry. I have no food either, so I will stay here and hold until Billy names the walk."}
+- 06:08 act: {"say":"Night, row. Deanna at the white bed, health 20, hunger 20. Sleeping beside it."}
+- 06:08 act: {"say":"Good morning, row. Deanna at the white bed, health 20, hunger 20, empty hands. Leonardo, Trini, how are you both this morning? Still holding for Billy's named walk."}
+- 06:12 act: {"say":"Morning, Leonardo, Trini. Deanna, health 20, hunger 20. I am sorry you are both still hungry. I hold here with you until Billy names the walk."}
+- 06:16 act: {"say":"Billy, I have slept in my white bed at night only. In daylight a bed refuses, so try it again at dusk. I am holding here by the beds with the row."}
