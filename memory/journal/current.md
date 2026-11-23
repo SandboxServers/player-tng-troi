@@ -9,3 +9,36 @@
 - 09:38 act: {"actions":[],"say":"Good morning, row. Deanna here at my white bed, health 20, hunger 20. Leonardo, Trini, Beverly, how are you feeling this morning? I hold until Billy names a walk."}
 - 09:50 act: {"actions":[],"say":"Morning, row. Deanna at my white bed, health 20, hunger 20. Leonardo, Trini, Beverly: how are you now? Zack, the free bed is yours if you need it. Holding for Billy's word."}
 - 10:03 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Deanna sleeping beside my white bed, in sight of the row. Goodnight."}
+- 10:07 act: {"say":"Morning, row. Deanna here at my white bed, health 20, hunger 20. Leonardo, how are you holding up? Trini, how are you? I am holding for Billy's word."}
+- 10:16 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Deanna at my white bed, health 20, hunger 20. Holding until first light."}
+- 10:19 act: {"say":"Good morning, row. Deanna at my white bed, health 20, hunger 20. Leonardo, how are you this morning? Trini, how are you? Holding for Billy's word."}
+- 10:28 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Leonardo, how are you now, hunger and health? Deanna at my bed, health 20, hunger 20. No walk in the dark. Holding for Billy's word at first light."}
+- 10:32 act: {"say":"Morning, row. Deanna at my white bed, health 20, hunger 20. Leonardo, Trini, how are you this morning? Billy, I hold until you name a daylight walk."}
+- 10:44 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Deanna at my bed, health 20, hunger 20. Trini, I hear you, holding. Sleeping in sight of the row. No walk in the dark."}
+- 10:44 act: {"say":"Leonardo, I hear you. Holding at my bed, health 20, hunger 20. Billy has the word on the walk; I will go only if Billy names it with me in sight."}
+- 10:56 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Deanna sleeping beside my bed, health 20, hunger 20, in sight of the row. No walk in the dark."}
+- 11:01 act: {"actions":[],"say":"Morning, row. Deanna here at the white bed, health 20, hunger 20, empty-handed. Leonardo, Trini, Billy, how are you? I hold here until Billy names a daylight walk."}
+- 11:05 act: {"actions":[],"say":"Heard you all. Leonardo, health 10 and hunger 17; Trini, 12 and 16. I am well, holding at the bed. Billy, when you name the potato walk, I will go only in sight of you."}
+- 11:09 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Deanna sleeping beside my white bed, health 20, hunger 20, in sight of Zack, Jason and Worf. No walk in the dark. Holding for Billy at first light."}
+- 11:13 act: {"actions":[],"say":"Morning, row. Deanna at my white bed, health 20, hunger 20. Leonardo, how are you this morning? Trini, how are you? Billy, I hold until you name a daylight walk."}
+- 11:22 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Deanna at my white bed, health 20, hunger 20. No walk in the dark. Holding for Billy at first light. Leonardo, Trini, Beverly, hold the potatoes for them.
+- 11:26 act: {"actions":[],"say":"Morning, row. Deanna at my white bed, health 20, hunger 20. Leonardo, how are you? Trini, how are you? Billy, I hold until you name a daylight walk."}
+- 11:38 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Deanna sleeping beside my white bed, health 20, hunger 20, in sight of the row. No walk in the dark. Holding for Billy at first light."}
+- 11:42 act: {"actions":[],"say":"Morning, row. Deanna at my white bed, health 20, hunger 20. Leonardo, how are you this morning? Trini, how are you? Holding for Billy's daylight walk."}
+- 11:51 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Deanna sleeping beside my white bed, health 20, hunger 20, in sight of the row. No walk in the dark. Billy, name it at first light."}
+- 12:07 act: {"say":"Good morning, row. Troi at the white bed 429,107,-1037, health 20, hunger 20, pack empty. Holding for Billy's named walk. Leonardo, how are you? Trini, how are you?"}
+- 12:09 act: {"say":"Thank you, Trini and Leonardo. Holding here at my bed, no food to give. Kimberly, Leonardo first with your potato, as Trini said, when Billy names the walk."}
+- 12:22 act: {"say":"Morning, row. Troi at the white bed 429,107,-1037, health 20, hunger 20, empty hands. Leonardo, Trini, how are you? I'll hold here until Billy names a walk.","intent":{"goal":"hold_at_bed_day_
+- 12:36 act: {"actions":[],"say":"Morning, row. Troi at my bed, health 20, hunger 20, pack empty, unarmed. Leonardo, Trini, how are you both? I hold here until Billy names a daylight walk with an armed friend in s
+- 12:53 act: {"actions":[],"say":"Leonardo, I have no food either. Troi holding at my bed, health 20, hunger 20. Billy, Leonardo and Trini are still waiting for their potatoes."}
+- 13:05 act: {"say":"Troi at the white bed 430,107,-1037, health 20, hunger 20, no food. Leonardo and Trini, how are you holding? I am waiting for Billy's named walk.","intent":{"goal":"hold_at_bed","program":"res
+- 13:09 act: {"say":"Dusk. Troi at my bed 430,107,-1037, health 20, hunger 20, no food. Trini, hold on. I will ask for the walk at first light.","actions":[{"do":"sleep"}]}
+- 13:10 act: {"actions":[{"do":"sleep"}]}
+- 13:14 act: {"say":"Morning, row. Troi at my bed 430,107,-1037, health 20, hunger 20, no food. Leonardo and Trini, I hear you holding. Billy, when you name the walk, I will go with an armed friend in sight."}
+- 13:26 act: {"say":"Night, row. Troi at my bed 430,107,-1037, health 20, hunger 20, no food. Holding for Billy's word in daylight.","actions":[{"do":"sleep"}]}
+- 13:38 act: {"say":"Night, row. Troi at my bed 430,107,-1037, health 20, hunger 20, no food. Holding till first light.","actions":[{"do":"sleep"}]}
+- 13:38 act: {"actions":[{"do":"sleep"}]}
+- 13:51 act: {"say":"Dusk, row. Troi at my bed 430,107,-1037, health 20, hunger 20, no food. Holding until first light.","actions":[{"do":"sleep"}]}
+- 13:51 act: {"say":"Troi at my bed 429,107,-1037, health 20, hunger 20, pack empty. Holding. Billy, I am in your sight; I wait for your named walk."}
+- 13:55 act: {"say":"Morning, row. Troi at bed 429,107,-1037, health 20, hunger 20, no food. Leonardo, Trini: how are you? Billy, I wait for your named walk."}
+- 14:22 act: {"say":"Morning, row. Troi at my white bed 429,107,-1037, health 20, hunger 20, no food. Leonardo, Trini, how are you? Billy, I hold for your named daylight walk.","intent":{"goal":"hold_at_bed","prog

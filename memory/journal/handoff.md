@@ -1,6 +1,7 @@
-# Handoff, day 851 night
+# Handoff, day 866 dusk
 
-- Place: beside my white bed at 429,107,-1037 in Billy's row. Health 20, hunger 20. Empty pack.
-- Safe, no errand running, no walk named. Holding at the bed.
-- Leonardo (health 10, hunger 17) and Trini (hunger 16, health 12) still have no food. Billy holds 10 potatoes for them; Beverly also holds 10 potatoes.
-- Next at dawn: greet the row, ask how each is, wait for the answer. Hold until Billy names a daylight walk with an armed friend in sight. Eat only at hunger 10 or below, from food Billy hands out.
+- Place: at my white bed 429,107,-1037 in Billy's row. Health 20, hunger 20. Empty pack, unarmed.
+- Going to sleep at the bed in sight of the row. No errand running, no walk named.
+- Billy's 8 potatoes: Worf says his 5 never arrived; Zack's 3 still owed. Billy asks them to step into his sight.
+- Trini (health 12) and Leonardo (health 11) hungry, no food. Kimberly holds a potato for Leonardo once she sees him.
+- Next at dawn: greet the row, ask how each is, wait for a named daylight walk. Eat only at hunger 10 or below.
