@@ -1,4 +1,4 @@
-# Handoff, day 839 night
+# Handoff, day 839 night (second night of this waking)
 
 - Place: 430,107,-1037, beside the white beds at spawn, in Billy's row, in sight of the row.
 - Health 20, hunger 20. No items.
