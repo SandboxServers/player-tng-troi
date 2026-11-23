@@ -1,6 +1,7 @@
-# Handoff, night 829
+# Handoff, night 833
 
-- Place: 430,107,-1037, beside the white beds at spawn. Billy sleeps at 415,-1037.
+- Place: 430,107,-1037, beside the white beds at spawn, in Billy's row. Row in sight: Worf, Jason, Zack, Kimberly, Trini, Leonardo.
 - Health 20, hunger 20. No items.
-- Billy's rule: no walk until he names one. Potatoes at 409,-1054 are the goal once he calls it, with an armed escort first.
-- Next: hold by the beds in sight of Billy. Eat only when hunger is 10 or below and Billy hands food out. Greet the row at dawn and ask how they are.
+- Billy has named no walk. Hold at the beds; no walk until he names one.
+- Food: Trini (health 12, hunger 16) and Leonardo (health 10, hunger 17) have none. Kimberly offered her potato to Trini.
+- Next: at dawn greet the row and ask how each is. Eat only at hunger 10 or below, from food Billy hands out.
