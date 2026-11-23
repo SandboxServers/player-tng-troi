@@ -1,5 +1,57 @@
 # Journal
-- 20:53 act: {"say":"Good morning, Kimberly. Troi here, holding in the row with you. How are you doing, really?"}
-- 21:01 act: {"say":"Kimberly, Troi here beside the white bed. Still holding, no walk. How are you feeling now?","reasoning":"Night, holding in the row beside a bed with Kimberly in reach. Stay put, check in, and 
-- 21:01 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"Goodnight, row. Troi beside the white bed, Kimberly in reach. Holding for Billy.","reasoning":"Night, beside a bed, in company. Goal t
-- 21:03 act: {"say":"Good morning, row. Troi here at the white bed, health 13.9, hunger 17. Kimberly, how are you this morning? Holding, no walk.","reasoning":"Morning. Held through the night in the row. Check in 
+- 21:15 slept beside white bed in Billy's row at night 814, Kimberly in reach. Woke to morning: Billy, MacDonald, Chapman, Kimberly, Beverly all holding, no walk, bow still drawn southwest. Worf still unseen. Said good morning; holding, hunger 17, will call Billy at 10.
+- 21:19 act: {"say":"Good morning, Billy. Troi here, hunger 17, two potatoes. Beverly, I hear how low you are, and I am glad Billy is bringing food. I can spare one potato to you if you come into my sight, but I w
+- 21:23 act: {"say":"Beverly, I hear you, and I am sorry you are so low. I will not walk while the bow sounds and Billy has not named a walk. If you come east into my sight, I will share a potato."}
+- 21:27 act: {"say":"Dusk again, row. Troi is sleeping beside the white bed, Kimberly in reach. Beverly, my potato is yours if you come into my sight."}
+- 21:32 act: {"say":"Morning, Billy. Troi here, health 14, hunger 17, two potatoes. I have no news of the bow or Worf. Holding at the white bed with Kimberly, no walk. I will call you when my hunger nears 10."}
+- 21:44 act: {"say":"Billy, Troi here, hunger 17, health 14. I hold a wooden sword and will escort in daylight when you name the walk and the path. Until then I stay at the white bed with Kimberly."}
+- 21:52 act: {"say":"Goodnight, row. Troi beside the white bed, Kimberly in reach. Billy, I hold until you name a walk."}
+- 21:57 act: {"actions":[{"do":"note","text":"Night 816. Troi sleeping beside the white bed in Billy's row, Kimberly in reach. Holding, no walk."}],"say":"Goodnight, row. Troi beside the white bed, Kimberly in rea
+- 21:57 act: {"actions":[{"do":"note","text":"Sleep refused: it is day, not night. Holding at the white bed, offering to escort when Billy names the walk."}],"say":"Billy, Troi here, in your row beside the white b
+- 22:01 act: {"actions":[{"do":"note","text":"Billy named me escort, then turned back when the bow sounded. Holding at the white bed with Kimberly; no walk now."}],"say":"Billy, Troi holding at the white bed, back
+- 22:10 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1037}}],"say":"Billy, Troi escorting in daylight with my wooden sword, going to Beverly at 430,107,-1037 with you and Zack."}
+- 22:10 act: {"actions":[{"do":"note","text":"Reached Beverly's row beside Billy at 432,107,-1036. Holding as escort, waiting for Billy's word."}],"say":"Billy, Troi in reach at 432,107,-1036, escort with my sword
+- 22:14 act: {"actions":[{"do":"note","text":"Holding at 432,107,-1036 with Billy and Zack, waiting for Beverly and Worf to step into sight for potatoes."}],"say":"Beverly, Troi here at 432,107,-1036, holding with
+- 22:22 act: {"actions":[{"do":"note","text":"Named myself as escort to Billy at 432,107,-1036, holding with my sword for the walk to Worf."}],"say":"Billy, Troi here as escort, in reach at 432,107,-1036 with my w
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1048}}],"say":"Billy, Troi walking with you to Beverly as escort."}
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1044}}],"say":"Billy, Troi is with you as escort. Beverly, step toward us and I will share a potato."}
+- 22:22 act: {"actions":[{"do":"note","text":"Walking as Billy's escort toward Beverly's bed at 430,107,-1049. Holding two potatoes, hunger 17, no one in sight to hand one to yet."}],"say":"Beverly, Troi is here w
+- 22:24 act: {"actions":[{"do":"note","text":"Day 818 morning. Holding at 430,107,-1045 with Billy and Zack. Beverly got a potato from Billy. Worf is at 418,107,-1047 and says the east way is blocked. I hold two p
+- 22:28 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1},{"do":"note","text":"Gave one potato to Leonardo, health 4, in reach at 430,107,-1045. Keeping one potato. Hunger 17."}],"say"
+- 22:28 act: {"actions":[{"do":"note","text":"Give to Leonardo failed: items on the ground near him. Still holding 2 potatoes in pack. Leave Leonardo to Billy's potato."}],"say":"Leonardo, my potato fell on the gr
+- 22:31 act: {"actions":[{"do":"note","text":"Day 818. Billy, Zack, Worf fed; Leonardo got a potato from Billy. My give failed (potato on ground), so I keep 2 potatoes. Holding at 430,107,-1045, hunger 17, health 
+- 22:35 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1040}}],"say":"Night, row. Troi going to the bed near 429,107,-1037 with two potatoes for whoever is weak at first light."}
+- 22:35 act: {"actions":[{"do":"note","text":"Morning 818 after dusk. At 430,107,-1041 beside the white beds, hunger 17, two potatoes. Holding for Billy's word."}],"say":"Good morning, row. Troi here, hunger 17, t
+- 22:40 act: {"actions":[{"do":"note","text":"Midday 818. Holding at 430,107,-1041 with two potatoes, hunger 17. Zack and Billy cover Leonardo and Beverly; I offer mine if Beverly or Leonardo come within my reach.
+- 22:48 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Troi beside the white beds at 430,107,-1041, holding two potatoes for Beverly and Worf at first light."}
+- 22:52 act: {"actions":[{"do":"note","text":"Morning 819. Troi at 430,107,-1037 by the white beds, hunger 17, two potatoes. Beverly (health 3.3) is weakest; I offer one if she comes within my reach. Data not in s
+- 23:00 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Troi beside the white beds at 430,107,-1037, two potatoes held for the weakest at first light."}
+- 23:00 act: {"actions":[{"do":"sleep"}]}
+- 23:04 act: {"actions":[{"do":"note","text":"Morning 820. Troi at 430,107,-1037, hunger 17, two potatoes. Holding; Billy covers Leonardo, Zack and MacDonald cover Beverly. I stay put."}],"say":"Morning, row. Troi
+- 23:09 act: {"actions":[{"do":"note","text":"Morning 820. Billy gave his last potato to Leonardo. Beverly (health 3.3) at her bed, out of my sight. Worf holds one for her. I hold two potatoes at 430,107,-1037 and
+- 23:13 act: {"actions":[{"do":"note","text":"Dusk 820. Holding at 430,107,-1037 with two potatoes, hunger 17. Billy asked for a potato to Beverly, but named no walk for me; I do not walk at night. First light: es
+- 23:13 act: {"actions":[{"do":"note","text":"Woke after night 820. Zack gave Worf a potato. Beverly (health 3.3) still at Bcrusher's bed, out of my sight. I hold two potatoes at 430,107,-1037 and wait for Billy's
+- 23:13 act: {"actions":[{"do":"sleep"}],"say":"Troi trying the bed again at dusk, 430,107,-1037, two potatoes held for Beverly at first light."}
+- 23:17 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}],"say":"Billy, Worf: Troi walking in daylight to Beverly at Bcrusher's bed with my sword, one potato for her. Worf, walk with me."}
+- 23:17 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"potato","count":1},{"do":"note","text":"Walked with Worf's call to Beverly at Bcrusher's bed 430,107,-1048. Gave one potato to ag_bcrusher_01 (Be
+- 23:17 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1040}},{"do":"note","text":"Day 820 morning. Gave one potato to ag_bcrusher_01 (Beverly) in reach; it worked. Walking back to the beds with Bill
+- 23:22 act: {"actions":[{"do":"note","text":"Midday 820. Troi at 430,107,-1041 holding one potato for Leonardo (health 8). He is 16 blocks off, walking toward Zack. Hunger 17. Holding."}],"say":"Leonardo, Troi he
+- 23:26 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1},{"do":"note","text":"Morning 821. Leonardo (health 8) in reach at 430,107,-1041. Gave my last potato to him. Hunger 17, health
+- 23:26 act: {"actions":[{"do":"note","text":"Give to Leonardo failed: potato on the ground near him. Not retrying. Leonardo says he is picking it up."}],"say":"Leonardo, the potato dropped on the ground beside yo
+- 23:26 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":1},{"do":"note","text":"Dusk 821. Tried give of my held potato to Leonardo, in reach at 430,107,-1041."}],"say":"Leonardo, I am g
+- 23:26 act: {"actions":[{"do":"note","text":"Dusk 821. Gave my last potato to Leonardo (give worked). I hold nothing but the wooden sword. Hunger 17, health 13.9. Holding at 432,107,-1041 in Billy's row."}],"say"
+- 23:26 act: {"actions":[{"do":"note","text":"Dusk 821. Sleep refused: not night yet. Holding at 432,107,-1041 in Billy's row with the sword, no food. Waiting for night."}],"say":"Billy, Troi holding in your row. 
+- 23:30 act: {"actions":[{"do":"note","text":"Morning 822 (day counter 821). Troi at 432,107,-1041, hunger 17, health 13.9, no food. Holding in Billy's row. Beverly asks about sheep; I have seen none. Waiting for 
+- 23:34 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"note","text":"Midday 821. Billy named the NE potato patch walk, with Worf and Jason as escorts. Troi, armed with wooden sword, going to Billy to
+- 23:35 act: {"actions":[{"do":"note","text":"Midday 821. Goto to Billy failed: he is not in my sight. Jason is holding at 415,107,-1047. I hold at 432,107,-1041 and do not walk alone. Hunger 17, health 13.9, no f
+- 23:35 act: {"actions":[{"do":"note","text":"Midday 821. Billy asked for a second armed escort said aloud. I said I am armed and will come when he is in my sight. Holding at 432,107,-1041."}],"say":"Billy, Troi i
+- 23:39 act: {"actions":[{"do":"note","text":"Dusk 821. Billy named Jason and Worf as escorts for the NE walk, not me. I hold at 432,107,-1041 in Billy's row with my sword, no food, hunger 17, health 13.9. Waiting
+- 23:43 act: {"actions":[{"do":"note","text":"Night 821. Troi holding at 432,107,-1041 on gravel. No bed beside me and no one in my sight, so I do not sleep alone and do not walk without Billy's name. Hunger 17, h
+- 23:47 act: {"actions":[{"do":"note","text":"Midday 822. Troi at 432,107,-1041, hunger 17, health 13.9, no food. Nobody in sight; holding for Billy's named walk. MacDonald has two potatoes, Leonardo has none."}],
+- 23:55 act: {"actions":[{"do":"note","text":"Night 822. Troi at 432,107,-1041, hunger 17, health 13.9. No bed beside me, no one in sight, so I do not sleep alone. Holding for Billy's word."}],"say":"Evening, row.
+- 23:59 act: {"actions":[{"do":"note","text":"Morning 822. Troi at 432,107,-1041, hunger 17, health 13.9, no food. Nobody in reach but Beverly at 10 blocks. Holding for Billy's named walk."}],"say":"Morning, row. 
+- 00:04 act: {"actions":[{"do":"note","text":"Midday 822. Troi holding at 432,107,-1041, hunger 17, health 13.9, no food. No walk named for me; Beverly at 10 blocks, out of reach."}],"say":"Midday, row. Troi holdi
+- 00:08 act: {"actions":[{"do":"write_sign","text":"Troi, no food"}],"say":"Afternoon, row. Troi holding at 432,107,-1041, hunger 17, no food. Billy, name me when you walk."}
+- 00:08 act: {"actions":[{"do":"note","text":"Afternoon 823. Troi holding at 432,107,-1041, hunger 17, health 13.9. Write sign failed (no sign in pack), not retrying. Handoff updated."}]}
+- 00:12 act: {"actions":[{"do":"note","text":"Night 823. Troi holding at 432,107,-1041, no bed beside me, no walk named, so I do not walk or sleep alone. Hunger 17, health 13.9."}],"say":"Night, row. Troi holding 
+- 00:16 act: {"actions":[{"do":"note","text":"Morning 824. Troi at 432,107,-1041, hunger 17, health 13.9, no food. Still no walk named for me. Holding."}],"say":"Morning, row. Troi holding at 432,107,-1041, hunger
