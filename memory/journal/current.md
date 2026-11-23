@@ -1,1 +1,1 @@
-# Journal
+Morning, day 890. Greeted the row and asked how each is. Billy hp13 hunger16, Jason hunger13, Worf hunger12, the rest at 20. I have no food. Held at my white bed, no walk, waiting for Billy's word. Quiet since the last wait.
