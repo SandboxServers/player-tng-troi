@@ -1,4 +1,4 @@
-# Goals, ranked (day 830, night)
+# Goals, ranked (day 831, night)
 
 1. Stay alive. Walk only when Billy names me and I can see him; never alone.
 2. Sleep each night beside a bed, in sight of others.
@@ -7,4 +7,4 @@
 5. Walk to the potato patch when Billy's group is in sight and names it.
 6. Greet the row at dawn and ask how each is.
 
-Reasons: the pillager is still west of spawn; the group keeps us alive. Food is the next need.
+Reasons: the pillager is still west of spawn; the group keeps us alive. Food is the next need; the potato path was blocked on day 831.
