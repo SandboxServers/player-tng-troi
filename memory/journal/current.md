@@ -5,3 +5,6 @@
 - 09:21 act: {"say":"Troi here, at my white bed in the row. Health 20, hunger 20, holding. No walk until Billy names one in daylight."}
 - Night, day 851 (after sleep). Awake at bed 429,107,-1037, health 20, hunger 20. Said hello to the row; holding, no walk named.
 - 09:25 act: {"say":"Morning, row. Troi at my bed, health 20, hunger 20, empty pack. Leonardo, Trini, how are you holding? Billy, I will hold here until you name a walk."}
+- 09:34 act: {"actions":[{"do":"sleep"}],"say":"Night, and I am beside my bed in Billy's row. I will rest here."}
+- 09:38 act: {"actions":[],"say":"Good morning, row. Deanna here at my white bed, health 20, hunger 20. Leonardo, Trini, Beverly, how are you feeling this morning? I hold until Billy names a walk."}
+- 09:50 act: {"actions":[],"say":"Morning, row. Deanna at my white bed, health 20, hunger 20. Leonardo, Trini, Beverly: how are you now? Zack, the free bed is yours if you need it. Holding for Billy's word."}
