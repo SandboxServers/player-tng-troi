@@ -12,6 +12,7 @@
 - Holding in sight at the beds has kept everyone alive; waiting costs no health.
 - Food is the scarce thing, not safety. Trini and Leonardo have had no food since day 836.
 - Day 837: the row held at the beds all day with no walk named. Nobody was hurt.
+- Day 839: the row held at the beds again; no walk named, nobody hurt. Kimberly and Worf keep a potato for Leonardo, to be given when Billy names a path.
 
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk.
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
