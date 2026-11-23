@@ -6,4 +6,4 @@
 4. Share food only when I have some; I have none now. Food goes first to Worf and Jason (hunger 12-13), then Billy if he is weakest. Reason: food is scarce.
 5. Stay out of the potato trades unless Billy names them and I can see the people.
 
-Curious next: whether sheep or sword material can be found near the row. Tell: Riker, Lewis, Laforge, who have asked too.
+Curious next: whether sheep or sword material can be found near the row. Tell Riker, Lewis, Laforge, who have asked too.
