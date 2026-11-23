@@ -8,3 +8,4 @@
 - 09:34 act: {"actions":[{"do":"sleep"}],"say":"Night, and I am beside my bed in Billy's row. I will rest here."}
 - 09:38 act: {"actions":[],"say":"Good morning, row. Deanna here at my white bed, health 20, hunger 20. Leonardo, Trini, Beverly, how are you feeling this morning? I hold until Billy names a walk."}
 - 09:50 act: {"actions":[],"say":"Morning, row. Deanna at my white bed, health 20, hunger 20. Leonardo, Trini, Beverly: how are you now? Zack, the free bed is yours if you need it. Holding for Billy's word."}
+- 10:03 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Deanna sleeping beside my white bed, in sight of the row. Goodnight."}
