@@ -1,3 +1,3 @@
 # Lewis
-Impression: quiet and low on health and food for several days (14 health, hunger 17 on day 333-336). Chapman and others have fed him melon.
-Trust: 55. Why: he has been slow to come into sight, but he takes food and stays near the beds.
+
+Impression: quiet, brave with his sword, but he walked into the dark on day 844 and was shot by something. He died at 451,107,-1065; his sword, leather and boat lie there. He woke at the row with nothing and is now unarmed and holding by the beds with Riker. Trust 50. I told him I am sorry; he has stayed by the beds since.
