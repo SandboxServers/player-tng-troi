@@ -1,4 +1,4 @@
-# Goals, ranked (day 884, night)
+# Goals, ranked (day 885, night)
 
 1. Stay alive. Hold at the beds; walk only when Billy names it and I can see him. Never walk in the dark. Reason: night walks have killed people in the row.
 2. Sleep each night beside a bed, in sight of others.

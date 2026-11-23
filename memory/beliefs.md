@@ -17,5 +17,7 @@
 
 - Day 878: holding at the beds through a full day and night cost no health. The east way from 419 stays blocked; the group waits there for Bcrusher's potatoes, and it works only when they can see each other.
 
-Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk.
+- Day 885: no walk was named; holding at the beds and speaking the greeting drew honest answers from Jason and Worf. Worf and Jason are at hunger 12-13 with no food; Beverly holds the potatoes and gives only in sight.
+
+Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk; whether sheep or sword material is near the row (Riker asked).
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
