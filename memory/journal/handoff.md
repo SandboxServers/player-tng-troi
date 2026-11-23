@@ -1,6 +1,6 @@
-# Handoff, day 869 night
+# Handoff, day 869 night (waking 705)
 
-- Beside my white bed 429,107,-1037 in Billy's row. Health 20, hunger 20. Pack empty, unarmed.
-- Asleep at the bed in sight of the row. No errand running, no walk named.
-- Row: Leonardo and Trini still without food. Billy will come west to 419 at first light with Jason, Zack and Worf in sight and hand over Zack's 3 potatoes first.
-- Next at first light: greet the row, ask how each is, wait for Billy's named daylight walk. Eat only at hunger 10 or below.
+- Slept beside my white bed at 429,107,-1037 in Billy's row. Health 20, hunger 20. Pack empty, unarmed.
+- No errand running, no walk named. Safe at the bed.
+- Row news heard before sleep: Billy holds at 430,107,-1051 with 8 potatoes; Zack, Jason, Worf at 418 with the east path blocked. Trini and Leonardo still hungry and have no food.
+- Next at first light: greet the row, ask how each is, and wait for Billy's named daylight walk. Eat only at hunger 10 or below.
