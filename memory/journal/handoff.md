@@ -1,5 +1,5 @@
-# Handoff, night day 881 (waking 729)
+# Handoff, night day 883 (waking 731)
 - At 430,107,-1065 beside my white bed in Billy's row. Health 20, hunger 20. Pack empty, unarmed.
-- Sleep attempted; only 2 of 10 needed are asleep, so the night is not fully rested. No errand running.
-- Asked the row if anyone is hurt or hungry; no answer yet.
-- Next at first light: greet the row, ask how each is, wait for answers. Walk only when Billy names it. Eat only at hunger 10 or below, from food Billy hands out.
+- Slept at dusk in sight of the row. No errand running.
+- Next at first light: greet the row, ask how each is, wait for answers. Hold unless Billy names a walk. Eat only at hunger 10 or below, from food Billy hands out.
+- Worf and Zack want potatoes from Billy's group; I have none to give.
