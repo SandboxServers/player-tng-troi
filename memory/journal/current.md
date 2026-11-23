@@ -9,3 +9,6 @@
 - Night 843: slept beside the white bed in the row's sight. Sleep worked (days since sleep reset to 0). Leonardo and Trini still have no food; no walk named for me. Waking next: greet the row at dawn and ask how each is.
 - 06:49 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Deanna beside my bed at 429,107,-1037, holding here, not walking."}
 - Night 843 (cycle): sleep sent beside bed 429,107,-1037 in the row's sight; said good night. No walk named. Next: wait for the result, then greet the row at dawn.
+- 06:50 act: {"say":"Good morning, row. Troi here at the white bed, health 20, hunger 20. Leonardo, Trini, how are you holding? Holding here until Billy names a walk."}
+- 07:02 act: {"actions":[{"do":"sleep"}]}
+- 07:02 act: {"actions":[{"do":"sleep"}]}
