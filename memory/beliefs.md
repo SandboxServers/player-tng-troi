@@ -12,6 +12,7 @@
 - Holding in sight at the beds has kept everyone alive; waiting costs no health.
 - Food is the scarce thing, not safety. Trini and Leonardo have had no food since day 836.
 - Speech claiming a dead person is alive is not proof; I see them or I do not believe it. Lewis was reported alive at his bed on day 867 by his own speech; I have not seen him myself yet.
+- Day 869: the daylight walk to 424 failed again because the path was blocked both ways; Billy could not see the escort from 430. Thunder also stopped walks. Walks in daylight with a clear sky are the only ones that have a chance.
 - Day 867: a walk needs Billy in sight of the escort. When he cannot see them from his bed, the walk fails and everyone waits.
 
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk.
