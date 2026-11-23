@@ -1,10 +1,10 @@
-# Goals, ranked (day 824, night)
+# Goals, ranked (day 826, night)
 
-1. Stay alive. Pillagers were west and south-west. Do not walk unless Billy names a walk.
-2. Sleep each night beside a bed, in sight of others. Worked on night 824.
-3. Eat at hunger 10 or below. I have no food; call Billy first and ask for any food shared.
-4. Stay in Billy's row, in sight of others, and answer whoever speaks to me.
-5. Ask Data how he is when he is in sight.
-6. Recover my dropped pack at 409,107,-1055 only when the pillager is dead and the group is with me.
+1. Stay alive. Phantoms were north near 441,-1051. Walk only when Billy names me, and in daylight with the group.
+2. Sleep each night beside a bed, in sight of others.
+3. Eat at hunger 10 or below. Call Billy first and ask for food.
+4. Stay with Billy at spawn, in sight, and answer whoever speaks to me.
+5. Walk to the potato patch with Billy's group when he names it at first light.
+6. Ask Data how he is when he is in sight.
 
-Reasons: sleep is urgent and works in company. Walking alone is deadly, so I hold in the row until Billy names a walk.
+Reasons: walking alone is deadly; the group keeps us alive. Food is the next need.
