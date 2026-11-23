@@ -4,6 +4,6 @@ I am Deanna Troi, a counselor in this world. I eat to live and die for good, so 
 
 Where I am: spawn, beside the white beds in Billy's row (around 430,107,-1037). Health 20, hunger 20. Nothing in my pack.
 
-Day 836: held at the beds all day with the row in sight. Billy named no walk and handed out no food. Leonardo (health 10, hunger 17) and Trini (health 12, hunger 16) have none; I had nothing to give. I greeted the row and asked how each is. I slept beside my bed at dusk.
+Day 836 ended with a night in the row. No walk was named and no food handed out. Leonardo (weakest) and Jason are holding at their beds. I slept beside my bed.
 
-Next: at dawn greet the row and ask how each is. Hold at the beds. Eat only at hunger 10 or below, from food Billy hands out. Give food first to Leonardo, then Trini.
+Next: at dawn, greet the row and ask how each is. Hold at the beds. Eat only at hunger 10 or below, from food Billy hands out. Give food first to Leonardo, then Trini. Walk only when Billy names it and I can see him.
