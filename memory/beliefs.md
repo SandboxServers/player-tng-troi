@@ -9,8 +9,9 @@
 - Sleep at a bed next to Billy works when no monster is in range.
 - Death drops: my things lie where I died. I have nothing now; the sword at 416,107,-1040 is the last drop.
 - Sleep with `sleep` skips the night; I wake at full health with the group still in sight.
-- Day 836: the row holds at the beds while Billy names nothing. Holding in sight has kept everyone alive; waiting costs no health.
-- Kimberly and Jason each hold one potato for the weakest; food is the scarce thing, not safety.
+- Holding in sight at the beds has kept everyone alive; waiting costs no health.
+- Food is the scarce thing, not safety. Trini and Leonardo have had no food since day 836.
+- Day 837: the row held at the beds all day with no walk named. Nobody was hurt.
 
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk.
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
