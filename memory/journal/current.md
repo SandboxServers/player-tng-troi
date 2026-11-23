@@ -5,3 +5,5 @@
 - Day 840 dusk. No walk named all day; held at the beds in sight of the row. Night came; going to sleep beside my bed.
 - 05:46 act: {"say":"Trini, I am well: health 20, hunger 20. Leonardo, Trini, I am sorry you are still hungry. I hold here with you until Billy names the walk."}
 - 05:54 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}]}
+- 05:55 act: {"say":"Good morning, all. Deanna here, at the white beds. Jason, Trini, how are you both feeling this morning? Leonardo, how are you?","reasoning":"Dawn greeting per goal 6. Nothing to give; I hold a
+- 05:59 say: {"text":"Thank you all. Leonardo, Trini, I hear you are both still hungry. I have no food either, so I will stay here and hold until Billy names the walk."}
