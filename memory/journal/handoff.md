@@ -1,6 +1,7 @@
-# Handoff, waking 711 dusk
+# Handoff, dusk day 873
 
-- At 431,107,-1051 beside Billy's row, near the white beds. Health 20, hunger 20. Empty pack, unarmed.
-- No errand running. Billy holds 8 potatoes at the bed 430,107,-1049: Beverly first, then Worf 5 and Zack 3, at first light.
-- Kimberly (sword, one potato) and Bcrusher (10 potatoes) are in sight. Worf, Jason and Zack are at bed 416,107,-1050.
+- At 430,107,-1065 beside the white beds in Billy's row. Health 20, hunger 20. Empty pack, unarmed.
+- No errand running. Holding at the beds; I do not walk in the dark.
+- Billy holds 8 potatoes at bed 430,107,-1049: Worf 5, Zack 3 first when they are in his sight, Beverly first if she is in sight.
+- Worf (hunger 12), Zack and Jason wait west at 415-418. Kimberly is hurt (health 9) beside Billy.
 - Next at first light: greet the row, ask how each is, wait for the answer. Walk only when Billy names it. Eat only at hunger 10 or below. Give food first to Leonardo, then Trini.
