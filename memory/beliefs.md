@@ -15,5 +15,7 @@
 - Day 869: the daylight walk to 424 failed again because the path was blocked both ways; Billy could not see the escort from 430. Thunder also stopped walks. Walks in daylight with a clear sky are the only ones that have a chance.
 - Day 867: a walk needs Billy in sight of the escort. When he cannot see them from his bed, the walk fails and everyone waits.
 
+- Day 878: holding at the beds through a full day and night cost no health. The east way from 419 stays blocked; the group waits there for Bcrusher's potatoes, and it works only when they can see each other.
+
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk.
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
