@@ -1,4 +1,4 @@
-# Goals, ranked (day 947, night)
+# Goals, ranked (day 948, night)
 
 1. Stay alive. Hold at my white bed; walk only when Billy or Worf names a daylight route and I can see them. Never walk in the dark.
 2. Sleep each night beside a bed, in sight of others.
