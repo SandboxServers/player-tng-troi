@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 951: dawn greeting drew answers from Leonardo (health 1, no food, asks for potato or bread), Beverly (health 19, waiting on Billy's potato routing), Worf, MacDonald, Jason, Lewis and Zack (all holding, no food). Trini holds 2 potatoes for Leonardo, to give in daylight sight. No walk named; holding at my bed kept me at health 20. Slept at dusk at my bed in sight of the row; no harm.
+
 - Day 949: dawn greeting drew an answer from Beverly (health 19, hunger 17). Leonardo did not answer in my sight. Billy's row held at the beds with no food and no named walk. Holding at my bed kept me at health 20; sleeping at dusk in sight of the row cost nothing.
 
 - Day 948: dawn greeting drew answers from Beverly, Leonardo (health 1, no food), Lewis, MacDonald, John, Worf and Trini (health 11). Nobody has food; Worf still sees no open air. Holding at my bed kept me at health 20 and I slept at dusk in sight of others. Curious next: open air past the wall, sheep or sword material near the row. Tell Riker, Wesley, Laforge, Kimberly.
