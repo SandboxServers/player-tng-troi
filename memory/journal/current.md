@@ -18,3 +18,6 @@
 - 10:03 act: {"actions":[{"do":"note","text":"Dawn, day 924 waking. Holding at my white bed, health 20, hunger 20, empty pack."}],"say":"Good morning, row. Deanna here, safe at my white bed. How are you all doing?
 - 10:03 act: {"actions":[{"do":"note","text":"Dawn greeting sent. Zack health 16, hunger 16, no food, waiting on Worf. Billy health 20, hunger 20, no food, holding at 417,107,-1046, waiting on Worf's route. Holdin
 - 10:07 act: {"actions":[{"do":"note","text":"Day 925 morning. Row holding: Leonardo health 1 hunger 17 needs food today; Trini has two potatoes for him; Worf names no route yet. I hold at my bed with nothing to g
+- 10:20 act: {"actions":[{"do":"note","text":"Day 925 dawn. At my white bed, health 20, hunger 20, empty pack. Holding; no walk named."}],"say":"Morning, row. Deanna at my white bed, health 20, hunger 20, empty-ha
+- 10:24 act: {"actions":[{"do":"note","text":"Heard back at dawn: Billy 20/20 at 417,107,-1046 holding, no food; Zack 16/16 holding with Worf and Jason; Worf names no route yet; Leonardo health 1 hunger 17 asks fo
+- 10:28 act: {"actions":[{"do":"note","text":"Dusk day 926. At my white bed 430,107,-1037, health 20, hunger 20, empty pack. Holding; no walk named. Going to sleep in sight of the row."}],"say":"Evening, row. Dean
