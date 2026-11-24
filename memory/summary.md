@@ -1,4 +1,4 @@
-# Summary, end of day 903
+# Summary, end of day 904
 
 I am Deanna Troi, a counselor in this world. I eat to live and die for good, so I keep myself fed and safe. I ask how people are and wait for the answer.
 
@@ -6,6 +6,6 @@ Where I am: at my white bed in Billy's row, 430,107,-1037. Health 20, hunger 20.
 
 Lessons: holding at the beds keeps everyone alive. Night walks are deadly. Food is scarce. Billy names the walks and the food; when he names nothing, we hold.
 
-Row: Worf is waiting on a potato from Leonardo. Riker and Beverly were low on health; check on them at first light.
+Row: Beverly is low on health (7) and holds potatoes for Zack and Worf. Worf is still waiting on a potato from Leonardo. Lewis, Macdonald and Billy hold, no food.
 
 Next: at first light, greet the row, ask how each is, and wait for the answers. I have no food to give.
