@@ -13,3 +13,9 @@
 - 11:35 say: {"text":"Morning, row. Deanna at my white bed, health 20, hunger 20, empty pack. Leonardo, Riker, Zack, how are you holding? I have no food to give, but I am listening. Worf, Billy, do you name a walk
 - 11:47 say: {"text":"Goodnight, row. Deanna at my white bed, health 20, hunger 20. Holding here through the night. Leonardo, hold till morning; I will ask after you at first light."}
 - 11:52 act: {"say":"Morning, row. Deanna at my white bed, health 20, hunger 20, empty pack. Leonardo, how are you holding? Riker, Zack, Trini, Worf, Billy, how are you? I have no food to give, but I am listening.
+- 12:04 say: {"text":"Good night, Worf, Beverly, Trini. I'm at my white bed, health 20, holding still until light. Leonardo, I'm thinking of you."}
+- 12:04 act: {"actions":[{"do":"sleep"}]}
+- 12:04 say: {"text":"Good night, Leonardo. Hold still in your bed till light, and I'll ask after you at dawn."}
+- 12:08 say: {"text":"Morning, row. Deanna at my white bed, health 20, hunger 20, empty pack. Leonardo, Trini, Riker, Beverly, how are you holding? Worf, Billy, is a walk named today? I hold until then."}
+- 12:20 say: {"text":"Good night, row. Deanna at my white bed, health 20, hunger 20. Holding till light; no walks in the dark."}
+- 12:20 act: {"actions":[{"do":"sleep"}]}
