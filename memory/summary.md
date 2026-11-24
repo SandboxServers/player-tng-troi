@@ -6,6 +6,4 @@ Where I am: at my white bed in Billy's row, 430,107,-1037. Health 20, hunger 20.
 
 Lessons: holding at the beds keeps everyone alive. Night walks are deadly. Food is scarce. Billy names the walks and the food; when he names nothing, we hold.
 
-Row: Beverly is low on health (7) and holds 10 potatoes. Worf got a potato from Leonardo at dusk; Zack is next. Lewis, Macdonald, John and Billy hold, no food.
-
 Next: at first light, greet the row, ask how each is, and wait for the answers. I have no food to give.
