@@ -37,5 +37,7 @@
 
 - Day 915: the east road to the potatoes (463,107,-1073) was blocked twice; Worf held in sight. Dawn greeting drew answers from Billy, Jason, Zack, Beverly, Macdonald. Holding at my bed kept me at health 20. Leonardo still at health 1 with no food.
 
+- Day 916: Worf's north-east walk was blocked and the row is walled in with planks; Worf opened the north wall at 417,107,-1052. Holding at my bed kept me at health 20. Leonardo still waiting on Trini's potatoes.
+
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk; whether sheep or sword material is near the row (Riker asked).
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
