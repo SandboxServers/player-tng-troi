@@ -28,5 +28,7 @@
 
 - Day 910: greeting at dawn drew answers from Trini, Jason, Zack, Lewis, Leonardo. Worf's daylight walk to the potatoes was blocked again; no harm. Holding at my bed kept me at health 20.
 
+- Day 911: holding at my bed all day cost nothing. Dawn greeting drew answers from nearly everyone. Worf's east walk to the potatoes was blocked again; we held. No food to give.
+
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk; whether sheep or sword material is near the row (Riker asked).
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
