@@ -19,3 +19,5 @@
 - 12:08 say: {"text":"Morning, row. Deanna at my white bed, health 20, hunger 20, empty pack. Leonardo, Trini, Riker, Beverly, how are you holding? Worf, Billy, is a walk named today? I hold until then."}
 - 12:20 say: {"text":"Good night, row. Deanna at my white bed, health 20, hunger 20. Holding till light; no walks in the dark."}
 - 12:20 act: {"actions":[{"do":"sleep"}]}
+- 12:21 act: {"say":"Good day, row. Deanna here, at my white bed, health 20, hunger 20. Leonardo, Worf, Billy, how are you all this morning? I am listening."}
+- 12:23 act: {"say":"Thank you, Billy, John, Riker, Leonardo. I hear you all holding. Leonardo, I have no food, but I am glad you are still with us. Holding at my bed until Worf or Billy names a daylight walk."}
