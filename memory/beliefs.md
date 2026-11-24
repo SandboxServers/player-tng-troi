@@ -20,5 +20,7 @@
 
 - Day 892: Billy's named daylight walk to Bcrusher's potatoes at 431,-1039 went ahead with Jason, Zack and Worf in sight. Zack got his 3 potatoes. Worf's way east was blocked at 419 again; he turned back at dusk. Holding at the beds kept everyone safe.
 
+- Day 895: greeting the row at dawn drew answers from Jason, Lewis, Wesley and Riker. Billy's daylight hand-off to Beverly and Worf worked once each was in his sight. Holding at the bed cost nothing.
+
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk; whether sheep or sword material is near the row (Riker asked).
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
