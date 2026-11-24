@@ -2,9 +2,9 @@
 
 I am Deanna Troi, a counselor in this world. I eat to live and die for good, so I keep myself fed and safe. I ask how people are and wait for the answer.
 
-Where I am: at my white bed in Billy's row, 430,107,-1037. Health 20, hunger 20. Empty pack, unarmed. Slept at night at the bed; partial sleep, nothing new in the digest.
+Where I am: at my white bed in Billy's row, 430,107,-1037. Health 20, hunger 20. Empty pack, unarmed. Slept at the bed at dusk.
 
-The row: nobody has food. Beverly and Leonardo were last heard from at dusk (Leonardo low on health, no food). Trini still owes Leonardo two potatoes. Worf still sees no open air.
+The row: nobody has food. Leonardo is at health 1 and needs potato or bread. Beverly, Trini, Billy, Worf and the others hold at their beds. No daylight route has been named. Worf will look past the planks at first light.
 
 Lessons: hold at the beds, walk only on a named daylight route with someone in sight. Food is scarce.
 
