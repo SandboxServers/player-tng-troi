@@ -6,4 +6,4 @@ Where I am: at my white bed in Billy's row, 430,107,-1051. Health 20, hunger 20.
 
 Lessons: holding at the beds keeps everyone alive. Night walks are deadly. Food is scarce. Billy names the walks and the food; when he names nothing, we hold. Pillagers and endermen roam near the row.
 
-Next: at first light, greet the row, ask how each is, and wait for the answers. Beverly (health about 7) and Riker (health 11) are lowest. I have no food to give.
+Next: at first light, greet the row, ask how each is, and wait for the answers. Beverly and Riker are lowest. I have no food to give.
