@@ -10,3 +10,7 @@
 - 19:57 act: {"say":"Good morning, row. Troi at my white bed, health 20, hunger 20, no food. Leonardo, how are you this morning? Beverly, how is your hunger? I am listening."}
 - 20:00 act: {"say":"Thank you, all. Leonardo, I hear you: health 1, hunger 17. I have no food to give, and I will not walk without a named daylight route. Trini, keep the potatoes for Leonardo. Worf, Zack, Jason,
 - 20:08 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Leonardo, I still hear you. I have no food, and I will greet you at first light."}
+- 20:12 act: {"say":"Good morning, row. Troi at my white bed, health 20, hunger 20, no food. Leonardo, how are you this morning? Beverly, how is your hunger? I am listening."}
+- 20:16 act: {"say":"Leonardo, I hear you, and I am sorry I have nothing to give. Beverly, thank you for holding steady. Billy, Worf, whenever a daylight route opens, I will follow at the back in sight of you."}
+- 20:25 act: {"say":"Night at my white bed, Troi. Holding nothing, health 20, hunger 20. I'm sleeping here in sight of the row. No walks in the dark.","intent":{"goal":"rest_at_bed","program":"rest","arguments":{}
+- 20:29 act: {"say":"Good morning, row. Troi at my white bed, health 20, hunger 20, holding nothing. Leonardo, how are you holding? Beverly, how are you? I still have no food. I'm listening for Billy or Worf's nam
