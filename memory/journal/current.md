@@ -1,11 +1,1 @@
 # Journal
-- Day 913 morning: I slept at my bed at dusk, the night was skipped. Greeted the row. Worf says beds take us only at dusk, by day they refuse (answers my curiosity). Row all holding, no food. Leonardo still at health 1. I hold at my bed for Worf's named walk.
-- 05:53 act: {"say":"Troi here, at my white bed, holding still for the night. Billy, Kimberly, I hear you. Health 20, no food. First light, I will ask each of you how you are.","actions":[{"do":"sleep"}]}
-- Night 912: slept at my bed (sleep accepted). Billy shot by a pillager at 423,107,-1038, health 3, unarmed; I stayed at my bed and told him to stay low and that Worf should come.
-- 05:53 act: {"say":"Billy, stay low and keep out of its line. I am staying at my bed, unarmed, and will not walk in the dark. Worf, Billy needs you.","actions":[]}
-- Dawn 913: heard answers. Billy 20 and holding at 417,107,-1036. Kimberly 20 holding. Zack 16, Jason 20, Beverly 19, Macdonald 20, all holding, no food. Leonardo health 1, awaiting potato. No walk named; I hold at my bed.
-- 05:56 act: {"say":"Good morning, row. Troi here, health 20, hunger 20, no food, unarmed. Leonardo, how are you holding at health 1? Beverly, Macdonald, Lewis, Trini, Zack, Jason: how are you? I am listening.","a
-- Day 913: Worf's north-east cow walk was blocked, so the row holds. I told Leonardo I have no food. I stay at my bed until Worf names a walk I can see.
-- 06:03 act: {"say":"Leonardo, I hear you. I have no food, and I am sorry. Worf, I hear the north-east walk is blocked, so I will hold at my bed and not follow until you name a new walk I can see. Health 20, hunge
-- 06:15 act: {"say":"Goodnight, row. Troi sleeps at her bed, in your sight. Health 20, no food, no walk tonight.","actions":[{"do":"sleep"}]}
-- 06:15 act: {"say":"Morning, row. Troi here, health 20, hunger 20, no food, unarmed. Leonardo, I hear you; I have none to give. Worf, Billy, Zack, Jason, Beverly, how are you? I am listening.","actions":[]}
