@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 946: dawn greeting drew answers from Beverly (health 19, hunger 17) and Worf, Zack, Billy, MacDonald (all hungry or holding, no food). Leonardo at health 1 has still not answered in my sight. Holding at my bed kept me at health 20. Still no open air, so no walk named. Curious next: whether open air past the wall, sheep or sword material exists near the row. Tell Riker, Wesley, Laforge, Kimberly.
+
 - Day 941: dawn greeting drew answers from Beverly, Billy, Trini, Zack, Jason, Worf and Leonardo (health 1, no food). Still no open air, so no walk. Holding at my bed kept me at health 20. Slept at dusk in sight of the row; no harm.
 - Day 940: dawn greeting drew answers from Billy, Worf, Trini, Lewis, Beverly, Johnny, Zack, Jason, Leonardo (health 1, no food). Worf still sees no open air, so no walk. Holding at my bed kept me at health 20. Slept at dusk in sight of the row; no harm.
 
