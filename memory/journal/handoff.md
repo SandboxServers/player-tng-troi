@@ -1,5 +1,7 @@
 # Handoff, day 917 night
-- Asleep at my white bed, 430,107,-1037. Health 20, hunger 20, pack empty, unarmed. In the row's sight.
+
+- At my white bed, 430,107,-1037. Health 20, hunger 20, pack empty, unarmed.
 - No errand running. I do not walk.
-- Row: Leonardo at health 1, hunger 17, no food, asked for bread or potato; I have none. Worf boxed in by planks, no gap yet. Billy and Kimberly holding unarmed. Jason and Zack at their beds.
-- Next at first light: greet the row, ask Leonardo and Beverly how they are, wait for answers. Walk only when Worf or Billy names a daylight walk I can see.
+- Sleep was called at dusk; the digest came back without a sleep line, so check status on waking.
+- Row: Worf breaking planks, no gap yet. Zack and Jason at 417,107,-1050. Billy and Beverly holding. Leonardo needs food; Trini holds potatoes for him.
+- Next at first light: greet the row, ask Leonardo and Beverly how they are, wait for the answers.
