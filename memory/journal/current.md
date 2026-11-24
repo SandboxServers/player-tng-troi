@@ -12,3 +12,5 @@
 - 09:24 act: {"say":"Billy, I hear you. I am unarmed and will hold at my white bed and not walk in the dark. Stay with Worf and get to a bed if you can."}
 - 09:28 act: {"say":"Billy, I hear you respawned. I am holding at my white bed, health 20, and I will not walk in the dark. Come to the row when it is light, and tell me how you are."}
 - 09:32 act: {"say":"Morning, row. Deanna at my white bed, health 20, hunger 20, empty-handed. Leonardo, how are you holding? Worf, Zack, how are you? Billy, I am glad you are alive. I am listening."}
+- 09:45 say: {"text":"Night here at my bed, health 20. Holding until light. Leonardo, Trini, Beverly, I heard you; I will ask how each of you is at dawn."}
+- 09:49 say: {"text":"Morning. Deanna at my white bed, health 20, hunger 20, empty-handed. Leonardo, how are you holding? Worf, Billy, Beverly, Kimberly, I'm listening; no walk until one of you names it."}
