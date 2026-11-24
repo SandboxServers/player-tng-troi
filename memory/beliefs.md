@@ -26,5 +26,7 @@
 
 - Day 908: phantoms came at night in the row. Billy was hit to health 3-5 while unarmed, and Leonardo to 9. Holding at my bed, out of their reach, kept me at health 20. Billy's dawn potato hand-offs work only when people are in his sight.
 
+- Day 910: greeting at dawn drew answers from Trini, Jason, Zack, Lewis, Leonardo. Worf's daylight walk to the potatoes was blocked again; no harm. Holding at my bed kept me at health 20.
+
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk; whether sheep or sword material is near the row (Riker asked).
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
