@@ -1,14 +1,1 @@
 # Journal
-- 16:07 say: {"text":"Goodnight, row. Deanna is resting at her white bed, in sight of you all. First light, I will greet you."}
-- 16:08 act: {"say":"Good night, Trini. I hear you, and I am holding at my bed until morning."}
-- 16:12 act: {"actions":[{"do":"note","text":"Morning, day 943 to 944. Holding at my white bed. Leonardo, how are you feeling this morning? Beverly, Billy, Riker, how are you? I have no food, so I am listening."}]
-- 16:21 say: {"text":"Good night, Trini. I am at my bed and staying here until morning. Beverly, Riker, how are you holding up?"}
-- 16:21 act: {"say":"Good morning, Worf. I'm well, health 20 and steady, though my pack is empty. How are you holding up, and how are Leonardo and Beverly?"}
-- 16:24 act: {"say":"Morning, Lewis and John. Thank you both. Beverly, I hear you are hungry; how are you feeling this morning? I have no food yet, but I am listening."}
-- 16:27 act: {"say":"Leonardo, I am sorry, I have no food to give. Trini, you hold potatoes for Leonardo; please give them to him now, he needs them most. Leonardo, how are you holding on?"}
-- Day 944 morning: greeted the row. Leonardo at health 1, hunger 17; I have no food. Asked Trini to give him her potatoes now. I stay at my bed, holding; no walk named.
-- 16:29 act: {"say":"That is fair, Trini, keep your word. Leonardo, if you can, step into Trini's sight by the row so she can hand the potatoes over. I am sorry I have none to give."}
-- Dusk day 944: Leonardo still needs Trini's potatoes; Trini will give them once she can see him. I said goodnight and am going to sleep at my bed in sight of the row.
-- 16:32 act: {"say":"Goodnight, row. Deanna is at her white bed, in sight of you all. Leonardo, I hope the potatoes reach you. First light, I will greet you."}
-- 16:36 act: {"say":"Morning, row. Deanna here at my white bed, health 20, pack empty. Leonardo, how are you holding? Beverly, how is your hunger? Billy, Riker, how are you this morning?"}
-- 16:41 act: {"say":"Thank you all. Leonardo, I hear you at health 1; Trini, please step to him and hand over the potatoes now. Beverly, thank you for being honest about your hunger. Billy, I'm holding at my bed u
