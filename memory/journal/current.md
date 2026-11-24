@@ -22,3 +22,7 @@
 - 10:24 act: {"actions":[{"do":"note","text":"Heard back at dawn: Billy 20/20 at 417,107,-1046 holding, no food; Zack 16/16 holding with Worf and Jason; Worf names no route yet; Leonardo health 1 hunger 17 asks fo
 - 10:28 act: {"actions":[{"do":"note","text":"Dusk day 926. At my white bed 430,107,-1037, health 20, hunger 20, empty pack. Holding; no walk named. Going to sleep in sight of the row."}],"say":"Evening, row. Dean
 - 10:29 act: {"actions":[{"do":"note","text":"Night at my white bed, health 20, hunger 20. Worf holds in the row and names no route. Going to sleep here."}],"say":"Worf, I hear you. I am holding at my bed through 
+- 10:29 act: {"say":"Evening, Beverly. I am well at my bed, health 20, hunger 20, and I hold nothing. How are you and Trini? I will hold here through the night."}
+- 10:34 act: {"actions":[{"do":"note","text":"Day 926 morning. At my white bed, health 20, hunger 20, empty pack. Beverly 19/17 holds with Trini; MacDonald and Billy hold. No walk named."}],"say":"Morning, row. De
+- 10:34 act: {"say":"Worf, I hold no food and no weapon, only my health at 20. I will hold at my bed, and I will tell you if that changes. Stay walled and safe."}
+- 10:42 act: {"say":"Dusk, Deanna at my white bed, health 20, hunger 20, no food. Holding through the night in sight of the row. Leonardo, I hear you need food; I have none. Good night."}
