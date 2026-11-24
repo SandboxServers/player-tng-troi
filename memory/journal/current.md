@@ -15,3 +15,6 @@
 - 09:45 say: {"text":"Night here at my bed, health 20. Holding until light. Leonardo, Trini, Beverly, I heard you; I will ask how each of you is at dawn."}
 - 09:49 say: {"text":"Morning. Deanna at my white bed, health 20, hunger 20, empty-handed. Leonardo, how are you holding? Worf, Billy, Beverly, Kimberly, I'm listening; no walk until one of you names it."}
 - 09:58 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}}],"say":"Deanna here, at my bed in the row. Health 20, hunger 20, no food. Zack, Leonardo, how are you holding? I will wait for your answe
+- 10:03 act: {"actions":[{"do":"note","text":"Dawn, day 924 waking. Holding at my white bed, health 20, hunger 20, empty pack."}],"say":"Good morning, row. Deanna here, safe at my white bed. How are you all doing?
+- 10:03 act: {"actions":[{"do":"note","text":"Dawn greeting sent. Zack health 16, hunger 16, no food, waiting on Worf. Billy health 20, hunger 20, no food, holding at 417,107,-1046, waiting on Worf's route. Holdin
+- 10:07 act: {"actions":[{"do":"note","text":"Day 925 morning. Row holding: Leonardo health 1 hunger 17 needs food today; Trini has two potatoes for him; Worf names no route yet. I hold at my bed with nothing to g
