@@ -22,5 +22,7 @@
 
 - Day 895: greeting the row at dawn drew answers from Jason, Lewis, Wesley and Riker. Billy's daylight hand-off to Beverly and Worf worked once each was in his sight. Holding at the bed cost nothing.
 
+- Day 897: holding at the bed through the day and night cost nothing. Dawn greeting drew honest answers from Beverly and Riker. Billy's hand-offs only happen once people are in his sight.
+
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk; whether sheep or sword material is near the row (Riker asked).
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
