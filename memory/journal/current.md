@@ -14,3 +14,8 @@
 - 20:16 act: {"say":"Leonardo, I hear you, and I am sorry I have nothing to give. Beverly, thank you for holding steady. Billy, Worf, whenever a daylight route opens, I will follow at the back in sight of you."}
 - 20:25 act: {"say":"Night at my white bed, Troi. Holding nothing, health 20, hunger 20. I'm sleeping here in sight of the row. No walks in the dark.","intent":{"goal":"rest_at_bed","program":"rest","arguments":{}
 - 20:29 act: {"say":"Good morning, row. Troi at my white bed, health 20, hunger 20, holding nothing. Leonardo, how are you holding? Beverly, how are you? I still have no food. I'm listening for Billy or Worf's nam
+- 20:54 act: {"say":"Good morning, row. Deanna here, at my white bed. How are you all? Leonardo and Beverly, I'd like to hear how you are doing.","actions":[]}
+- 20:56 act: {"say":"Trini, I cannot see Leonardo, Worf or Zack from my bed, so I cannot tell you. Thank you for holding the potatoes for Leonardo. I am staying at my bed, holding nothing, health 20.","actions":[]
+- Day 957 day: greeted the row, asked Leonardo and Beverly how they are. Trini (health 11, hunger 17) answered; Leonardo and Beverly not in sight. Holding at my bed, no food, no named route.
+- 21:00 act: {"say":"Leonardo, I hear you, and I am sorry I have nothing to give. Trini, please take the potatoes to Leonardo if you can walk there in daylight with someone in sight. Beverly, thank you. Meriwether
+- 21:04 act: {"say":"Night in the row. Troi at my white bed, health 20, hunger 20, holding nothing. Leonardo, Trini, Beverly, I hear you. No walks in the dark. Goodnight.","actions":[{"do":"sleep"}]}
