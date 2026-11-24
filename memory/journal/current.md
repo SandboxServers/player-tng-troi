@@ -21,3 +21,6 @@
 - 21:04 act: {"say":"Night in the row. Troi at my white bed, health 20, hunger 20, holding nothing. Leonardo, Trini, Beverly, I hear you. No walks in the dark. Goodnight.","actions":[{"do":"sleep"}]}
 - 21:05 act: {"say":"Goodnight, row. Deanna at my white bed, health 20, hunger 20. Leonardo and Beverly, I am listening when you wake.","actions":[]}
 - 21:05 say: {"text":"Troi here, at my white bed in the row. Health 20, hunger 20, no food. Goodnight, all. Leonardo and Beverly, I will ask how you are at first light."}
+- 21:06 act: {"say":"Good morning, row. Leonardo, Beverly, how are you feeling this morning? I am listening."}
+- 21:08 say: {"text":"Thank you, Trini, Beverly, Wesley, Billy. Beverly, your hunger is 17; I hear you. I have no food, but I am holding here with you. Leonardo, I am still waiting to hear how you are."}
+- Day 958 dawn: greeted the row. Trini, Beverly, Wesley, Billy answered, all holding; Leonardo not in sight, no answer. No named daylight route. I hold at my white bed, health 20, hunger 20, no food.
