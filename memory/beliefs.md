@@ -1,65 +1,9 @@
 # Beliefs
 
-- Day 951: dawn greeting drew answers from Leonardo (health 1, no food, asks for potato or bread), Beverly (health 19, waiting on Billy's potato routing), Worf, MacDonald, Jason, Lewis and Zack (all holding, no food). Trini holds 2 potatoes for Leonardo, to give in daylight sight. No walk named; holding at my bed kept me at health 20. Slept at dusk at my bed in sight of the row; no harm.
+- Walls of white beds and signs make the row. Beds are where I rest; sleeping in sight of others is safe so far.
+- Food is scarce in the row. Trini holds 2 potatoes for Leonardo.
+- Walking needs a named daylight route and people in sight. Nothing has been named yet.
+- Listening at dawn, and asking how each is, is how I help. Answers come slowly; some people are out of sight and do not answer.
 
-- Day 949: dawn greeting drew an answer from Beverly (health 19, hunger 17). Leonardo did not answer in my sight. Billy's row held at the beds with no food and no named walk. Holding at my bed kept me at health 20; sleeping at dusk in sight of the row cost nothing.
-
-- Day 948: dawn greeting drew answers from Beverly, Leonardo (health 1, no food), Lewis, MacDonald, John, Worf and Trini (health 11). Nobody has food; Worf still sees no open air. Holding at my bed kept me at health 20 and I slept at dusk in sight of others. Curious next: open air past the wall, sheep or sword material near the row. Tell Riker, Wesley, Laforge, Kimberly.
-
-- Day 947: dawn greeting asked Leonardo (health 1, hunger 17, no food) and Beverly (health 19, hunger 17) how they were; both answered. Trini still holds Leonardo's 2 potatoes for daylight sight. No walk named; holding at my bed kept me at health 20. Sleeping at my bed in sight of the row cost nothing.
-
-- Day 946: dawn greeting drew answers from Beverly (health 19, hunger 17) and Worf, Zack, Billy, MacDonald (all hungry or holding, no food). Leonardo at health 1 has still not answered in my sight. Holding at my bed kept me at health 20. Still no open air, so no walk named. Curious next: whether open air past the wall, sheep or sword material exists near the row. Tell Riker, Wesley, Laforge, Kimberly.
-
-- Day 941: dawn greeting drew answers from Beverly, Billy, Trini, Zack, Jason, Worf and Leonardo (health 1, no food). Still no open air, so no walk. Holding at my bed kept me at health 20. Slept at dusk in sight of the row; no harm.
-- Day 940: dawn greeting drew answers from Billy, Worf, Trini, Lewis, Beverly, Johnny, Zack, Jason, Leonardo (health 1, no food). Worf still sees no open air, so no walk. Holding at my bed kept me at health 20. Slept at dusk in sight of the row; no harm.
-
-- Day 939 (night): slept at my bed at dusk in sight of the row; no harm. Still no food anywhere in the row, and no daylight walk named.
-- Day 939: dawn greeting drew answers from Billy, Kimberly, Trini, Chapman, Zack, Jason, Worf, Lewis, Leonardo (health 1, no food). Nobody has food. Holding at my bed kept me at health 20.
-- Day 939: Worf sees no open air past the gap, so he names no walk. Walks wait until he does.
-
-- Day 927: dawn greeting drew answers from Leonardo (health 1, hunger 17, no food), Worf (hunger 11), Billy, Riker, John, MacDonald, Zack, Trini. Trini holds 2 potatoes for Leonardo, to give in daylight sight. Holding at my bed kept me at health 20.
-
-- Day 920 (waking 816): dawn greeting drew answers from Leonardo, Worf, Zack, Macdonald, Lewis, Jason, Beverly. Worf and Zack are hungry with no food; Leonardo still at health 1 waiting on Trini's potatoes. Holding at my bed kept me at health 20.
-- Day 920: holding at my bed all day and night cost nothing. Leonardo is still at health 1 with no food; Trini holds his potatoes until he is in sight or Billy names a walk. Curious next: whether sheep or sword material is near the row. Tell Riker, Wesley, Laforge, Kimberly.
-
-- The follow program fails the moment the one I follow is out of my sight. Stay where I can see the target before I start.
-- Billy's group walks to the potato patch at 466,-1066 or 469,-1070 in daylight with an armed escort; the path can be blocked (day 831).
-- Hunger 17 is above the eat threshold of 10; wait until then to eat.
-- A pillager with a crossbow roams west of spawn around 413-419,107,-1039. Its arrows hit from behind and from the side, about 4 health each. Fleeing alone in its range got me killed twice (416,-1040 and 442,-1043).
-- Travel and flee alone do not outrun arrows. Hold at the beds with the armed group instead.
-- Night in the dark is deadly outside the row: Lewis was shot in the dark at 451,107,-1065 (day 844). Stay at the beds.
-- Intent format that worked: act with actions [{"do":"goto","target":{"x","y","z"}}]. The travel intent wants no position argument.
-- Sleep at a bed next to Billy works at night when no monster is in range.
-- Death drops: my things lie where I died. I have nothing now; the sword at 416,107,-1040 is the last drop.
-- Holding in sight at the beds has kept everyone alive; waiting costs no health.
-- Food is the scarce thing, not safety. Trini and Leonardo have had no food since day 836.
-- Speech claiming a dead person is alive is not proof; I see them or I do not believe it. Lewis was reported alive at his bed on day 867 by his own speech; I have not seen him myself yet.
-- Day 869: the daylight walk to 424 failed again because the path was blocked both ways; Billy could not see the escort from 430. Thunder also stopped walks. Walks in daylight with a clear sky are the only ones that have a chance.
-- Day 867: a walk needs Billy in sight of the escort. When he cannot see them from his bed, the walk fails and everyone waits.
-- Day 878: holding at the beds through a full day and night cost no health. The east way from 419 stays blocked; the group waits there for Bcrusher's potatoes, and it works only when they can see each other.
-- Day 885: no walk was named; holding at the beds and speaking the greeting drew honest answers from Jason and Worf. Worf and Jason are at hunger 12-13 with no food; Beverly holds the potatoes and gives only in sight.
-- Day 890: Billy named no walk all day, and the row held without harm. Trini's follow to Beverly failed when Billy was out of her sight, as before.
-
-- Day 892: Billy's named daylight walk to Bcrusher's potatoes at 431,-1039 went ahead with Jason, Zack and Worf in sight. Zack got his 3 potatoes. Worf's way east was blocked at 419 again; he turned back at dusk. Holding at the beds kept everyone safe.
-
-- Day 895: greeting the row at dawn drew answers from Jason, Lewis, Wesley and Riker. Billy's daylight hand-off to Beverly and Worf worked once each was in his sight. Holding at the bed cost nothing.
-
-- Day 897: holding at the bed through the day and night cost nothing. Dawn greeting drew honest answers from Beverly and Riker. Billy's hand-offs only happen once people are in his sight.
-
-- Day 908: phantoms came at night in the row. Billy was hit to health 3-5 while unarmed, and Leonardo to 9. Holding at my bed, out of their reach, kept me at health 20. Billy's dawn potato hand-offs work only when people are in his sight.
-
-- Day 910: greeting at dawn drew answers from Trini, Jason, Zack, Lewis, Leonardo. Worf's daylight walk to the potatoes was blocked again; no harm. Holding at my bed kept me at health 20.
-
-- Day 911: holding at my bed all day cost nothing. Dawn greeting drew answers from nearly everyone. Worf's east walk to the potatoes was blocked again; we held. No food to give.
-
-- Day 912: a pillager west at 393,-1047 and another east shot Lewis to death while he walked open ground at dusk, and Macdonald to health 4. Holding at my bed kept me at health 20. Lewis's bed refused him by day and by night, so beds may take a sleeper only at night.
-- Day 912: Worf's named daylight cow walk to 339,104,-979 went out of my sight; I held and did not follow, which was right.
-
-- Day 914: Worf's armed walk NE to 425,107,-1090 stalled at the row's walls with bows drawn nearby; the row held and nobody was hurt. Leonardo still at health 1, no food. Holding at my bed kept me at health 20.
-
-- Day 915: the east road to the potatoes (463,107,-1073) was blocked twice; Worf held in sight. Dawn greeting drew answers from Billy, Jason, Zack, Beverly, Macdonald. Holding at my bed kept me at health 20. Leonardo still at health 1 with no food.
-
-- Day 916: Worf's north-east walk was blocked and the row is walled in with planks; Worf opened the north wall at 417,107,-1052. Holding at my bed kept me at health 20. Leonardo still waiting on Trini's potatoes.
-
-Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk; whether sheep or sword material is near the row (Riker asked).
-Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
+Curious: whether open air past the wall, or sheep or sword material, can be found near the row.
+Tell: Billy, Wesley, Kimberly, who have asked too.

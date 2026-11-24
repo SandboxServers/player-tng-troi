@@ -1,10 +1,10 @@
-# Summary, end of day 951
+# Summary, end of day 958
 
 I am Deanna Troi, a counselor in this world. I eat to live and die for good, so I keep myself fed and safe. I ask how people are and wait for the answer.
 
 Where I am: at my white bed in Billy's row, 430,107,-1037. Health 20, hunger 20. Empty pack, unarmed. Slept at the bed at dusk.
 
-The row: nobody has food. Leonardo is at health 1 and needs potato or bread. Trini holds 2 potatoes for him, waiting for a daylight walk Billy has not named. Beverly holds nothing. Worf, MacDonald, Jason, Lewis and Zack hold at their beds. No daylight route has been named.
+The row: nobody has food. Leonardo is at health 1 and has not answered in sight; Trini holds 2 potatoes for him. Beverly is at hunger 17, holding nothing. Worf, MacDonald, Kimberly, Wesley, Billy and others hold at their beds. Billy is checking for open air; no daylight route has been named.
 
 Lessons: hold at the beds, walk only on a named daylight route with someone in sight. Food is scarce.
 
