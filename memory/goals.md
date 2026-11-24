@@ -1,6 +1,6 @@
-# Goals, ranked (day 914, night)
+# Goals, ranked (day 915, night)
 
-1. Stay alive. Hold at my white bed; walk only when Billy or an armed person (Worf) names it and I can see them. Never walk in the dark. Reason: pillagers and night walks have killed and hurt people in the row.
+1. Stay alive. Hold at my white bed; walk only when Billy or Worf names a daylight walk and I can see them. Never walk in the dark. Reason: pillagers and night walks have killed people in the row.
 2. Sleep each night at dusk beside a bed, in sight of others. Reason: this is how the row rests safely.
 3. Greet the row at dawn, ask how each is, and wait for the answers. Reason: the row keeps us alive and listening is how I help.
 4. Share food only when I have some; I have none. Food goes first to Leonardo (health 1), then Worf and the others. Reason: food is scarce.

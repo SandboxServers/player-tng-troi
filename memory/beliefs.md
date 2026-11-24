@@ -35,5 +35,7 @@
 
 - Day 914: Worf's armed walk NE to 425,107,-1090 stalled at the row's walls with bows drawn nearby; the row held and nobody was hurt. Leonardo still at health 1, no food. Holding at my bed kept me at health 20.
 
+- Day 915: the east road to the potatoes (463,107,-1073) was blocked twice; Worf held in sight. Dawn greeting drew answers from Billy, Jason, Zack, Beverly, Macdonald. Holding at my bed kept me at health 20. Leonardo still at health 1 with no food.
+
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk; whether sheep or sword material is near the row (Riker asked).
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
