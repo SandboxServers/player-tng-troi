@@ -1,5 +1,8 @@
 # Beliefs
 
+- Day 939: dawn greeting drew answers from Billy, Kimberly, Trini, Chapman, Zack, Jason, Worf, Lewis, Leonardo (health 1, no food). Nobody has food. Holding at my bed kept me at health 20.
+- Day 939: Worf sees no open air past the gap, so he names no walk. Walks wait until he does.
+
 - Day 927: dawn greeting drew answers from Leonardo (health 1, hunger 17, no food), Worf (hunger 11), Billy, Riker, John, MacDonald, Zack, Trini. Trini holds 2 potatoes for Leonardo, to give in daylight sight. Holding at my bed kept me at health 20.
 
 - Day 920 (waking 816): dawn greeting drew answers from Leonardo, Worf, Zack, Macdonald, Lewis, Jason, Beverly. Worf and Zack are hungry with no food; Leonardo still at health 1 waiting on Trini's potatoes. Holding at my bed kept me at health 20.
