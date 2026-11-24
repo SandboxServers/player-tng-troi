@@ -10,3 +10,5 @@
 - 16:29 act: {"say":"That is fair, Trini, keep your word. Leonardo, if you can, step into Trini's sight by the row so she can hand the potatoes over. I am sorry I have none to give."}
 - Dusk day 944: Leonardo still needs Trini's potatoes; Trini will give them once she can see him. I said goodnight and am going to sleep at my bed in sight of the row.
 - 16:32 act: {"say":"Goodnight, row. Deanna is at her white bed, in sight of you all. Leonardo, I hope the potatoes reach you. First light, I will greet you."}
+- 16:36 act: {"say":"Morning, row. Deanna here at my white bed, health 20, pack empty. Leonardo, how are you holding? Beverly, how is your hunger? Billy, Riker, how are you this morning?"}
+- 16:41 act: {"say":"Thank you all. Leonardo, I hear you at health 1; Trini, please step to him and hand over the potatoes now. Beverly, thank you for being honest about your hunger. Billy, I'm holding at my bed u
