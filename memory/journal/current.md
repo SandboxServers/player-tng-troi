@@ -3,3 +3,5 @@
 - 19:16 act: {"actions":[],"say":"Good morning, row. Leonardo, how are you this morning? Beverly, how are you, and how is your hunger? I am at my bed, unarmed, with nothing to share yet. I will wait for your answe
 - Day 953 dawn: greeted the row. Beverly (health 19, hunger 17, holding nothing) and MacDonald, Lewis answered; all holding at beds, no daylight route named. I stay at my bed, no food.
 - 19:29 act: {"say":"Good morning, Billy's row. Deanna here at my white bed. Leonardo, how are you holding? Beverly, how are you? I have no food, but I am listening."}
+- 19:40 say: {"text":"Good evening, Billy's row. I am at my bed. Is anyone hungry or hurt? I will listen."}
+- 19:44 say: {"text":"Morning, row. Troi here at my bed, health 20, hunger 20, no food to share. Leonardo, how are you now? Beverly, how is your hunger? I am listening."}
