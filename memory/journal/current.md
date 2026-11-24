@@ -5,3 +5,5 @@
 - 08:58 act: {"say":"Morning, row. Deanna here at my white bed, health 20, hunger 20. Leonardo, how are you holding? I have no food to give, but I am listening. Worf, Zack, how are you?"}
 - 09:00 act: {"say":"Thank you all. Zack, Jason, Macdonald, Kimberly, I hear you holding. Billy, Lewis, I have no working bed to name either, but my white bed here at 430,-1037 is still up for anyone who can reach
 - 09:10 say: {"text":"Goodnight, row. Deanna at my white bed, health 20, hunger 20. Holding until light. Leonardo, Worf, keep to your beds."}
+- 09:15 act: {"say":"Morning, row. Deanna at my white bed, health 20, hunger 20. Leonardo, how are you holding now? I have no food, but I am listening. Worf, Zack, Beverly, how are you?"}
+- Day 922 midday: heard back. Zack 16/16 with one plank, follows Worf in daylight. Worf no confirmed route, surveying past the gap. Billy 15/17 names no walk. Trini 15/17 holds two potatoes for Leonardo. Beverly 19/17 holds nothing. I hold at my bed, no walk, no food.
