@@ -1,6 +1,6 @@
-# Handoff, day 963 (dusk, going to sleep)
+# Handoff, night of day 963
 
-- At my white bed 430,107,-1037 in Billy's row, in sight of others. Health 20, hunger 20, no food, unarmed.
-- Greeted the row at dawn; Leonardo (health 1, hunger 17), Worf (hunger 10), Beverly (hunger 17) answered. Trini still holds 2 potatoes for Leonardo, then Worf, then Zack.
-- No daylight walk named. Holding at beds.
-- Next light: greet the row, ask Leonardo, Worf and Beverly how they are, and wait for the answers.
+- Asleep at my white bed 430,107,-1037 in Billy's row, in sight of others. Health 20, hunger 20, no food, unarmed.
+- Zack, Worf and Jason are at the row, hungry with no food; they plan to look for food together at light.
+- No daylight walk named. Hold at the beds.
+- Next light: greet the row, ask Zack, Worf, Jason, Leonardo and Beverly how they are, and wait for the answers.
