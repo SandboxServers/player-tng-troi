@@ -3,3 +3,4 @@
 - Day 928 dawn: greeted the row from my bed 430,107,-1037 (health 20, hunger 20, empty pack). Leonardo, Worf, Billy, Beverly asked. Billy and Jason answered; Billy has no food to spare. No walk named, so I held.
 - 11:05 act: {"say":"Good morning, row. Deanna here at my white bed, health 20, hunger 20, empty pack, unarmed. Leonardo, how are you holding? Worf, Billy, Beverly, how are you? I have no food to share yet, but I 
 - 11:16 act: {"say":"Goodnight, row. Deanna at my white bed, health 20, hunger 20. Holding here through the night.","actions":[{"do":"sleep"}]}
+- Day 928 night: slept at my white bed in sight of the row, health 20, hunger 20, empty pack. Leonardo still needs food; Trini holds two potatoes for him. No walk named.
