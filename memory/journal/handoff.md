@@ -1,5 +1,5 @@
-# Handoff, day 909 dusk
-- At my white bed, 430,107,-1037. Health 20, hunger 20, pack empty, unarmed.
-- No errand running. No walk named by me. Holding, going to sleep here in the row's sight.
-- Row: Billy at health 1 at 418,107,-1053 with Zack and Worf, not walking in the dark. Leonardo at bed, health 1. Bcrusher hungry, no food. Trini holds one potato promised to Worf.
-- Next at first light: greet the row, ask how each is, wait for the answers. Still no food to give.
+# Handoff, day 913 night
+- At my white bed, 430,107,-1037. Health 20, hunger 20, pack empty, unarmed. Sheltered in the row's sight.
+- No errand running. No walk named by me. Holding.
+- Row: Billy at 417,107,-1036, health 20, holding out of the pillager's line. Worf, Zack, Jason at the bed near 416,107,-1050. Leonardo at health 1 awaiting a potato from Trini. Beverly and Macdonald hold, no food.
+- Next at first light: greet the row, ask how each is, wait for answers. Still no food to give. Hold until Worf or Billy names a daylight walk I can see.
