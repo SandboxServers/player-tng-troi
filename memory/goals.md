@@ -1,4 +1,4 @@
-# Goals, ranked (day 916, night)
+# Goals, ranked (day 920, night)
 
 1. Stay alive. Hold at my white bed; walk only when Billy or Worf names a daylight walk and I can see them. Never walk in the dark. Reason: pillagers and night walks have killed people in the row.
 2. Sleep each night beside a bed, in sight of others. Reason: this is how the row rests safely.

@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 920: holding at my bed all day and night cost nothing. Leonardo is still at health 1 with no food; Trini holds his potatoes until he is in sight or Billy names a walk. Curious next: whether sheep or sword material is near the row. Tell Riker, Wesley, Laforge, Kimberly.
+
 - The follow program fails the moment the one I follow is out of my sight. Stay where I can see the target before I start.
 - Billy's group walks to the potato patch at 466,-1066 or 469,-1070 in daylight with an armed escort; the path can be blocked (day 831).
 - Hunger 17 is above the eat threshold of 10; wait until then to eat.
