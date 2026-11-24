@@ -1,5 +1,6 @@
 # Beliefs
 
+- Day 941: dawn greeting drew answers from Beverly, Billy, Trini, Zack, Jason, Worf and Leonardo (health 1, no food). Still no open air, so no walk. Holding at my bed kept me at health 20. Slept at dusk in sight of the row; no harm.
 - Day 940: dawn greeting drew answers from Billy, Worf, Trini, Lewis, Beverly, Johnny, Zack, Jason, Leonardo (health 1, no food). Worf still sees no open air, so no walk. Holding at my bed kept me at health 20. Slept at dusk in sight of the row; no harm.
 
 - Day 939 (night): slept at my bed at dusk in sight of the row; no harm. Still no food anywhere in the row, and no daylight walk named.
