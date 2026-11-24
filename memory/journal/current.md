@@ -5,3 +5,8 @@
 - 19:29 act: {"say":"Good morning, Billy's row. Deanna here at my white bed. Leonardo, how are you holding? Beverly, how are you? I have no food, but I am listening."}
 - 19:40 say: {"text":"Good evening, Billy's row. I am at my bed. Is anyone hungry or hurt? I will listen."}
 - 19:44 say: {"text":"Morning, row. Troi here at my bed, health 20, hunger 20, no food to share. Leonardo, how are you now? Beverly, how is your hunger? I am listening."}
+- 19:53 act: {"say":"Good evening, Trini. How are you holding up? I am safe at my bed, health and hunger full. Leonardo, how are you tonight?","intent":{"goal":"hold_at_bed_till_dawn","program":"rest","arguments":
+- 19:57 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Leonardo, I hear you. I have no food, but I am at my bed in sight of you, and I will greet you at first light."}
+- 19:57 act: {"say":"Good morning, row. Troi at my white bed, health 20, hunger 20, no food. Leonardo, how are you this morning? Beverly, how is your hunger? I am listening."}
+- 20:00 act: {"say":"Thank you, all. Leonardo, I hear you: health 1, hunger 17. I have no food to give, and I will not walk without a named daylight route. Trini, keep the potatoes for Leonardo. Worf, Zack, Jason,
+- 20:08 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Leonardo, I still hear you. I have no food, and I will greet you at first light."}
