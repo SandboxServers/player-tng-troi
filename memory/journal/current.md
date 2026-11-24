@@ -19,3 +19,4 @@
 - Day 957 day: greeted the row, asked Leonardo and Beverly how they are. Trini (health 11, hunger 17) answered; Leonardo and Beverly not in sight. Holding at my bed, no food, no named route.
 - 21:00 act: {"say":"Leonardo, I hear you, and I am sorry I have nothing to give. Trini, please take the potatoes to Leonardo if you can walk there in daylight with someone in sight. Beverly, thank you. Meriwether
 - 21:04 act: {"say":"Night in the row. Troi at my white bed, health 20, hunger 20, holding nothing. Leonardo, Trini, Beverly, I hear you. No walks in the dark. Goodnight.","actions":[{"do":"sleep"}]}
+- 21:05 act: {"say":"Goodnight, row. Deanna at my white bed, health 20, hunger 20. Leonardo and Beverly, I am listening when you wake.","actions":[]}
