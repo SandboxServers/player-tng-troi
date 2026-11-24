@@ -12,3 +12,4 @@
 - Day 930 morning: row answers: Riker 11, Lewis 20, Beverly 19, Zack 16, Leonardo health 1 with no food. Worf names no walk and sees no open ground. I hold at my bed with no food to give.
 - 11:35 say: {"text":"Morning, row. Deanna at my white bed, health 20, hunger 20, empty pack. Leonardo, Riker, Zack, how are you holding? I have no food to give, but I am listening. Worf, Billy, do you name a walk
 - 11:47 say: {"text":"Goodnight, row. Deanna at my white bed, health 20, hunger 20. Holding here through the night. Leonardo, hold till morning; I will ask after you at first light."}
+- 11:52 act: {"say":"Morning, row. Deanna at my white bed, health 20, hunger 20, empty pack. Leonardo, how are you holding? Riker, Zack, Trini, Worf, Billy, how are you? I have no food to give, but I am listening.
