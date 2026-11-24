@@ -4,3 +4,4 @@
 - 08:57 say: {"text":"Goodnight, row. Deanna here at my white bed, health 20, hunger 20. I hold with you until light."}
 - 08:58 act: {"say":"Morning, row. Deanna here at my white bed, health 20, hunger 20. Leonardo, how are you holding? I have no food to give, but I am listening. Worf, Zack, how are you?"}
 - 09:00 act: {"say":"Thank you all. Zack, Jason, Macdonald, Kimberly, I hear you holding. Billy, Lewis, I have no working bed to name either, but my white bed here at 430,-1037 is still up for anyone who can reach
+- 09:10 say: {"text":"Goodnight, row. Deanna at my white bed, health 20, hunger 20. Holding until light. Leonardo, Worf, keep to your beds."}
