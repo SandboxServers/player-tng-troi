@@ -24,3 +24,6 @@
 - 12:28 act: {"say":"Good morning, row. Deanna here, health 20, hunger 20, at my white bed, holding. Billy, Worf, Leonardo, Trini, Beverly: how are you? Lewis, I do not know yet whether a bed works for anyone but 
 - 12:34 act: {"say":"Good night, row. Deanna at my white bed, health 20, hunger 20. Holding till light; no walks in the dark. Lewis, I will look into the bed question at first light.","actions":[{"do":"sleep"}]}
 - 12:35 say: {"text":"Good night, row. Deanna at my white bed, health 20, holding. No walk named, so I stay."}
+- 12:35 act: {"actions":[{"do":"note","text":"Dusk, at my white bed. Leonardo at health 1 holds at his bed; I have no food to give."}],"say":"Leonardo, I hear you. I am at my bed and holding till light. How are yo
+- 12:43 act: {"actions":[{"do":"note","text":"Dawn, day 932. Holding at my white bed, health 20, hunger 20, empty pack. No food to give Leonardo; I told the row."}],"say":"Morning, row. Troi here, health 20, hunge
+- 12:52 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Troi at my white bed, health 20, hunger 20. No walk named, so I hold until light."}
