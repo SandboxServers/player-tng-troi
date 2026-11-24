@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 927: dawn greeting drew answers from Leonardo (health 1, hunger 17, no food), Worf (hunger 11), Billy, Riker, John, MacDonald, Zack, Trini. Trini holds 2 potatoes for Leonardo, to give in daylight sight. Holding at my bed kept me at health 20.
+
 - Day 920 (waking 816): dawn greeting drew answers from Leonardo, Worf, Zack, Macdonald, Lewis, Jason, Beverly. Worf and Zack are hungry with no food; Leonardo still at health 1 waiting on Trini's potatoes. Holding at my bed kept me at health 20.
 - Day 920: holding at my bed all day and night cost nothing. Leonardo is still at health 1 with no food; Trini holds his potatoes until he is in sight or Billy names a walk. Curious next: whether sheep or sword material is near the row. Tell Riker, Wesley, Laforge, Kimberly.
 
