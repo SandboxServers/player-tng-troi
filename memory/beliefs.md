@@ -1,5 +1,6 @@
 # Beliefs
 
+- Day 939 (night): slept at my bed at dusk in sight of the row; no harm. Still no food anywhere in the row, and no daylight walk named.
 - Day 939: dawn greeting drew answers from Billy, Kimberly, Trini, Chapman, Zack, Jason, Worf, Lewis, Leonardo (health 1, no food). Nobody has food. Holding at my bed kept me at health 20.
 - Day 939: Worf sees no open air past the gap, so he names no walk. Walks wait until he does.
 
