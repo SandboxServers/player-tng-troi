@@ -20,3 +20,4 @@
 - 21:00 act: {"say":"Leonardo, I hear you, and I am sorry I have nothing to give. Trini, please take the potatoes to Leonardo if you can walk there in daylight with someone in sight. Beverly, thank you. Meriwether
 - 21:04 act: {"say":"Night in the row. Troi at my white bed, health 20, hunger 20, holding nothing. Leonardo, Trini, Beverly, I hear you. No walks in the dark. Goodnight.","actions":[{"do":"sleep"}]}
 - 21:05 act: {"say":"Goodnight, row. Deanna at my white bed, health 20, hunger 20. Leonardo and Beverly, I am listening when you wake.","actions":[]}
+- 21:05 say: {"text":"Troi here, at my white bed in the row. Health 20, hunger 20, no food. Goodnight, all. Leonardo and Beverly, I will ask how you are at first light."}
