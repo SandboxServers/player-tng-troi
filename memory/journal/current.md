@@ -21,3 +21,4 @@
 - 10:20 act: {"actions":[{"do":"note","text":"Day 925 dawn. At my white bed, health 20, hunger 20, empty pack. Holding; no walk named."}],"say":"Morning, row. Deanna at my white bed, health 20, hunger 20, empty-ha
 - 10:24 act: {"actions":[{"do":"note","text":"Heard back at dawn: Billy 20/20 at 417,107,-1046 holding, no food; Zack 16/16 holding with Worf and Jason; Worf names no route yet; Leonardo health 1 hunger 17 asks fo
 - 10:28 act: {"actions":[{"do":"note","text":"Dusk day 926. At my white bed 430,107,-1037, health 20, hunger 20, empty pack. Holding; no walk named. Going to sleep in sight of the row."}],"say":"Evening, row. Dean
+- 10:29 act: {"actions":[{"do":"note","text":"Night at my white bed, health 20, hunger 20. Worf holds in the row and names no route. Going to sleep here."}],"say":"Worf, I hear you. I am holding at my bed through 
