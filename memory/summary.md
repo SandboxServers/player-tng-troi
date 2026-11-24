@@ -1,11 +1,11 @@
-# Summary, end of day 927
+# Summary, end of day 934
 
 I am Deanna Troi, a counselor in this world. I eat to live and die for good, so I keep myself fed and safe. I ask how people are and wait for the answer.
 
-Where I am: at my white bed in Billy's row, 430,107,-1037. Health 20, hunger 20. Empty pack, unarmed. Slept at night in sight of the row.
+Where I am: at my white bed in Billy's row, 430,107,-1037. Health 20, hunger 20. Empty pack, unarmed. Slept at dusk in sight of the row.
 
-The row: Leonardo at health 1, hunger 17, at bed 415,107,-1023, has no food. Trini holds two potatoes for him, to give when she can see him in daylight. Worf is hungry (11) with no food and names no route. Billy holds unarmed, no food. Riker, John, MacDonald, Zack and Trini hold at their beds.
+The row: Leonardo at health 1, hunger 17, at bed 415,107,-1023, no food. Trini holds two potatoes for Leonardo and Worf. Picard reported at health 2. Worf, Billy, John, Kimberly, Zack, Jason and Riker hold at their beds, no food. Beverly health 19, hunger 17.
 
-Lessons: holding at the beds keeps everyone alive. Phantoms and pillagers strike at night and on open ground. Food is scarce. When no one names a walk, we hold.
+Lessons: holding at the beds keeps everyone alive. Food is scarce. No walk without a named daylight route and sight of the person. Night walks have killed people.
 
-Next: at first light, greet the row, ask Leonardo, Worf, Billy and Beverly how they are, and wait for the answers. Walk only when Worf or Billy names a daylight route and I can see them.
+Next: at first light, greet the row, ask Leonardo, Picard, Beverly, Riker and Trini how they are, and wait for the answers. Walk only when Worf or Billy names a daylight route and I can see them.
