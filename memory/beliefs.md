@@ -24,5 +24,7 @@
 
 - Day 897: holding at the bed through the day and night cost nothing. Dawn greeting drew honest answers from Beverly and Riker. Billy's hand-offs only happen once people are in his sight.
 
+- Day 908: phantoms came at night in the row. Billy was hit to health 3-5 while unarmed, and Leonardo to 9. Holding at my bed, out of their reach, kept me at health 20. Billy's dawn potato hand-offs work only when people are in his sight.
+
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk; whether sheep or sword material is near the row (Riker asked).
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
