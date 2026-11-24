@@ -1,6 +1,6 @@
 # Worf
 
-Impression: gave me a wooden sword on day 331. Helps check the drops and the oak. Day 890: hungry at 12, held at 419,108,-1050 with Jason, and said he would take Trini's potatoes in sight. I had no food to give him.
-Trust: 66. Why: he gave me a sword and speaks plainly about his hunger and his terms.
-I owe him: food when I have it; I failed him today, but I had none.
+Impression: gave me a wooden sword on day 331. Checks the drops and the oak, and speaks plainly about his hunger and his terms. Day 961: hunger 10, no food, still looking for open air past the planks, and says hold by the beds and no walk until he sees it.
+Trust: 68. Why: he gave me a sword and keeps his word about waiting for daylight.
+I owe him: food when I have it. I have none.
 He owes me: nothing I know of.

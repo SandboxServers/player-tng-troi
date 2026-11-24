@@ -1,3 +1,3 @@
 # Trini
 
-Impression: steady, caring, asks after others, puts Leonardo ahead of herself. Trust 86. Day 844: health 12, hunger 16, still no food. She holds at her bed by the white bed and waits for Billy's named walk. She answered my morning greeting and is thinking of Leonardo's plank.
+Impression: steady and caring, asks after others, and puts Leonardo ahead of herself. Day 961: health 11, hunger 17, holding 2 potatoes owed to Leonardo, then Worf, then Zack. She keeps them until Leonardo comes to her bed in daylight. Trust 88. Why: she keeps her word about the potatoes and answers when asked.
