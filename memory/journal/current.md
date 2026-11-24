@@ -5,3 +5,7 @@
 - 13:22 act: {"actions":[{"do":"wait","seconds":5}],"say":"Deanna here, night, at my white bed. Riker, Jason, I hear you. I am holding here until first light. Health is 20 and I have no food, so I will not walk in
 - 13:27 act: {"say":"Morning, row. Deanna here, health 20, hunger 20, no food, holding at my white bed. Leonardo, Picard, Beverly, Riker, Trini: how are you? I am listening."}
 - 13:29 act: {"say":"Leonardo, I hear you. I have no food myself, only my health and my bed. Trini holds the two potatoes for you; Trini, please hand them to Leonardo first. Leonardo, stay in sight of the row and 
+- 13:38 act: {"say":"Good morning, row. Beverly, I am well: health 20, hunger 20, at my bed. How are you holding, really? I'll wait for your answer."}
+- 13:45 Day 935 dawn. Greeted row. Heard MacDonald (20, holding), Riker (hungry, asks for Worf), Kimberly (20, holding), Trini (11, holds 2 potatoes for Leonardo). Beverly asked about potato routing. I hold at bed, no food, no walk.
+- Day 936 dusk. Billy holds at 416,107,-1037, no route named; Worf named none. Leonardo at health 1 needs food, I have none. Holding at my white bed, health 20, hunger 20. Going to sleep in sight of the row.
+- 13:44 act: {"say":"Billy, I hear you, and I am sorry about the phantoms. Leonardo, I hear you too: stay where you are and rest. I have no food to give, only my steady presence. I'll hold at my bed and wait for W
