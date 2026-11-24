@@ -7,3 +7,8 @@
 - 11:17 act: {"say":"Good morning, all. Deanna here, at my white bed. Leonardo, I hear you have no food and health 1. How are you holding? I have no food myself, but I am here and listening. Billy, Beverly, Worf, 
 - Day 929 morning: greeted the row. Answers: Leonardo health 1, no food, holding. Trini health 11, hunger 17, holds potatoes for Leonardo. Beverly 19, hunger 17. John, MacDonald, Lewis hold at beds. Worf names no route. No walk named, so I held at my bed, no food to give.
 - 11:29 act: {"say":"Goodnight, row. Deanna at my white bed, health 20, hunger 20. Holding here through the night. Leonardo, Trini, Worf, hold in the row till daylight.","actions":[{"do":"sleep"}]}
+- 11:31 say: {"text":"Deanna here, night at my white bed. Holding here with you all. Worf, Riker, how are you feeling?"}
+- Day 929 night, cycle: at white bed 430,107,-1037, health 20, hunger 20, empty pack. Worf and Riker report holding at their beds. No walk; waiting for daylight and a named route.
+- Day 930 morning: row answers: Riker 11, Lewis 20, Beverly 19, Zack 16, Leonardo health 1 with no food. Worf names no walk and sees no open ground. I hold at my bed with no food to give.
+- 11:35 say: {"text":"Morning, row. Deanna at my white bed, health 20, hunger 20, empty pack. Leonardo, Riker, Zack, how are you holding? I have no food to give, but I am listening. Worf, Billy, do you name a walk
+- 11:47 say: {"text":"Goodnight, row. Deanna at my white bed, health 20, hunger 20. Holding here through the night. Leonardo, hold till morning; I will ask after you at first light."}
