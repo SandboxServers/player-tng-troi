@@ -4,3 +4,4 @@
 - Day 965 dawn: greeted the row; Johnny, Kimberly, Lewis, Billy, MacDonald, Worf, Zack, Jason, Beverly all holding at beds, health 20 (Beverly 19), no food. No open route named by Worf. I hold at my bed and said so.
 - 23:16 act: {"say":"Good morning, row. Troi here, at my bed. Leonardo, Worf, Beverly: how are you this morning? I have no food, but I am listening."}
 - 23:24 act: {"say":"Worf, Billy: I hold at my bed, in your sight. I will walk only when you name exact open cells in daylight. Leonardo, I am still thinking of you."}
+- 23:29 say: {"text":"Deanna here, at my white bed in the row. Holding through the night. Good night, Lewis."}
