@@ -30,5 +30,8 @@
 
 - Day 911: holding at my bed all day cost nothing. Dawn greeting drew answers from nearly everyone. Worf's east walk to the potatoes was blocked again; we held. No food to give.
 
+- Day 912: a pillager west at 393,-1047 and another east shot Lewis to death while he walked open ground at dusk, and Macdonald to health 4. Holding at my bed kept me at health 20. Lewis's bed refused him by day and by night, so beds may take a sleeper only at night.
+- Day 912: Worf's named daylight cow walk to 339,104,-979 went out of my sight; I held and did not follow, which was right.
+
 Curious next: where the pillager goes once Billy's group leaves sight; how to get food to Leonardo without a walk; whether sheep or sword material is near the row (Riker asked).
 Tell: Billy, Jason, Riker, MacDonald, Leonardo, Trini.
