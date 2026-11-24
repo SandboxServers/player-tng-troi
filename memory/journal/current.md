@@ -14,3 +14,4 @@
 - 09:32 act: {"say":"Morning, row. Deanna at my white bed, health 20, hunger 20, empty-handed. Leonardo, how are you holding? Worf, Zack, how are you? Billy, I am glad you are alive. I am listening."}
 - 09:45 say: {"text":"Night here at my bed, health 20. Holding until light. Leonardo, Trini, Beverly, I heard you; I will ask how each of you is at dawn."}
 - 09:49 say: {"text":"Morning. Deanna at my white bed, health 20, hunger 20, empty-handed. Leonardo, how are you holding? Worf, Billy, Beverly, Kimberly, I'm listening; no walk until one of you names it."}
+- 09:58 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}}],"say":"Deanna here, at my bed in the row. Health 20, hunger 20, no food. Zack, Leonardo, how are you holding? I will wait for your answe
