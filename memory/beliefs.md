@@ -12,5 +12,7 @@
 - Sleep works once it is full night, at my bed in sight of the row.
 - Day 1016: the row held again with no open cell named. Worf is at hunger 8 and Leonardo at health 1 with no food. Billy's chest at 419 was empty.
 
+- Day 1021: morning greeting got an answer from every neighbour within minutes. Still no food spare and no daylight route named. Holding at the bed was safe through the night.
+
 Curious: whether open air past the wall, or food, can be found near the row.
 Tell: Billy, Worf, Leonardo, Trini.
