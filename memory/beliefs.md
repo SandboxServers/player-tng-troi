@@ -14,5 +14,7 @@
 - Leonardo (health 1) is the most urgent need; only Trini's potatoes can help, and only once she sees him.
 - Day 988: the whole row answered the morning greeting within a few minutes. Nobody walked out. Dusk came and I slept at my bed without trouble.
 
+- Day 991: the row answered the morning greeting again within minutes. Worf found no open route north-west; the far side is walled. Still no walk named.
+
 Curious: whether open air past the wall, or sheep or sword material, can be found near the row.
 Tell: Billy, Worf, Kimberly, who have asked too.
