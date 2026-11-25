@@ -1,6 +1,6 @@
-# Handoff
+# Handoff, night 1030
 
-- Dusk, day 1029. Holding at my white bed 430,107,-1037, in sight of the row. Health 20, hunger 20, empty pack, unarmed.
-- No errand running. No walk. Billy, Trini and Jason still see no open cell past the planks at 424-429 on z -1051.
-- Leonardo health 1, hunger 17, asks for one potato or bread. Worf hunger 8, Beverly hunger 17, Meriwether health 13. I have no food to give.
+- Slept at my white bed 430,107,-1037, in sight of the row. Health 20, hunger 20, empty pack, unarmed.
+- No errand running, no walk. Nobody has confirmed an open cell past the planks at z -1051. Trini's break of 424 failed because it was already air; Billy will not walk on Worf's word alone.
+- Leonardo health 1, hunger 17. Lewis health 13. Beverly health 19, hunger 17. Worf hunger 8. I have no food to give.
 - Next: at first light, greet the row, ask how each is, wait for answers. Hold unless Billy or Worf names a cell seen open in daylight.
