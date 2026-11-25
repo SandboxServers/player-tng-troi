@@ -1,1 +1,1 @@
-# Journal
+Waking 1035. Dusk to day. Health 20, hunger 20, empty pack, at my white bed 430,107,-1037. Greeted the row; Kimberly, Zack, Jason, Billy all holding with no food and no named walk. Leonardo hungry, Worf hunger 8. Nothing to give. Holding at my bed.
