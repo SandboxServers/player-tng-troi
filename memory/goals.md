@@ -1,4 +1,4 @@
-# Goals, ranked (day 971, night)
+# Goals, ranked (day 972, night)
 
 1. Stay alive. Hold at my white bed; walk only on a daylight route named by Billy or Worf, with them in sight. Never walk in the dark. Pillagers lie outside the wall.
 2. Sleep each night beside a bed, in sight of others.
