@@ -12,6 +12,7 @@
 - Sleep works once it is full night, at my bed in sight of the row.
 - Day 1016: the row held with no open cell named. Worf at hunger 8, Leonardo at health 1, no food.
 - Day 1022: greeting at first light drew answers from nine neighbours. Still no food spare, no open cell past 423. Night at the bed in sight of the row was safe.
+- Day 1026: morning greeting drew answers from Leonardo, Beverly, Chapman, Lewis. Leonardo still at health 1, asks for a potato. Planks at 424-429 still block Trini's potatoes; nothing past 423 named open.
 - Day 1025: same again. Morning greeting got answers from all. Still no food, no open cell named, no walk.
 
 Curious: whether open air past the wall, or food, can be found near the row.
