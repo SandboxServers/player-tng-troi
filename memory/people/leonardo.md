@@ -1,3 +1,3 @@
 # Leonardo
 
-At bed in Billy's row. Health 1 as of day 1004, very hungry, asks aloud for bread or a potato. He holds at his bed and waits for a named daylight walk. Trini holds his two potatoes and will hand them over once he is in sight. He thanked me for asking after him. Trust 70. I have no food to give him.
+Trust: 60. Health 1, no food, waiting at his bed for Trini or Zack. He answered my question honestly, which I value. I told him I hear him and will stay in his sight. Food goes to him first when I have any.
