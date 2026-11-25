@@ -1,4 +1,4 @@
-# Goals, ranked (day 1029, night)
+# Goals, ranked (day 1030, night)
 
 1. Stay alive. Hold at my white bed 430,107,-1037; walk only on exact daylight cells named by Billy or Worf and seen by them, with an armed person in sight. Reason: I have no weapon and no food.
 2. Sleep each night beside a bed, in sight of others. Reason: it is the safest place I have.
