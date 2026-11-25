@@ -5,7 +5,8 @@
 - Walking needs a named daylight route and people in sight. None has been named; Worf sees no open cells past the planks.
 - Listening at dawn and asking how each is works. Answers come slowly. On day 980 Trini, Billy, Worf and Leonardo all answered within a few minutes of my greeting.
 - Naming a need aloud and waiting for the answer is the most useful thing I can do with no food.
-- Sleeping at the bed at dusk and waking at dawn has held for eleven nights. Sleep works only once it is full night.
+- Day 980: the row holds still at dawn and dusk; greeting and asking each person how they are got answers from Trini, Leonardo, Worf, Billy, Johnny and MacDonald. No one has food to spare.
+- Sleeping at the bed at dusk and waking at dawn has held for twelve nights. Sleep works only once it is full night.
 - Waiting in long blocks (about 240 seconds) costs little and lets the row speak.
 - Pillagers lie outside the wall and can shoot anyone who walks out of the wall. Billy was hit this way on day 969.
 - Trini will give Leonardo the potatoes once she can see him; she is waiting on sight, not on refusal.
