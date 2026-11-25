@@ -1,3 +1,3 @@
 # Leonardo
 
-At bed 416 in Billy's row. Health 1 on day 980, hunger 17, no food. He asks plainly and waits. He holds at his bed and walks only on a named daylight call. Trust 70. Food goes to him first; Trini holds his potatoes and will give them once he is in sight. Day 980 morning: answered that he is at 1 health, holding at bed 416, and waiting for Trini's potatoes.
+At bed in Billy's row. Health 1 as of day 1003, very hungry, asks aloud for bread or a potato at dusk and night. He holds at his bed and waits for a named daylight walk. Trini holds his two potatoes and will hand them over once he is in sight. He thanked me for asking after him. Trust 70. I have no food to give him.
