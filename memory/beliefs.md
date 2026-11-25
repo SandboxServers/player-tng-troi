@@ -16,5 +16,7 @@
 
 - Day 991: the row answered the morning greeting again within minutes. Worf found no open route north-west; the far side is walled. Still no walk named.
 
+- Day 997: the row answered the dawn greeting again. Worf went out for food and came back with no open cell. Trini still holds the potatoes until she can see Leonardo. Dusk came and I slept at my bed.
+
 Curious: whether open air past the wall, or sheep or sword material, can be found near the row.
 Tell: Billy, Worf, Kimberly, who have asked too.
