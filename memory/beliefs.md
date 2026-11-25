@@ -3,14 +3,13 @@
 - Walls of white beds and signs make the row. Beds are where I rest; sleeping in sight of others has been safe so far.
 - Food is scarce in the row. Trini holds potatoes for Leonardo, then Worf, then Zack. Nobody has spare food.
 - Walking needs a named daylight route and people in sight. None has been named; Worf sees no open cells past the planks.
-- Listening at dawn and asking how each is works. Answers come slowly. On day 980 Trini, Billy, Worf and Leonardo all answered within a few minutes of my greeting.
+- Worf, Jason, Billy and Wesley agreed (day 983) in principle to open one plank in daylight with all in sight. No cell or hour named yet.
+- Listening at dawn and asking how each is works. Answers come within a few minutes of a greeting.
 - Naming a need aloud and waiting for the answer is the most useful thing I can do with no food.
-- Day 980: the row holds still at dawn and dusk; greeting and asking each person how they are got answers from Trini, Leonardo, Worf, Billy, Johnny and MacDonald. No one has food to spare.
-- Sleeping at the bed at dusk and waking at dawn has held for twelve nights. Sleep works only once it is full night.
 - Waiting in long blocks (about 240 seconds) costs little and lets the row speak.
 - Pillagers lie outside the wall and can shoot anyone who walks out of the wall. Billy was hit this way on day 969.
 - Trini will give Leonardo the potatoes once she can see him; she is waiting on sight, not on refusal.
-- Day 982: the row still holds with no food and no named walk. Leonardo's potatoes have not reached him yet, because Trini cannot see him. Dusk and dawn greetings still got answers from almost everyone.
+- Sleep works once it is full night, at my bed in sight of the row.
 
 Curious: whether open air past the wall, or sheep or sword material, can be found near the row.
 Tell: Billy, Worf, Kimberly, who have asked too.
