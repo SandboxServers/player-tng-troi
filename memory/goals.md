@@ -1,4 +1,4 @@
-# Goals, ranked (day 1010, night)
+# Goals, ranked (day 1011, night)
 
 1. Stay alive. Hold at my white bed; walk only on exact daylight cells named by Billy or Worf, with an armed person in sight. Reason: I have no weapon and no food.
 2. Sleep each night beside a bed, in sight of others.
@@ -7,4 +7,4 @@
 5. Stay out of the potato trades unless Billy or Worf names them and I can see the people.
 
 Curious next: whether Worf finds 424 to 429 open at z -1051, so a route to Trini exists.
-Tell: Leonardo, that I heard him; Billy and Worf, what Leonardo said.
+Tell: Leonardo, that I heard him and I hope Trini's potato reaches him; Billy, what Worf found at 418.
