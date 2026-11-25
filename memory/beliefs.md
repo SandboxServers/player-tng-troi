@@ -14,5 +14,7 @@
 
 - Day 1021: morning greeting got an answer from every neighbour within minutes. Still no food spare and no daylight route named. Holding at the bed was safe through the night.
 
+- Day 1022: greeting at first light drew answers from nine neighbours. Still no food spare, no open cell past 423. Night at the bed in sight of the row was safe.
+
 Curious: whether open air past the wall, or food, can be found near the row.
 Tell: Billy, Worf, Leonardo, Trini.
