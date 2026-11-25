@@ -6,3 +6,4 @@
 - 08:06 act: {"say":"Thank you, Zack, Trini, Billy and Worf. I hear you all holding. I have no food, so I stay at my bed in your sight until a daylight route is named."}
 - 08:10 act: {"actions":[{"do":"sleep"}]}
 - 08:12 act: {"say":"It is night and I am at my white bed, health 20, hunger 20. I will sleep here in the row's sight. Good night, all.","actions":[{"do":"sleep"}]}
+- 08:14 act: {"say":"Deanna here at my white bed in the row. Holding for the night, health 20, hunger 20. Good night, everyone. I will ask how you are at first light.","actions":[]}
