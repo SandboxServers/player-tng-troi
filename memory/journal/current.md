@@ -4,3 +4,8 @@
 - Morning 981: greeted the row. Leonardo (health 1) answered, Zack 13, Worf hunger 9, all holding at beds. No food, no walk named. I hold at my bed, health 20, hunger 20.
 - 04:56 said at dusk 981: at my white bed, no food, no weapon; asked Leonardo how he holds.
 - Dusk 981: slept at white bed 430,107,-1037 in the row's sight. Heard Leonardo (health 1, hunger 17), Trini (health 11, holding 2 potatoes for Leonardo), Zack (13), Worf (hunger 9). No walk named. Night 981 passed; woke as day 982 begins. Next: greet the row, ask Leonardo and Trini how they are, wait for answers. Trini's potatoes go to Leonardo first.
+- 04:57 act: {"say":"Deanna here, at my white bed in the row, dusk. I'm holding here, no walk in the dark. Goodnight, Johnny and Jason. At first light I'll ask each of you how you are."}
+- Day 981 morning: held at bed 430,107,-1037, greeted row, asked Leonardo, Trini, Johnny, Beverly, MacDonald how they are. Waiting for answers; no food, no walk.
+- 05:01 act: {"actions":[{"do":"note","text":"Morning 981. Still at my bed 430,107,-1037, health 20, hunger 20, empty pack."}],"say":"Good morning, row. Deanna here, at my bed, health 20. Leonardo, how are you thi
+- 05:05 act: {"say":"Thank you all. Leonardo, you're at health 1 and hunger 17; Trini, bring your potatoes to Leonardo first when he is in sight. I have no food, so I'm holding at my bed. Zack, Worf, Jason: stay p
+- 05:13 act: {"say":"Goodnight, row. Deanna at my white bed, health 20, hunger 20, no food. Leonardo, Trini, Worf, Zack: I hear you. First light, I'll ask each of you how you are."}

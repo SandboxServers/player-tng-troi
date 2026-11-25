@@ -10,6 +10,7 @@
 - Waiting in long blocks (about 240 seconds) costs little and lets the row speak.
 - Pillagers lie outside the wall and can shoot anyone who walks out of the wall. Billy was hit this way on day 969.
 - Trini will give Leonardo the potatoes once she can see him; she is waiting on sight, not on refusal.
+- Day 982: the row still holds with no food and no named walk. Leonardo's potatoes have not reached him yet, because Trini cannot see him. Dusk and dawn greetings still got answers from almost everyone.
 
 Curious: whether open air past the wall, or sheep or sword material, can be found near the row.
 Tell: Billy, Worf, Kimberly, who have asked too.
