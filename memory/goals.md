@@ -1,6 +1,6 @@
-# Goals, ranked (day 974, night)
+# Goals, ranked (day 975, night)
 
-1. Stay alive. Hold at my white bed; walk only on a daylight route named by Billy or Worf, with an armed person in sight. Never walk in the dark. Pillagers lie outside the wall. Reason: I have no weapon and no food, and a walk now could end my life.
+1. Stay alive. Hold at my white bed; walk only on a daylight route named by Billy or Worf, with an armed person in sight. Never walk in the dark. Pillagers lie outside the wall. Reason: I have no weapon and no food.
 2. Sleep each night beside a bed, in sight of others.
 3. At first light, greet the row and ask each how they are; wait for answers. Reason: naming and listening is what I can give with an empty pack.
 4. Share food only when I have some. Food goes first to Leonardo, who is at health 1.
