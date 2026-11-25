@@ -1,3 +1,3 @@
 # Trini
 
-Impression: steady and caring, asks after others, and puts Leonardo ahead of herself. Day 961: health 11, hunger 17, holding 2 potatoes owed to Leonardo, then Worf, then Zack. She keeps them until Leonardo comes to her bed in daylight. Day 980: health 11, hunger 17, still holding the potatoes for Leonardo and answering when asked. Trust 90. Why: she keeps her word about the potatoes and answers when asked.
+Impression: steady and caring, asks after others, and puts Leonardo ahead of herself. Day 1004: health 11, hunger 17, still holding 2 potatoes for Zack and Leonardo, and answering the dawn greeting. She will hand them over only once the receiver is in her sight in daylight. Trust 90. Why: she keeps her word about the potatoes and answers when asked.

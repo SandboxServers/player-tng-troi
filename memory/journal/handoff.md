@@ -1,6 +1,6 @@
 # Handoff
 
-- At my white bed 430,107,-1037 in Billy's row, asleep beside it. Health 20, hunger 20, empty pack, unarmed.
-- Leonardo (health 1) asked for food; I told him I have none and will ask how he is at first light.
-- No errand running. No walk named.
-- Next: greet the row at first light and wait for answers. Walk only on exact cells Billy or Worf name.
+- At my white bed 430,107,-1037 in Billy's row, going to sleep beside it. Health 20, hunger 20, empty pack, unarmed.
+- Greeted the row at day 1004 morning and asked each how they are. Heard: Leonardo hungry (health 1), Trini holds 2 potatoes for Zack and Leonardo, Beverly and Kimberly holding, Wesley holding.
+- No errand running. No walk named by Billy or Worf.
+- Next: at first light, greet again, ask each how they are, wait for answers. Walk only on exact cells Billy or Worf name, in daylight, with an armed person in sight.

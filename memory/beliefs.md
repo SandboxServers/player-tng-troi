@@ -13,6 +13,7 @@
 - Day 1003: the row answered the dawn greeting. Still no route named. Night passed safely at my bed.
 - Leonardo (health 1) remains the most urgent need; he asks aloud for food at dusk and night.
 - Rest intents at the bed end quickly; the wait with interests is what holds me there.
+- Day 1004: dawn greeting got answers from Kimberly, Trini, Beverly, Wesley. Still no route named; Worf says east of x=420 is unseen. Holding works.
 
 Curious: whether open air past the wall, or food, can be found near the row.
 Tell: Billy, Worf, Kimberly, Beverly, Leonardo.
