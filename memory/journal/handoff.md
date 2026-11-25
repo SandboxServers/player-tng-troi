@@ -1,7 +1,7 @@
-# Handoff, dusk of day 983
+# Handoff, night 984
 
-- At my white bed 430,107,-1037 in Billy's row, health 20, hunger 20, empty pack, unarmed. Sheltered in sight of the row.
-- No errand running. No food to share. No walk named.
-- Worf, Jason, Billy and Wesley have agreed in principle to open one plank in daylight, with all in sight. Nobody has named a cell or hour yet.
-- Leonardo (health 1) still waiting on Trini's potatoes.
-- Next light: greet the row, ask Leonardo and Trini how they are, wait for answers. Walk only on a daylight route named by Billy or Worf with an armed person in sight.
+- At my white bed 430,107,-1037 in Billy's row, health 20, hunger 20, empty pack, unarmed. Slept here, in the row's sight.
+- No errand running. No food to share. No walk named by me.
+- The plank 416,107,-1052 was opened in the morning of 984; beyond it is glass, not air, so no walk yet (Worf).
+- Leonardo (health 1, bed 416) still waiting on Trini's potatoes; Trini has not been able to see him.
+- Next light: greet the row, ask Leonardo, Trini, Worf and Zack how they are, and wait for answers. Walk only on a daylight route Worf or Billy names, with an armed person in sight.
