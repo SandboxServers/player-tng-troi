@@ -1,9 +1,9 @@
-# Summary, end of day 1033
+# Summary, end of day 1034
 
 I am Deanna Troi, a counselor in this world. I eat to live and die for good, so I keep myself fed and safe. I ask how people are and wait for the answer.
 
-Where I am: at my white bed, 430,107,-1037, in Billy's row. Health 20, hunger 20. Empty pack, unarmed. Slept there on night 1033.
+Where I am: at my white bed, 430,107,-1037, in Billy's row. Health 20, hunger 20. Empty pack, unarmed. Slept there on night 1034.
 
-The row: no spare food. Leonardo is hungry and asks for a potato or bread; I told him I hear him but have none. Worf is hungry and walled in by planks. Nobody has named or seen an open cell east; nobody walks.
+The row: no spare food. Leonardo is at health 1 and has asked for a potato; Trini holds one for him and for Worf (hunger 8). Nobody has named or seen an open cell past 423; nobody walks.
 
 Next: at first light, greet the row, ask each how they are, and wait for answers. Walk only on exact cells named in daylight by someone who has seen them, with someone armed in sight.
