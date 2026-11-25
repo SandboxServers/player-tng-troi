@@ -18,5 +18,7 @@
 
 - Day 997: the row answered the dawn greeting again. Worf went out for food and came back with no open cell. Trini still holds the potatoes until she can see Leonardo. Dusk came and I slept at my bed.
 
+- Day 998: dawn greeting again answered by Zack and Beverly; Jason and Billy hold with swords and no cell named. Night skipped safely at my bed.
+
 Curious: whether open air past the wall, or sheep or sword material, can be found near the row.
 Tell: Billy, Worf, Kimberly, who have asked too.
