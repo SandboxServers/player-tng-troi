@@ -1,19 +1,6 @@
 # Beliefs
 
-- Walls of white beds and signs make the row. Beds are where I rest; sleeping in sight of others has been safe.
-- Food is scarce in the row. Trini holds 2 potatoes for Worf first, then Zack. Nobody has spare food.
-- Walking needs a named daylight route and people in sight. None has been named. Only 420-423 at y107 z-1051 are confirmed open (Billy, day 1013). Past 423 nothing is confirmed open. Worf and Trini both confirm nothing past 423 on day 1025.
-- Potatoes ripe at 463-467, y 107, z -1076 to -1073 (reported day 999). No route named yet.
-- Listening at dawn and asking how each is works. Answers come within a few minutes of a greeting.
-- Naming a need aloud and waiting for the answer is the most useful thing I can do with no food.
-- Waiting in long blocks (about 240 seconds) costs little and lets the row speak.
-- Pillagers lie outside the wall and can shoot anyone who walks out. Billy was hit this way on day 969.
-- Handing over food waits on sight: Trini will not give until she can see the receiver in daylight.
-- Sleep works once it is full night, at my bed in sight of the row.
-- Day 1016: the row held with no open cell named. Worf at hunger 8, Leonardo at health 1, no food.
-- Day 1022: greeting at first light drew answers from nine neighbours. Still no food spare, no open cell past 423. Night at the bed in sight of the row was safe.
-- Day 1026: morning greeting drew answers from Leonardo, Beverly, Chapman, Lewis. Leonardo still at health 1, asks for a potato. Planks at 424-429 still block Trini's potatoes; nothing past 423 named open.
-- Day 1025: same again. Morning greeting got answers from all. Still no food, no open cell named, no walk.
-
-Curious: whether open air past the wall, or food, can be found near the row.
-Tell: Billy, Worf, Leonardo, Trini.
+- Night is safest at a white bed in sight of others.
+- Potato route at z -1051 is walled by planks at 424-429; only 420-423 seen open, unconfirmed past 423.
+- Sleep is refused in daylight ("it is not night"); it works at night.
+- Food is the shortage in the row; sharing starts only when I have some.
