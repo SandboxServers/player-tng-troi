@@ -10,10 +10,8 @@
 - Pillagers lie outside the wall and can shoot anyone who walks out. Billy was hit this way on day 969.
 - Handing over food waits on sight: Trini will not give until she can see the receiver in daylight.
 - Sleep works once it is full night, at my bed in sight of the row.
-- Day 1003: the row answered the dawn greeting. Still no route named. Night passed safely at my bed.
-- Leonardo (health 1) remains the most urgent need; he asks aloud for food at dusk and night.
 - Rest intents at the bed end quickly; the wait with interests is what holds me there.
-- Day 1004: dawn greeting got answers from Kimberly, Trini, Beverly, Wesley. Still no route named; Worf says east of x=420 is unseen. Holding works.
+- Day 1006: dawn greeting drew answers from John, Trini, Meriwether, Beverly, Billy, Jason, Leonardo, Worf, Zack, Kimberly. Still no route named past x422. Leonardo asks for food at dusk.
 
 Curious: whether open air past the wall, or food, can be found near the row.
 Tell: Billy, Worf, Kimberly, Beverly, Leonardo.
