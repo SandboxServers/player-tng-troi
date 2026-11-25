@@ -20,5 +20,7 @@
 
 - Day 998: dawn greeting again answered by Zack and Beverly; Jason and Billy hold with swords and no cell named. Night skipped safely at my bed.
 
-Curious: whether open air past the wall, or sheep or sword material, can be found near the row.
+- Day 999: dawn greeting answered by all of the row within minutes. Billy reported ripe potatoes at 463-467, y 107, z -1076 to -1073, ten of them; no route named yet. Worf needs food and owes Zack melon. Night skipped safely at my bed.
+
+Curious: whether open air past the wall, or sheep or sword material, can be found near the row. Also the potato cells Billy named, once a route is named.
 Tell: Billy, Worf, Kimberly, who have asked too.
