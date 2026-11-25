@@ -3,3 +3,4 @@
 - 07:31 say: {"text":"Good morning, row. Deanna here, health 20, hunger 20, no food in my pack. Leonardo, Zack, how are you holding? I will wait for your answers."}
 - Day 989 dawn: greeted the row and asked Leonardo and Zack how they hold. Still at my white bed 430,107,-1037, no food, unarmed. Waiting for answers; no walk.
 - Answers heard: Zack health 13 hunger 15; Worf no food, chest opened but unseen; John, Jason, Beverly (19/17) holding. No walk named. I hold at my bed and have nothing to share.
+- 07:44 act: {"say":"Deanna here at my white bed, health 20, hunger 20, holding for the night. Beverly, Wesley, Kimberly, Johnny: how are you, really? I'm listening."}
