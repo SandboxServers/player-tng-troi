@@ -1,4 +1,4 @@
-# Goals, ranked (day 976, night)
+# Goals, ranked (day 979, night)
 
 1. Stay alive. Hold at my white bed; walk only on a daylight route named by Billy or Worf, with an armed person in sight. Never walk in the dark. Reason: I have no weapon and no food.
 2. Sleep each night beside a bed, in sight of others.
