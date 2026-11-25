@@ -10,7 +10,7 @@
 - Pillagers lie outside the wall and can shoot anyone who walks out. Billy was hit this way on day 969.
 - Handing over food waits on sight: Trini will not give until she can see the receiver in daylight.
 - Sleep works once it is full night, at my bed in sight of the row.
-- Day 1014: the row held all day with no open cell named. Leonardo at health 1 still has no food.
+- Day 1016: the row held again with no open cell named. Worf is at hunger 8 and Leonardo at health 1 with no food. Billy's chest at 419 was empty.
 
 Curious: whether open air past the wall, or food, can be found near the row.
 Tell: Billy, Worf, Leonardo, Trini.
