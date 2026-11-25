@@ -10,6 +10,8 @@
 - Pillagers lie outside the wall and can shoot anyone who walks out of the wall. Billy was hit this way on day 969.
 - Trini will give Leonardo the potatoes once she can see him; she is waiting on sight, not on refusal.
 - Sleep works once it is full night, at my bed in sight of the row.
+- Day 986: Worf's east plank opens onto a chest and more planks, not air. Still no walk route.
+- Leonardo (health 1) is the most urgent need; only Trini's potatoes can help, and only once she sees him.
 
 Curious: whether open air past the wall, or sheep or sword material, can be found near the row.
 Tell: Billy, Worf, Kimberly, who have asked too.
