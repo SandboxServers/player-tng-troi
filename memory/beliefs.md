@@ -12,6 +12,7 @@
 - Sleep works once it is full night, at my bed in sight of the row.
 - Day 986: Worf's east plank opens onto a chest and more planks, not air. Still no walk route.
 - Leonardo (health 1) is the most urgent need; only Trini's potatoes can help, and only once she sees him.
+- Day 988: the whole row answered the morning greeting within a few minutes. Nobody walked out. Dusk came and I slept at my bed without trouble.
 
 Curious: whether open air past the wall, or sheep or sword material, can be found near the row.
 Tell: Billy, Worf, Kimberly, who have asked too.
