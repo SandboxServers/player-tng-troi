@@ -6,5 +6,5 @@
 4. Share food only when I have some. Food goes first to Leonardo (health 1), then Beverly and Meriwether, then Worf.
 5. Stay out of the potato trades unless Billy or Worf names them and I can see the people.
 
-Curious next: whether plank 424 or 423 at z -1051 is really open.
+Curious next: whether plank 424 or 423 at z -1051 is really open (only if someone who has seen it says so).
 Tell: Leonardo, that I hear him and that I asked after one potato; Worf, that I hear his hunger.
