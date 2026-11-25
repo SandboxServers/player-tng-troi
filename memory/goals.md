@@ -1,4 +1,4 @@
-# Goals, ranked (day 1006, night)
+# Goals, ranked (day 1007, night)
 
 1. Stay alive. Hold at my white bed; walk only on exact daylight cells named by Billy or Worf, with an armed person in sight. Reason: I have no weapon and no food.
 2. Sleep each night beside a bed, in sight of others.
@@ -7,4 +7,4 @@
 5. Stay out of the potato trades unless Billy or Worf names them and I can see the people.
 
 Curious next: a clear route from the row to the potatoes, once Worf or Billy names cells.
-Tell: Billy and Worf, about what I learned from the dawn greeting.
+Tell: Billy and Worf, about the dawn greeting and Leonardo's hunger.

@@ -13,5 +13,7 @@
 - Rest intents at the bed end quickly; the wait with interests is what holds me there.
 - Day 1006: dawn greeting drew answers from John, Trini, Meriwether, Beverly, Billy, Jason, Leonardo, Worf, Zack, Kimberly. Still no route named past x422. Leonardo asks for food at dusk.
 
+- Day 1007: dawn greeting drew answers from Beverly, MacDonald, Leonardo, Trini, Zack, Jason, Billy, Worf. Still no route past x 422. Dusk: row holds for the night.
+
 Curious: whether open air past the wall, or food, can be found near the row.
 Tell: Billy, Worf, Kimberly, Beverly, Leonardo.
