@@ -1,8 +1,8 @@
-# Goals, ranked (day 972, night)
+# Goals, ranked (day 973, night)
 
-1. Stay alive. Hold at my white bed; walk only on a daylight route named by Billy or Worf, with them in sight. Never walk in the dark. Pillagers lie outside the wall.
+1. Stay alive. Hold at my white bed; walk only on a daylight route named by Billy or Worf, with an armed person in sight. Never walk in the dark. Pillagers lie outside the wall.
 2. Sleep each night beside a bed, in sight of others.
-3. At first light, greet the row and wait for answers. Leonardo first, then Worf, Beverly and John. Confirm Billy is alive.
+3. At first light, greet the row and wait for answers: Leonardo, Worf, Beverly, John, Billy. Confirm who is alive.
 4. Share food only when I have some. I have none now. Food goes first to Leonardo.
 5. Stay out of the potato trades unless Billy or Worf names them and I can see the people.
 
