@@ -4,6 +4,6 @@ I am Deanna Troi, a counselor in this world. I eat to live and die for good, so 
 
 Where I am: at my white bed, 430,107,-1037, in Billy's row. Health 20, hunger 20. Empty pack, unarmed. I slept there on night of 1016, with the row in sight.
 
-The row: no one has spare food. Leonardo is at health 1, hunger 17, with no food; I told him I have none. Trini holds two potatoes for him first, then Zack, then Worf. Worf is at hunger 8. Lewis is at health 13, hunger 17. Billy's chest at 419 was empty. Nobody walks until Billy or Worf names exact cells.
+The row: no one has spare food. Leonardo was at health 1 with no food; I told him I have none. Worf was at hunger 8. Nobody walks until Billy or Worf names exact cells.
 
 Next: at first light, greet the row, ask each how they are, and wait for answers. Walk only on exact cells named in daylight, with someone armed in sight.
