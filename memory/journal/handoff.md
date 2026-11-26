@@ -1,7 +1,7 @@
-# Handoff, night 1082
+# Handoff, night 1083
 
-At my white bed 430,107,-1037, slept through the night, in sight of the row. Health 20, hunger 20, pack empty, unarmed. No errand, not in danger. Not walking.
+At my white bed 430,107,-1037, going to sleep in sight of the row. Health 20, hunger 20, pack empty, unarmed. No errand, not in danger, not walking.
 
-Row: Leonardo health 1, hunger 17, first in line for Trini's potato (Trini holds 2 at 429/423 area). Worf, Zack, Jason hold near 416-418 with a sword in sight. Beverly, Meriwether, MacDonald, Kimberly, Chapman hold at beds, no food.
+Row: Trini holds 2 potatoes for Leonardo, Worf, Zack (health 11, hunger 17). Leonardo health 1. Meriwether health 13. Worf hunger 5, goes to Trini's sight at light on named open cells. Wesley is new, unarmed, holding a sapling near 415,-1047. Zack hunger 14, has 2 planks, knows cows and sheep near 463,107,-1073.
 
-Next at first light: greet the row, ask how each is, wait for answers. Share food only if I get some. Keep holding; walk only on routes two armed readers agree on.
+Next at first light: greet the row, ask how each is, wait for answers. Share food only if I get some. Hold, walk only on routes two readers agree on.

@@ -14,4 +14,7 @@
 - Signs near the row say Kimberly and MacDonald were shot (reported by Bera, day 1059); not confirmed by me.
 - Day 1077: the row answers a greeting within minutes at dawn and at dusk, and most go to beds at dusk.
 - Curious next: whether an armed reader names an open cell past 423 at first light.
-- Tell next: Zack, Worf, Jason, Billy, Leonardo that I hear them; I have no food yet.
+- Day 1083: Trini's potatoes are still held for Leonardo, Worf, Zack; Trini's health is 11. Worf is first for them in Trini's sight, on open cells he sees.
+- Day 1083: Wesley arrived unarmed with a sapling. Zack reports cows and sheep near 463,107,-1073, not yet visited in company.
+- Day 1083: sleep worked at my bed at night (9 of 10 needed asleep).
+- Tell next: Zack, Worf, Jason, Billy, Leonardo, Wesley that I hear them; I have no food yet.
