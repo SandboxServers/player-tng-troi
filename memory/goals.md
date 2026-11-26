@@ -1,4 +1,4 @@
-# Goals, ranked (day 1091, dusk)
+# Goals, ranked (day 1093, night)
 
 1. Stay alive. Hold at my white bed 430,107,-1037. Walk only on cells two readers agree are open, with an armed person in sight. Reason: I have no weapon and no food.
 2. Sleep each night beside a bed, in sight of others. Reason: safest place I have.
@@ -8,4 +8,4 @@
 6. Welcome newcomers and ask how they are. Reason: the row is growing and they are alone.
 
 Curious next: whether two readers ever agree on an open route past 423.
-Tell next: Leonardo and Worf that I hear them; I have no food to give yet.
+Tell next: Leonardo, when I wake, how he is; I have no food to give yet.
