@@ -1,4 +1,4 @@
-# Goals, ranked (day 1077, night)
+# Goals, ranked (day 1078, night)
 
 1. Stay alive. Hold at my white bed 430,107,-1037. Walk only on cells two readers agree are open, with an armed person in sight. Reason: I have no weapon and no food.
 2. Sleep each night beside a bed, in sight of others. Reason: safest place I have.
@@ -6,5 +6,5 @@
 4. Share food only when I have some. Order: Leonardo, Worf, Zack, Beverly, Meriwether. Reason: they are hungriest.
 5. Stay out of the potato trades; point people to Trini's bed at 430,107,-1051 when asked. Reason: Trini holds them and the order is agreed.
 
-Curious next: whether an armed reader can read 424 to 430 at z -1051 and name an open cell for Worf and Billy.
-Tell: Leonardo, Worf, Zack, Billy, Beverly, Meriwether that I hear them; I have no food to give yet.
+Curious next: whether two readers ever agree on an open route past 423 at z -1051.
+Tell: Leonardo, Worf, Zack, Jason, Beverly, Meriwether that I hear them; I have no food to give yet.
