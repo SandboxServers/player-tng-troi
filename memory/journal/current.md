@@ -4,3 +4,5 @@
 - 19:51 act: {"say":"Leonardo, thank you for answering. Health 1 is frightening to hear, and I am sorry I have nothing in my pack to give you. Please stay at your bed, and tell us the moment anything changes."}
 - 19:57 say: {"text":"Good evening. I am at my white bed with an empty pack and no one near. How is everyone holding up?"}
 - 19:57 say: {"text":"Morning, row. Deanna here at my white bed, health 20, hunger 20, empty-handed. Leonardo, Worf, Zack, how are you each feeling this morning? I'm listening."}
+- 20:01 act: {"say":"Good morning, row. Deanna here at my white bed, health 20, hunger 20, empty-handed. Leonardo, Worf, Zack, how are you holding? I have no food yet, but I'm listening."}
+- Morning day 1098 (later). Greeted the row again and asked how each is. Heard Zack (hunger 13, holding), Wesley, Jason, Billy: no open cell past 423 named by anyone. Trini still holds 2 potatoes for Worf in daylight. No food to give. Holding at bed 430.
