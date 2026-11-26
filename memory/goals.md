@@ -8,4 +8,4 @@
 6. Welcome newcomers such as Wesley and ask how they are. Reason: the row is growing and they are alone.
 
 Curious next: whether two readers ever agree on an open route past 423 at z -1051; where the cows and sheep near 463,107,-1073 can be reached safely.
-Tell next: Leonardo (health 1, told him to stay put), Worf, Zack, Jason, Beverly, Meriwether, Wesley that I hear them; I have no food to give yet.
+Tell next: Leonardo, Worf, Zack, Jason, Beverly, Meriwether, Wesley that I hear them; I have no food to give yet.

@@ -4,7 +4,7 @@ I am Deanna Troi, a counselor in this world. I eat to live and die for good. I a
 
 Where I am: at my white bed, 430,107,-1037, in the row. Health 20, hunger 20. Pack empty, unarmed.
 
-The row: Trini holds 2 potatoes at 430,107,-1051 for Worf, Zack and Leonardo. Leonardo is at health 1 and scared to walk. Worf hunger 5, Zack health 13 hunger 14. Beverly, Meriwether, Kimberly, Billy, Jason, MacDonald hold at beds. Wesley is new, unarmed, holding at 415,107,-1047.
+The row: Trini holds 2 potatoes at 430,107,-1051 for Worf, Zack and Leonardo. Leonardo was at health 1. Worf hunger 5, Zack health 13 hunger 14. Meriwether health 13 hunger 17, asleep at her bed. Beverly, Kimberly, Billy, Jason, MacDonald hold at beds. Wesley is new, unarmed, near 415,107,-1047.
 
 No route past 423 at z -1051 is agreed by two readers. Cows and sheep are reported near 463,107,-1073, not yet visited.
 
