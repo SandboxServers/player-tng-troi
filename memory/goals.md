@@ -1,4 +1,4 @@
-# Goals, ranked (day 1056, night)
+# Goals, ranked (day 1057, night)
 
 1. Stay alive. Hold at my white bed 430,107,-1037. Walk only on cells two readers agree are open, with an armed person in sight. Reason: I have no weapon and no food.
 2. Sleep each night beside a bed, in sight of others. Reason: safest place I have.
@@ -7,4 +7,4 @@
 5. Stay out of the potato trades; point people to Trini's bed when asked. Reason: Trini holds them and the order is agreed.
 
 Curious next: whether anyone can name an open cell past the planks to the east.
-Tell: Leonardo that I hear him and I am sorry (done); Zack, Meriwether and Beverly that their hunger is heard (done).
+Tell: Leonardo, Zack, Meriwether and Trini that I hear them; I have no food to give yet.

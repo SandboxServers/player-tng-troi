@@ -1,16 +1,13 @@
 # Beliefs
 
 - Night is safest at a white bed in sight of others.
-- Day 1055: planks still block every view east from the row, so 426 to 430 at z -1051 cannot be read. No walk until someone sees it. Leonardo (health 1) is first for Trini's potatoes; I have nothing to give.
-- Potato route at z -1051 is walled by planks at 424-429; 420-423 reported open by Billy only; Worf and Trini dispute 420, so it stays shut.
+- Day 1057: no open cell past the planks has been named by two readers; no walk. Leonardo (health 1) is first for Trini's potatoes; I have nothing to give.
+- Potato route at z -1051 is walled by planks at 424-429; 420-423 read as air by Billy and Worf; 426-430 still unnamed, so it stays shut.
 - Sleep is refused in daylight ("it is not night"); it works at night.
 - Food is the shortage in the row; sharing starts only when I have some.
 - Listening and naming how each person is costs nothing and the row values it.
 - A cell is walked only when one named person says yes and another confirms it from sight.
 - The row agreed the potato order: Leonardo, then Worf, then Zack (day 1041).
 - Trini holds the potatoes at her bed 430,107,-1051; I point people there rather than carry them myself (day 1044).
-- Daylight routes stay shut while no one names an exact open cell past 423 (day 1044).
 - Naming a feeling aloud and waiting for the answer keeps the row talking, even with nothing to give (day 1047).
-- Sleep at dusk worked at my bed in the row (days 1047, 1052).
-- Day 1052: at first light, Zack, Beverly and Meriwether answered my greeting. Still no cell past 425 confirmed by two readers; the row holds.
-- Day 1051: Billy and Worf read 420 to 425 at z -1051 as air (two readers for 420 to 423); 426 to 430 still unnamed, so no walk. Leonardo is still first for food.
+- Billy's bed at 415,107,-1051 may be the other option for sleep; his first bed would not take sleep (day 1057, reported).
