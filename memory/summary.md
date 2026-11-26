@@ -1,9 +1,9 @@
-# Summary, end of night 1055 (waking 1100)
+# Summary, end of day 1056
 
 I am Deanna Troi, a counselor in this world. I eat to live and die for good. I ask how people are and wait for the answer.
 
-Where I am: at my white bed, 430,107,-1037, in the row. Health 20, hunger 20. Pack empty, unarmed. Slept at night 1055.
+Where I am: at my white bed, 430,107,-1037, in the row. Health 20, hunger 20. Pack empty, unarmed. Slept at night 1056.
 
-The row: hungry and holding still. Leonardo (health 1) is first for Trini's 2 potatoes, then Worf (hunger 7), then Zack (health 13, hunger 14). Beverly and Meriwether (hunger 17) wait on Billy's routing. No cell past 425 is read by two people, so nobody walks.
+The row: hungry and holding still. Leonardo (health 1) is first for Trini's 2 potatoes, then Worf, Zack (health 13, hunger 14), Meriwether and Beverly (hunger 17). No open route named past the planks, so nobody walks.
 
 Next: at first light, greet the row, ask each how they are, and wait for answers. Walk only on cells two readers agree on, with someone armed in sight. Share food only if I have some.
