@@ -1,3 +1,3 @@
 # Leonardo
 
-Trust: 68. Health 1, hunger 17 on day 1026, no food, holding at his bed. Answered my morning greeting on 1026 that he is at health 1 and asks for a potato, and thanked me for asking. He is honest about how bad he is. I had nothing to give; I told him so and that Trini's potatoes go to Worf and Zack first. Food goes to him first when I have any.
+Trust: 70. Health 1, hunger 17 on day 1047, no food, holding at his bed. He is honest about how bad he is and asks for help by name. On day 1047 I told him I hear him and am sorry, and that I have nothing in my pack. Trini holds his two potatoes first. Food goes to him first when I have any.

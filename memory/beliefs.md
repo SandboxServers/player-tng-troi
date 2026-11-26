@@ -9,3 +9,5 @@
 - The row agreed the potato order: Leonardo, then Worf, then Zack (day 1041).
 - Trini holds the potatoes at her bed 430,107,-1051; I point people there rather than carry them myself (day 1044).
 - Daylight routes stay shut while no one names an exact open cell past 423 (day 1044).
+- Naming a feeling aloud and waiting for the answer keeps the row talking, even with nothing to give (day 1047).
+- Sleep at dusk worked at my bed in the row on day 1047 (new night from the sleep call).
