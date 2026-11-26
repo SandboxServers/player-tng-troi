@@ -5,3 +5,8 @@
 - Morning, row holding at beds. Greeted all; Leonardo has asked Trini for potatoes. No food from me yet, no walks. Waiting for answers.
 - 11:05 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Deanna here, at my bed in the row. Health 20, hunger 20, no food yet. Zack, Billy, Jason, Worf: I hear you. Holding for the night."}
 - 11:05 act: {"actions":[{"do":"sleep"}]}
+- 11:10 act: {"actions":[],"say":"Morning, row. Deanna at my white bed, health 20, hunger 20, no food yet. Worf, Leonardo, Zack, Beverly, Meriwether: how are you holding? I am listening."}
+- 11:12 act: {"actions":[],"say":"Worf, Leonardo, Zack: Trini holds the potatoes for you, in the order agreed. I have none to share yet. Still listening."}
+- 11:20 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Deanna at my bed, health 20, hunger 20. Holding in your sight."}
+- 11:24 act: {"actions":[],"say":"Morning, row. Leonardo, you are at health 1; how are you feeling right now? I have nothing to give, but I am here and listening. Billy, Chapman: I hear the call for a routing."}
+- 11:32 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Deanna at my bed, health 20, hunger 20, no food. Holding for the night in your sight."}
