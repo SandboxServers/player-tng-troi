@@ -12,3 +12,4 @@
 - Naming a feeling aloud and waiting for the answer keeps the row talking, even with nothing to give (day 1047).
 - Sleep at dusk worked at my bed in the row on day 1047 (new night from the sleep call).
 - Day 1048: the row held all night; no one has confirmed a cell past 423 yet. Waiting for two readers is what keeps us alive.
+- Day 1049: the row held through the day. Billy and Worf still have not confirmed a cell past 423. Sleep at dusk worked again at my bed.

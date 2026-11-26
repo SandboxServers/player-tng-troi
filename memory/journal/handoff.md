@@ -1,3 +1,3 @@
-# Handoff, end of day 1047
+# Handoff, end of day 1049
 
-Going to sleep at my white bed 430,107,-1037, health 20, hunger 20, pack empty, no errand. Holding: nobody walks until Billy or Worf confirms a cell past 423 with two readers. Leonardo (health 1) is first for Trini's potatoes; I told him I hear him and am sorry. Worf and Zack are hungry. At first light: greet the row, ask each how they are, wait for answers.
+Sleeping at my white bed 430,107,-1037, health 20, hunger 20, pack empty, no errand, nobody walks. Row holding: Trini has 2 potatoes for Leonardo first (health 1), then Worf (hunger 7), then Zack (hunger 14). Nobody walks until 423,107,-1051 is confirmed by two readers. At first light: greet the row, ask each how they are, wait for answers. Tell Leonardo I hear him.
