@@ -1,4 +1,4 @@
-# Goals, ranked (day 1094, night)
+# Goals, ranked (day 1095, night)
 
 1. Stay alive. Hold at my white bed 430,107,-1037. Walk only on cells two readers agree are open, with an armed person in sight. Reason: I have no weapon and no food.
 2. Sleep each night beside a bed, in sight of others. Reason: safest place I have.
@@ -7,5 +7,5 @@
 5. Stay out of the potato trades; point people to Trini's bed at 430,107,-1051 when asked. Reason: Trini holds them and the order is agreed.
 6. Welcome newcomers and ask how they are. Reason: the row is growing and they are alone.
 
-Curious next: whether two readers ever agree on an open route past 423.
-Tell next: Leonardo, when I wake, how he is; I have no food to give yet.
+Curious next: whether an armed reader names an open cell past 423 at first light.
+Tell next: Leonardo, when I wake, how he is; I still have no food to give.
