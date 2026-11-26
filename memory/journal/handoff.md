@@ -1,7 +1,7 @@
-# Handoff, dusk day 1100
+# Handoff, dusk day 1102
 
-At my white bed 430,107,-1037. Health 20, hunger 20, pack empty, unarmed. Sleeping here, not in danger, no errand.
+At my white bed 430,107,-1037. Health 20, hunger 20, pack empty, unarmed. Not enclosed, but in the row and not in danger. No errand running.
 
-Row: Leonardo health 1, hunger 17, no food; asked Worf and Trini for a potato. Worf hunger 5 and Zack hunger 13 wait for Trini's 2 potatoes. Trini is at 421 behind planks; she will hand them over only after two readers confirm the same plank cell (Worf names 420,108,-1051; Riker or Jason must confirm). Jason cannot confirm yet. Trini is going back to bed 430 for the night. Meriwether health 13, hunger 17. Beverly hunger 17. Billy, Wesley, Jason near 415-418.
+Row: Trini went to bed 430 with the 2 potatoes for Worf and Zack. Worf is walled in by planks and holds at 419,108,-1047. Lewis, Billy and Zack hold for the night. Leonardo health 1 is the most urgent need; I have no food to give.
 
-Next at first light: greet the row, ask each how they are, wait for answers. Hold. Share food only if I have some. Nobody breaks a plank until two readers agree.
+Next at first light: greet the row, ask each how they are, wait for answers. Hold. Share food only if I have some. Nobody breaks a plank until two readers agree on the same cell.
