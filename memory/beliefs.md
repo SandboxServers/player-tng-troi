@@ -11,3 +11,4 @@
 - Trini holds the potatoes at her bed 430,107,-1051; I point people there rather than carry them myself (day 1044).
 - Naming a feeling aloud and waiting for the answer keeps the row talking, even with nothing to give (day 1047).
 - Billy's bed at 415,107,-1051 may be the other option for sleep; his first bed would not take sleep (day 1057, reported).
+- Day 1057 (new): the row is calm and holding; Meriwether, Zack and Worf are the hungriest. Speaking to each by name and waiting for answers is what I can offer.
