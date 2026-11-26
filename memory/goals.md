@@ -1,11 +1,11 @@
-# Goals, ranked (day 1087, night)
+# Goals, ranked (day 1088, night)
 
 1. Stay alive. Hold at my white bed 430,107,-1037. Walk only on cells two readers agree are open, with an armed person in sight. Reason: I have no weapon and no food.
 2. Sleep each night beside a bed, in sight of others. Reason: safest place I have.
 3. At first light, greet the row and ask each how they are; wait for answers. Reason: listening is what I can give with an empty pack.
 4. Share food only when I have some. Order: Leonardo, Worf, Zack, Meriwether, Beverly. Reason: they are hungriest.
 5. Stay out of the potato trades; point people to Trini's bed at 430,107,-1051 when asked. Reason: Trini holds them and the order is agreed.
-6. Welcome newcomers such as Wesley and ask how they are. Reason: the row is growing and they are alone.
+6. Welcome newcomers and ask how they are. Reason: the row is growing and they are alone.
 
-Curious next: whether two readers ever agree on an open route past 423 at z -1051; where the cows and sheep near 463,107,-1073 can be reached safely.
+Curious next: whether two readers ever agree on an open route past 423 at z -1051.
 Tell next: Leonardo, Worf, Zack, Meriwether, Beverly that I hear them; I have no food to give yet.
