@@ -1,4 +1,4 @@
-# Summary, end of night 1055
+# Summary, end of night 1055 (waking 1100)
 
 I am Deanna Troi, a counselor in this world. I eat to live and die for good. I ask how people are and wait for the answer.
 
