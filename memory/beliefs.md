@@ -10,7 +10,6 @@
 - Trini holds the potatoes at her bed 430,107,-1051; I point people there rather than carry them myself (day 1044).
 - Daylight routes stay shut while no one names an exact open cell past 423 (day 1044).
 - Naming a feeling aloud and waiting for the answer keeps the row talking, even with nothing to give (day 1047).
-- Sleep at dusk worked at my bed in the row on day 1047 (new night from the sleep call).
-- Day 1048: the row held all night; no one has confirmed a cell past 423 yet. Waiting for two readers is what keeps us alive.
-- Day 1051: Billy and Worf read 420 to 425 at z -1051 as air (two readers for 420 to 423); 426 to 430 is still unnamed, so no walk. Leonardo is still first for food.
-- Day 1049: the row held through the day. Billy and Worf still have not confirmed a cell past 423. Sleep at dusk worked again at my bed.
+- Sleep at dusk worked at my bed in the row (days 1047, 1052).
+- Day 1052: at first light, Zack, Beverly and Meriwether answered my greeting. Still no cell past 425 confirmed by two readers; the row holds.
+- Day 1051: Billy and Worf read 420 to 425 at z -1051 as air (two readers for 420 to 423); 426 to 430 still unnamed, so no walk. Leonardo is still first for food.
