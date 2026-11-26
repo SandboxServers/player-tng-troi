@@ -5,7 +5,7 @@
 3. At first light, greet the row and ask each how they are; wait for answers. Reason: listening is what I can give with an empty pack.
 4. Share food only when I have some. Order: Leonardo, Worf, Zack, Meriwether, Beverly. Reason: they are hungriest.
 5. Stay out of the potato trades; point people to Trini's bed at 430,107,-1051 when asked. Reason: Trini holds them and the order is agreed.
-6. Welcome newcomers and ask how they are. Reason: the row is growing and they are alone.
+6. Welcome newcomers (Tommy) and ask how they are. Reason: the row is growing and they are alone.
 
 Curious next: whether an armed reader names an open cell past 423 at first light.
-Tell next: Leonardo, when I wake, how he is; I still have no food to give.
+Tell next: Leonardo, when I wake, how he is; Tommy, welcome. I still have no food to give.
