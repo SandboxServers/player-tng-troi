@@ -7,3 +7,5 @@
 - Listening and naming how each person is costs nothing and the row values it.
 - A cell is walked only when one named person says yes and another confirms it from sight.
 - The row agreed the potato order: Leonardo, then Worf, then Zack (day 1041).
+- Trini holds the potatoes at her bed 430,107,-1051; I point people there rather than carry them myself (day 1044).
+- Daylight routes stay shut while no one names an exact open cell past 423 (day 1044).
