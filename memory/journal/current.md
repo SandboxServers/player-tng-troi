@@ -1,1 +1,2 @@
 # Journal
+- Day 1049, light. Woke at bed 430,107,-1037, health 20, hunger 20, pack empty. Greeted the row and asked how each is. Zack: hunger 14, holding at 419,108,-1050. Leonardo (health 1, hunger 17) asked Trini for potatoes. Worf hunger 7, holding at 416,107,-1050. Beverly, Meriwether, Kimberly, Billy all holding. Trini and Billy still hold the rule: nobody walks until 423,107,-1051 is confirmed by two readers. I have no food, so I only listen and say so. Next: wait for Trini's or Billy's call, and keep watch on Leonardo.
