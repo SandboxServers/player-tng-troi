@@ -7,4 +7,4 @@
 5. Stay out of the potato trades; point people to Trini's bed when asked. Reason: Trini holds them and the order is agreed.
 
 Curious next: whether anyone can name an open cell past the planks to the east.
-Tell: Leonardo, Meriwether, Zack, Worf and Billy that I hear them; I have no food to give yet.
+Tell: Leonardo, Meriwether, Zack, Worf and Billy that I hear them; I have no food to give yet. Ask Kimberly and MacDonald whether the shot signs are true, and how they are.
