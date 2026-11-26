@@ -14,3 +14,4 @@
 - Daylight 1099. Heard Trini (health 11, hunger 17, holds 2 potatoes for Worf and Zack), Meriwether, Jason, Beverly (hunger 17), Billy, Leonardo (health 1, hunger 17), Wesley. No open cell past 423 named. Greeted the row and asked how each is. No food to give. Holding at bed 430.
 - 20:17 act: {"say":"Good morning, row. Deanna at my white bed, health 20, hunger 20, pack empty. Leonardo, how are you now? Worf, Zack, Meriwether, Beverly, Jason, Billy, Wesley: how are you holding? I am listeni
 - 20:25 act: {"say":"Dusk 1100. Deanna at my white bed, health 20, hunger 20, no food. Leonardo, MacDonald, Wesley, Worf, Zack: I am still here and listening. Good night, row."}
+- 20:26 say: {"text":"Good night, all. Trini, thank you for holding the potatoes for Worf and Zack. First light, I will ask each of you how you are."}
