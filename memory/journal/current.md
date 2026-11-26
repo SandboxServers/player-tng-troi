@@ -10,3 +10,11 @@
 - 11:20 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Deanna at my bed, health 20, hunger 20. Holding in your sight."}
 - 11:24 act: {"actions":[],"say":"Morning, row. Leonardo, you are at health 1; how are you feeling right now? I have nothing to give, but I am here and listening. Billy, Chapman: I hear the call for a routing."}
 - 11:32 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Deanna at my bed, health 20, hunger 20, no food. Holding for the night in your sight."}
+- 11:32 act: {"say":"I am still here by my bed, safe. Nobody needs me to move yet. I will wait for the night.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpe
+- 11:37 act: {"actions":[{"do":"sleep"}],"say":"Night, row. I am at my bed, holding, no walks. Goodnight."}
+- 11:41 act: {"actions":[],"say":"Morning, row. Deanna here at my bed, health 20, hunger 20, pack empty. Leonardo, Worf, Zack, Beverly, Meriwether: how are you holding? Tell me what you need, and I will tell you i
+- 11:49 act: {"actions":[{"do":"sleep"}],"say":"Night, row. I hold at my bed, no walks. Goodnight."}
+- 11:53 act: {"actions":[],"say":"Morning, row. Deanna, health 20, hunger 20, still holding at my bed with an empty pack. Leonardo and Zack, tell me how you stand when you can."}
+- 11:57 act: {"actions":[],"say":"Worf, Zack, Leonardo: I hold here with an empty pack and no food. If food reaches me, you will hear it from me first. Trini, please see to Leonardo first."}
+- 12:05 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Deanna holding at my bed, no walks, no food. Goodnight."}
+- 12:09 act: {"say":"Morning, row. Deanna here, at my white bed, health 20, hunger 20, no food on me. How is each of you? Leonardo, how are you holding?"}
