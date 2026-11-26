@@ -6,5 +6,5 @@
 4. Share food only when I have some. Order: Leonardo (health 1), Beverly (hunger 17), Worf (hunger 7), Zack (hunger 14), Meriwether.
 5. Stay out of the potato trades; point people to Trini's bed when asked. Reason: Trini holds them and the order is agreed.
 
-Curious next: whether any exact daylight cell east of 423 is open, once two readers agree.
-Tell: Leonardo, that I hear him; Beverly, that I hear her hunger; Worf, that I hear his hunger 7.
+Curious next: whether Billy finds an exact daylight cell east of 423 that two readers confirm.
+Tell: Leonardo, that I hear him; Beverly, that I hear her hunger; Worf, that I hear his hunger 7; Trini, that the potato order stands.
