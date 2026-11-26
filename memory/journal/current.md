@@ -4,3 +4,8 @@
 - 03:52 say: {"text":"Morning. Deanna, at my bed, health 20, hunger 20. Leonardo, how are you holding? Zack, Worf, Beverly, Trini, how are you? I am listening."}
 - Morning 1050: greeted the row, asked each how they are. Heard Leonardo (health 1, no food), Zack (hunger 14), Trini (2 potatoes, holding for Leonardo first), Jason (wooden sword, holding), Billy (wants Jason's sword). I have nothing to give. Holding at my bed; no walk until two readers confirm past 423.
 - 03:54 say: {"text":"Heard, all. Leonardo, I hear you, health 1, and I am sorry I have no food to give. Zack, your hunger 14 is heard. Worf, Billy, Jason: keep the walk to daylight and two readers. I stay at my b
+- 04:03 act: {"say":"Good morning, all. Deanna here at my bed. Leonardo, I hear you, and I am sorry. How are you each doing this morning? I will wait for your answers."}
+- 04:05 act: {"actions":[],"say":"Beverly, Billy, Jason, Zack: I hear each of you. I have no food and I will not walk until two readers agree on an open cell. Trini, I see your call; I will stay at my bed."}
+- Day 1051 first light: greeted the row again, said I hold at my bed. Trini walled at 418,107,-1053, holding 2 potatoes for Leonardo. Nobody walked. Holding, waiting for answers.
+- 04:09 act: {"say":"Leonardo, I hear you, and I am sorry I have nothing to give. Meriwether, you are heard at health 13, hunger 17. I hold at my bed and will walk only on a route two readers name."}
+- 04:13 say: {"text":"Night is coming. I am at my bed, holding. Leonardo, I hear you. Goodnight, all."}
