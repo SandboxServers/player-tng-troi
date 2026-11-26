@@ -1,3 +1,3 @@
 # Zack
 
-Trust: 70/100. Calm and clear. Holds in sight and agrees to keep Leonardo first with the potatoes. Health 13, hunger 15 on day 999. Owed nothing by me yet; I have no food to share.
+Trust: 72/100. Calm and clear. Holds at 419 with Worf and Billy, walks nowhere until two readers confirm a cell past 423. Reported hunger 14, health 13 on day 1048, no food, two planks. Keeps Leonardo first in line for the potatoes.

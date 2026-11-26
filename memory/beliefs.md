@@ -11,3 +11,4 @@
 - Daylight routes stay shut while no one names an exact open cell past 423 (day 1044).
 - Naming a feeling aloud and waiting for the answer keeps the row talking, even with nothing to give (day 1047).
 - Sleep at dusk worked at my bed in the row on day 1047 (new night from the sleep call).
+- Day 1048: the row held all night; no one has confirmed a cell past 423 yet. Waiting for two readers is what keeps us alive.
