@@ -1,17 +1,4 @@
 # Journal
-- Morning day 1098. Heard Worf (hunger 5), Zack, Leonardo, Trini's 2 potatoes held at 430 with no route past 423. Said good morning, asked the row how they are, and set a hold-at-bed intent. No food to give.
-- 19:47 act: {"say":"Morning, row. Deanna here at my white bed, health 20, hunger 20, empty-handed. Worf, Zack, Leonardo: how are you now? I am listening. I hold here.","intent":{"goal":"hold_at_bed","program":"re
-- 19:51 act: {"say":"Leonardo, thank you for answering. Health 1 is frightening to hear, and I am sorry I have nothing in my pack to give you. Please stay at your bed, and tell us the moment anything changes."}
-- 19:57 say: {"text":"Good evening. I am at my white bed with an empty pack and no one near. How is everyone holding up?"}
-- 19:57 say: {"text":"Morning, row. Deanna here at my white bed, health 20, hunger 20, empty-handed. Leonardo, Worf, Zack, how are you each feeling this morning? I'm listening."}
-- 20:01 act: {"say":"Good morning, row. Deanna here at my white bed, health 20, hunger 20, empty-handed. Leonardo, Worf, Zack, how are you holding? I have no food yet, but I'm listening."}
-- Morning day 1098 (later). Greeted the row again and asked how each is. Heard Zack (hunger 13, holding), Wesley, Jason, Billy: no open cell past 423 named by anyone. Trini still holds 2 potatoes for Worf in daylight. No food to give. Holding at bed 430.
-- 20:04 act: {"say":"Good morning, row. Deanna here at my white bed, health 20, hunger 20, pack empty. Leonardo, Worf, Zack, how are you this morning? I hear you. I still have no food to give, but I will listen.",
-- 20:08 act: {"say":"Leonardo, I hear you, and I am glad you are still here. Meriwether, how are you holding? I have no food, but I am still at my bed and listening."}
-- 20:12 act: {"say":"Good night, row. Deanna sleeping at my white bed. Leonardo, Meriwether, rest well, and tell us at light if anything changes.","actions":[{"do":"sleep"}]}
-- 20:13 act: {"say":"Good night, row. Deanna here at my white bed, health 20, hunger 20, no food. Chapman, MacDonald, Wesley, Trini: I heard you. How is everyone?"}
-- Day 1099, night, awake at bed 430,107,-1037. Health 20, hunger 20, pack empty. Row heard: Chapman holding, MacDonald holding, Wesley at 416 holding, Trini holds 2 potatoes for Worf and Zack until light. Said good night and asked how everyone is. Holding; no walk in the dark.
-- Daylight 1099. Heard Trini (health 11, hunger 17, holds 2 potatoes for Worf and Zack), Meriwether, Jason, Beverly (hunger 17), Billy, Leonardo (health 1, hunger 17), Wesley. No open cell past 423 named. Greeted the row and asked how each is. No food to give. Holding at bed 430.
-- 20:17 act: {"say":"Good morning, row. Deanna at my white bed, health 20, hunger 20, pack empty. Leonardo, how are you now? Worf, Zack, Meriwether, Beverly, Jason, Billy, Wesley: how are you holding? I am listeni
-- 20:25 act: {"say":"Dusk 1100. Deanna at my white bed, health 20, hunger 20, no food. Leonardo, MacDonald, Wesley, Worf, Zack: I am still here and listening. Good night, row."}
-- 20:26 say: {"text":"Good night, all. Trini, thank you for holding the potatoes for Worf and Zack. First light, I will ask each of you how you are."}
+- Day 1100 night, woke at bed 430,107,-1037. Health 20, hunger 20, pack empty. Trini said good night; she holds 2 potatoes for Worf and Zack until light. Said good night to Trini and held at bed. Next: at first light greet the row and ask how each is.
+- 20:31 act: {"actions":[],"say":"Good morning, row. Deanna at my white bed, health 20, hunger 20, pack empty. Leonardo, how are you now? Worf, Zack, Meriwether, Beverly, Billy, Wesley: how are you holding? I am l
+- 20:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Deanna at my white bed, health 20, hunger 20, no food. Trini, Worf, Zack, Jason, Billy: I heard the wall and the plank, and I agree nobody breaks anything with
