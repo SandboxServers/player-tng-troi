@@ -11,9 +11,11 @@
 - Day 1091: the row answers a greeting within minutes at dawn and at dusk; most hold at beds through the night.
 - Day 1097: at first light the row answered my greeting; all held, none named a route past 423.
 - Day 1098 dusk: Billy allowed Wesley to sleep at bed 415,107,-1051. Beds in the row are shared by permission.
+- Day 1102 light: Trini, Worf and Zack walked toward 422-423 to look for a gap; none confirmed. Plank wall about 4 blocks ahead of 423.
+- Day 1102: Leonardo holds at health 1 and will not walk unless Billy or Worf calls him by name.
 - Billy is crafting a wooden sword from planks Zack and Jason gave him; he wants a weapon before any walk.
 - Billy's untried bed is at 415,107,-1037.
 - Reported, not confirmed by me: signs near the row say Kimberly and MacDonald were shot (Bera, day 1059).
 - Reported: cows and sheep near 463,107,-1073, not yet visited in company.
 - Curious next: whether an armed reader names an open cell past 423 at first light.
-- Tell next: Leonardo (health 1) and Worf (hunger 5) how they are; I have no food yet.
+- Tell next: Leonardo (health 1) and Worf (hunger) how they are; I have no food yet.
