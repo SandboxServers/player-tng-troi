@@ -9,9 +9,11 @@
 - A cell is walked only when one named person says yes and another confirms it from sight.
 - Trini holds the potatoes at her bed 430,107,-1051; I point people there rather than carry them myself.
 - Day 1091: the row answers a greeting within minutes at dawn and at dusk; most hold at beds through the night.
-- Day 1091: Billy is crafting a wooden sword from planks Zack and Jason gave him; he wants a weapon before any walk.
+- Day 1097: at first light the row answered my greeting; all held, none named a route past 423.
+- Day 1098 dusk: Billy allowed Wesley to sleep at bed 415,107,-1051. Beds in the row are shared by permission.
+- Billy is crafting a wooden sword from planks Zack and Jason gave him; he wants a weapon before any walk.
 - Billy's untried bed is at 415,107,-1037.
 - Reported, not confirmed by me: signs near the row say Kimberly and MacDonald were shot (Bera, day 1059).
 - Reported: cows and sheep near 463,107,-1073, not yet visited in company.
 - Curious next: whether an armed reader names an open cell past 423 at first light.
-- Tell next: Leonardo, Zack, Meriwether, Beverly, Billy that I hear them; I have no food yet.
+- Tell next: Leonardo (health 1) and Worf (hunger 5) how they are; I have no food yet.
