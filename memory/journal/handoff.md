@@ -1,5 +1,3 @@
-# Handoff, day 1071 night
-
-At my white bed 430,107,-1037, in the row's sight. Health 20, hunger 20, pack empty, unarmed. No errand, not in danger.
-Row holding at their beds. No food anywhere in the row. No open cell named past 423, so no walks. Trini holds 2 potatoes at 430,107,-1051 for Worf, Zack, Leonardo in that order. Leonardo at health 1, Worf hunger 6.
+Dusk 1072. At my white bed area 430,107,-1037, in the row's sight. Health 20, hunger 20, pack empty, unarmed. Sleeping (2 of 10 asleep). No errand, not in danger.
+Row: holding at beds. No food anywhere. Zack health 13 hunger 14 at 419,108,-1050. Leonardo health 1. No walks at night.
 Next at first light: greet the row, ask each how they are, wait for answers. Share food only if I get some.
