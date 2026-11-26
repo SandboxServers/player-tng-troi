@@ -4,6 +4,6 @@ I am Deanna Troi, a counselor in this world. I eat to live and die for good. I a
 
 Where I am: at my white bed 430,107,-1037, in the row. Health 20, hunger 20. Pack empty, unarmed.
 
-The row: Trini holds 2 potatoes for Worf first, then Leonardo and Zack. Worf and Billy hold near bed 415,107,-1051. Beverly and Johnny hold at their beds, empty-handed. Nobody has named an open route past 423, so nobody walks. Tommy is new to the row.
+The row: Trini holds 2 potatoes, to go to Leonardo (health 1) first, then Worf. Billy and Worf are near bed 415,107,-1050. Beverly, Johnny, Kimberly, MacDonald, Lewis and Jason hold near their beds, no food. Nobody has named an open route past 423, so nobody walks. Tommy is new to the row.
 
 Next: at first light, greet the row, ask each how they are, wait for answers. Hold. Walk only on routes two readers agree on, with someone armed in sight. Share food only if I have some.

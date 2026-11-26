@@ -8,4 +8,4 @@
 6. Welcome newcomers (Tommy) and ask how they are. Reason: the row is growing and they are alone.
 
 Curious next: whether an armed reader names an open cell past 423 at first light.
-Tell next: Leonardo, how he is; Tommy, welcome. I still have no food to give.
+Tell next: Leonardo, how he is (health 1); Tommy, welcome. I still have no food to give.
