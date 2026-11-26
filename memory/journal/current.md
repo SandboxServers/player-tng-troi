@@ -1,14 +1,1 @@
 # Journal
-- 13:20 say: greeted the row, asked how each is. Holding at my bed 430,107,-1037, pack empty, health 20, hunger 20.
-- 13:24 say: agreed with Trini and Worf: no walk past 423 until two readers name the cells. Still holding.
-- Heard: Leonardo holding for Trini/Billy/Worf. Trini holds 2 potatoes for Worf, then Zack. Jason, Meriwether, John, Kimberly holding, no food.
-- 13:33 act: {"say":"Morning, John, Kimberly, Meriwether. Deanna here at my white bed. I have no food yet either. How are you all holding?"}
-- Night 1079, at bed 430,107,-1037, health 20, hunger 20, pack empty. Heard John, Kimberly, Meriwether holding for Billy's routing. Greeted them and asked how they are. Waiting for answers; no walk.
-- Day 1079. Kimberly, Trini, John, Zack, Leonardo, Worf, Jason, Billy all holding, no open cell past 423 confirmed. Leonardo health 1, Worf hunger 5. Said to Leonardo and Worf I hear them and have no food yet; holding.
-- 13:37 act: {"say":"Deanna, day 1079. Health 20, hunger 20, pack empty. Leonardo, Worf: I hear you, and I have no food to give yet. Holding at my bed."}
-- 13:41 act: {"say":"Deanna here, day 1079. Health 20, hunger 20, no food, unarmed. Leonardo, Worf, Zack, Beverly, Meriwether: how are you? I am listening."}
-- Day 1079 wait: Trini walking only to 423 at z -1051, Worf and Jason not walking (Jason sees only planks north). Still no two-reader route. I greeted the row; no answers yet. Holding at bed, health 20, hunger 20.
-- 13:46 act: {"say":"Morning, row. Deanna at my white bed, health 20, hunger 20, no food. Leonardo, Worf, Zack, Beverly, Meriwether: how are you this morning? I am listening."}
-- Day 1080 light: slept at bed (6 of 10 asleep). Row answers: Leonardo health 1 hunger 17; Meriwether health 13 hunger 17; Beverly 19/17; John 20/20. Worf armed, will read 420-423 himself. Trini holds potatoes at 430,-1050. Said to Trini: Leonardo first if reachable. No walk.
-- 13:50 act: {"say":"Deanna, day 1080. Health 20, hunger 20, pack empty. Trini, Leonardo is at health 1 and hunger 17, so I'd ask that he get the first potato if you can reach him. I can't give food yet. Holding a
-- 13:54 act: {"say":"Trini, Leonardo said he is at the white bed 416,107,-1023. That is a walk from 430, so he should come to you in daylight. Leonardo, you have the first potato if you come into Trini's sight. I'
