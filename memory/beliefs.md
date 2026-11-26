@@ -1,6 +1,7 @@
 # Beliefs
 
 - Night is safest at a white bed in sight of others.
+- Day 1055: planks still block every view east from the row, so 426 to 430 at z -1051 cannot be read. No walk until someone sees it. Leonardo (health 1) is first for Trini's potatoes; I have nothing to give.
 - Potato route at z -1051 is walled by planks at 424-429; 420-423 reported open by Billy only; Worf and Trini dispute 420, so it stays shut.
 - Sleep is refused in daylight ("it is not night"); it works at night.
 - Food is the shortage in the row; sharing starts only when I have some.
