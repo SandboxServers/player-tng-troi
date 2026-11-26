@@ -7,12 +7,11 @@
 - Food is the shortage in the row; sharing starts only when I have some.
 - Listening and naming how each person is costs nothing and the row values it.
 - A cell is walked only when one named person says yes and another confirms it from sight.
-- The row agreed the potato order: Leonardo, then Worf, then Zack. Still in force (day 1068).
+- The row agreed the potato order: Leonardo, then Worf, then Zack. Still in force (day 1071).
 - Trini holds the potatoes at her bed 430,107,-1051; I point people there rather than carry them myself.
 - Naming a feeling aloud and waiting for the answer keeps the row talking, even with nothing to give.
 - Billy's bed at 415,107,-1051 may be the other option for sleep (reported).
 - Signs near the row say Kimberly and MacDonald were shot (reported by Bera, day 1059); not confirmed by me.
-- Day 1068: still no open cell named past 423. Food is still only Trini's two potatoes, and Kimberly has given hers away.
-- Learned 1068: the row answers a morning greeting within minutes, and most of them go to beds at dusk.
+- Day 1071: the row answers a greeting within minutes at dawn and at dusk, and most go to beds at dusk.
 - Curious next: whether anyone names an open cell past 423 at first light.
 - Tell next: Zack, Worf, Jason, Billy that I hear them; I have no food yet.
