@@ -1,5 +1,5 @@
-# Handoff, day 1059 dusk
+# Handoff, day 1060 night
 
 At my white bed 430,107,-1037. Health 20, hunger 20, pack empty, unarmed. No errand, nobody walking, not in danger.
-Row holding at beds: Leonardo (health 1, hunger 17, waiting on Trini for potatoes), Meriwether, Zack, Worf, Beverly, Jason, Billy, MacDonald (John), Trini. No open cell named past the planks east. No food to give.
-Next: sleep at my bed tonight, in sight of others. At first light, greet the row and ask how each is; wait for answers.
+Row holding at beds, in sight of each other. Zack (hunger 14), Beverly (hunger 17), Leonardo are hungry. No food to give. No open cell named east past the planks.
+Next: at first light, greet the row, ask how each is, wait for answers. Tell them I have no food yet.
