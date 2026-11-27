@@ -1,4 +1,4 @@
-# Goals, ranked (day 1121, night)
+# Goals, ranked (day 1123, night)
 
 1. Stay alive. Hold at the white bed 443,107,-1023 beside the row. Walk only on cells two readers agree are open, with an armed person in sight. Reason: I have no weapon and no food.
 2. Sleep each night beside a bed. A bare sleep has worked there. Reason: it has worked.
