@@ -12,3 +12,6 @@
 - Day 1143 morning: greeted the row at the white bed, asked each how they are. Heard Kimberly (20), Beverly (9), MacDonald (20, unarmed, wants planks or sticks). Still no food, no route from Billy or Worf. Hearing bows to the southwest. Waiting, listening.
 - 10:56 act: {"say":"Thank you, Kimberly and Beverly. Beverly, you are holding at 9 and that worries me; please tell me if it drops. I am holding here too, and I will keep listening."}
 - 11:00 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Goodnight, row. Troi at the white bed, health 10, hunger 17. Kimberly, Beverly, MacDonald, hold still tonight and 
+- 11:01 act: {"say":"Goodnight, row. Beverly, I am watching your health. Kimberly, glad you are holding still. I have no food yet."}
+- 11:01 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}]}
+- Night 1143: at white bed 443,107,-1023 beside the row, health 10, hunger 17, empty-handed. Said goodnight; Beverly 9, Kimberly 20. Going to sleep. No route from Billy or Worf yet.
