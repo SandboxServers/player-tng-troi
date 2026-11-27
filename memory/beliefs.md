@@ -9,15 +9,10 @@
 - Listening and asking how each person is costs nothing and the row values it.
 - A cell is walked only when one named person says yes and another confirms it from sight.
 - Trini holds the potatoes at her bed 430,107,-1051; I point people there rather than carry them myself.
-- Day 1116: the row answers at light. Still no named route; Billy and Worf silent. Dusk falls quickly.
 - Billy is crafting a wooden sword; he wants a weapon before any walk.
 - Reported, not confirmed by me: signs near the row say Kimberly and MacDonald were shot (day 1059).
 - Reported: cows and sheep near 463,107,-1073, not yet visited in company.
-- Day 1121: the row holds at the white beds and waits for Billy or Worf's named route. Nobody has food. MacDonald reports health 20; Beverly health 9.
-- Day 1121: bows drawn to the southwest all day and night; none came close.
-- Day 1128: the row (MacDonald, Kimberly, Beverly, Riker) still holds at the beds. Still no named route; still no food. Riker asks Trini and Leonardo for exact potato cells at 423.
-- Day 1129: Riker (health 20), Kimberly (health 20) and Beverly (health 9) all hold at the beds. Bows drawn far southwest all day; nobody came close. Still no named route or food.
-- Day 1130: use-click on the bed at 443,107,-1023 refused; sleep call worked at night.
-- Day 1130: bows drawn far southwest all day; still no named route or food from Billy or Worf.
+- Day 1132: sleep worked at the bed 443,107,-1023 at dusk. Beverly (health 9) and John Mac (health 20) answered at light. Billy and Worf still silent on a named route.
+- Day 1132: bows drawn far southwest all day; nobody came close.
 - Curious next: whether Billy or Worf names an open cell at first light.
 - Tell next: Billy and Worf, at light, that the row is waiting for their named route.
