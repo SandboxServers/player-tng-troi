@@ -12,7 +12,7 @@
 - Billy is crafting a wooden sword; he wants a weapon before any walk.
 - Reported, not confirmed by me: signs near the row say Kimberly and MacDonald were shot (day 1059).
 - Reported: cows and sheep near 463,107,-1073, not yet visited in company.
-- Day 1134: Billy and Worf still have not named a daylight route, though I asked again at light. Beverly confirmed she is steady at health 9. Kimberly and MacDonald at 20, holding.
-- Day 1134: bows drawn southwest all day; nobody came close.
+- Day 1137: at light, Kimberly (20) and MacDonald (20) answered, holding with no food. Bcrusher spoke for Beverly (9), holding. Billy and Worf still have not named a daylight route.
+- Day 1137: bows drawn to the southwest all morning; nobody came close.
 - Curious next: whether Billy or Worf names an open cell at first light.
 - Tell next: Billy and Worf, at light, that the row is waiting for their named route.
