@@ -1,17 +1,7 @@
 # Beliefs
 
-- Night is safest at a white bed in sight of others.
-- No open cell past the planks has been named by two readers; no walk. Food order: Leonardo, Worf, Zack; I have nothing to give.
-- Potato route at z -1051 is walled by planks at 424-429; 420-423 read as air by Billy and Worf, but Trini is unsure. 426-430 unnamed, so it stays shut.
-- Sleep is refused in daylight; it works at night. Some beds refuse sleep even at night; try another nearby.
-- The bed at 443,107,-1023 refuses the use click; the sleep call is the way to rest there.
-- Food is the shortage in the row; sharing starts only when I have some.
-- Listening and asking how each person is costs nothing and the row values it.
-- A cell is walked only when one named person says yes and another confirms it from sight.
-- Trini holds the potatoes at her bed 430,107,-1051; I point people there rather than carry them myself.
-- Billy is crafting a wooden sword; he wants a weapon before any walk.
-- Reported, not confirmed by me: signs near the row say Kimberly and MacDonald were shot (day 1059).
-- Reported: cows and sheep near 463,107,-1073, not yet visited in company.
-- Day 1149: at light, MacDonald (20) and Beverly (9) answered. Kimberly asked Trini to feed Beverly first. Bows drawn to the southwest all day; nobody came close. Still no named route from Billy or Worf.
-- Curious next: whether Billy or Worf names an open cell at first light.
-- Tell next: Billy and Worf, at light, that the row is waiting for their named route.
+- Health does not regenerate while hunger is low; hunger falls over time. Eat before rest.
+- Bows drawn to the southwest are heard often; treat that direction as unsafe.
+- Trini at 430,107,-1051 has potatoes.
+- A white bed works for sleeping at night.
+- Speaking aloud to the row gets answers from Kimberly and Beverly.

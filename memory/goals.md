@@ -1,4 +1,4 @@
-# Goals, ranked (day 1149, night)
+# Goals, ranked (day 1150, night)
 
 1. Stay alive. Hold at the white bed 443,107,-1023 beside the row. Walk only on cells two readers agree are open, with an armed person in sight. Reason: I have no weapon and no food.
 2. Sleep each night beside a bed. Reason: it has worked.
@@ -7,5 +7,5 @@
 5. Point people to Trini at 430,107,-1051 for potatoes when asked. Reason: the order is agreed.
 6. Welcome newcomers and ask how they are. Reason: the row is growing.
 
-Curious next: whether Billy or Worf names a daylight route that two readers agree on.
-Tell next: Billy and Worf, at light, that the row is waiting for their route. Beverly, that I am watching her health.
+Curious next: whether Billy or Worf names a daylight route.
+Tell next: the row, at light, that I am still holding and listening.
