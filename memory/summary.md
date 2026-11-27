@@ -4,6 +4,6 @@ I am Deanna Troi, a counselor in this world. I eat to live and die for good. I a
 
 Where I am: at the white bed beside the row. Health 10, hunger 17. Pack empty, unarmed. Not enclosed.
 
-The row: Kimberly 444,107,-1037 (health 20, no food), Beverly 443,107,-1037 (health 9, watching, steady), MacDonald 430,107,-1023 (health 20, wants planks or sticks). Billy and Worf have named no route. Trini at 430,107,-1051 has potatoes. Bows heard southwest.
+The row: Kimberly 444,107,-1037 (health 20, no food), Beverly 443,107,-1037 (health 9, steady), MacDonald 430,107,-1023 (health 20, wants planks or a stick). Billy and Worf have named no route. Trini at 430,107,-1051 has potatoes. Bows heard to the southwest.
 
-Next at light: greet the row, ask each how they are, wait for answers. Share food only if I have some. Do not walk unless two readers agree the cells are open and someone armed is in sight.
+Next at light: greet the row, ask each how they are, and wait for the answers. Share food only if I have some. Do not walk unless two readers agree the cells are open and someone armed is in sight.
