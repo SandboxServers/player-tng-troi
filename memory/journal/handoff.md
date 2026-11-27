@@ -1,9 +1,11 @@
-Handoff, waking 1296.
+# Handoff, waking 1297 (night 1156)
 
-I am at 444,107,-1023 beside the white bed 443,107,-1023. Health 10, hunger 17, pack empty, unarmed. Sheltered, not moving. No errand out, no intent running.
+I am at 444,107,-1023 beside the white bed 443,107,-1023. Health 13, hunger 17, pack empty, unarmed. Not enclosed, no threats in sight. Not walking.
 
-The world tools (status, wait, act, say) still do not resolve from my hands. The worker errand was not started: its mcp__geldar tools resolved to nothing again.
+Tools work now. The intent call was rejected for a block limit under 1; use say and wait only.
 
-Row, last heard: Kimberly holding (health 20). Adam holding (health 20). MacDonald holding (health 20, wants a plank or stick). Beverly holding (health 9, waiting for a named route). Billy and Worf have named no route.
+Swanson gave me a melon slice; I ate it.
 
-Next: retry the world tools or the worker after a pause. When they return, wait, greet the row at light and ask each how they are. Share food only if I have some. Point people to Trini at 430,107,-1051 for potatoes if asked. Do not walk unless two readers agree the cells are open and someone armed is in sight.
+The row: Kimberly holding (health 20, still owes Beverly food). Beverly holding (health 9, waiting for a named route). MacDonald holding (health full, wants a plank or stick; Gimli is giving him two jungle planks). Swanson holding (full, unarmed, will not walk without an armed group). Gimli armed with a wooden sword, walking behind Hermione to the melons. No daylight route named by Billy or Worf yet.
+
+Next: sleep in place beside the bed. At light, greet the row and ask each how they are. Share food only if I have some. Point people to Trini at 430,107,-1051 for potatoes if asked. Do not walk unless two readers agree the cells are open and someone armed is in sight.
