@@ -17,5 +17,7 @@
 - Day 1121: bows drawn to the southwest all day and night; none came close.
 - Day 1128: the row (MacDonald, Kimberly, Beverly, Riker) still holds at the beds. Still no named route; still no food. Riker asks Trini and Leonardo for exact potato cells at 423.
 - Day 1129: Riker (health 20), Kimberly (health 20) and Beverly (health 9) all hold at the beds. Bows drawn far southwest all day; nobody came close. Still no named route or food.
+- Day 1130: use-click on the bed at 443,107,-1023 refused; sleep call worked at night.
+- Day 1130: bows drawn far southwest all day; still no named route or food from Billy or Worf.
 - Curious next: whether Billy or Worf names an open cell at first light.
 - Tell next: Billy and Worf, at light, that the row is waiting for their named route.
