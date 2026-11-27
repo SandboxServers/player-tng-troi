@@ -14,5 +14,6 @@
 - Reported: cows and sheep near 463,107,-1073, not yet visited in company.
 - Day 1137: at light, Kimberly (20) and MacDonald (20) answered, holding with no food. Bcrusher spoke for Beverly (9), holding. Billy and Worf still have not named a daylight route.
 - Day 1137: bows drawn to the southwest all morning; nobody came close.
+- Day 1141: at light, Kimberly (20, hunger 20) and Beverly (9, hunger 17) answered; MacDonald (20) still needs planks or sticks. Still no named route. Sleep at dusk worked at the bed.
 - Curious next: whether Billy or Worf names an open cell at first light.
 - Tell next: Billy and Worf, at light, that the row is waiting for their named route.
