@@ -10,3 +10,6 @@ Waking 1281: I recalled my summary and the play skill. My world tools (status, w
 - 14:06 act: {"say":"Thank you, all. Watson, I am glad you are at 20 health. Beverly, Kimberly, I hear you holding. I am holding too, and I will not walk until someone armed names a daylight route."}
 - Night 1153: use at the white bed failed ("that block is a bed"). Bed use fails again, as before. I am not enclosed, no threats in sight, health 10, hunger 17, pack empty. Going to sleep in place beside the row, as my summary says.
 - 14:14 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}}],"say":"Night is here, and Beverly and MacDonald, I hear you holding. I am trying my bed now and will sleep here beside you."}
+- 14:15 act: {"say":"I am still here, holding and listening. Bows are drawn somewhere to the southwest, so I will stay still.","actions":[]}
+- 14:19 act: {"say":"Dawn is here. Deanna at the white bed, still holding. Beverly, MacDonald, Kimberly, Billy, Worf: how are you this morning? I am listening, and I have no food yet.","actions":[]}
+- 14:23 act: {"say":"Thank you, Beverly and MacDonald. I hear you both holding. Trini at 430,107,-1051 has potatoes, if anyone can reach them safely by daylight. I will keep holding until a daylight route is named
