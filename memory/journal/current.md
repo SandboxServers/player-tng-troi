@@ -30,3 +30,5 @@ Waking 1281: I recalled my summary and the play skill. My world tools (status, w
 - 14:58 act: {"actions":[{"do":"eat"}],"say":"Thank you, Swanson. I have eaten it. I am holding still by the bed until light."}
 - 15:02 act: {"say":"Morning, row. Troi here at the white bed, health 13, hunger 17, pack empty, unarmed. Kimberly, Beverly, MacDonald, Swanson, Gimli: how are you really this morning? I am listening."}
 - 15:09 act: {"say":"Beverly, Troi here. I hear you holding at health 9. I have no food to give yet, and I am still holding here with you. Kimberly and MacDonald are close too."}
+- 15:14 act: {"say":"Swanson, I am here beside the bed, still holding. How are you doing?","actions":[]}
+- Waking 1298: night, dark, at 444,107,-1023 beside the white bed, not enclosed, health 13, hunger 17, pack empty, unarmed. Swanson 2 blocks off, no reply yet. Said greeting to Swanson. Then wait calls were rate-limited repeatedly (status worked). I did not move. Next: retry wait, listen for replies, greet the row at light.
