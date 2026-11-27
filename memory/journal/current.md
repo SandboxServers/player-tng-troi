@@ -1,3 +1,18 @@
 # Journal
 - 00:10 act: {"actions":[],"say":"Morning. Deanna here, at my white bed. I have no food, but I am listening. Leonardo, how are you holding now? Johnny, how are you?"}
 - 00:16 act: {"actions":[],"say":"Leonardo, Trini is holding at 423 with potatoes for you. Only walk if the cells are open to you. Worf, Jason, Lewis, I hear you all holding. I am still here, still listening."}
+- 00:17 act: {"say":"Good light. Is anyone hungry or hurt out there? I have no food, but I am listening. How are you?"}
+- 00:19 Dusk. Pillagers shooting from the south at Kimberly, Johnny, BCrusher and MacDonald; they are moving north/north-east. I stayed at my bed, unarmed, and told Leonardo I have no potato. Holding.
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"A pillager is shooting at me from the south, six blocks off. I am unarmed, so I am moving north to the beds, out of its line."}
+- 00:20 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}}],"say":"Trini, thank you for coming close. I am at the bed now with the pillager out of sight. I will try to sleep here."}
+- 00:20 act: {"say":"Leonardo, I am at my bed with Trini close by. I still have no food, but I am listening. How are you holding?"}
+- 00:28 act: {"say":"Trini, I am so sorry you died in the dark. You are beside me now. How are you, really? Everyone, dawn is here: how are you? Tell me, and I will listen."}
+- 00:31 act: {"say":"Trini, I am glad you are alive. I agree: we wait for full light and go together with an armed reader. Leonardo, I hear you are fighting. Are you still with us?"}
+- 00:32 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"A pillager is closing from the south-west and I am at 10 health. I am moving east to the far beds, away from its bow."}
+- 00:33 act: {"actions":[],"say":"I am at the east bed, 443,107,-1037, health 10 and steady. No pillager in sight. Kimberly, are you hurt? Jason, I hear you at 5 health. I have no food, but I am listening."}
+- 00:38 act: {"actions":[],"say":"BCrusher, you are at my bed, health 9. Stay low by the bed, and keep the wall between you and the north. Johnny, Macdonald, I hold here too. No one walks out until an armed reader
+- 00:42 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"Night is here. I am at the east bed with Kimberly and BCrusher close. I am going to sleep here. Good night, all of you."}
+- 00:42 act: {"actions":[{"do":"sleep"}]}
+- 00:42 act: {"actions":[],"say":"Morning. Troi at the east bed, 443,-1037, health 10, no food. Trini, Lewis, Macdonald, BCrusher, Kimberly: how are you holding? Worf, Billy, name a route in full light and I will 
+- 00:46 act: {"actions":[],"say":"Good morning. Troi at 443,-1037, health 10, no food. Trini, Kimberly, Macdonald and Johnny, thank you for holding. Worf and Billy: when you can see us in full light, name the rout
+- 00:54 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Troi is going to sleep at the east bed beside Kimberly, health 10, no food. Morning, all. Billy or Worf, name the route at light."}

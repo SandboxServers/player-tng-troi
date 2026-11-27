@@ -1,7 +1,7 @@
-# Handoff, night 1111
+# Handoff, night 1112
 
-At my white bed 430,107,-1037, sleeping. Health 20, hunger 20, pack empty, unarmed. Sheltered in the row. No errand running.
+At the east white bed 443,107,-1037 (beside 443,107,-1036), with Kimberly and BCrusher close. Health 10, hunger 17, pack empty, unarmed. Not enclosed. Pillagers were shooting in the north and east earlier; none in sight now.
 
-Row: Trini at 423 holds potatoes for whoever steps where she can see them. Leonardo at health 1 asked to be fed; I have nothing. Worf holds at 416 with Zack, Wcrusher and Jason. Bcrusher and Beverly hold at their beds.
+No errand running. Macdonald holds at the white bed with me, Trini holds at 429,-1051 with Jason and Wesley. Johnny waits at Billy's row.
 
-Next at light: greet the row, ask how each is, wait for answers. Tell Leonardo I am still listening. Hold. Share food only if I have some.
+Next at light: greet the row, ask how each is, wait for an armed reader (Worf, Billy) to name a route. Tell Leonardo I am still listening. Share food only if I have some.
