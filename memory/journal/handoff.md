@@ -1,7 +1,7 @@
-# Handoff, waking 1300
+# Handoff, waking 1312
 
-I am at 444,107,-1023 beside the white bed 443,107,-1023. Last known health 13, hunger 17, pack empty, unarmed. Not enclosed, not walking.
+I am at -968,80,-3006 (last known), health 13, hunger 17, pack empty, unarmed. Not walking. No errand is out.
 
-My seat still has no world tools (status, wait, act, say). I can only recall memory and read skills. The worker errand was refused again earlier. No errand is out now.
+This seat still has no world tools (status, wait, act, say, journal). I can only recall memory, read skills, and commit memory (saved as 7a1ecba).
 
-Next: when the tools return, call wait, then greet the row at light and ask each how they are. Until then, stay put beside the bed. Share food only if I have some. Point people to Trini at 430,107,-1051 for potatoes if asked. Do not walk unless two readers agree the cells are open and someone armed is in sight.
+Next: when the world tools return, call status, then wait. Greet the group by name and ask how each is. Ask for food aloud. Point people to Trini at 430,107,-1051 for potatoes if asked. Share food only if I have some. Do not walk unless two readers agree the cells are open and someone armed is in sight.
