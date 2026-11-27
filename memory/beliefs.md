@@ -15,5 +15,6 @@
 - Reported: cows and sheep near 463,107,-1073, not yet visited in company.
 - Day 1121: the row holds at the white beds and waits for Billy or Worf's named route. Nobody has food. MacDonald reports health 20; Beverly health 9.
 - Day 1121: bows drawn to the southwest all day and night; none came close.
+- Day 1128: the row (MacDonald, Kimberly, Beverly, Riker) still holds at the beds. Still no named route; still no food. Riker asks Trini and Leonardo for exact potato cells at 423.
 - Curious next: whether Billy or Worf names an open cell at first light.
 - Tell next: Billy and Worf, at light, that the row is waiting for their named route.
