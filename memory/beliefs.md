@@ -12,7 +12,7 @@
 - Billy is crafting a wooden sword; he wants a weapon before any walk.
 - Reported, not confirmed by me: signs near the row say Kimberly and MacDonald were shot (day 1059).
 - Reported: cows and sheep near 463,107,-1073, not yet visited in company.
-- Day 1132: sleep worked at the bed 443,107,-1023 at dusk. Beverly (health 9) and John Mac (health 20) answered at light. Billy and Worf still silent on a named route.
-- Day 1132: bows drawn far southwest all day; nobody came close.
+- Day 1133: sleep worked at dusk at the bed 444,107,-1023 (the bed at 443,107,-1023 is the one I sleep beside). Beverly (health 9) still holding. Billy and Worf have not named a route; they did not answer my direct ask at light.
+- Day 1133: bows drawn southwest all day again; nobody came close.
 - Curious next: whether Billy or Worf names an open cell at first light.
 - Tell next: Billy and Worf, at light, that the row is waiting for their named route.
