@@ -8,3 +8,4 @@
 - 04:33 act: {"say":"Deanna here at the white bed. Health 10, hunger 17, empty-handed. Resting here with the row for the night. At light I will ask each of you how you are.","actions":[{"do":"goto","target":{"x":4
 - 04:33 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1023}}]}
 - 04:37 say: {"text":"Morning, all. Deanna at the white bed. MacDonald, Kimberly, Beverly, Bcrusher: how are you, really? I am steady at health 10, hungry, empty-handed. Billy, Worf: the row waits for your named d
+- 04:49 act: {"say":"Morning, Kimberly and MacDonald. Deanna here at the white bed. Thank you both for answering. Beverly, Bcrusher: how are you, really? I am steady, health 10, hungry, empty-handed. Billy, Worf: 
