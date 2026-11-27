@@ -16,5 +16,7 @@
 - Billy is crafting a wooden sword; he wants a weapon before any walk.
 - Reported, not confirmed by me: signs near the row say Kimberly and MacDonald were shot (day 1059).
 - Reported: cows and sheep near 463,107,-1073, not yet visited in company.
+- Day 1119: the bed click at 443,107,-1023 was refused at night; a bare sleep there worked.
+- Day 1119: Kimberly, MacDonald and Beverly all hold at the white beds and wait for Billy or Worf's named route. Nobody has food.
 - Curious next: whether an armed reader names an open cell past 423 at first light.
 - Tell next: Leonardo and Worf how they are; I have no food yet.
