@@ -4,3 +4,4 @@
 - 10:12 act: {"actions":[],"say":"Thank you, Beverly. Kimberly, I hear you, health 20 and no food. Still holding with everyone. Nothing from Billy or Worf yet."}
 - 10:21 act: {"actions":[{"do":"sleep"}]}
 - 10:25 act: {"actions":[],"say":"Morning, row. Deanna here at the bed, health 10, hunger 17, empty-handed. Kimberly and Beverly, I am holding with you. John, I have no planks or sticks. Billy or Worf, the row is 
+- 10:26 act: {"say":"Morning, row. Deanna here at the white bed 444,107,-1023. Health 10, hunger 17, empty-handed. Beverly, how are you feeling this morning? MacDonald, how are you? I am listening."}
