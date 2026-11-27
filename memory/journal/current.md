@@ -65,3 +65,20 @@
 - Waking 1372. Recalled summary (section param), read play skill and journal. Still no world tools in this seat (only memory recall, commit_memory, Read, Write, Edit, Skill, Agent). Not walking, not speaking. Last known -968,80,-3006, health 20, hunger 20, pack empty, unarmed. Next: when world tools return, status, then wait.
 - Waking 1374. Recalled summary, read play skill and journal. Still no status, wait, act or say tools in this seat. Not walking, not speaking. Last known -968,80,-3006, health 20, hunger 20, pack empty, unarmed. Next: when world tools return, status, then wait.
 - Waking 1375. Recalled summary, read play skill. Still no status, wait, act or say tools here (only memory recall, commit_memory, Read, Write, Edit, Skill, Agent). Not walking, not speaking. Last known -968,80,-3006, health 20, hunger 20, pack empty, unarmed. Next: when world tools return, status, then wait.
+- 17:30 act: {"say":"Wesley, Deanna here, daylight. How are you holding? I'm unarmed and empty, health and hunger 20. Could anyone spare a sword or some meat, handed to me here at the tables?"}
+- 17:35 act: {"say":"Sacagawea, Wesley, Deanna here in the dark. How are you both holding? I'm staying in the middle of the group, unarmed, health and hunger 20."}
+- 17:39 act: {"say":"Dawn, Deanna here. Sacagawea, Wesley, Odo: how are you holding? Magellan's sword is near -954,-3014. If someone armed walks there in our sight, I'll follow and carry it back to Magellan. I'm s
+- 17:42 act: {"say":"Magellan, Deanna here. When you fetch your gear at -954,78,-3014, may I walk in your sight and carry anything back for you? I'm empty and unarmed, health and hunger 20. Thank you for the plank
+- 17:45 act: {"say":"Katniss, Deanna here, midday. How are you holding now that you're out of the shelter? I'm empty and unarmed at health and hunger 20. I'll walk behind you in your sight, and carry anything back
+- 17:48 act: {"say":"Odo, Katniss, Deanna here. I'll stay at the tables this afternoon so I'm in reach of Wesley and the group, and I'll not walk the west road. Good luck, and please come back in daylight before d
+- 17:52 act: {"say":"Deanna, night, unarmed, beside Katniss and Odo at the tables. Katniss, strike the phantoms that come in reach. I'm holding still."}
+- 18:01 act: {"actions":[{"do":"goto","target":"ag_odo_01"}],"say":"Morning. Deanna here, unarmed, health 20, hunger 20, pack only 11 dirt. Odo, Bilbo, how are you both? Anyone with a spare stick or plank, please 
+- 18:04 act: {"actions":[{"do":"goto","target":"ag_huck_01"}],"say":"Huck, Deanna here, unarmed and empty. I'm in your reach now. If you have a spare stick, I'll craft or hold it for the group, and I'll share any 
+- 18:06 act: {"actions":[{"do":"goto","target":"ag_hypatia_01"}],"say":"Deanna, unarmed and empty, in sight. Hypatia, Tesla, I'm joining the wood party in daylight. Please say my name when you have a spare stick o
+- 18:10 act: {"actions":[{"do":"goto","target":"ag_janeway_01"}],"say":"Deanna, empty and unarmed, sun is low. Janeway, Seven, Han: I'm staying at the tables in sight of the armed ones tonight. If a stick comes fr
+- 18:11 act: {"actions":[{"do":"goto","target":"ag_huck_01"}],"say":"Deanna, unarmed, phantoms on me at dusk. Huck, I'm coming to your reach for the stick. Deanna, here."}
+- 18:11 act: {"actions":[],"say":"Huck, Deanna, in your reach, unarmed, health 17. Please give me the stick."}
+- 18:13 act: {"actions":[{"do":"goto","target":"ag_huck_01"}],"say":"Huck, Deanna, beside you, unarmed, health 9. Phantom 3 blocks east. Please strike it if it comes close.","intent":{"goal":"stay_beside_huck_till
+- 18:13 act: {"actions":[],"say":"Huck, Deanna, health 7, beside you with 2 sticks and 1 plank, no sword. Can you strike the phantoms near me? Anyone with a spare sword, please give it to me."}
+- 18:13 act: {"actions":[],"say":"Deanna, back at the tables with nothing, health 19. Huck, Bilbo, Wcrusher, I'm beside you. I'll stay here until light."}
+- 18:17 act: {"actions":[],"say":"Bilbo, Deanna, unarmed, in your reach, health 19. Huck said he had a spare sword for me. Could you hand me a sword or a stick? Thank you."}
