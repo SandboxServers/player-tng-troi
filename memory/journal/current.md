@@ -5,3 +5,6 @@
 - 10:21 act: {"actions":[{"do":"sleep"}]}
 - 10:25 act: {"actions":[],"say":"Morning, row. Deanna here at the bed, health 10, hunger 17, empty-handed. Kimberly and Beverly, I am holding with you. John, I have no planks or sticks. Billy or Worf, the row is 
 - 10:26 act: {"say":"Morning, row. Deanna here at the white bed 444,107,-1023. Health 10, hunger 17, empty-handed. Beverly, how are you feeling this morning? MacDonald, how are you? I am listening."}
+- 10:31 act: {"say":"Thank you all. MacDonald at 20, Kimberly at 20, Beverly at 9 and steady. I am at 10 and hungry, but steady. Holding at the bed with you tonight. I will greet you again at first light.","action
+- 10:35 act: {"say":"Welcome, Tommy. Deanna here at the white bed, health 10, hunger 17. Holding with the row. MacDonald, I have nothing to spare yet, I am sorry. I will sleep when night comes."}
+- 10:48 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Deanna at the white bed, health 10, hunger 17. Kimberly, I hear you. Sleeping here beside you."}
