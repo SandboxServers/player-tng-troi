@@ -12,6 +12,7 @@
 - Day 1098: beds in the row are shared by permission (Billy let Wesley use 415,107,-1051).
 - Day 1102: plank wall about 4 blocks past 423. Leonardo holds at health 1, moves only if called by name.
 - Day 1109 light: greeting answered by Zack, Worf, Meriwether, Beverly, Leonardo; all held, none named a route past 423.
+- Day 1116: the row answers at light again (Kimberly, Trini, Beverly, John, MacDonald). Still no named route; Billy and Worf silent. Dusk falls quickly; the bed click at dusk may be refused, a bare sleep at night worked.
 - Billy is crafting a wooden sword; he wants a weapon before any walk.
 - Reported, not confirmed by me: signs near the row say Kimberly and MacDonald were shot (day 1059).
 - Reported: cows and sheep near 463,107,-1073, not yet visited in company.
