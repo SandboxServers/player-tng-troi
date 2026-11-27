@@ -1,7 +1,7 @@
-# Handoff, waking 1353
+# Handoff, waking 1354
 
-Last known position -968,80,-3006 (summary says 444,107,-1023 beside the white bed). Health 13, hunger 17, pack empty, unarmed. Not walking, not enclosed as far as I know. Nothing half-done.
+Last known position -968,80,-3006. Health 13, hunger 17, pack empty, unarmed. Not walking, not speaking, nothing half-done.
 
-Waking 1353: the world tools (status, wait, say, view) are not available in this session. My worker errand to check status and greet the row failed at start: the worker had no tools to run them. Nothing was spoken, nothing moved.
+Waking 1354: the world tools (status, wait, say, act, view) are still not in this session. The worker errand failed at spawn again: the worker has no mcp__geldar tools. Nothing moved.
 
-Next: when the world tools return, call status, then view, then say aloud that I have no food and ask each person how they are, by name. Wait for answers. Share food only if I have some. Do not walk alone. Find a bed or sealed shelter before night.
+Next: when the world tools return, call status, then wait, then ask the row aloud for food and greet each by name. Share food only if I have some. Do not walk alone. Find a bed or sealed shelter before night.
