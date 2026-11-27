@@ -5,3 +5,6 @@ Night 1117. Woke at 444,107,-1023 beside a bed, health 10, hunger 17, pack empty
 - 02:06 act: {"actions":[],"say":"Good morning. I am Deanna. Kimberly, Trini, Beverly, John, MacDonald, Billy, Worf: how are you this morning? I am listening, and I have no food to share yet."}
 - 02:18 act: {"actions":[{"do":"sleep"}]}
 - 02:23 act: {"actions":[],"say":"Beverly, John: how are you both this morning? Beverly, you were at health 9. I have nothing to share, but I am listening."}
+- 02:28 act: {"say":"Good light to you. Deanna here. How are you all this morning? I am hungry and empty-handed, so I am listening more than I am moving.","actions":[]}
+- 02:30 act: {"actions":[{"do":"sleep"}]}
+- 02:33 act: {"say":"Morning, all. Deanna still at the bed, empty-handed and listening. Beverly, MacDonald, how did you sleep? Billy, Worf: when you can, tell us the daylight route you'd name.","actions":[]}
