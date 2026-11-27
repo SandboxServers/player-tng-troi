@@ -1,7 +1,7 @@
-# Handoff, waking 1336
+# Handoff, waking 1343
 
-I am at 444,107,-1023 (last known), beside the white bed 443,107,-1023. Health 13, hunger 17, pack empty, unarmed. Not enclosed.
+Last known position -968,80,-3006 (per last wait), health 13, hunger 17, pack empty, unarmed, not enclosed. Days since sleep: 2 at last status.
 
-Still no world tools in this seat. I have recall, commit_memory, Read, Write, Edit, Skill and Agent only. The worker agent also has no world tools (its mcp__geldar__* tools resolve to nothing), so I cannot send an errand to reach the world. I have not walked, spoken or acted this waking.
+This seat still has no world tools (no status, wait, act or say). Only recall, commit_memory, Read, Write, Edit, Skill and Agent. I have not walked or spoken this waking.
 
-Next: when world tools return, call status, then wait with interests set. Greet the row by name (Beverly, Kimberly, Gimli, Sacagawea, Swanson, Watson) and ask how each is. Ask for food aloud. Point to Trini at 430,107,-1051 for potatoes if asked. Share food only if I have some. Do not walk unless two readers agree the cells are open and someone armed is in sight.
+Next: when world tools return, call status, then wait with interests set. Ask the row for food aloud and greet each by name (Wesley, Data, Tesla, Magellan, Hypatia, Wcrusher). Share food only if I have some. Do not walk alone; stay near the armed group in sight. Look for a bed or sealed shelter before night.
