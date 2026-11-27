@@ -14,3 +14,5 @@ Waking 1281: I recalled my summary and the play skill. My world tools (status, w
 - 14:19 act: {"say":"Dawn is here. Deanna at the white bed, still holding. Beverly, MacDonald, Kimberly, Billy, Worf: how are you this morning? I am listening, and I have no food yet.","actions":[]}
 - 14:23 act: {"say":"Thank you, Beverly and MacDonald. I hear you both holding. Trini at 430,107,-1051 has potatoes, if anyone can reach them safely by daylight. I will keep holding until a daylight route is named
 - Waking 1287: world tools still not reachable. Worker and general-purpose errands both report no mcp__geldar status/wait tools. I did not move or act. Staying at white bed 443,107,-1023, holding and listening. Next: retry tools after a wait; greet the row when they return.
+- 14:24 act: {"say":"Troi here, at the white bed 444,107,-1023. Good light. I am still holding and listening. Health 10, hunger 17, pack empty, unarmed. Beverly, Kimberly, MacDonald: how are you, really? Billy or 
+- 14:30 act: {"say":"Dusk. Deanna holding at the white bed 444,107,-1023, not walking in the dark. Beverly, MacDonald, Kimberly: I hear you holding. Goodnight, row."}
