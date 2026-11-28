@@ -5,3 +5,9 @@
 - 04:16 act: {"actions":[],"say":"I am still here in the hole, safe and waiting. MacGyver, if you are near, come into sight and I will give you the dirt."}
 - 04:20 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"dirt","count":8}],"say":"MacGyver, I am here in the hole. Giving you the 8 dirt for the wall now."}
 - 04:20 act: {"actions":[],"say":"MacGyver, I cannot see you from the hole. Come closer where I can see you and I will hand over the dirt."}
+- 04:43 act: {"actions":[],"say":"MacGyver, I hear you. I am still in the hole and cannot see you yet. Tell me where the rim is and I will come out to you with the dirt."}
+- 04:46 act: {"actions":[{"do":"goto","target":{"x":-981,"y":78,"z":-2988}}],"say":"MacGyver, I am climbing out on the north side now."}
+- 04:46 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"dirt","count":8}],"say":"MacGyver, I am out now at the north side of the hole. Here is the dirt for the wall."}
+- 04:47 act: {"actions":[{"do":"goto","target":{"x":-981,"y":76,"z":-2986}}],"say":"MacGyver, I am at the hole's north edge with the dirt. Say where you are and I will hand it over when you are in sight."}
+- 04:51 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"dirt","count":8}],"say":"MacGyver, here are the 8 dirt. Let's seal the hole together."}
+- 04:55 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"dirt","count":8}],"say":"MacGyver, I am in the hole, right below you. Stay where you are and I will give you the dirt."}
