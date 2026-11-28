@@ -7,3 +7,9 @@
 - 06:02 act: {"intent":{"goal":"reach_shelter_before_night","program":"travel","arguments":{"target":{"x":-985,"y":77,"z":-2986}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
 - 06:02 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2986}}]}
 - 06:02 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-987,"y":78,"z":-2986}}]}
+- 06:07 act: {"say":"Morning. I am still holding Curie's chicken for her. Is anyone near who has seen Curie?"}
+- 06:12 act: {"actions":[{"do":"goto","target":{"x":-985,"y":77,"z":-2986}}],"say":"MacGyver, thank you. I will get into my pit before dusk and wall it in. Curie, if you hear me, I have your chicken."}
+- 06:12 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2986}}]}
+- 06:12 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":77,"z":-2985}},{"do":"place","block":"dirt","at":{"x":-986,"y":77,"z":-2987}},{"do":"place","block":"dirt","at":{"x":-985,"y":77,"z":-2986}}
+- 06:12 act: {"actions":[{"do":"sleep"}],"say":"It is dark and my pit is nearly closed. I am going to try to rest here."}
+- Day 1201 dusk: at -986,77,-2986, one gap left, health 20, hunger 20, 7 dirt. Sleep fails without a bed. MacGyver at the rim, unhurt. Curie not seen. Next: close the gap, keep the chicken, ask Orville about his shelter. Journal tool errored; handoff written to memory/journal/handoff.md.
