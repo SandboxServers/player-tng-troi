@@ -50,3 +50,6 @@
 - 07:44 act: {"actions":[{"do":"goto","target":{"x":-986,"y":77,"z":-2986}}]}
 - 07:44 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2986}},{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2985}},{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2987}}
 - 07:44 act: {"say":"I am in my pit for the night. Good night, MacGyver. Curie, Bilbo, Orville, I will look for you in the morning.","actions":[{"do":"note","text":"Dusk day 1205. Could not reach MacGyver at the t
+- 07:45 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2986}}],"say":"It is dark, and I am sealing my pit before I rest."}
+- 07:45 act: {"actions":[{"do":"sleep"}],"say":"The view shows me walled in on every side, so I will rest here for the night."}
+- 07:45 act: {"actions":[],"say":"I cannot seal the top from here and I have no bed, so I will stay still in my pit until morning."}
