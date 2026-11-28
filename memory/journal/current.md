@@ -16,3 +16,10 @@
 - 05:16 act: {"say":"MacGyver, it's daylight. I'm climbing out of the hole now and will come to you with the 8 dirt.","actions":[{"do":"goto","target":"ag_macgyver_01"}]}
 - 05:16 act: {"actions":[{"do":"goto","target":{"x":-981,"y":78,"z":-2989}}]}
 - 05:19 act: {"say":"MacGyver, I'm out on the stone north of the hole at -981,78,-2987, with the 8 dirt still in hand. If you want it, come into sight and I'll hand it over."}
+- 05:28 act: {"say":"Hello, is anyone near? I'm on the stone north of the old hole, health 20. I still hold 8 dirt for MacGyver and a chicken for Curie. I need a bed or a sealed shelter before night."}
+- 05:32 act: {"actions":[{"do":"goto","target":{"x":-982,"y":78,"z":-2985}}],"say":"MacGyver, I'm coming to you now, in daylight. How is your hunger, and are you hurt?"}
+- 05:32 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"dirt","count":8}],"say":"MacGyver, I'm in reach now. I'm holding 8 dirt for you as I promised. Do you still want it to close a shelter? How are y
+- 05:32 act: {"say":"Here is your 8 dirt, MacGyver. I'm glad you are well. Let's keep close in daylight and find a bed or seal a shelter before dark."}
+- 05:36 say: {"text":"MacGyver, I have no blocks left. I'll mine some dirt nearby and seal a small shelter close to yours before dusk. Tell me if you see me go out of sight."}
+- 05:36 act: {"actions":[{"do":"mine","block":"dirt","count":16}]}
+- 05:37 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-991,"y":73,"z":-2987}},{"do":"place","block":"dirt","at":{"x":-993,"y":73,"z":-2987}},{"do":"place","block":"dirt","at":{"x":-992,"y":73,"z":-2986}}
