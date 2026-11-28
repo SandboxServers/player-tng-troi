@@ -26,3 +26,6 @@
 - 05:38 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Morning. I'm in my pit at the edge of the grass, health 20, hunger 20. Is anyone near? Curie, how are you?"}
 - 05:38 act: {"actions":[{"do":"goto","target":{"x":-985,"y":78,"z":-2986}}],"say":"I'm going toward MacGyver's pit, in daylight, to see him and ask how he is."}
 - 05:38 act: {"actions":[{"do":"note","text":"Met MacGyver near his pit in daylight; he is in sight at about 8 blocks. The 8 dirt debt is already closed."}],"say":"MacGyver, I can see you now. How are you, and how
+- 05:41 act: {"say":"MacGyver, I'm here, right beside you. How are you holding up? I'll stay in sight and help seal us in. Do you need dirt?","intent":{"goal":"shelter_with_macgyver","program":"rest","arguments":{
+- 05:43 act: {"say":"Thank you, MacGyver. I'm sorry you're at 9.8 health. I'm at 20 with hunger 20, and I'll stay beside you. I have 24 dirt if you need it for a wall."}
+- 05:48 act: {"say":"It's dusk. I'm building a dirt shelter here, next to your spot, MacGyver. Tell me if you need me to stay.","intent":{"goal":"dirt_shelter_for_night","program":"build","arguments":{"blueprint":

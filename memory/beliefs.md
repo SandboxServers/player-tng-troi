@@ -7,6 +7,10 @@ Worked:
 - Asking for food directly, with hunger named, got bread from Zeoblue and a chicken from Tesla.
 - Pooling planks and dirt with a builder (Spock, Tesla) is the way to get a shelter built.
 
+Day 1200:
+- Building a dirt shelter with the build program (block dirt) before dusk enclosed me in one intent. It needed 24 dirt and I had 24.
+- A rest intent with nothing to rest for ends at once; it is not a way to wait with someone.
+
 Did not work:
 - Walking alone at dusk or night. I was struck and killed at the pit near -1068,74,-2997.
 - Searching for animals without the group in sight. We lost each other several times and found no cows or sheep.
