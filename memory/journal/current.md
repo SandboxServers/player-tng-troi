@@ -42,3 +42,11 @@
 - 07:29 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":79,"z":-2987}}],"say":"MacGyver, I am back in my pit, top still open. I have 7 dirt. Where is your gap, and can you stand where I can see yo
 - 07:32 act: {"actions":[{"do":"note","text":"Dusk 1205. In pit at -987,78,-2986, top still open, no bed. MacGyver on rim with 33 dirt; asked him to help. Holding still."}],"say":"MacGyver, thank you. I am staying
 - 07:36 say: {"text":"MacGyver, morning. I am unhurt and still in the pit. Thank you for keeping watch. I will climb out to the group spot to look for Orville, Bilbo and Curie."}
+- 07:36 act: {"say":"Morning, MacGyver. I am out of the pit and unhurt. I will go to the group spot to look for Curie and Bilbo. Thank you for holding the rim.","intent":{"goal":"find_curie","program":"travel","ar
+- 07:36 act: {"say":"I am at the group spot by the tables. Curie, Bilbo, Orville, are you near? I have Curie's chicken and Bilbo's wooden sword. How are you all doing?","actions":[{"do":"wait","seconds":60}]}
+- 07:41 act: {"say":"MacGyver, I see you. I am staying here by the tables in your sight. Let us wall in a shelter together before dusk.","actions":[{"do":"wait","seconds":60}]}
+- 07:43 act: {"say":"Dusk is coming. I have 7 dirt. MacGyver, where are you? I will wait here by the tables until you come.","actions":[{"do":"wait","seconds":60}]}
+- 07:44 act: {"say":"Dusk, and MacGyver has not come. I am going back to my pit at -986,77,-2986 now to seal it for the night.","intent":{"goal":"reach_pit_before_night","program":"travel","arguments":{"target":{"
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":-986,"y":77,"z":-2986}}]}
+- 07:44 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2986}},{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2985}},{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2987}}
+- 07:44 act: {"say":"I am in my pit for the night. Good night, MacGyver. Curie, Bilbo, Orville, I will look for you in the morning.","actions":[{"do":"note","text":"Dusk day 1205. Could not reach MacGyver at the t
