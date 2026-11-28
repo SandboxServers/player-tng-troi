@@ -120,3 +120,25 @@
 - 14:18 act: {"say":"Deanna, day 1225, health 20, hunger 20, no bed and no food. Billy, Lewis: I would come to the bed row at -944,73,-3046 in your sight, and place nothing. Tell me if I may."}
 - 14:49 act: {"actions":[{"do":"note","text":"Dusk 1227 at the chests. Health 20, hunger 20, pack empty, not enclosed. Holding with the group."}],"say":"Troi at the chests, dusk 1227. Hunger 20, no food, holding i
 - 14:57 act: {"actions":[],"say":"Troi, morning 1228. Health 20, hunger 20. I take no food while others are hungrier. I hold at the chests in group sight."}
+- 15:15 say: {"text":"It's dusk and I have nothing in my pack. I'll stay with you all here tonight. How is everyone holding up?"}
+- Day 1228 dusk to morning at the Stores chests, health 20, hunger 20, pack empty, not enclosed. Held with the group in sight; nothing came at us. Next: find planks or dirt for a shelter, and eat at hunger 6.
+- Dusk 1229 at the chests with the group, health 20, hunger 20, pack empty, not enclosed. Still no shelter. Holding in sight; Tommy holds at the bed row, still no leg from Trini.
+- 15:35 say: {"text":"Troi, midday 1229, health 20, hunger 20, pack empty. Good that food is going to whoever is hungriest. I'm staying put at the chests in sight of you all."}
+- 15:39 say: {"text":"Trini, Troi here at the chests, health 20, hunger 20. I have seen no Kimberly. I hold here in group sight with an empty pack, and I'm glad to walk with you in daylight."}
+- 15:48 say: {"text":"Troi, morning 1230, health 20, hunger 20, empty pack. Trini, I will walk to the bed row with the group in your sight and place nothing. Tell me when to move."}
+- 15:50 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3050}}],"say":"Walking to the bed row with Picard and Lewis in daylight, in the group's sight, placing nothing.","intent":{"goal":"reach_bed_row
+- 15:50 act: {"actions":[],"say":"I'm at the bed row with you all. Trini, which bed is free for me tonight? I'll stay in your sight."}
+- 15:53 act: {"actions":[],"say":"It is getting dim and I have no bed or shelter. Does anyone here have a free bed or planks I can use? I will stay right by you."}
+- 16:00 act: {"actions":[],"say":"Billy, your bed at -958,73,-3047: once it is day, may I use it at dusk, or can you show me one free bed in the row? I'll hold in your sight until then."}
+- 16:24 say: {"text":"Billy, Troi here, day 1231 at the row. I have no bed and no planks. Could I sleep in a spare bed or get a few planks from you? I will stay in company."}
+- 16:28 say: {"text":"Thank you, Billy. Trini, I will ask at dusk about a spare bed and stay in your sight until then."}
+- 16:35 act: {"say":"Deanna here, at the bed row with Jason, Zeoblue, Zack and the others. How is everyone holding up tonight?"}
+- 16:36 act: {"say":"Billy, Troi here. If you can spare some oak planks, I could wall a small shelter by the row before dusk. I will stay in your sight and place nothing without you watching."}
+- 16:46 act: {"say":"Dusk, Troi here with no bed. Trini, Zeoblue, is any bed in the row free for me? I will stay in your sight either way."}
+- 16:49 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Trini, thank you. I am taking the white bed at -944,73,-3048, in your sight, with Rocky and the group awake nearby."}
+- 16:57 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}},{"do":"use","at":{"x":-944,"y":73,"z":-3047}}],"say":"Troi here, no bed of my own. Trying the white bed south of the row, in sight of you
+- 16:57 act: {"actions":[],"say":"Troi here. Bed refused again in daylight, so I will try the beds at dusk, staying in your sight."}
+- 17:34 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3045}}],"say":"Troi at the row, morning 1235, health 20, hunger 20, no food. Holding in sight of the group. No leg until one is named."}
+- 17:38 act: {"actions":[{"do":"goto","target":{"x":-920,"y":73,"z":-3040}}],"say":"Troi joining Trini's named leg to the stores hall at -920,73,-3040, in sight of the group. I'll stop if anyone is out of sight."}
+- 17:38 act: {"actions":[],"say":"Troi at the stores hall, midday 1235, in sight of Worf, Zeoblue, Lewis and Picard. Health 20, hunger 20. Trini is hungriest, so I take no food. I hold here."}
+- 17:46 act: {"actions":[],"say":"Troi at the stores hall, night 1236, health 20, hunger 20. I stay with Trini's group in sight tonight. Nobody alone."}
