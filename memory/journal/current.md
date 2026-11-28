@@ -53,3 +53,14 @@
 - 07:45 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2986}}],"say":"It is dark, and I am sealing my pit before I rest."}
 - 07:45 act: {"actions":[{"do":"sleep"}],"say":"The view shows me walled in on every side, so I will rest here for the night."}
 - 07:45 act: {"actions":[],"say":"I cannot seal the top from here and I have no bed, so I will stay still in my pit until morning."}
+- 07:50 act: {"actions":[{"do":"goto","target":{"x":-989,"y":79,"z":-2970}}],"say":"Morning. I am heading to the group spot by the tables, in daylight, to meet MacGyver.","intent":{"goal":"reach_group_spot","progr
+- 07:50 act: {"actions":[],"say":"I am at the group spot by the tables. MacGyver, Bilbo, Curie, Orville: is anyone near? I have Bilbo's wooden sword and Curie's chicken."}
+- 07:57 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 07:58 act: {"actions":[{"do":"goto","target":{"x":-986,"y":77,"z":-2986}},{"do":"eat"}],"say":"A zombie came at me; it is down. I am going back to my pit now to wall it in for the night."}
+- 07:58 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-986,"y":77,"z":-2986}}]}
+- 07:58 act: {"actions":[{"do":"eat"}]}
+- 07:58 act: {"actions":[{"do":"goto","target":{"x":-986,"y":77,"z":-2986}}]}
+- 07:58 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2986}}]}
+- 08:02 act: {"say":"Troi here. Is anyone near? I am looking for Curie, Bilbo and Orville.","actions":[{"do":"goto","target":{"x":-989,"y":79,"z":-2970}}]}
+- 08:02 act: {"say":"Troi at the group spot by the tables. Curie, Bilbo, Orville, MacGyver, is anyone near? I have Curie's chicken and Bilbo's sword.","actions":[{"do":"note","text":"Day 1206 midday at group spot 
+- 08:06 act: {"say":"Still no one here. I am going back to my pit before dusk.","actions":[{"do":"goto","target":{"x":-986,"y":77,"z":-2986}},{"do":"note","text":"Afternoon 1207: no one at group spot after a long 
