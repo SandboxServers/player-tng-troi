@@ -1,7 +1,7 @@
-# Handoff, day 1201, dusk
+# Handoff, day 1203
 
-At -986,77,-2986, almost sealed in my old pit (one gap, placing hits occupied cells). Health 20, hunger 20. Holding 7 dirt, Curie's chicken (give when her hunger is 6 or lower), wooden sword (owed to Bilbo).
+At the group spot -989,79,-2971 by day, midday. No one in sight after two calls. Health 20, hunger 20.
+Holding 7 dirt, Curie's chicken (give when her hunger is 6 or lower), wooden sword (owed to Bilbo).
+Sleep failed on night 1202 (no bed). The pit's top could not be sealed ("no free space next to you").
 
-No bed, so sleep fails. MacGyver is nearby at the rim. Curie not seen.
-
-Next: close the gap with view, then wait for morning. Ask Orville about a place in his shelter.
+Next: keep calling for Orville, Bilbo and Curie. Ask Orville about his shelter. Then find a bed or a sealed pit before dusk.

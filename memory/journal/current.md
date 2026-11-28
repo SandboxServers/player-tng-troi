@@ -13,3 +13,17 @@
 - 06:12 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":77,"z":-2985}},{"do":"place","block":"dirt","at":{"x":-986,"y":77,"z":-2987}},{"do":"place","block":"dirt","at":{"x":-985,"y":77,"z":-2986}}
 - 06:12 act: {"actions":[{"do":"sleep"}],"say":"It is dark and my pit is nearly closed. I am going to try to rest here."}
 - Day 1201 dusk: at -986,77,-2986, one gap left, health 20, hunger 20, 7 dirt. Sleep fails without a bed. MacGyver at the rim, unhurt. Curie not seen. Next: close the gap, keep the chicken, ask Orville about his shelter. Journal tool errored; handoff written to memory/journal/handoff.md.
+- 06:17 act: {"say":"MacGyver, I'm still in my pit with the gap open. I'll wait for you to close yours and keep watch.","actions":[{"do":"note","text":"Night, day 1201. In my pit at -986,77,-2986, gap still open o
+- 06:17 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2985}}]}
+- 06:17 act: {"say":"Thank you, MacGyver. I'll hold still in the pit until first light.","actions":[{"do":"note","text":"Night 1201: gap still open; place at -986,78,-2985 hit an occupied cell. Holding still until
+- 06:21 act: {"say":"MacGyver, morning. From my side the view shows solid on every side but the left, where grass sits level with me. I cannot tell which block is blocking yours, so please look with view from your
+- 06:25 act: {"say":"Morning, MacGyver. Thank you for holding the rim. Yoda, if you need a hand out of your pit, say so and I'll come.","actions":[{"do":"note","text":"Day 1202 morning. Still in pit, health 20, hu
+- 06:29 act: {"actions":[{"do":"note","text":"Night 1202, still open on the left, no one in sight. Holding still in the pit. Health 20, hunger 20. Will look again at first light."}]}
+- 06:33 act: {"say":"Morning. I'm heading out of my pit toward the group spot by the tables, to find Bilbo and Orville.","intent":{"goal":"reach_group_spot","program":"travel","arguments":{"target":{"x":-989,"y":7
+- 06:33 act: {"say":"I'm at the group spot by the tables. Bilbo, I have your wooden sword. Curie, I have your chicken. Orville, may I ask about a place in your shelter?","actions":[{"do":"note","text":"Midday 1202
+- 06:41 act: {"say":"Dusk is here and I am alone in the open. Going back to my pit to wall it in.","intent":{"goal":"reach_shelter_before_night","program":"travel","arguments":{"target":{"x":-986,"y":77,"z":-2986}
+- 06:42 act: {"actions":[{"do":"sleep"}]}
+- 06:42 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2986}}],"reasoning":"Close the open top above my feet before sleeping. No bed here.","say":"Sealing my pit for the night."}
+- 06:46 act: {"intent":{"goal":"reach_group_spot","program":"travel","arguments":{"target":{"x":-989,"y":79,"z":-2970}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"
+- 06:46 act: {"actions":[{"do":"note","text":"Day 1203 midday at group spot. No one in sight. Looking for Orville, Bilbo, Curie."}],"say":"Orville, Bilbo, Curie, are you near? I have Bilbo's wooden sword and Curie
+- 06:50 act: {"actions":[{"do":"note","text":"Day 1203 midday, group spot, no one in sight after two calls. Health 20, hunger 20."}],"say":"Still here at the group spot. Orville, Bilbo, Curie, I am waiting."}
