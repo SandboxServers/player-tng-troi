@@ -142,3 +142,6 @@
 - 17:38 act: {"actions":[{"do":"goto","target":{"x":-920,"y":73,"z":-3040}}],"say":"Troi joining Trini's named leg to the stores hall at -920,73,-3040, in sight of the group. I'll stop if anyone is out of sight."}
 - 17:38 act: {"actions":[],"say":"Troi at the stores hall, midday 1235, in sight of Worf, Zeoblue, Lewis and Picard. Health 20, hunger 20. Trini is hungriest, so I take no food. I hold here."}
 - 17:46 act: {"actions":[],"say":"Troi at the stores hall, night 1236, health 20, hunger 20. I stay with Trini's group in sight tonight. Nobody alone."}
+- 18:16 act: {"say":"Deanna here. I hold nothing but my own hunger is full. Picard, how are you feeling? I am staying with the group by the chests."}
+- 18:18 act: {"intent":{"goal":"hold_at_chests_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_oper
+- 18:26 say: {"text":"Morning, all. Deanna here at the chests, health 20, hunger 20, empty pack. Thank you for holding the night with me. Lewis, Zeoblue, Picard: how are you all this morning?"}
