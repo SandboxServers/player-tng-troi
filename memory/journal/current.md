@@ -23,3 +23,6 @@
 - 05:36 say: {"text":"MacGyver, I have no blocks left. I'll mine some dirt nearby and seal a small shelter close to yours before dusk. Tell me if you see me go out of sight."}
 - 05:36 act: {"actions":[{"do":"mine","block":"dirt","count":16}]}
 - 05:37 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-991,"y":73,"z":-2987}},{"do":"place","block":"dirt","at":{"x":-993,"y":73,"z":-2987}},{"do":"place","block":"dirt","at":{"x":-992,"y":73,"z":-2986}}
+- 05:38 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Morning. I'm in my pit at the edge of the grass, health 20, hunger 20. Is anyone near? Curie, how are you?"}
+- 05:38 act: {"actions":[{"do":"goto","target":{"x":-985,"y":78,"z":-2986}}],"say":"I'm going toward MacGyver's pit, in daylight, to see him and ask how he is."}
+- 05:38 act: {"actions":[{"do":"note","text":"Met MacGyver near his pit in daylight; he is in sight at about 8 blocks. The 8 dirt debt is already closed."}],"say":"MacGyver, I can see you now. How are you, and how
