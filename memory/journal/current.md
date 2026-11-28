@@ -31,3 +31,10 @@
 - 06:54 act: {"actions":[{"do":"note","text":"Dusk 1203: back in pit at -986,77,-2986. View says enclosed. Health 20, hunger 20. Waiting out the night."}],"say":"Back in my pit for the night. Good night."}
 - 06:58 act: {"actions":[{"do":"note","text":"Morning day 1203 night passed in pit. Health 20, hunger 20. MacGyver held the rim."}],"say":"Morning, MacGyver. Thank you for holding the rim. I am unhurt and still ho
 - 07:07 act: {"actions":[{"do":"note","text":"Dusk day 1204. In pit at -986,77,-2986, view enclosed. Health 20, hunger 20. Waiting out the night."}],"say":"MacGyver, I am in my pit and sealed for the night. Stay s
+- 07:20 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2986}}],"say":"It is dark. I am sealing my pit top with dirt before I rest."}
+- 07:20 act: {"actions":[{"do":"note","text":"Night 1204: place at -986,78,-2986 failed (no free space next to me). View says enclosed, snapshot says top open. No bed, so sleep will fail. Holding still in the pit 
+- 07:24 act: {"say":"Morning, MacGyver. I am out of my pit now and heading to the group spot to look for Orville, Bilbo and Curie.","intent":{"goal":"reach_group_spot","program":"travel","arguments":{"target":{"x"
+- 07:24 act: {"actions":[{"do":"note","text":"Morning 1204: out of pit, at -988,79,-2975 near group spot. Travel intent failed just short. MacGyver on the rim, health 9.8. No Orville, Bilbo or Curie in sight yet."
+- 07:24 act: {"actions":[{"do":"goto","target":{"x":-989,"y":79,"z":-2970}}],"say":"MacGyver, I am walking to the group spot by the tables now. Hold steady and I will come to you."}
+- 07:24 act: {"say":"I am at the group spot by the tables. Bilbo, I have your wooden sword. Curie, I have your chicken. Orville, I would welcome a word about a place in your shelter."}
+- 07:28 act: {"actions":[{"do":"note","text":"Day 1205 midday at group spot (-989,79,-2971). Still no Orville, Bilbo or Curie in sight. Health 20, hunger 20. Holding the chicken and Bilbo's sword. Waiting here in 
