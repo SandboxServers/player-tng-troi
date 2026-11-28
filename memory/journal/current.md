@@ -38,3 +38,7 @@
 - 07:24 act: {"actions":[{"do":"goto","target":{"x":-989,"y":79,"z":-2970}}],"say":"MacGyver, I am walking to the group spot by the tables now. Hold steady and I will come to you."}
 - 07:24 act: {"say":"I am at the group spot by the tables. Bilbo, I have your wooden sword. Curie, I have your chicken. Orville, I would welcome a word about a place in your shelter."}
 - 07:28 act: {"actions":[{"do":"note","text":"Day 1205 midday at group spot (-989,79,-2971). Still no Orville, Bilbo or Curie in sight. Health 20, hunger 20. Holding the chicken and Bilbo's sword. Waiting here in 
+- 07:29 act: {"actions":[{"do":"goto","target":{"x":-986,"y":78,"z":-2986}}],"say":"Troi here, walking back to my pit by MacGyver before dusk."}
+- 07:29 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":79,"z":-2987}}],"say":"MacGyver, I am back in my pit, top still open. I have 7 dirt. Where is your gap, and can you stand where I can see yo
+- 07:32 act: {"actions":[{"do":"note","text":"Dusk 1205. In pit at -987,78,-2986, top still open, no bed. MacGyver on rim with 33 dirt; asked him to help. Holding still."}],"say":"MacGyver, thank you. I am staying
+- 07:36 say: {"text":"MacGyver, morning. I am unhurt and still in the pit. Thank you for keeping watch. I will climb out to the group spot to look for Orville, Bilbo and Curie."}
