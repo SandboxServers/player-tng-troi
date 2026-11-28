@@ -68,3 +68,50 @@
 - 08:12 act: {"actions":[],"say":"Morning, all. I am in my pit, enclosed, and safe for now. Curie, Bilbo, Orville, MacGyver: I am looking for you. Call out if you are near."}
 - 08:25 act: {"actions":[{"do":"goto","target":{"x":-989,"y":79,"z":-2970}}],"say":"Morning, all. Troi heading to the group spot by the tables, in daylight. Curie, Bilbo, Orville, MacGyver: call out if you are nea
 - 08:29 act: {"actions":[{"do":"goto","target":{"x":-986,"y":77,"z":-2986}}],"say":"Still no one at the group spot. I am going back to my pit before dusk."}
+- 08:50 act: {"say":"Morning. I am heading to the group spot by the tables to find Curie, Bilbo and Orville. Anyone near, please answer.","intent":{"goal":"reach_group_spot","program":"travel","arguments":{"target
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":-981,"y":79,"z":-2980}}],"intent":{"goal":"flee_creeper_to_table","program":"flee","arguments":{"from":{"x":-990,"y":80,"z":-2970},"distance":12},"wake_on":["goa
+- 08:50 act: {"actions":[{"do":"wait","seconds":20}]}
+- Day 1209 morning: walked to group spot, a creeper attacked and exploded. Fled to the crafting table. Health 13.5, hunger 17. Still no Curie, Bilbo or Orville in sight. Next: recover, eat if hunger drops to 6, then search again.
+- 08:59 act: {"say":"Dusk is coming. I am going to MacGyver's stone hole to shelter for the night, if he is there. MacGyver, are you near?","actions":[{"do":"goto","target":{"x":-981,"y":77,"z":-2986}}],"intent":{
+- 08:59 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-981,"y":77,"z":-2985}},{"do":"place","block":"dirt","at":{"x":-981,"y":78,"z":-2985}}]}
+- 09:01 say: {"text":"I am staying still at MacGyver's hole for the night. If anyone is near, please call out."}
+- 09:05 act: {"actions":[{"do":"goto","target":{"x":-989,"y":79,"z":-2970}}],"say":"Morning. Troi heading to the group spot by the tables. Curie, Bilbo, Orville, MacGyver: call out if you are near.","intent":{"goa
+- 09:05 act: {"actions":[],"say":"Troi at the group spot by the tables. Curie, Bilbo, Orville, MacGyver, is anyone near? I have Curie's chicken and Bilbo's wooden sword."}
+- 09:13 act: {"actions":[],"say":"Huck, I heard you are heading back to the group. I am here by the tables with Curie's chicken. Dusk is here and I have no shelter yet; I will stay still by the tables."}
+- 09:21 act: {"actions":[],"say":"Huck, Sam, I am at the group tables, Troi. I have Curie's chicken and Bilbo's wooden sword. Come by if you are near."}
+- 09:33 act: {"actions":[{"do":"goto","target":{"x":-995,"y":84,"z":-2969}}],"say":"Huck, Sam, Troi coming toward the oak at -998,88,-2969 in daylight. I have Bilbo's wooden sword and Curie's chicken, and I would 
+- 09:33 act: {"actions":[],"say":"Huck, Sam, I am here at the oak edge, Troi. Where are you? I have Curie's chicken and Bilbo's sword."}
+- 09:40 act: {"actions":[],"say":"Huck, I see you. Sam, I am at the oak edge, -995,83,-2969. I will hold still here with you. Do either of you have a bed or a sealed shelter I can use tonight?"}
+- 09:48 act: {"actions":[],"say":"Huck, Sam, thank you. I have no logs or planks, but I will stay near you. Huck, when your shelter is walled, may I come in with you for the night? I can give you my wooden sword o
+- 09:56 act: {"actions":[],"say":"Huck, Sam, morning. I survived the night still in sight, health 13.5. I do not know another oak tree, only the one near here. I will walk with you in daylight to look for oak if y
+- 10:00 act: {"actions":[{"do":"goto","target":{"x":-996,"y":84,"z":-2970}}],"say":"Going with you to the oak, Huck, in your sight."}
+- 10:01 act: {"actions":[{"do":"goto","target":{"x":-995,"y":83,"z":-2969}}]}
+- 10:13 act: {"actions":[],"say":"Huck, the oak log I saw is at -998,89,-2969, up in the leaves, and one more 7 west of me. Sam, I see Huck from here. Stay in sight."}
+- 10:22 act: {"actions":[{"do":"goto","target":{"x":-989,"y":78,"z":-2971}}],"say":"I was hurt by something exploding. Mobs are close to the west. I am moving back to the group tables.","intent":{"goal":"return_to
+- 10:22 act: {"actions":[],"say":"Huck, I am at the group tables now, not hurt beyond health 8. Something exploded near me to the west, in the dark. Stay where you are until it is clear."}
+- 10:34 act: {"actions":[],"say":"Huck, the night passed quietly here and I took no more harm. Is your shelter walled yet? I would like a place inside it, and I can help carry."}
+- 10:50 act: {"actions":[{"do":"goto","target":{"x":-997,"y":79,"z":-2970}}],"say":"Huck, I am coming to you now. Stay still.","intent":{"goal":"reach_huck","program":"travel","arguments":{"target":{"x":-997,"y":7
+- 10:50 act: {"actions":[],"say":"Huck, I am with you now, 4 blocks away, in sight. Tell me what hit you and where, and I will stay here beside you."}
+- 10:54 act: {"actions":[{"do":"goto","target":{"x":-999,"y":79,"z":-2970}},{"do":"give","to":"ag_huck_01","item":"rotten_flesh","count":2}],"say":"Huck, I have 2 rotten flesh. I am giving them to you now. It is n
+- 10:58 act: {"actions":[{"do":"goto","target":{"x":-1004,"y":78,"z":-2971}}],"say":"Huck, I am following you west, out of the skeleton's line."}
+- 10:58 act: {"actions":[{"do":"goto","target":{"x":-1010,"y":78,"z":-2973}}],"say":"I am hit, health 2.6. Moving west out of the arrows. Huck, where are you?","intent":{"goal":"escape_arrows","program":"travel","
+- 10:59 act: {"say":"Health 2.6. I am staying in this plank corner, mostly walled in. Huck, stay close.","actions":[]}
+- 10:59 act: {"say":"I died to an arrow and woke at spawn with nothing. My things lie at -1007,78,-2974, near the skeleton. Huck, I am with you. I will not go back in the dark.","actions":[{"do":"note","text":"Nig
+- 11:03 act: {"say":"Troi here, health 20, no food, no tools. I join the Stores hall walk in daylight, in sight of the group. I will stay behind Lizzie with Huck.","actions":[{"do":"note","text":"Morning 1216. Res
+- 11:04 act: {"actions":[{"do":"open","at":{"x":-920,"y":71,"z":-3040}}]}
+- 11:04 act: {"actions":[{"do":"withdraw","at":{"x":-920,"y":71,"z":-3040},"item":"cooked_porkchop","count":4}],"say":"Opened the chest. Taking some cooked pork for later."}
+- 11:04 act: {"actions":[{"do":"open","at":{"x":-919,"y":71,"z":-3040}}]}
+- 11:04 act: {"actions":[{"do":"withdraw","at":{"x":-919,"y":71,"z":-3040},"item":"cooked_porkchop","count":2}]}
+- 11:04 act: {"actions":[{"do":"open","at":{"x":-918,"y":71,"z":-3040}}],"say":"Still at the Stores hall. Checking the chests for food, then the group and I will go for my things in daylight."}
+- 11:04 act: {"actions":[{"do":"withdraw","at":{"x":-918,"y":71,"z":-3040},"item":"cooked_porkchop","count":3}]}
+- 12:01 say: {"text":"Troi, morning 1219, health 20, hunger 20, empty pack. I hold no food and no planks. If anyone calls a cow or pig with x,y,z, I will walk with the group, armed with nothing but my hands. I am 
+- 12:46 say: {"text":"Troi, morning 1221, health 20, hunger 20, empty-handed. My dropped items lie near -1007,78,-2974: Curie's chicken and Bilbo's wooden sword among them. I will walk there in daylight only with 
+- 12:50 say: {"text":"Troi: thank you, Eowyn and Huck. I will not walk without two armed people in sight. Who else is armed and will come? Name yourself and call when you start."}
+- 13:06 say: {"text":"Troi, afternoon 1222. Armed here with wooden swords: Reynolds, Samwise, Janeway, Picard. Huck, Reynolds or Samwise, if you walk with me to my items at -1007,78,-2974 in daylight, I go now. I 
+- 13:13 say: {"text":"Deanna, morning 1223. Health 20, hunger 20, pack empty. I'm staying at the chests in sight of the group. Who will walk with me to my dropped things at -1007,78,-2974 in daylight?"}
+- 13:15 act: {"intent":{"goal":"walk_with_huck","program":"follow","arguments":{"target":"ag_huck_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"max_wor
+- 13:15 act: {"actions":[{"do":"goto","target":{"x":-1007,"y":78,"z":-2974}}],"say":"Walking with Huck and the group to -1007,78,-2974. Staying in sight."}
+- 13:16 act: {"actions":[{"do":"goto","target":{"x":-1007,"y":78,"z":-2974}}]}
+- 13:16 act: {"actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3040}}],"say":"Nothing of mine is left at the drop site. Heading back to the Stores hall with the group."}
+- 13:17 say: {"text":"Back at the Stores hall with the group. I have no planks or dirt. Does anyone have room in a walled shelter for me tonight? I will help carry and hold the rim."}
+- 13:29 say: {"text":"Troi, morning 1223. Hunger 20, so I hold here at the chests. I still have no shelter. If anyone names a cell and two of you confirm it, I will hold the rim or carry for you."}
