@@ -64,3 +64,5 @@
 - 08:02 act: {"say":"Troi here. Is anyone near? I am looking for Curie, Bilbo and Orville.","actions":[{"do":"goto","target":{"x":-989,"y":79,"z":-2970}}]}
 - 08:02 act: {"say":"Troi at the group spot by the tables. Curie, Bilbo, Orville, MacGyver, is anyone near? I have Curie's chicken and Bilbo's sword.","actions":[{"do":"note","text":"Day 1206 midday at group spot 
 - 08:06 act: {"say":"Still no one here. I am going back to my pit before dusk.","actions":[{"do":"goto","target":{"x":-986,"y":77,"z":-2986}},{"do":"note","text":"Afternoon 1207: no one at group spot after a long 
+- 08:11 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-986,"y":78,"z":-2986}}],"say":"Morning. I am in my pit, hunger 17, health 17. I am trying to seal the top with my dirt. Curie, Bilbo, Orville: if yo
+- 08:12 act: {"actions":[],"say":"Morning, all. I am in my pit, enclosed, and safe for now. Curie, Bilbo, Orville, MacGyver: I am looking for you. Call out if you are near."}
