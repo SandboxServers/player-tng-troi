@@ -27,3 +27,6 @@
 - 06:46 act: {"intent":{"goal":"reach_group_spot","program":"travel","arguments":{"target":{"x":-989,"y":79,"z":-2970}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"
 - 06:46 act: {"actions":[{"do":"note","text":"Day 1203 midday at group spot. No one in sight. Looking for Orville, Bilbo, Curie."}],"say":"Orville, Bilbo, Curie, are you near? I have Bilbo's wooden sword and Curie
 - 06:50 act: {"actions":[{"do":"note","text":"Day 1203 midday, group spot, no one in sight after two calls. Health 20, hunger 20."}],"say":"Still here at the group spot. Orville, Bilbo, Curie, I am waiting."}
+- 06:54 act: {"intent":{"goal":"reach_shelter_before_night","program":"travel","arguments":{"target":{"x":-986,"y":77,"z":-2986}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_
+- 06:54 act: {"actions":[{"do":"note","text":"Dusk 1203: back in pit at -986,77,-2986. View says enclosed. Health 20, hunger 20. Waiting out the night."}],"say":"Back in my pit for the night. Good night."}
+- 06:58 act: {"actions":[{"do":"note","text":"Morning day 1203 night passed in pit. Health 20, hunger 20. MacGyver held the rim."}],"say":"Morning, MacGyver. Thank you for holding the rim. I am unhurt and still ho
