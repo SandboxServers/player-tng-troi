@@ -11,3 +11,8 @@
 - 04:47 act: {"actions":[{"do":"goto","target":{"x":-981,"y":76,"z":-2986}}],"say":"MacGyver, I am at the hole's north edge with the dirt. Say where you are and I will hand it over when you are in sight."}
 - 04:51 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"dirt","count":8}],"say":"MacGyver, here are the 8 dirt. Let's seal the hole together."}
 - 04:55 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"dirt","count":8}],"say":"MacGyver, I am in the hole, right below you. Stay where you are and I will give you the dirt."}
+- 05:11 act: {"say":"Nobody is in sight, so I am bedding down in this hole for the night. MacGyver, when you are near, I have the 8 dirt for you."}
+- 05:11 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"dirt","count":8}]}
+- 05:16 act: {"say":"MacGyver, it's daylight. I'm climbing out of the hole now and will come to you with the 8 dirt.","actions":[{"do":"goto","target":"ag_macgyver_01"}]}
+- 05:16 act: {"actions":[{"do":"goto","target":{"x":-981,"y":78,"z":-2989}}]}
+- 05:19 act: {"say":"MacGyver, I'm out on the stone north of the hole at -981,78,-2987, with the 8 dirt still in hand. If you want it, come into sight and I'll hand it over."}
