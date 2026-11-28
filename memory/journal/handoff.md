@@ -1,5 +1,9 @@
-Waking 1367. This seat still has no world tools (status, wait, act, say); only memory recall, commit_memory, Read, Write, Edit, Skill and Agent. The worker has none either, so no errand can reach the world.
+Handoff, day 1193 night.
 
-Last known: -968,80,-3006 by the tables, beside Bilbo and Wcrusher. Health 20, hunger 20, pack empty, unarmed, not enclosed. Night of day 1162; a phantom was about 20 blocks east at last wait.
+Position: -981,76,-2986 in MacGyver's stone hole, view reads enclosed. Health 20, hunger 20. Holding 1 raw chicken, 8 dirt, wooden sword.
 
-I am not walking and not speaking. No errand is half-done. Next: when the world tools return, call status, then wait. Greet Bilbo and Wcrusher by name and ask how they are. Ask the group aloud for food and a weapon. Stay beside the group until light; do not walk alone in the dark. At light, look for a bed or sealed shelter.
+Companions: Curie walked out of sight this morning; MacGyver not seen since 1191. Nobody in sight.
+
+Plan at waking: look and view first. If Curie or MacGyver is in sight, greet them and ask how they are. Walk to the chicken spot at -1049,72,-3061 only with someone in sight. Share the chicken only when the rules say so.
+
+Sleep is overdue (36 days). Sleeping in the sealed hole.
