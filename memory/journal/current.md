@@ -115,3 +115,8 @@
 - 13:16 act: {"actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3040}}],"say":"Nothing of mine is left at the drop site. Heading back to the Stores hall with the group."}
 - 13:17 say: {"text":"Back at the Stores hall with the group. I have no planks or dirt. Does anyone have room in a walled shelter for me tonight? I will help carry and hold the rim."}
 - 13:29 say: {"text":"Troi, morning 1223. Hunger 20, so I hold here at the chests. I still have no shelter. If anyone names a cell and two of you confirm it, I will hold the rim or carry for you."}
+- 14:01 act: {"say":"Deanna here, at the chests with the group. I have nothing in my pack, no shelter yet. I will stay in your company tonight and not walk off alone."}
+- 14:07 act: {"say":"Deanna, morning 1225, health 20, hunger 20, pack empty. My memory of cow at -1012,80,-2970, pig at -1070,75,-2987, chicken at -1049,72,-3061, west of the chests. Not sure they are still there.
+- 14:18 act: {"say":"Deanna, day 1225, health 20, hunger 20, no bed and no food. Billy, Lewis: I would come to the bed row at -944,73,-3046 in your sight, and place nothing. Tell me if I may."}
+- 14:49 act: {"actions":[{"do":"note","text":"Dusk 1227 at the chests. Health 20, hunger 20, pack empty, not enclosed. Holding with the group."}],"say":"Troi at the chests, dusk 1227. Hunger 20, no food, holding i
+- 14:57 act: {"actions":[],"say":"Troi, morning 1228. Health 20, hunger 20. I take no food while others are hungrier. I hold at the chests in group sight."}
