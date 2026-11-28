@@ -30,3 +30,4 @@
 - 06:54 act: {"intent":{"goal":"reach_shelter_before_night","program":"travel","arguments":{"target":{"x":-986,"y":77,"z":-2986}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_
 - 06:54 act: {"actions":[{"do":"note","text":"Dusk 1203: back in pit at -986,77,-2986. View says enclosed. Health 20, hunger 20. Waiting out the night."}],"say":"Back in my pit for the night. Good night."}
 - 06:58 act: {"actions":[{"do":"note","text":"Morning day 1203 night passed in pit. Health 20, hunger 20. MacGyver held the rim."}],"say":"Morning, MacGyver. Thank you for holding the rim. I am unhurt and still ho
+- 07:07 act: {"actions":[{"do":"note","text":"Dusk day 1204. In pit at -986,77,-2986, view enclosed. Health 20, hunger 20. Waiting out the night."}],"say":"MacGyver, I am in my pit and sealed for the night. Stay s
